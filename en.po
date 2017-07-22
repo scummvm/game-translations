@@ -8,121 +8,123 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2017-07-22 19:23+0000\n"
+"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.9\n"
 
 #: ../../ms2/ms2.c:1641
 msgid "Gehe"
-msgstr ""
+msgstr "Go"
 
 #: ../../ms2/ms2.c:1641
 msgid "Schau"
-msgstr ""
+msgstr "Look"
 
 #: ../../ms2/ms2.c:1641
 msgid "Nimm"
-msgstr ""
+msgstr "Take"
 
 #: ../../ms2/ms2.c:1641
 msgid "Öffne"
-msgstr ""
+msgstr "Open"
 
 #: ../../ms2/ms2.c:1641
 msgid "Schließe"
-msgstr ""
+msgstr "Close"
 
 #: ../../ms2/ms2.c:1642
 msgid "Drücke"
-msgstr ""
+msgstr "Press"
 
 #: ../../ms2/ms2.c:1642
 msgid "Ziehe"
-msgstr ""
+msgstr "Pull"
 
 #: ../../ms2/ms2.c:1642
 msgid "Benutze"
-msgstr ""
+msgstr "Use"
 
 #: ../../ms2/ms2.c:1642
 msgid "Rede"
-msgstr ""
+msgstr "Talk"
 
 #: ../../ms2/ms2.c:1642
 msgid "Gib"
-msgstr ""
+msgstr "Give"
 
 #: ../../ms2/ms2.c:2199
 msgid "Gespräch beenden"
-msgstr ""
+msgstr "End of conversation"
 
 #: ../../ms2/ms2.c:2333
 msgid "Gehe zu "
-msgstr ""
+msgstr "Go to "
 
 #: ../../ms2/ms2.c:2333
 msgid "Schau "
-msgstr ""
+msgstr "Look at "
 
 #: ../../ms2/ms2.c:2333
 msgid "Nimm "
-msgstr ""
+msgstr "Take "
 
 #: ../../ms2/ms2.c:2333
 msgid "Öffne "
-msgstr ""
+msgstr "Open "
 
 #: ../../ms2/ms2.c:2333
 msgid "Schließe "
-msgstr ""
+msgstr "Close "
 
 #: ../../ms2/ms2.c:2334
 msgid "Drücke "
-msgstr ""
+msgstr "Press "
 
 #: ../../ms2/ms2.c:2334
 msgid "Ziehe "
-msgstr ""
+msgstr "Pull "
 
 #: ../../ms2/ms2.c:2334
 msgid "Benutze "
-msgstr ""
+msgstr "Use "
 
 #: ../../ms2/ms2.c:2334
 msgid "Rede mit "
-msgstr ""
+msgstr "Talk to "
 
 #: ../../ms2/ms2.c:2334
 msgid "Gib "
-msgstr ""
+msgstr "Give "
 
 #: ../../ms2/ms2.c:2344
 msgid " an "
-msgstr ""
+msgstr " to "
 
 #: ../../ms2/ms2.c:2345
 msgid " mit "
-msgstr ""
+msgstr " with "
 
 #: ../../ms2/ms2.c:2903
 msgid "Laden"
-msgstr ""
+msgstr "Load"
 
 #: ../../ms2/ms2.c:2905
 msgid "Speichern"
-msgstr ""
+msgstr "Save"
 
 #: ../../ms2/ms2.c:2907
 msgid "Zurück"
-msgstr ""
+msgstr "Back"
 
 #: ../../ms2/ms2.c:2909
 msgid "Neustart"
-msgstr ""
+msgstr "Restart"
 
 #: ../../ms2/ms2.c:3002
 msgid "Schreibfehler"
@@ -130,91 +132,91 @@ msgstr ""
 
 #: ../../ms2/ms2.c:3243
 msgid "Textgeschwindigkeit:"
-msgstr ""
+msgstr "Text speed:"
 
 #: ../../ms2/ms2.c:3292
 msgid "Spiel abbrechen?"
-msgstr ""
+msgstr "Leave game?"
 
 #: ../../ms2/ms2.c:3295
 msgid "Ja"
-msgstr ""
+msgstr "Yes"
 
 #: ../../ms2/ms2.c:3296
 msgid "Nein"
-msgstr ""
+msgstr "No"
 
 #: ../../ms2/ms2.c:3368
 msgid "Das trägst du doch bei dir."
-msgstr ""
+msgstr "You already carry this."
 
 #: ../../ms2/ms2.c:3370
 msgid "Du bist doch schon da."
-msgstr ""
+msgstr "You are already there."
 
 #: ../../ms2/ms2.c:3373
 msgid "Das ist geschlossen."
-msgstr ""
+msgstr "This is closed."
 
 #: ../../ms2/ms2.c:3383
 msgid "Das hast du doch schon."
-msgstr ""
+msgstr "You already have that."
 
 #: ../../ms2/ms2.c:3385
 msgid "Das brauchst du nicht."
-msgstr ""
+msgstr "You do not need that."
 
 #: ../../ms2/ms2.c:3387
 msgid "Das kannst du nicht nehmen."
-msgstr ""
+msgstr "You can't take that."
 
 #: ../../ms2/ms2.c:3393
 msgid "Das läßt sich nicht öffnen."
-msgstr ""
+msgstr "This cannot be opened."
 
 #: ../../ms2/ms2.c:3395 ../../ms2/ms2_pyra.c:646
 msgid "Das ist schon offen."
-msgstr ""
+msgstr "This is already opened."
 
 #: ../../ms2/ms2.c:3397
 msgid "Das ist verschlossen."
-msgstr ""
+msgstr "This is locked."
 
 #: ../../ms2/ms2.c:3413
 msgid "Das läßt sich nicht schließen."
-msgstr ""
+msgstr "This cannot be closed."
 
 #: ../../ms2/ms2.c:3415 ../../ms2/ms2_pyra.c:671
 msgid "Das ist schon geschlossen."
-msgstr ""
+msgstr "This is already closed."
 
 #: ../../ms2/ms2.c:3430
 msgid "Behalt es lieber!"
-msgstr ""
+msgstr "Better keep it!"
 
 #: ../../ms2/ms2.c:3434
 msgid "Das geht nicht."
-msgstr ""
+msgstr "This is not possible."
 
 #: ../../ms2/ms2_mod.c:533
 msgid "^(C) 1994 Thomas und Steffen Dingel#"
-msgstr ""
+msgstr "^(C) 1994 Thomas and Steffen Dingel#"
 
 #: ../../ms2/ms2_mod.c:534
 msgid "Story und Grafik:^ Thomas Dingel#"
-msgstr ""
+msgstr "Story and Graphics:^ Thomas Dingel#"
 
 #: ../../ms2/ms2_mod.c:535
 msgid "Programmierung:^ Steffen Dingel#"
-msgstr ""
+msgstr "Programming:^ Steffen Dingel#"
 
 #: ../../ms2/ms2_mod.c:536
 msgid "Musik:^ Bernd Hoffmann#"
-msgstr ""
+msgstr "Music:^ Bernd Hoffmann#"
 
 #: ../../ms2/ms2_mod.c:537
 msgid "Getestet von ...#"
-msgstr ""
+msgstr "Tested by ...#"
 
 #: ../../ms2/ms2_mod.c:548
 msgid "^Das war's.#"
@@ -806,7 +808,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:11
 msgid "Es ist nichts Besonderes daran."
-msgstr ""
+msgstr "There's nothing special about it."
 
 #: ../../ms2/ms2_r1.c:12
 msgid "Sieht nach Metall aus."
@@ -1010,7 +1012,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:663
 msgid "Ich bin's, Horst Hummel."
-msgstr ""
+msgstr "It's me, Horst Hummel."
 
 #: ../../ms2/ms2_r1.c:664
 msgid "Haben Sie auch einen Musikchip für das Gerät?"
