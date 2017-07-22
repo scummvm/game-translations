@@ -1,0 +1,2682 @@
+# Mission Supernova Translation.
+# Copyright (C) YEAR ScummVM Team
+# This file is distributed under the same license as the ScummVM package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Mission Supernova Part 2 1.0\n"
+"Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
+"POT-Creation-Date: 2017-07-22 19:37+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../ms2/ms2.c:1641
+msgid "Gehe"
+msgstr ""
+
+#: ../../ms2/ms2.c:1641
+msgid "Schau"
+msgstr ""
+
+#: ../../ms2/ms2.c:1641
+msgid "Nimm"
+msgstr ""
+
+#: ../../ms2/ms2.c:1641
+msgid "Öffne"
+msgstr ""
+
+#: ../../ms2/ms2.c:1641
+msgid "Schließe"
+msgstr ""
+
+#: ../../ms2/ms2.c:1642
+msgid "Drücke"
+msgstr ""
+
+#: ../../ms2/ms2.c:1642
+msgid "Ziehe"
+msgstr ""
+
+#: ../../ms2/ms2.c:1642
+msgid "Benutze"
+msgstr ""
+
+#: ../../ms2/ms2.c:1642
+msgid "Rede"
+msgstr ""
+
+#: ../../ms2/ms2.c:1642
+msgid "Gib"
+msgstr ""
+
+#: ../../ms2/ms2.c:2199
+msgid "Gespräch beenden"
+msgstr ""
+
+#: ../../ms2/ms2.c:2333
+msgid "Gehe zu "
+msgstr ""
+
+#: ../../ms2/ms2.c:2333
+msgid "Schau "
+msgstr ""
+
+#: ../../ms2/ms2.c:2333
+msgid "Nimm "
+msgstr ""
+
+#: ../../ms2/ms2.c:2333
+msgid "Öffne "
+msgstr ""
+
+#: ../../ms2/ms2.c:2333
+msgid "Schließe "
+msgstr ""
+
+#: ../../ms2/ms2.c:2334
+msgid "Drücke "
+msgstr ""
+
+#: ../../ms2/ms2.c:2334
+msgid "Ziehe "
+msgstr ""
+
+#: ../../ms2/ms2.c:2334
+msgid "Benutze "
+msgstr ""
+
+#: ../../ms2/ms2.c:2334
+msgid "Rede mit "
+msgstr ""
+
+#: ../../ms2/ms2.c:2334
+msgid "Gib "
+msgstr ""
+
+#: ../../ms2/ms2.c:2344
+msgid " an "
+msgstr ""
+
+#: ../../ms2/ms2.c:2345
+msgid " mit "
+msgstr ""
+
+#: ../../ms2/ms2.c:2903
+msgid "Laden"
+msgstr ""
+
+#: ../../ms2/ms2.c:2905
+msgid "Speichern"
+msgstr ""
+
+#: ../../ms2/ms2.c:2907
+msgid "Zurück"
+msgstr ""
+
+#: ../../ms2/ms2.c:2909
+msgid "Neustart"
+msgstr ""
+
+#: ../../ms2/ms2.c:3002
+msgid "Schreibfehler"
+msgstr ""
+
+#: ../../ms2/ms2.c:3243
+msgid "Textgeschwindigkeit:"
+msgstr ""
+
+#: ../../ms2/ms2.c:3292
+msgid "Spiel abbrechen?"
+msgstr ""
+
+#: ../../ms2/ms2.c:3295
+msgid "Ja"
+msgstr ""
+
+#: ../../ms2/ms2.c:3296
+msgid "Nein"
+msgstr ""
+
+#: ../../ms2/ms2.c:3368
+msgid "Das trägst du doch bei dir."
+msgstr ""
+
+#: ../../ms2/ms2.c:3370
+msgid "Du bist doch schon da."
+msgstr ""
+
+#: ../../ms2/ms2.c:3373
+msgid "Das ist geschlossen."
+msgstr ""
+
+#: ../../ms2/ms2.c:3383
+msgid "Das hast du doch schon."
+msgstr ""
+
+#: ../../ms2/ms2.c:3385
+msgid "Das brauchst du nicht."
+msgstr ""
+
+#: ../../ms2/ms2.c:3387
+msgid "Das kannst du nicht nehmen."
+msgstr ""
+
+#: ../../ms2/ms2.c:3393
+msgid "Das läßt sich nicht öffnen."
+msgstr ""
+
+#: ../../ms2/ms2.c:3395 ../../ms2/ms2_pyra.c:646
+msgid "Das ist schon offen."
+msgstr ""
+
+#: ../../ms2/ms2.c:3397
+msgid "Das ist verschlossen."
+msgstr ""
+
+#: ../../ms2/ms2.c:3413
+msgid "Das läßt sich nicht schließen."
+msgstr ""
+
+#: ../../ms2/ms2.c:3415 ../../ms2/ms2_pyra.c:671
+msgid "Das ist schon geschlossen."
+msgstr ""
+
+#: ../../ms2/ms2.c:3430
+msgid "Behalt es lieber!"
+msgstr ""
+
+#: ../../ms2/ms2.c:3434
+msgid "Das geht nicht."
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:533
+msgid "^(C) 1994 Thomas und Steffen Dingel#"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:534
+msgid "Story und Grafik:^ Thomas Dingel#"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:535
+msgid "Programmierung:^ Steffen Dingel#"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:536
+msgid "Musik:^ Bernd Hoffmann#"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:537
+msgid "Getestet von ...#"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:548
+msgid "^Das war's.#"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:549
+msgid "^Schluß!#"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:550
+msgid "^Ende!#"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:551
+msgid "^Aus!#"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:552
+msgid "^Tschüß!#"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:603
+msgid "Oh!"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:605
+msgid "Nicht schlecht!"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:607
+msgid "Supersound!"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:609
+msgid "Klasse!"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:611
+msgid "Nicht zu fassen!"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:613
+msgid "Super, ey!"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:615
+msgid "Fantastisch!"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:617
+msgid "Umwerfend!"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:619
+msgid "Genial!"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:621
+msgid "Spitze!"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:623
+msgid "Jawoll!"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:625
+msgid "Hervorragend!"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:627
+msgid "Ultragut!"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:629
+msgid "Megacool!"
+msgstr ""
+
+#: ../../ms2/ms2_mod.c:631
+msgid "Yeah!"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:60
+msgid "Ein Wächter betritt den Raum.|Du wirst verhaftet."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:73
+msgid "Die nächsten paar Jahre|verbringst du im Knast."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:145
+msgid "Es wird Alarm ausgelöst."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:200
+msgid "Du hörst Schritte."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:232
+msgid "Um das Schloss zu öffnen,|brauchst du einige Zeit."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:238
+msgid "Du gerätst in Panik|und ziehst die Keycard|aus der Tür."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:316
+msgid "Du hast deinen Auftrag|noch nicht ausgeführt."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:330
+msgid ""
+"Obwohl du die Alarmanlage noch|nicht ausgeschaltet hast,|entscheidest du "
+"dich, zu fliehen."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:337
+msgid ""
+"Du entledigst dich der Einbruchswerkzeuge|und nimmst ein Taxi zum "
+"Kulturpalast."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:376 ../../ms2/ms2_mus.c:532 ../../ms2/ms2_mus.c:631
+msgid "Diese Tür brauchst|du nicht zu öffnen."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:394
+msgid "Uff, es hat geklappt!"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:407
+msgid "Zurück im Quartier der Gangster ..."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:417
+msgid "Das lief ja wie am Schnürchen!"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:418
+msgid "Hier, dein Anteil von 30000 Xa."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:425
+msgid "Wo ist denn der Saurierkopf?"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:426
+msgid "Dazu hatte ich keine Zeit mehr."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:427
+msgid "Was? Du spinnst wohl!|Dann kriegst du auch deinen|Anteil nicht. Raus!"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:703
+msgid "Der Sauger ist schon dort."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:707
+msgid "Du heftest den Sauger an die Wand|und hälst dich daran fest."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:718
+msgid "Du stellst dich auf den|Boden nimmst den Sauger|wieder von der Wand"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:722
+msgid "Die Alarmanlage ist|schon ausgeschaltet."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:725
+msgid "Um die Anlage abzuschalten,|brauchst du einige Zeit."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:729
+msgid "Die Alarmanlage ist jetzt ausgeschaltet."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:746 ../../ms2/ms2_mus.c:875
+msgid "Saurier"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:746
+msgid "Du hast jetzt besseres zu tun,|als das Ding anzuschauen."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:747 ../../ms2/ms2_pyra.c:1010 ../../ms2/ms2_r1.c:805
+#: ../../ms2/ms2_r1.c:816 ../../ms2/ms2_r2.c:1203 ../../ms2/ms2_r2.c:1214
+msgid "Eingang"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:748 ../../ms2/ms2_mus.c:756 ../../ms2/ms2_mus.c:757
+#: ../../ms2/ms2_mus.c:765 ../../ms2/ms2_mus.c:766 ../../ms2/ms2_mus.c:774
+#: ../../ms2/ms2_mus.c:775 ../../ms2/ms2_mus.c:783 ../../ms2/ms2_mus.c:784
+#: ../../ms2/ms2_mus.c:792 ../../ms2/ms2_mus.c:801 ../../ms2/ms2_mus.c:802
+#: ../../ms2/ms2_mus.c:804 ../../ms2/ms2_mus.c:812 ../../ms2/ms2_mus.c:814
+#: ../../ms2/ms2_mus.c:815 ../../ms2/ms2_mus.c:823 ../../ms2/ms2_mus.c:824
+#: ../../ms2/ms2_mus.c:832 ../../ms2/ms2_mus.c:833 ../../ms2/ms2_mus.c:842
+#: ../../ms2/ms2_mus.c:844 ../../ms2/ms2_mus.c:845 ../../ms2/ms2_mus.c:854
+#: ../../ms2/ms2_mus.c:855 ../../ms2/ms2_mus.c:864 ../../ms2/ms2_mus.c:865
+#: ../../ms2/ms2_mus.c:866 ../../ms2/ms2_mus.c:872 ../../ms2/ms2_mus.c:894
+#: ../../ms2/ms2_mus.c:895 ../../ms2/ms2_mus.c:903 ../../ms2/ms2_mus.c:911
+#: ../../ms2/ms2_mus.c:912 ../../ms2/ms2_mus.c:920 ../../ms2/ms2_mus.c:921
+#: ../../ms2/ms2_mus.c:929 ../../ms2/ms2_mus.c:930 ../../ms2/ms2_mus.c:931
+#: ../../ms2/ms2_mus.c:932 ../../ms2/ms2_mus.c:940 ../../ms2/ms2_mus.c:941
+#: ../../ms2/ms2_mus.c:949 ../../ms2/ms2_mus.c:957 ../../ms2/ms2_mus.c:965
+#: ../../ms2/ms2_mus.c:966 ../../ms2/ms2_mus.c:974 ../../ms2/ms2_pyra.c:1070
+#: ../../ms2/ms2_pyra.c:1079 ../../ms2/ms2_pyra.c:1103
+#: ../../ms2/ms2_pyra.c:1111 ../../ms2/ms2_pyra.c:1135
+#: ../../ms2/ms2_pyra.c:1309 ../../ms2/ms2_r2.c:1225 ../../ms2/ms2_r2.c:1226
+#: ../../ms2/ms2_r2.c:1235 ../../ms2/ms2_r2.c:1236 ../../ms2/ms2_r2.c:1247
+msgid "Tür"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:749
+msgid "Strasse zum Stadtzentrum"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:793
+msgid "Kamera"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:793
+msgid "Hoffentlich bemerkt dich niemand."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:856
+msgid "Haupteingang"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:873 ../../ms2/ms2_mus.c:874 ../../ms2/ms2_mus.c:885
+#: ../../ms2/ms2_mus.c:893 ../../ms2/ms2_pyra.c:1046 ../../ms2/ms2_pyra.c:1054
+#: ../../ms2/ms2_pyra.c:1062 ../../ms2/ms2_pyra.c:1087
+#: ../../ms2/ms2_pyra.c:1095 ../../ms2/ms2_pyra.c:1222
+#: ../../ms2/ms2_pyra.c:1230 ../../ms2/ms2_pyra.c:1238
+#: ../../ms2/ms2_pyra.c:1246
+msgid "Gang"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:875
+msgid "Ziemlich groß."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:876 ../../ms2/ms2_r1.c:787
+msgid "Saurierkopf"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:876
+msgid "Dies ist der Kopf,|den du suchst."
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:975
+msgid "Alarmanlage"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:976 ../../ms2/ms2_r1.c:783
+msgid "Sauger"
+msgstr ""
+
+#: ../../ms2/ms2_mus.c:977
+msgid "Wand"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:26 ../../ms2/ms2_pyra.c:1255 ../../ms2/ms2_pyra.c:1256
+#: ../../ms2/ms2_pyra.c:1274 ../../ms2/ms2_pyra.c:1284
+msgid "Loch"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:27
+msgid "Buchstabe"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:28
+msgid "Sie ist sehr massiv."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:29
+msgid "Hmm, X und Y, irgendwo|habe ich die Buchstaben|schon gesehen."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:34
+msgid "Deine Zeit ist um, Fremder!"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:76
+msgid "Du hast das Seil|doch schon festgebunden."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:80
+msgid "Das würde wenig bringen."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:126
+msgid "Sonnenstich, oder was?"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:385
+msgid "Du merkst, daß der Boden|unter dir nachgibt, und|springst zur Seite."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:537
+msgid "Puzzleteil"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:570
+msgid "Neben diesem Stein|ist kein freies Feld."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:683
+msgid "Du spielst gerade ein|Adventure, kein Rollenspiel!"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:699 ../../ms2/ms2_pyra.c:800
+msgid "Du kannst das Seil|nirgends befestigen."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:705 ../../ms2/ms2_pyra.c:784
+msgid "Es paßt nicht|zwischen die Steine."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:710 ../../ms2/ms2_pyra.c:741 ../../ms2/ms2_pyra.c:840
+msgid "Das ist doch|oben festgebunden!"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:715
+msgid "Hey, das ist|mindestens 10 Meter tief!"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:731
+msgid "In dem Schlitz|ist nichts mehr."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:765
+msgid "Das ist mindestens 5 Meter tief!"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:900
+msgid ""
+"Du versuchst, den Sarg zu|öffnen, aber der Deckel bewegt|sich keinen "
+"Millimeter."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:913 ../../ms2/ms2_pyra.c:923
+msgid "Du hast die Kugel schon gedrückt."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:944
+msgid "Die Kugel bewegt sich ein Stück."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:965
+msgid "Herzlichen Glückwunsch!"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:966
+msgid "Sie haben das Spiel gelöst|und gewinnen 400 Xa!"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:967
+msgid "Vielen Dank für die Benutzung eines|VIRTUAL-REALITY-SYSTEMS-Produkts!"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:991
+msgid "N"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:991
+msgid "O"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:991
+msgid "S"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:991
+msgid "W"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1008 ../../ms2/ms2_pyra.c:1200
+#: ../../ms2/ms2_pyra.c:1254 ../../ms2/ms2_pyra.c:1262
+#: ../../ms2/ms2_pyra.c:1273 ../../ms2/ms2_pyra.c:1283
+msgid "Seil"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1009 ../../ms2/ms2_pyra.c:1043 ../../ms2/ms2_r1.c:850
+#: ../../ms2/ms2_r2.c:1223 ../../ms2/ms2_r2.c:1224 ../../ms2/ms2_r2.c:1233
+#: ../../ms2/ms2_r2.c:1234
+msgid "Schild"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1009
+msgid ""
+"Darauf steht:|\"Willst du finden das|richtige Loch, so wage|dich in die "
+"Pyramide!\"."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1010
+msgid "Es ist eine kleine Öffnung."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1011
+msgid "Pyramide"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1011
+msgid ""
+"Komisch! Was soll eine Pyramide|bei den Axacussanern? Deine|eigenen Gedanken "
+"scheinen|den Spielverlauf zu beeinflussen."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1012
+msgid "Sonne"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1012
+msgid "Schön!"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1043
+msgid ""
+"\"Hallo Fremder, wenn du diesen|Raum betreten hast, bleibt|dir nur noch eine "
+"Stunde Zeit,|um deine Aufgabe zu erfüllen!\""
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1044 ../../ms2/ms2_pyra.c:1052
+#: ../../ms2/ms2_pyra.c:1060 ../../ms2/ms2_pyra.c:1068
+#: ../../ms2/ms2_pyra.c:1077 ../../ms2/ms2_pyra.c:1085
+#: ../../ms2/ms2_pyra.c:1093 ../../ms2/ms2_pyra.c:1101
+#: ../../ms2/ms2_pyra.c:1109 ../../ms2/ms2_pyra.c:1133
+#: ../../ms2/ms2_pyra.c:1141 ../../ms2/ms2_pyra.c:1149
+#: ../../ms2/ms2_pyra.c:1157 ../../ms2/ms2_pyra.c:1165
+#: ../../ms2/ms2_pyra.c:1173 ../../ms2/ms2_pyra.c:1181
+#: ../../ms2/ms2_pyra.c:1190 ../../ms2/ms2_pyra.c:1198
+#: ../../ms2/ms2_pyra.c:1209 ../../ms2/ms2_pyra.c:1220
+#: ../../ms2/ms2_pyra.c:1228 ../../ms2/ms2_pyra.c:1236
+#: ../../ms2/ms2_pyra.c:1244 ../../ms2/ms2_pyra.c:1252
+#: ../../ms2/ms2_pyra.c:1270 ../../ms2/ms2_pyra.c:1281
+#: ../../ms2/ms2_pyra.c:1291
+msgid "rechte Seite"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1045 ../../ms2/ms2_pyra.c:1053
+#: ../../ms2/ms2_pyra.c:1061 ../../ms2/ms2_pyra.c:1069
+#: ../../ms2/ms2_pyra.c:1078 ../../ms2/ms2_pyra.c:1086
+#: ../../ms2/ms2_pyra.c:1094 ../../ms2/ms2_pyra.c:1102
+#: ../../ms2/ms2_pyra.c:1110 ../../ms2/ms2_pyra.c:1134
+#: ../../ms2/ms2_pyra.c:1142 ../../ms2/ms2_pyra.c:1150
+#: ../../ms2/ms2_pyra.c:1158 ../../ms2/ms2_pyra.c:1166
+#: ../../ms2/ms2_pyra.c:1174 ../../ms2/ms2_pyra.c:1182
+#: ../../ms2/ms2_pyra.c:1191 ../../ms2/ms2_pyra.c:1199
+#: ../../ms2/ms2_pyra.c:1210 ../../ms2/ms2_pyra.c:1221
+#: ../../ms2/ms2_pyra.c:1229 ../../ms2/ms2_pyra.c:1237
+#: ../../ms2/ms2_pyra.c:1245 ../../ms2/ms2_pyra.c:1253
+#: ../../ms2/ms2_pyra.c:1271 ../../ms2/ms2_pyra.c:1282
+#: ../../ms2/ms2_pyra.c:1292
+msgid "linke Seite"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1071
+msgid "Knopf"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1143 ../../ms2/ms2_pyra.c:1151
+#: ../../ms2/ms2_pyra.c:1159 ../../ms2/ms2_pyra.c:1167
+msgid "Schrift"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1175 ../../ms2/ms2_pyra.c:1184
+msgid "Tomate"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1175 ../../ms2/ms2_pyra.c:1184
+msgid "Komisch!"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1183 ../../ms2/ms2_pyra.c:1272
+msgid "Messer"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1183
+msgid "Es ist ein relativ stabiles Messer."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1192 ../../ms2/ms2_pyra.c:1203
+#: ../../ms2/ms2_pyra.c:1214
+msgid "Monster"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1200
+msgid "Es ist dick und|ungefähr 15 Meter lang."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1201 ../../ms2/ms2_pyra.c:1212
+msgid "Augen"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1202 ../../ms2/ms2_pyra.c:1213
+#: ../../ms2/ms2_pyra.c:1336
+msgid "Mund"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1203 ../../ms2/ms2_pyra.c:1214
+msgid "Es ist nur eine Statue."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1211 ../../ms2/ms2_pyra.c:1263
+msgid "Zettel"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1211
+msgid "Darauf steht:|\"Wenn du fast am Ziel|bist, tu folgendes:|Sauf!\""
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1255
+msgid "Es ist ca. 10 Meter tief."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1256
+msgid "Oben siehst du helles Licht."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1263
+msgid ""
+"Darauf steht:|\"Ruhe eine Minute im Raum|zwischen den Monstern,|und du wirst "
+"belohnt!\""
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1264 ../../ms2/ms2_r1.c:844 ../../ms2/ms2_r1.c:845
+#: ../../ms2/ms2_r2.c:1243
+msgid "Schlitz"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1264
+msgid "Du kommst mit den|Händen nicht rein."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1274
+msgid "Es ist ca. 5 Meter tief."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1275
+msgid "Steine"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1285
+msgid "Platte"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1315 ../../ms2/ms2_pyra.c:1323
+msgid "Sarg"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1316 ../../ms2/ms2_pyra.c:1322
+#: ../../ms2/ms2_pyra.c:1333 ../../ms2/ms2_r1.c:833 ../../ms2/ms2_r1.c:840
+#: ../../ms2/ms2_r1.c:857 ../../ms2/ms2_r2.c:1215 ../../ms2/ms2_r2.c:1248
+msgid "Ausgang"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1323
+msgid "Unheimlich!"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1324 ../../ms2/ms2_r1.c:865
+msgid "Zahnbürste"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1324 ../../ms2/ms2_pyra.c:1325
+msgid "Die Sache mit der|Artus GmbH scheint dir zu|Kopf gestiegen zu sein."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1325
+msgid "Zahnpastatube"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1326 ../../ms2/ms2_pyra.c:1327
+msgid "Kugel"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1326 ../../ms2/ms2_pyra.c:1327
+msgid "Hmm, die Kugel sieht lose aus."
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1334 ../../ms2/ms2_pyra.c:1335
+msgid "Auge"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1334 ../../ms2/ms2_pyra.c:1335
+msgid "Irgendwas stimmt damit nicht."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:11
+msgid "Es ist nichts Besonderes daran."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:12
+msgid "Sieht nach Metall aus."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:83
+msgid "Ein Taxi kommt angerauscht,|du steigst ein."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:90
+msgid "Du drückst auf den Knopf, aber nichts passiert"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:94
+msgid "Es ist leer."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:97
+msgid "Du findest ein kleines Gerät,|einen Ausweis und einen Xa."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:109
+msgid "Du heftest den|Magnet an die Stange."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:110
+msgid "Stange mit Magnet"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:111
+msgid "Raffiniert!"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:118
+msgid "Du mußt das|Gerät erst kaufen."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:127
+msgid "Du legst den Chip|in das Gerät ein."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:137
+msgid "Du überspielst die CD|auf den Musikchip."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:141
+msgid ""
+"Ohne einen eingelegten|Musikchip kannst du auf dem|Gerät nichts aufnehmen."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:152
+msgid "Du nimmst den Chip|aus dem Gerät."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:157
+msgid "Es ist kein Chip eingelegt."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:162
+msgid "Wozu? Du hast sowieso nur die eine CD."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:166
+msgid "Die \"Mad Monkeys\"-CD. Du hast|sie schon tausendmal gehört."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:183
+msgid "Du hörst nichts.|Der Chip ist unbespielt."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:185
+msgid "Du hörst dir den Anfang|der überspielten CD an."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:187
+msgid "Es ist kein Chip einglegt."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:193
+msgid "Du trinkst etwas von den Zeug, danach|fühlst du dich leicht beschwipst."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:224
+#, c-format
+msgid "%d Xa"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:242
+msgid ""
+"Als du ebenfalls aussteigst haben|die anderen Passagiere das|Fluggelände "
+"bereits verlassen."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:285 ../../ms2/ms2_r1.c:809
+msgid "Flughafen"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:286
+msgid "Stadtzentrum"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:287 ../../ms2/ms2_r2.c:1204
+msgid "Kulturpalast"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:288
+msgid "Erde"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:289
+msgid "Privatwohnung"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:290 ../../ms2/ms2_r1.c:295
+msgid "(Taxi verlassen)"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:294
+msgid "(Bezahlen)"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:337
+msgid "Adresse:|                              "
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:356
+msgid ""
+"Fuddeln gilt nicht!|Zu diesem Zeitpunkt kannst du diese|Adresse noch gar "
+"nicht kennen!"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:378
+msgid "Du hast nicht|mehr genug Geld."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:389
+msgid "Du merkst, daß das Taxi stark beschleunigt."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:398
+msgid "Fünf Minuten später ..."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:433
+msgid "Du hast doch schon eine Stange"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:436
+msgid "Du sägst eine der Stangen ab."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:444
+msgid "Du betrittst das einzige|offene Geschäft, das|du finden kannst."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:507
+msgid "Die Kabine ist besetzt."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:524
+msgid "He, nimm erstmal das Geld|aus dem Rückgabeschlitz!"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:526
+msgid "Du hast doch schon bezahlt."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:528
+msgid "Du hast nicht mehr genug Geld."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:531
+msgid "Du wirfst 10 Xa in den Schlitz."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:566
+msgid "Dir wird schwarz vor Augen."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:582
+msgid "Du ruhst dich eine Weile aus."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:598
+msgid ""
+"An der Wand steht:|\"Ich kenne eine tolle Geheimschrift:|A=Z, B=Y, C=X ...|"
+"0=0, 1=9, 2=8 ...\""
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:657
+msgid "Ok, ich nehme es."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:658
+msgid "Nein danke, das ist mir zu teuer."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:662
+msgid "Ich würde gern etwas kaufen."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:663
+msgid "Ich bin's, Horst Hummel."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:664
+msgid "Haben Sie auch einen Musikchip für das Gerät?"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:668
+msgid "Eine tolle Maske, nicht wahr?"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:668
+msgid "Komisch, daß sie schon drei Jahre da steht."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:669
+msgid "Ein starker Trunk. Zieht ganz schön rein."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:670
+msgid "Ein Abspiel- und Aufnahmegerät für die neuen Musikchips."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:671
+msgid "Eine ARTUS-Zahnbürste. Der letzte Schrei."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:671
+msgid "Verkaufe ich massenhaft, die Dinger."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:672
+msgid "Das sind echte Raritäten. Bücher in gebundener Form."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:673
+msgid "Die Encyclopedia Axacussana."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:673
+msgid "Das größte erhältliche Lexikon auf 30 Speicherchips."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:673
+msgid "Über 400 Trilliarden Stichwörter."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:674
+msgid "Die ist nicht zu verkaufen."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:675
+msgid "So eine habe ich meinem Enkel zum Geburtstag geschenkt."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:675
+msgid "Er war begeistert von dem Ding."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:676
+msgid "Der stammt aus einem bekannten Computerspiel."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:677
+msgid "Robust, handlich und stromsparend."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:678 ../../ms2/ms2_r1.c:679 ../../ms2/ms2_r1.c:680
+#: ../../ms2/ms2_r1.c:681
+msgid "Irgendein lasches Gesöff."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:682
+msgid "Das sind Protestaufkleber gegen die hohen Taxigebühren."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:683
+msgid "Das ist Geschirr aus der neuen Umbina-Kollektion."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:683
+msgid "Häßlich, nicht wahr?"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:683
+msgid "Aber verkaufen tut sich das Zeug gut."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:699
+#, c-format
+msgid "Das kostet %d Xa."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:726
+msgid "Schauen Sie sich ruhig um!"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:728
+msgid "Unsinn!"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:730
+msgid "Tut mir leid, die sind|schon alle ausverkauft."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:743
+msgid "Guten Abend."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:744
+msgid "Hallo."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:754
+msgid "Huch, Sie haben mich aber erschreckt!"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:755
+msgid "Wieso?"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:756
+msgid "Ihre Verkleidung ist wirklich täuschend echt."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:757
+msgid "Welche Verkleidung?"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:758
+msgid "Na, tun Sie nicht so!"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:759
+msgid ""
+"Sie haben sich verkleidet wie der Außerirdische,|dieser Horst Hummel, oder "
+"wie er heißt."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:760 ../../ms2/ms2_r2.c:419
+msgid "Ich BIN Horst Hummel!"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:761
+msgid "Geben Sie's auf!"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:762
+msgid "An Ihrer Gestik merkt man, daß Sie|ein verkleideter Axacussaner sind."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:763
+msgid "Der echte Hummel bewegt sich|anders, irgendwie ruckartig."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:764
+msgid "Weil er ein Roboter ist! ICH bin der Echte!"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:765 ../../ms2/ms2_r2.c:56
+msgid "Ach, Sie spinnen ja!"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:766
+msgid "Sie Trottel!!!"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:767
+msgid "Seien Sie still, oder ich werfe Sie raus!"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:780
+msgid "Taschenmesser"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:780
+msgid "Hey, da ist sogar eine Säge dran."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:781
+msgid "20 Xa"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:782
+msgid "Discman"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:782
+msgid "Da ist noch die \"Mad Monkeys\"-CD drin."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:783
+msgid "Mit dem Ding sollst du dich|an der Wand festhalten."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:785
+msgid "Spezialkeycard"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:785
+msgid "Damit sollst du die|Türen knacken können."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:786
+msgid "Alarmknacker"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:786
+msgid "Ein kleines Gerät, um|die Alarmanlage auszuschalten."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:788
+msgid "Karte"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:795
+msgid "Raumschiff"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:795
+msgid "Damit bist du hierhergekommen."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:796
+msgid "Fahrzeuge"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:796
+msgid "Du kannst von hier aus nicht erkennen,|was das für Fahrzeuge sind."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:803 ../../ms2/ms2_r1.c:804
+msgid "Fahrzeug"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:803 ../../ms2/ms2_r1.c:804
+msgid "Es scheint ein Taxi zu sein."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:805
+msgid "Komisch, er ist verschlossen."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:806
+msgid "Portemonnaie"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:806
+msgid "Das muß ein Axacussaner|hier verloren haben."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:807
+msgid "Gerät"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:807
+msgid "Auf dem Gerät steht: \"Taxi-Call\".|Es ist ein kleiner Knopf daran."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:808
+msgid "Ausweis"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:808
+msgid "Auf dem Ausweis steht:|  Berta Tschell|  Axacuss City|  115AY2,96A,32"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:817
+msgid "Treppe"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:817
+msgid "Sie führt zu den Geschäften."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:818
+msgid "Geschäftsstraße im Hintergrund"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:818
+msgid "Die Straße scheint kein Ende zu haben."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:819 ../../ms2/ms2_r1.c:820
+msgid "Stange"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:821
+msgid "Pfosten"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:822
+msgid "Geländer"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:829
+msgid "Plakat"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:829
+msgid ""
+"Musik Pur - Der Musikwettbewerb!|Heute im Kulturpalast|Hauptpreis:|"
+"Fernsehauftritt mit Horst Hummel|Sponsored by Artus GmbH"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:830 ../../ms2/ms2_r1.c:831
+msgid "Kabine"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:830
+msgid "Sie ist frei!"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:831
+msgid "Sie ist besetzt."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:832
+msgid "Füße"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:832
+msgid "Komisch, die|Füße scheinen|erstarrt zu sein."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:841
+msgid "Haube"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:841
+msgid "Sieht aus wie beim Frisör."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:842
+msgid "400 Xa"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:843
+msgid "10 Xa"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:844
+msgid "Darüber steht:|\"Geldeinwurf: 10 Xa\"."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:845
+msgid "Darüber steht:|\"Gewinnausgabe / Geldrückgabe\"."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:846 ../../ms2/ms2_r2.c:1264
+msgid "Stuhl"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:846
+msgid "Etwas Entspannung könntest du jetzt gebrauchen."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:847 ../../ms2/ms2_r1.c:848
+msgid "Gekritzel"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:849 ../../ms2/ms2_r1.c:873
+msgid "Gesicht"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:849
+msgid "Nicht zu fassen! Die|Wände sind genauso beschmutzt|wie auf der Erde."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:858
+msgid "Bücher"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:859
+msgid "Lexikon"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:860
+msgid "Pflanze"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:861
+msgid "Maske"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:862
+msgid "Schlange"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:863
+msgid "Becher"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:864
+msgid "Joystick"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:865
+msgid "Eine normale Zahnbürste,|es steht nur \"Artus\" darauf."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:866
+msgid "Musikgerät"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:866
+msgid ""
+"Ein Gerät zum Abspielen und|Aufnehmen von Musikchips.|Es ist ein Mikrofon "
+"daran."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:867 ../../ms2/ms2_r1.c:868 ../../ms2/ms2_r1.c:869
+#: ../../ms2/ms2_r1.c:870 ../../ms2/ms2_r1.c:871
+msgid "Flasche"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:867
+msgid "Auf dem Etikett steht:|\"Enthält 10% Hyperalkohol\"."
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:872
+msgid "Kiste"
+msgstr ""
+
+#: ../../ms2/ms2_r1.c:874
+msgid "Verkäufer"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:36
+msgid "Was? Dafür wollen Sie die Karte haben?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:37
+msgid "Sie sind wohl nicht ganz über|die aktuellen Preise informiert!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:47
+msgid "Ich bin's, Horst Hummel!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:48
+msgid "Schönes Wetter heute!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:49
+msgid ""
+"Können Sie mir sagen, von wem ich eine Eintrittskartefür den Musikwettbewerb "
+"kriegen kann?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:55
+msgid "Ok, hier haben Sie den Xa."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:60
+msgid "Ich biete Ihnen 500 Xa."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:61
+msgid "Ich biete Ihnen 1000 Xa."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:62
+msgid "Ich biete Ihnen 5000 Xa."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:63
+msgid "Ich biete Ihnen 10000 Xa."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:72
+msgid "Vielen Dank für Ihren Kauf!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:77
+msgid "Was bieten Sie mir|denn nun für die Karte?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:81
+msgid "Hallo, Sie!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:83 ../../ms2/ms2_r2.c:719
+msgid "Was wollen Sie?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:87
+msgid "Wer sind Sie?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:88
+msgid "Horst Hummel!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:89
+msgid "Kenne ich nicht."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:90
+msgid "Was, Sie kennen den berühmten Horst Hummel nicht?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:91
+msgid "Ich bin doch der, der immer im Fernsehen zu sehen ist."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:92
+msgid "Ich kenne Sie wirklich nicht."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:93
+msgid "Komisch."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:95 ../../ms2/ms2_r2.c:1155
+msgid "Aha."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:97
+msgid "Ja, kann ich."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:98
+msgid "Von wem denn?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:99
+msgid "Diese Information kostet einen Xa."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:104
+msgid "Wie Sie meinen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:110
+msgid "Sie können die Karte von MIR bekommen!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:111
+msgid "Aber nur eine Teilnahmekarte,|keine Eintrittskarte."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:112
+msgid "Was wollen Sie dafür haben?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:113
+msgid "Machen Sie ein Angebot!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:133
+msgid "Das ist ein gutes Angebot!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:135
+msgid "Dafür gebe ich Ihnen meine|letzte Teilnahmekarte!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:140
+msgid "(Dieser Trottel!)"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:190
+msgid "Ich würde gern beim Musikwettbewerb zuschauen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:191
+msgid "Ich würde gern am Musikwettbewerb teilnehmen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:192
+msgid "Wieviel Uhr haben wir?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:196 ../../ms2/ms2_r2.c:749
+msgid "Ja."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:197 ../../ms2/ms2_r2.c:379 ../../ms2/ms2_r2.c:391
+#: ../../ms2/ms2_r2.c:697
+msgid "Nein."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:201
+msgid "Hallo, Leute!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:202
+msgid "Hi, Fans!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:203
+msgid "Gute Nacht!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:207
+msgid "Äh, wie geht es euch?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:208
+msgid "Schönes Wetter heute."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:212
+msgid "Hmm ..."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:213
+msgid "Tja ..."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:214
+msgid "Also ..."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:218
+msgid "Ok, los gehts!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:219
+msgid "Ich klimper mal was auf dem Keyboard hier."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:234
+msgid "Halt, sie sind doch schon drangewesen!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:240
+msgid "He, Sie! Haben Sie|eine Eintrittskarte?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:244
+msgid "Ja natürlich, hier ist meine Teilnahmekarte."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:245
+msgid ""
+"Sie sind Teilnehmer! Fragen|Sie bitte an der Kasse nach,|wann Sie auftreten "
+"können."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:247
+msgid "Äh, nein."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:252
+msgid "He, wo ist Ihr Musikchip?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:267
+msgid "Laber nicht!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:270
+msgid "Fang an!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:273
+msgid "Einen Moment, ich muß erstmal überlegen, was ich|euch spiele."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:275
+msgid "Anfangen!!!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:278
+msgid "Nun denn ..."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:279
+msgid "Raus!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:291 ../../ms2/ms2_r2.c:306
+msgid "Buh!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:298
+msgid "Aufhören!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:309
+msgid "Hilfe!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:312
+msgid "Ich verziehe mich lieber."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:317
+msgid "Mist, auf dem Chip war|gar keine Musik drauf."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:319
+msgid "Das ging ja voll daneben!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:327
+msgid "Du näherst dich der Bühne,|aber dir wird mulmig zumute."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:330
+msgid ""
+"Du traust dich nicht, vor|so vielen Menschen aufzutreten|und kehrst wieder "
+"um."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:347
+msgid "Oh, Sie sind Teilnehmer!|Dann sind Sie aber spät dran."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:348
+msgid "Spielen Sie die Musik live?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:351
+msgid ""
+"Dann geben Sie bitte Ihren Musikchip ab!|Er wird bei Ihrem Auftritt "
+"abgespielt."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:357
+msgid ""
+"Oh, Sie sind sofort an der Reihe!|Beeilen Sie sich! Der Bühneneingang|ist "
+"hinter dem Haupteingang rechts."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:367
+msgid "Habe ich noch einen zweiten Versuch?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:368
+msgid "Nein!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:378
+msgid "Haben Sie schon eine Eintrittskarte?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:380
+msgid "Tut mir leid, die Karten|sind schon alle ausverkauft."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:381
+msgid "Mist!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:383
+msgid "Haben Sie schon eine Teilnahmekarte?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:386
+msgid "Ja, hier ist sie."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:392
+msgid "Tut mir leid, die Teilnahmekarten|sind schon alle ausverkauft."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:393
+msgid "Scheiße!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:396
+msgid "Das kann ich Ihnen|leider nicht sagen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:401
+msgid "Wo ist denn nun Ihr Musikchip?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:403
+msgid "Jetzt beeilen Sie sich doch!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:416
+msgid ""
+"Huch, Sie sind hier bei einem Musik-,|nicht bei einem Imitationswettbewerb"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:417
+msgid "Imitationswettbewerb?|Ich will niemanden imitieren."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:418
+msgid "Guter Witz, wieso sehen Sie|dann aus wie Horst Hummel?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:420
+msgid ""
+"Na, nun hören Sie auf! So perfekt ist|ihre Verkleidung auch wieder nicht."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:421
+msgid ""
+"Ich werde Ihnen beweisen, daß ich Horst Hummel bin,|indem ich diesen "
+"Wettbewerb hier gewinne."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:422
+msgid "Dann kann ich in dieser verdammten Fernsehshow|auftreten."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:447
+msgid ""
+"Du hampelst ein bißchen zu|der Musik vom Chip herum.|Die Leute sind "
+"begeistert!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:484
+msgid "Guten Abend. Diesmal haben wir|einen besonderen Gast bei uns."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:485
+msgid ""
+"Es ist der Gewinner des gestrigen|Musikwettbewerbs im Kulturpalast,|der dort "
+"vor allem durch seine|Verkleidung aufgefallen war."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:489
+msgid "Sie haben das Wort!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:490
+msgid "Nun ja, meine erste Frage lautet: ..."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:491
+msgid ""
+"Warum haben Sie sich sofort nach|Ihrer Landung entschlossen, für|die Artus-"
+"GmbH zu arbeiten?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:492
+msgid ""
+"Es war meine freie Entscheidung.|Die Artus-GmbH hat mir einfach gefallen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:493
+msgid ""
+"Wieso betonen Sie, daß es|Ihre freie Entscheidung war?|Haben Sie Angst, daß "
+"man Ihnen|nicht glaubt?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:494
+msgid "Also, ich muß doch sehr bitten!|Was soll diese unsinnige Frage?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:495
+msgid ""
+"Ich finde die Frage wichtig.|Nun, Herr Hummel, was haben|Sie dazu zu sagen?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:505
+msgid "Auf solch eine Frage brauche|ich nicht zu antworten!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:506
+msgid "Gut, dann etwas anderes ..."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:507
+msgid ""
+"Sie sind von Beruf Koch.|Wie hieß das Restaurant,|in dem Sie auf der Erde|"
+"gearbeitet haben?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:508
+msgid "Hmm, daß weiß ich nicht mehr."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:509
+msgid ""
+"Sie wollen mir doch nicht weismachen,|daß Sie den Namen vergessen haben!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:510
+msgid "Schließlich haben Sie|zehn Jahre dort gearbeitet!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:511
+msgid "Woher wollen Sie das wissen?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:512
+msgid "Nun, ich komme von der Erde,|im Gegensatz zu Ihnen!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:522
+msgid "Langsam gehen Sie zu weit!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:523
+msgid ""
+"Sie sind ein Roboter!|Das merkt man schon an|Ihrer dummen Antwort!|Sie sind "
+"nicht optimal|programmiert!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:533
+msgid ""
+"Wenn Sie jetzt nicht mit Ihren|Beleidigungen aufhören, muß ich|Ihnen das "
+"Mikrofon abschalten!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:534
+msgid "Ich bin der echte Horst Hummel,|und hier ist der Beweis!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:558
+msgid ""
+"Am nächsten Morgen sind alle|Zeitungen voll mit deiner spektakulären|"
+"Enthüllung des Schwindels."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:561
+msgid ""
+"Die Manager der Artus-GmbH und Commander|Sumoti wurden sofort verhaftet."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:564
+msgid ""
+"Nach dem Streß der letzten Tage,|entscheidest du dich, auf die|Erde "
+"zurückzukehren."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:567
+msgid "Während du dich vor Interviews|kaum noch retten kannst, ..."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:570
+msgid ""
+"... arbeiten die Axacussanischen|Techniker an einem Raumschiff,|das dich zur "
+"Erde zurückbringen soll."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:573
+msgid "Eine Woche später ist der|Tag des Starts gekommen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:603
+msgid ""
+"Zum dritten Mal in deinem|Leben verbringst du eine lange|Zeit im Tiefschlaf."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:606
+msgid "Zehn Jahre später ..."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:609
+msgid ""
+"Du wachst auf und beginnst,|dich schwach an deine|Erlebnisse zu erinnern."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:612
+msgid "Um dich herum ist alles dunkel."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:670 ../../ms2/ms2_r2.c:900
+#, c-format
+msgid "Sie zeigt %d an."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:680
+msgid "Ich interessiere mich für den Job, bei dem man über Nacht"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:681
+msgid "reich werden kann."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:682
+msgid "Ich verkaufe frische Tomaten."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:683
+msgid "Ich bin der Klempner. Ich soll hier ein Rohr reparieren."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:688
+msgid "Ja, hört sich gut an."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:689
+msgid "Krumme Geschäfte? Für wen halten Sie mich? Auf Wiedersehen!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:693
+msgid "Äh - könnten Sie mir das Ganze nochmal erklären?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:694
+msgid "Wie groß ist mein Anteil?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:695
+msgid ""
+"Machen Sie es immer so, daß Sie Ihre Komplizen überein Graffitti anwerben?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:722
+msgid "Hmm, Moment mal, ich frage den Boss."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:728
+msgid "Kurze Zeit später ..."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:736
+msgid "Ok, der Boss will dich sprechen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:742
+msgid "Du betrittst die Wohnung und|wirst zu einem Tisch geführt."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:748
+msgid "Hmm, du willst dir also|etwas Geld verdienen?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:750
+msgid "Nun ja, wir planen|einen nächtlichen Besuch|eines bekannten Museums."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:751
+msgid "Wie sieht's aus, bist du interessiert?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:754
+msgid "Halt, warte!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:755
+msgid "Überleg's dir, es springen|30000 Xa für dich raus!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:756
+msgid "30000?! Ok, ich mache mit."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:758
+msgid "Gut, dann zu den Einzelheiten."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:759
+msgid "Bei dem Museum handelt es|sich um das Orzeng-Museum."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:760
+msgid "Es enthält die wertvollsten|Dinosaurierfunde von ganz Axacuss."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:761
+msgid "Wir haben es auf das Sodo-Skelett|abgesehen. Es ist weltberühmt."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:762
+msgid "Alle bekannten Paläontologen haben|sich schon damit beschäftigt."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:763
+msgid ""
+"Der Grund dafür ist, daß es allen|bis jetzt bekannten Erkenntnissen|Über die "
+"Evolution widerspricht."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:764
+msgid ""
+"Irgendein verrückter Forscher|bietet uns 200.000 Xa,|wenn wir ihm das Ding "
+"beschaffen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:765
+msgid "So, jetzt zu deiner Aufgabe:"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:767
+msgid "Du dringst durch den Nebeneingang|in das Gebäude ein."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:768
+msgid ""
+"Dort schaltest du die Alarmanlage aus,|durch die das Sodo-Skelett gesichert "
+"wird."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:769
+msgid "Wir betreten einen anderen Gebäudeteil|und holen uns das Gerippe."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:770
+msgid "Deine Aufgabe ist nicht leicht.|Schau dir diesen Plan an."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:775
+msgid ""
+"Unten siehst du die kleine Abstellkammer,|durch die du in die "
+"Austellungsräume kommst."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:776
+msgid "Bei der mit Y gekennzeichneten|Stelle ist die Alarmanlage."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:777
+msgid ""
+"Bei dem X steht ein großer Dinosaurier|mit einem wertvollen Schädel.|Den "
+"Schädel nimmst du mit."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:778
+msgid "Nun zu den Problemen:"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:779
+msgid "Die weiß gekennzeichneten|Türen sind verschlossen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:780
+msgid ""
+"Sie müssen mit einer Spezialkeycard geöffnet|werden, was jedoch einige Zeit "
+"dauert."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:781
+msgid ""
+"Außerdem gibt es in den auf der Karte|farbigen Räumen einen Druck-Alarm."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:782
+msgid ""
+"Du darfst dich dort nicht länger|als 16 bzw. 8 Sekunden aufhalten,|sonst "
+"wird Alarm ausgelöst."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:783
+msgid "Im Raum oben rechts ist|eine Kamera installiert."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:784
+msgid ""
+"Diese wird jedoch nur von|der 21. bis zur 40. Sekunde|einer Minute überwacht."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:785
+msgid "Das größte Problem ist der Wächter."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:786
+msgid ""
+"Er braucht für seine Runde genau|eine Minute, ist also ungefähr|zehn "
+"Sekunden in einem Raum."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:787
+msgid ""
+"Du müßtest seine Schritte hören können,|wenn du in der Abstellkammer bist|"
+"und der Wächter dort vorbeikommt."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:788
+msgid ""
+"Wenn du es bis zur Alarmanlage|geschafft hast, hängst du dich|mit dem Sauger "
+"an die Wand,|damit du keinen Druck-Alarm auslöst."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:789
+msgid "Die Alarmanlage schaltest du|mit einem speziellen Gerät aus."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:790
+msgid ""
+"Wenn du das geschafft hast, nichts|wie raus! Aber keine Panik,|du darfst "
+"keinen Alarm auslösen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:795
+msgid "So, noch irgendwelche Fragen?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:801
+msgid "Also gut."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:803
+msgid "Du bekommst 30000 Xa."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:805
+msgid "Ja, die Methode hat sich bewährt."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:808
+msgid "Hast du sonst noch Fragen?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:811
+msgid "Nachdem wir alles geklärt|haben, kann es ja losgehen!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:816
+msgid "Zur vereinbarten Zeit ..."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:834
+msgid ""
+"Du stehst vor dem Orzeng Museum,|während die Gangster schon in einen|anderen "
+"Gebäuderteil eingedrungen sind."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:837
+msgid ""
+"Wichtiger Hinweis:|Hier ist die letzte Möglichkeit,|vor dem Einbruch "
+"abzuspeichern."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:840
+msgid "Wenn Sie das Museum betreten haben,|können Sie nicht mehr speichern!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:848
+msgid "Stecken Sie sich Ihre|Tomaten an den Hut!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:855
+msgid "Das kann ja jeder sagen!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:865
+msgid "Niemand öffnet."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:870
+msgid "Welche Zahl willst du eingeben:      "
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:882 ../../ms2/ms2_r2.c:886
+msgid "Falsche Eingabe"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:896
+msgid "Der Aufzug bewegt sich."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:914
+msgid "Die Karte wird|nicht angenommen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:927
+msgid "Da ist nichts mehr."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:930
+msgid "Da ist ein Schlüssel unter dem Bett!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:936
+msgid ""
+"Hey, da ist etwas unter dem|Bett. Nach dem Geräusch zu|urteilen, ist es aus "
+"Metall."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:939
+msgid "Mist, es gelingt dir nicht,|den Gegenstand hervorzuholen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:945
+msgid "Die Klappe ist schon offen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:979
+msgid "Der Schlüsssel paßt nicht."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:983
+msgid ""
+"Du steckst den Chip in die|Anlage, aber es passiert nichts.|Die Anlage "
+"scheint kaputt zu sein."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:987
+msgid "Es passiert nichts. Das Ding|scheint kaputt zu sein."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:998
+msgid "Hochspannung ist ungesund, wie du aus|Teil 1 eigentlich wissen müßtest!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1034
+msgid "Es hängt ein Kabel heraus."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1035
+msgid "Irgendetwas hat hier|nicht ganz funktioniert."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1059
+msgid "Du ziehst den Raumanzug an."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1061
+msgid "Du ziehst den Raumanzug aus."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1069 ../../ms2/ms2_r2.c:1099
+msgid "Das ist schon verbunden."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1129
+msgid "Die Leitung ist hier|schon ganz richtig."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1137
+msgid "Roger W.! Wie kommen Sie denn hierher?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1140
+msgid "Ach, sieh mal einer an! Sie schon wieder!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1141
+msgid "Wo haben Sie denn|Ihr Schiff gelassen?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1144
+msgid "Schauen Sie mal hinter mich auf|den Turm! Da oben hängt es."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1145
+msgid ""
+"Ich hatte es scheinbar etwas zu|eilig, aber ich mußte unbedingt|zu den "
+"Dreharbeiten nach Xenon!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1146
+msgid "Mich wundert, daß es die Leute|hier so gelassen nehmen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1147
+msgid ""
+"Die tun gerade so, als ob der Turm|schon immer so schräg gestanden hätte!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1148
+msgid "Hat er auch, schon seit|mehreren Jahrhunderten!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1151
+msgid ""
+"Äh ... ach so. Und von wo|kommen Sie? Sie hatten's ja|wohl auch ziemlich "
+"eilig."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1152
+msgid "Ich komme von Axacuss."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1156
+msgid "Hmm, was mach ich jetzt bloß?"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1157
+msgid ""
+"Ich kenne ein gutes Cafe nicht|weit von hier, da können|wir uns erstmal "
+"erholen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1160
+msgid "Ok, einverstanden."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1204
+msgid "Faszinierend!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1205
+msgid "Taxis"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1205
+msgid "Hier ist ja richtig was los!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1206
+msgid "Axacussaner"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1207
+msgid "Teilnahmekarte"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1216
+msgid "Axacussanerin"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1223
+msgid "Darauf steht:|\"115AY2,96A\""
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1224
+msgid "Darauf steht:|\"115AY2,96B\""
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1233
+msgid "Darauf steht:|\"341,105A\""
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1234
+msgid "Darauf steht:|\"341,105B\""
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1244
+msgid "Klingel"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1245
+msgid "Anzeige"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1246
+msgid "Tastenblock"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1246
+msgid "Es sind Tasten von 0 bis 9 darauf."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1255
+msgid "Chip"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1255
+msgid "Es ist ein Musikchip!"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1256
+msgid "Klappe"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1256
+msgid "Sie ist mit einem altmodischen|Schloß verschlossen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1258
+msgid "Musikanlage"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1258
+msgid "Toll, eine in die Wand|integrierte Stereoanlage."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1259
+msgid "Boxen"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1259
+msgid "Ganz normale Boxen."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1260
+msgid "Stifte"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1260
+msgid "Ganz normale Stifte."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1261
+msgid "Metallklötzchen"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1261
+msgid "Es ist magnetisch."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1262
+msgid "Bild"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1262
+msgid "Ein ungewöhnliches Bild."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1263
+msgid "Schrank"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1263
+msgid "Er ist verschlossen"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1265
+msgid "Aufzug"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1266
+msgid "unter Bett"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1266
+msgid ""
+"Unter dem Bett sind bestimmt wichtige|Dinge zu finden, nur kommst du nicht "
+"darunter.|Du bräuchtest einen Stock oder so etwas."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1267
+msgid "Schlüssel"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1267
+msgid "Ein kleiner Metallschlüssel."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1274 ../../ms2/ms2_r2.c:1277
+msgid "Schalter"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1275
+msgid "Griff"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1276
+msgid "Luke"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1278
+msgid "Raumanzug"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1278
+msgid "Ein zusammenfaltbarer Raumanzug."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1279 ../../ms2/ms2_r2.c:1280
+msgid "Leitung"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1279
+msgid "Irgendetwas scheint hier|kaputtgegangen zu sein."
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:1280
+msgid "Sie hängt lose von der Decke runter."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:85
+msgid ""
+"Zur Erinnerung:|Dir ist es gelungen, aus den|Artus-Geheimbüros zu fliehen."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:88
+msgid ""
+"Nun befindest du dich in|einem Passagierraumschiff,|das nach Axacuss City "
+"fliegt."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:91
+msgid ""
+"Während des Fluges schaust du dir|das axacussanische Fernsehprogramm an.|Du "
+"stößt auf etwas Interessantes ..."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:119
+msgid "Herzlich willkommen!"
+msgstr ""
+
+#: ../../ms2/ms2_s.c:123
+msgid ""
+"Heute zu Gast ist Alga Lorch.|Sie wird Fragen an den Erdling|Horst Hummel "
+"stellen."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:127
+msgid "Horst wird alle Fragen|beantworten, soweit es|ihm möglich ist."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:128
+msgid "Sie haben das Wort, Frau Lorch!"
+msgstr ""
+
+#: ../../ms2/ms2_s.c:134
+msgid "Herr Hummel, hier ist meine erste Frage: ..."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:135
+msgid ""
+"Sie sind nun ein berühmter Mann auf Axacuss.|Aber sicher vermissen Sie auch "
+"Ihren Heimatplaneten."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:136
+msgid ""
+"Wenn Sie wählen könnten, würden Sie lieber|ein normales Leben auf der Erde "
+"führen,|oder finden Sie das Leben hier gut?"
+msgstr ""
+
+#: ../../ms2/ms2_s.c:137
+msgid ""
+"Ehrlich gesagt finde ich es schön,|berühmt zu sein. Das Leben ist|"
+"aufregender als auf der Erde."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:138
+msgid "Außerdem sind die Leute von der|Artus GmbH hervorragende Freunde."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:139
+msgid ""
+"Nun ja, planen Sie denn trotzdem,|irgendwann auf die Erde zurückzukehren?"
+msgstr ""
+
+#: ../../ms2/ms2_s.c:140
+msgid "Das kann ich Ihnen zum jetzigen|Zeitpunkt noch nicht genau sagen."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:141
+msgid "Aber ich versichere Ihnen, ich|werde noch eine Weile hierbleiben."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:142
+msgid ""
+"Aha, mich interessiert außerdem,|ob es hier auf Axacuss etwas gibt,|das Sie "
+"besonders mögen."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:152
+msgid ""
+"Oh mir gefällt der ganze Planet,|aber das Beste hier sind die|hervorragenden "
+"Artus-Zahnbürsten!"
+msgstr ""
+
+#: ../../ms2/ms2_s.c:153
+msgid "Zahnbürsten von solcher Qualität|gab es auf der Erde nicht."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:154
+msgid "Äh, ach so."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:160
+msgid "Plötzlich lenkt dich eine|Lautsprecherstimme vom Fernseher ab."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:163
+msgid ""
+"\"Sehr geehrte Damen und Herren,|wir sind soeben auf dem Flughafen|von "
+"Axacuss City gelandet.\""
+msgstr ""
+
+#: ../../ms2/ms2_s.c:166
+msgid ""
+"\"Ich hoffe, Sie hatten einen angenehmen Flug.|Bitte verlassen Sie das "
+"Raumschiff! Auf Wiedersehen!\""
+msgstr ""
+
+#: ../../ms2/ms2_s.c:186
+msgid ""
+"Während die anderen Passagiere|aussteigen, versuchst du,|den Schock zu "
+"verarbeiten."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:189
+msgid ""
+"\"Ich muß beweisen, daß dieser|Roboter der falsche Horst|Hummel ist!\", "
+"denkst du."
+msgstr ""
+
+#: ../../ms2/ms2_s.c:192
+msgid ""
+"\"Diese Mistkerle von der Artus GmbH und|Commander Sumoti müssen entlarvt "
+"werden!\""
+msgstr ""
