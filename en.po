@@ -8,118 +8,120 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2017-07-22 10:21+0000\n"
+"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.9\n"
 
 #. I18N: Go
 #: ../../msn/msn.c:1610
 msgid "Gehe"
-msgstr ""
+msgstr "Go"
 
 #. I18N: Look
 #: ../../msn/msn.c:1612
 msgid "Schau"
-msgstr ""
+msgstr "Look"
 
 #. I18N: Take
 #: ../../msn/msn.c:1614
 msgid "Nimm"
-msgstr ""
+msgstr "Take"
 
 #. I18N: Open
 #: ../../msn/msn.c:1616
 msgid "Öffne"
-msgstr ""
+msgstr "Open"
 
 #. I18N: Close
 #: ../../msn/msn.c:1618
 msgid "Schließe"
-msgstr ""
+msgstr "Close"
 
 #. I18N: Press
 #: ../../msn/msn.c:1620
 msgid "Drücke"
-msgstr ""
+msgstr "Press"
 
 #. I18N: Pull
 #: ../../msn/msn.c:1622
 msgid "Ziehe"
-msgstr ""
+msgstr "Pull"
 
 #. I18N: Use
 #: ../../msn/msn.c:1624
 msgid "Benutze"
-msgstr ""
+msgstr "Use"
 
 #. I18N: Talk
 #: ../../msn/msn.c:1626
 msgid "Rede"
-msgstr ""
+msgstr "Talk"
 
 #. I18N: Give
 #: ../../msn/msn.c:1628
 msgid "Gib"
-msgstr ""
+msgstr "Give"
 
 #. I18N: End of conversation
 #: ../../msn/msn.c:2204
 msgid "Gespräch beenden"
-msgstr ""
+msgstr "End of conversation"
 
 #. I18N: Go to
 #: ../../msn/msn.c:2334
 msgid "Gehe zu "
-msgstr ""
+msgstr "Go to "
 
 #. I18N: Look at
 #: ../../msn/msn.c:2336
 msgid "Schau "
-msgstr ""
+msgstr "Look at "
 
 #. I18N: Take
 #: ../../msn/msn.c:2338
 msgid "Nimm "
-msgstr ""
+msgstr "Take "
 
 #. I18N: Open
 #: ../../msn/msn.c:2340
 msgid "Öffne "
-msgstr ""
+msgstr "Open "
 
 #. I18N: Close
 #: ../../msn/msn.c:2342
 msgid "Schließe "
-msgstr ""
+msgstr "Close "
 
 #. I18N: Press
 #: ../../msn/msn.c:2344
 msgid "Drücke "
-msgstr ""
+msgstr "Press "
 
 #. I18N: Pull
 #: ../../msn/msn.c:2346
 msgid "Ziehe "
-msgstr ""
+msgstr "Pull "
 
 #. I18N: Use
 #: ../../msn/msn.c:2348
 msgid "Benutze "
-msgstr ""
+msgstr "Use "
 
 #. I18N: Talk to
 #: ../../msn/msn.c:2350
 msgid "Rede mit "
-msgstr ""
+msgstr "Talk to "
 
 #. I18N: Give
 #: ../../msn/msn.c:2352
 msgid "Gib "
-msgstr ""
+msgstr "Give "
 
 #: ../../msn/msn.c:2368
 msgid " an "
@@ -127,258 +129,258 @@ msgstr ""
 
 #: ../../msn/msn.c:2371
 msgid " mit "
-msgstr ""
+msgstr " with "
 
 #. I18N: Load
 #: ../../msn/msn.c:2880
 msgid "Laden"
-msgstr ""
+msgstr "Load"
 
 #. I18N: Save
 #: ../../msn/msn.c:2883
 msgid "Speichern"
-msgstr ""
+msgstr "Save"
 
 #. I18N: Back
 #: ../../msn/msn.c:2886
 msgid "Zurück"
-msgstr ""
+msgstr "Back"
 
 #. I18N: Restart
 #: ../../msn/msn.c:2889
 msgid "Neustart"
-msgstr ""
+msgstr "Restart"
 
 #. I18N: Help
 #: ../../msn/msn.c:3163
 msgid "F1    Hilfe"
-msgstr ""
+msgstr "F1    Help"
 
 #. I18N: Instructions
 #: ../../msn/msn.c:3165
 msgid "F2    Anleitung"
-msgstr ""
+msgstr "F2    Instructions"
 
 #. I18N: Program information
 #: ../../msn/msn.c:3167
 msgid "F3    Programminformationen"
-msgstr ""
+msgstr "F3    Program information"
 
 #. I18N: Text Speed
 #: ../../msn/msn.c:3169
 msgid "F4    Textgeschwindigkeit"
-msgstr ""
+msgstr "F4    Text speed"
 
 #. I18N: Load / Save
 #: ../../msn/msn.c:3171
 msgid "F5    Laden / Speichern"
-msgstr ""
+msgstr "F5    Load / Save"
 
 #. I18N: Skip intro
 #: ../../msn/msn.c:3173
 msgid "ESC   Vorspann überspringen"
-msgstr ""
+msgstr "ESC   Skip intro"
 
 #. I18N: Exit program
 #: ../../msn/msn.c:3175
 msgid "Alt-X Programm abbrechen"
-msgstr ""
+msgstr "Alt-X Exit program"
 
 #. I18N: Text Speed
 #: ../../msn/msn.c:3219
 msgid "Textgeschwindigkeit:"
-msgstr ""
+msgstr "Text speed:"
 
 #. I18N: Leave game?
 #: ../../msn/msn.c:3267
 msgid "Spiel abbrechen?"
-msgstr ""
+msgstr "Leave game?"
 
 #: ../../msn/msn.c:3270
 msgid "Ja"
-msgstr ""
+msgstr "Yes"
 
 #: ../../msn/msn.c:3271
 msgid "Nein"
-msgstr ""
+msgstr "No"
 
 #. I18N: You already carry this.
 #: ../../msn/msn.c:3341
 msgid "Das trägst du doch bei dir."
-msgstr ""
+msgstr "You already carry this."
 
 #. I18N: You're already there.
 #: ../../msn/msn.c:3344
 msgid "Du bist doch schon da."
-msgstr ""
+msgstr "You are already there."
 
 #. I18N: This is closed
 #: ../../msn/msn.c:3347 ../../msn/msn_r1.c:683
 msgid "Das ist geschlossen."
-msgstr ""
+msgstr "This is closed."
 
 #. I18N: You already have that
 #: ../../msn/msn.c:3357
 msgid "Das hast du doch schon."
-msgstr ""
+msgstr "You already have that."
 
 #. I18N: You do not need that.
 #: ../../msn/msn.c:3360
 msgid "Das brauchst du nicht."
-msgstr ""
+msgstr "You do not need that."
 
 #. I18N: You can't take that.
 #: ../../msn/msn.c:3363
 msgid "Das kannst du nicht nehmen."
-msgstr ""
+msgstr "You can't take that."
 
 #. I18N: This can't be opened
 #: ../../msn/msn.c:3370
 msgid "Das läßt sich nicht öffnen."
-msgstr ""
+msgstr "This cannot be opened."
 
 #. I18N: This is already opened.
 #: ../../msn/msn.c:3373
 msgid "Das ist schon offen."
-msgstr ""
+msgstr "This is already opened."
 
 #. I18N: This is locked.
 #: ../../msn/msn.c:3376
 msgid "Das ist verschlossen."
-msgstr ""
+msgstr "This is locked."
 
 #. I18N: This can't be closed.
 #: ../../msn/msn.c:3393
 msgid "Das läßt sich nicht schließen."
-msgstr ""
+msgstr "This cannot be closed."
 
 #. I18N: This is already closed.
 #: ../../msn/msn.c:3396 ../../msn/msn_r1.c:829
 msgid "Das ist schon geschlossen."
-msgstr ""
+msgstr "This is already closed."
 
 #. I18N: Better keep it!
 #: ../../msn/msn.c:3412
 msgid "Behalt es lieber!"
-msgstr ""
+msgstr "Better keep it!"
 
 #. I18N: This is not possible.
 #: ../../msn/msn.c:3418
 msgid "Das geht nicht."
-msgstr ""
+msgstr "This is not possible."
 
 #: ../../msn/msn_mod.c:573
 msgid "^(C) 1994 Thomas und Steffen Dingel#"
-msgstr ""
+msgstr "^(C) 1994 Thomas and Steffen Dingel#"
 
 #: ../../msn/msn_mod.c:574
 msgid "Story und Grafik:^ Thomas Dingel#"
-msgstr ""
+msgstr "Story and Graphics:^ Thomas Dingel#"
 
 #: ../../msn/msn_mod.c:575
 msgid "Programmierung:^ Steffen Dingel#"
-msgstr ""
+msgstr "Programming:^ Steffen Dingel#"
 
 #: ../../msn/msn_mod.c:576
 msgid "Musik:^ Bernd Hoffmann#"
-msgstr ""
+msgstr "Music:^ Bernd Hoffmann#"
 
 #: ../../msn/msn_mod.c:577
 msgid "Getestet von ...#"
-msgstr ""
+msgstr "Tested by ...#"
 
 #: ../../msn/msn_mod.c:587
 msgid "^             E#N#D#E ...########"
-msgstr ""
+msgstr "^          T#H#E E#N#D ...########"
 
 #: ../../msn/msn_mod.c:588
 msgid "#       ... des ersten Teils!########"
-msgstr ""
+msgstr "#       ... of the first part!########"
 
 #: ../../msn/msn_mod.c:590
 msgid "^Aber:#"
-msgstr ""
+msgstr "^But:#"
 
 #: ../../msn/msn_mod.c:591
 msgid "Das Abenteuer geht weiter, ...##"
-msgstr ""
+msgstr "The adventure continues ...##"
 
 #: ../../msn/msn_mod.c:592
 msgid "... wenn Sie sich für 30,- DM registrieren lassen!##"
-msgstr ""
+msgstr "... if you register for 30, - DM!##"
 
 #: ../../msn/msn_mod.c:593
 msgid "(Falls Sie das nicht schon längst getan haben.)##"
-msgstr ""
+msgstr "(If you have not already done so.)##"
 
 #: ../../msn/msn_mod.c:594
 msgid "In^ Teil 2 - Der Doppelgänger^ erwarten Sie:##"
-msgstr ""
+msgstr "In^ Part 2 - The Doppelganger^ you can expect:##"
 
 #: ../../msn/msn_mod.c:595
 msgid "Knifflige Puzzles,##"
-msgstr ""
+msgstr "tricky puzzles,##"
 
 #: ../../msn/msn_mod.c:596
 msgid "noch mehr Grafik und Sound,##"
-msgstr ""
+msgstr "even more graphics and sound,##"
 
 #: ../../msn/msn_mod.c:597
 msgid "ein perfekt geplanter Museumseinbruch,##"
-msgstr ""
+msgstr "a perfectly planned museum burglary,##"
 
 #: ../../msn/msn_mod.c:598
 msgid "das Virtual-Reality-Spiel \"Indiana Joe\"##"
-msgstr ""
+msgstr "the virtual reality game \"Indiana Joe\"##"
 
 #: ../../msn/msn_mod.c:599
 msgid "und vieles mehr!##"
-msgstr ""
+msgstr "and much more!##"
 
 #. I18N: There's nothing special about it
 #: ../../msn/msn_r0.c:25
 msgid "Es ist nichts Besonderes daran."
-msgstr ""
+msgstr "There's nothing special about it."
 
 #. I18N: You first have to take it
 #: ../../msn/msn_r0.c:27 ../../msn/msn_r0.c:230
 msgid "Das mußt du erst nehmen."
-msgstr ""
+msgstr "You first have to take it."
 
 #. I18N: Hello
 #: ../../msn/msn_r0.c:32
 msgid "Hallo!"
-msgstr ""
+msgstr "Hello!"
 
 #. I18N: Good day!
 #: ../../msn/msn_r0.c:34
 msgid "Guten Tag!"
-msgstr ""
+msgstr "Good day!"
 
 #. I18N: It's me, Horst Hummel
 #: ../../msn/msn_r0.c:36
 msgid "Ich bin's, Horst Hummel."
-msgstr ""
+msgstr "It's me, Horst Hummel."
 
 #: ../../msn/msn_r0.c:147
 msgid "Ok."
-msgstr ""
+msgstr "OK."
 
 #: ../../msn/msn_r0.c:166
 msgid "Irgendwie ist ein Raumhelm|beim Essen unpraktisch."
-msgstr ""
+msgstr "Somehow, a space helmet is|impractical when eating."
 
 #: ../../msn/msn_r0.c:182 ../../msn/msn_r0.c:192
 msgid "Schmeckt ganz gut."
-msgstr ""
+msgstr "Tastes good."
 
 #: ../../msn/msn_r0.c:194
 msgid "Da war irgendetwas drin,|aber jetzt hast du es|mit runtergeschluckt."
-msgstr ""
+msgstr "There was something in it, but now you swallowed it."
 
 #: ../../msn/msn_r0.c:202
 msgid "Du hast es doch schon geöffnet."
-msgstr ""
+msgstr "You've already opened it."
 
 #: ../../msn/msn_r0.c:206
 msgid "In dem Ei ist eine Tablette|in einer Plastikhülle."
