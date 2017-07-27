@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-07-22 19:23+0000\n"
+"PO-Revision-Date: 2017-07-27 21:49+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -1184,7 +1184,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:780
 msgid "Taschenmesser"
-msgstr ""
+msgstr "pocket knife"
 
 #: ../../ms2/ms2_r1.c:780
 msgid "Hey, da ist sogar eine Säge dran."
@@ -1196,7 +1196,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:782
 msgid "Discman"
-msgstr ""
+msgstr "Discman"
 
 #: ../../ms2/ms2_r1.c:782
 msgid "Da ist noch die \"Mad Monkeys\"-CD drin."
@@ -2308,11 +2308,11 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:1059
 msgid "Du ziehst den Raumanzug an."
-msgstr ""
+msgstr "You put on your space suit."
 
 #: ../../ms2/ms2_r2.c:1061
 msgid "Du ziehst den Raumanzug aus."
-msgstr ""
+msgstr "Your take off your space suit."
 
 #: ../../ms2/ms2_r2.c:1069 ../../ms2/ms2_r2.c:1099
 msgid "Das ist schon verbunden."
