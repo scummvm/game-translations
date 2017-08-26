@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-07-31 21:59+0000\n"
+"PO-Revision-Date: 2017-08-26 10:30+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -583,7 +583,7 @@ msgstr "Artificial coma interrupted"
 
 #: ../../msn/msn_r1.c:120 ../../msn/msn_r1.c:156
 msgid "Bitte legen Sie sich in die angezeigte Schlafkammer."
-msgstr "Please lay down in the indicated sleeping chamber."
+msgstr "Please lay down in the indicated stasis pod."
 
 #: ../../msn/msn_r1.c:125
 msgid "Bitte Passwort eingeben:"
@@ -602,8 +602,8 @@ msgid ""
 "Es würde wenig bringen,|sich in eine Schlafkammer zu legen,|die nicht "
 "eingeschaltet ist."
 msgstr ""
-"Going into a sleeping chamber|that is not switched on|is not going to "
-"achieve anything."
+"Going into a stasis pod|that is not switched on|is not going to achieve "
+"anything."
 
 #: ../../msn/msn_r1.c:174
 msgid "Dazu mußt du erst den Raumanzug ausziehen."
@@ -641,12 +641,14 @@ msgid "Geschwindigkeit: "
 msgstr "Speed: "
 
 #: ../../msn/msn_r1.c:308
+#, fuzzy
 msgid "8000 hpm"
-msgstr ""
+msgstr "8000 hpm"
 
 #: ../../msn/msn_r1.c:309
+#, fuzzy
 msgid "0 hpm"
-msgstr ""
+msgstr "0 hpm"
 
 #: ../../msn/msn_r1.c:310
 msgid "Ziel: Arsano 3"
@@ -735,47 +737,49 @@ msgstr ""
 
 #: ../../msn/msn_r1.c:591
 msgid "An dem Kabel ist doch gar kein Stecker."
-msgstr ""
+msgstr "There is no plug on the cable."
 
 #: ../../msn/msn_r1.c:635
 msgid "Du solltest die Luke vielleicht erst öffnen."
-msgstr ""
+msgstr "You should open the hatch first."
 
 #: ../../msn/msn_r1.c:668
 msgid "Das Seil ist im Weg."
-msgstr ""
+msgstr "The cable is in the way."
 
 #: ../../msn/msn_r1.c:685
 msgid "Das geht nicht.|Die Luke ist mindestens|5 Meter über dem Boden."
-msgstr ""
+msgstr "That will not do.|The hatch is at least|5 meters above the ground."
 
 #: ../../msn/msn_r1.c:694
 msgid "Keycard des Commanders"
-msgstr ""
+msgstr "Keycard of the Commander"
 
 #: ../../msn/msn_r1.c:766
+#, fuzzy
 msgid "Was nützt dir der Anschluß|ohne eine Stromquelle?!"
-msgstr ""
+msgstr "The connection is useless without a power source!"
 
 #: ../../msn/msn_r1.c:770
 msgid "Die Spannung ist auf Null abgesunken."
-msgstr ""
+msgstr "The voltage has dropped to zero."
 
 #: ../../msn/msn_r1.c:771
 msgid "Es zeigt volle Spannung an."
-msgstr ""
+msgstr "It displays full voltage."
 
 #: ../../msn/msn_r1.c:782
 msgid "Du mußt die Luke erst öffnen."
-msgstr ""
+msgstr "You must open the hatch first."
 
 #: ../../msn/msn_r1.c:801
+#, fuzzy
 msgid "Das Seil ist hier schon ganz richtig."
-msgstr ""
+msgstr "The cable is in the right place."
 
 #: ../../msn/msn_r1.c:806
 msgid "Das Kabel ist zu kurz."
-msgstr ""
+msgstr "The cable is too short."
 
 #: ../../msn/msn_r1.c:913
 msgid "Du hast die Platte schon aufgelegt."
@@ -791,37 +795,39 @@ msgstr ""
 
 #: ../../msn/msn_r1.c:981
 msgid "Schneid doch besser ein|längeres Stück Kabel ab!"
-msgstr ""
+msgstr "You should cut a longer|piece of cable!"
 
 #: ../../msn/msn_r1.c:1003
 msgid "Leitung mit Stecker"
-msgstr ""
+msgstr "Cable with plug"
 
 #: ../../msn/msn_r1.c:1008 ../../msn/msn_r3.c:74
 msgid "Das ist befestigt."
-msgstr ""
+msgstr "This is fixed."
 
 #: ../../msn/msn_r1.c:1084
 msgid "Du hast jetzt besseres zu tun."
-msgstr ""
+msgstr "You have better things to do now."
 
 #: ../../msn/msn_r1.c:1086
 msgid "Wenn du unbedingt aufs Klo|willst, spiel doch Larry 1."
-msgstr ""
+msgstr "If you absolutely want to go|to the loo, play Larry 1."
 
 #: ../../msn/msn_r1.c:1097
 msgid "Was?! Keiner im Cockpit!|Die sind wohl verrückt!"
-msgstr ""
+msgstr "What?! No one in the cockpit!|They're crazy!"
 
 #: ../../msn/msn_r1.c:1105
 msgid "Komisch, es ist nur|noch ein Raumanzug da."
-msgstr ""
+msgstr "Funny, there's only|one spacesuit."
 
 #: ../../msn/msn_r1.c:1113
 msgid ""
 "Was ist denn das für ein Chaos?|Und außerdem fehlt das Notraumschiff!|Jetzt "
 "wird mir einiges klar.|Die anderen sind geflüchtet,|und ich habe es verpennt."
 msgstr ""
+"What is that chaos? And also|the escape ship is missing!|Now I understand. "
+"The others|have escaped, and they left|me behind."
 
 #: ../../msn/msn_r1_r.c:16 ../../msn/msn_r1_r.c:17 ../../msn/msn_r1_r.c:18
 #: ../../msn/msn_r1_r.c:19 ../../msn/msn_r1_r.c:20 ../../msn/msn_r1_r.c:21
@@ -833,7 +839,7 @@ msgstr ""
 #: ../../msn/msn_r1_r.c:165 ../../msn/msn_r1_r.c:201 ../../msn/msn_r1_r.c:219
 #: ../../msn/msn_r1_r.c:245 ../../msn/msn_r1_r.c:279
 msgid "Luke"
-msgstr ""
+msgstr "Hatch"
 
 #: ../../msn/msn_r1_r.c:23 ../../msn/msn_r1_r.c:67 ../../msn/msn_r1_r.c:68
 #: ../../msn/msn_r1_r.c:103 ../../msn/msn_r1_r.c:239 ../../msn/msn_r2.c:1256
@@ -841,15 +847,15 @@ msgstr ""
 #: ../../msn/msn_r2.c:1296 ../../msn/msn_r3.c:1483 ../../msn/msn_r3.c:1681
 #: ../../msn/msn_r3.c:1682
 msgid "Knopf"
-msgstr ""
+msgstr "Button"
 
 #: ../../msn/msn_r1_r.c:23
 msgid "Er gehört zu der großen Luke."
-msgstr ""
+msgstr "It belongs to the large hatch."
 
 #: ../../msn/msn_r1_r.c:24 ../../msn/msn_r1_r.c:37 ../../msn/msn_r1_r.c:130
 msgid "Leiter"
-msgstr ""
+msgstr "Ladder"
 
 #: ../../msn/msn_r1_r.c:25 ../../msn/msn_r1_r.c:47 ../../msn/msn_r1_r.c:57
 #: ../../msn/msn_r1_r.c:92 ../../msn/msn_r1_r.c:293 ../../msn/msn_r2.c:1221
@@ -863,19 +869,19 @@ msgstr ""
 #: ../../msn/msn_r3.c:1583 ../../msn/msn_r3.c:1598 ../../msn/msn_r3.c:1612
 #: ../../msn/msn_r3.c:1683 ../../msn/msn_r3.c:1699
 msgid "Ausgang"
-msgstr ""
+msgstr "Exit"
 
 #: ../../msn/msn_r1_r.c:31
 msgid "Sie führt ins Cockpit."
-msgstr ""
+msgstr "It leads into the cockpit."
 
 #: ../../msn/msn_r1_r.c:32
 msgid "Sie führt zur Küche."
-msgstr ""
+msgstr "It leads to the kitchen."
 
 #: ../../msn/msn_r1_r.c:34
 msgid "Sie führt zu den Tiefschlafkammern."
-msgstr ""
+msgstr "It leads to the stasis pods."
 
 #: ../../msn/msn_r1_r.c:36 ../../msn/msn_r1_r.c:123 ../../msn/msn_r1_r.c:151
 #: ../../msn/msn_r1_r.c:166 ../../msn/msn_r1_r.c:179 ../../msn/msn_r1_r.c:180
@@ -885,7 +891,7 @@ msgstr ""
 #: ../../msn/msn_r1_r.c:280 ../../msn/msn_r2.c:1252 ../../msn/msn_r2.c:1298
 #: ../../msn/msn_r3.c:1700
 msgid "Schlitz"
-msgstr ""
+msgstr "Slot"
 
 #: ../../msn/msn_r1_r.c:36 ../../msn/msn_r1_r.c:123 ../../msn/msn_r1_r.c:151
 #: ../../msn/msn_r1_r.c:166 ../../msn/msn_r1_r.c:179 ../../msn/msn_r1_r.c:180
@@ -894,7 +900,7 @@ msgstr ""
 #: ../../msn/msn_r1_r.c:257 ../../msn/msn_r1_r.c:258 ../../msn/msn_r1_r.c:259
 #: ../../msn/msn_r1_r.c:280
 msgid "Es ist ein Keycard-Leser."
-msgstr ""
+msgstr "It is a keycard reader."
 
 #: ../../msn/msn_r1_r.c:38 ../../msn/msn_r3.c:1599
 msgid "Gang"
@@ -902,52 +908,52 @@ msgstr ""
 
 #: ../../msn/msn_r1_r.c:44 ../../msn/msn_r1_r.c:45
 msgid "Dies ist eine der Tiefschlafkammern."
-msgstr ""
+msgstr "This is one of the stasis pods."
 
 #: ../../msn/msn_r1_r.c:46 ../../msn/msn_r3.c:1626 ../../msn/msn_r3.c:1638
 #: ../../msn/msn_r3.c:1649 ../../msn/msn_r3.c:1661 ../../msn/msn_r3.c:1672
 msgid "Computer"
-msgstr ""
+msgstr "Computer"
 
 #: ../../msn/msn_r1_r.c:53 ../../msn/msn_r2.c:1302
 msgid "Instrumente"
-msgstr ""
+msgstr "Instruments"
 
 #: ../../msn/msn_r1_r.c:53
 msgid "Hmm, sieht ziemlich kompliziert aus."
-msgstr ""
+msgstr "Hmm, this looks pretty complicated."
 
 #: ../../msn/msn_r1_r.c:55 ../../msn/msn_r1_r.c:56 ../../msn/msn_r1_r.c:105
 msgid "Monitor"
-msgstr ""
+msgstr "Monitor"
 
 #: ../../msn/msn_r1_r.c:56
 msgid "Dieser Monitor sagt dir nichts."
-msgstr ""
+msgstr "There is nothing on this monitor."
 
 #: ../../msn/msn_r1_r.c:63
 msgid "Das ist eine Luke !!!"
-msgstr ""
+msgstr "This is a hatch !!!"
 
 #: ../../msn/msn_r1_r.c:65
 msgid "Dies ist eine Luke !!!"
-msgstr ""
+msgstr "This is a hatch !!!"
 
 #: ../../msn/msn_r1_r.c:69
 msgid "Helm"
-msgstr ""
+msgstr "Helmet"
 
 #: ../../msn/msn_r1_r.c:69
 msgid "Es ist der Helm zum Raumanzug."
-msgstr ""
+msgstr "This is the helmet for the spacesuit."
 
 #: ../../msn/msn_r1_r.c:70
 msgid "Raumanzug"
-msgstr ""
+msgstr "Spacesuit"
 
 #: ../../msn/msn_r1_r.c:70
 msgid "Der einzige Raumanzug, den die|anderen hiergelassen haben ..."
-msgstr ""
+msgstr "The only space suit the others have left ..."
 
 #: ../../msn/msn_r1_r.c:72
 msgid "Versorgung"
