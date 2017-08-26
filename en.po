@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-07-27 21:49+0000\n"
+"PO-Revision-Date: 2017-08-26 10:18+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -676,7 +676,7 @@ msgstr ""
 
 #: ../../ms2/ms2_pyra.c:1071
 msgid "Knopf"
-msgstr ""
+msgstr "Button"
 
 #: ../../ms2/ms2_pyra.c:1143 ../../ms2/ms2_pyra.c:1151
 #: ../../ms2/ms2_pyra.c:1159 ../../ms2/ms2_pyra.c:1167
@@ -746,7 +746,7 @@ msgstr ""
 #: ../../ms2/ms2_pyra.c:1264 ../../ms2/ms2_r1.c:844 ../../ms2/ms2_r1.c:845
 #: ../../ms2/ms2_r2.c:1243
 msgid "Schlitz"
-msgstr ""
+msgstr "Slot"
 
 #: ../../ms2/ms2_pyra.c:1264
 msgid "Du kommst mit den|Händen nicht rein."
@@ -772,7 +772,7 @@ msgstr ""
 #: ../../ms2/ms2_pyra.c:1333 ../../ms2/ms2_r1.c:833 ../../ms2/ms2_r1.c:840
 #: ../../ms2/ms2_r1.c:857 ../../ms2/ms2_r2.c:1215 ../../ms2/ms2_r2.c:1248
 msgid "Ausgang"
-msgstr ""
+msgstr "Exit"
 
 #: ../../ms2/ms2_pyra.c:1323
 msgid "Unheimlich!"
@@ -2533,11 +2533,11 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:1276
 msgid "Luke"
-msgstr ""
+msgstr "Hatch"
 
 #: ../../ms2/ms2_r2.c:1278
 msgid "Raumanzug"
-msgstr ""
+msgstr "Spacesuit"
 
 #: ../../ms2/ms2_r2.c:1278
 msgid "Ein zusammenfaltbarer Raumanzug."
