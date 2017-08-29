@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-08-26 10:30+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-08-29 02:21+0000\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -448,7 +448,7 @@ msgstr ""
 
 #: ../../msn/msn_r0.c:355 ../../msn/msn_r1.c:495 ../../msn/msn_r1.c:604
 msgid "Womit denn?"
-msgstr ""
+msgstr "With what?"
 
 #: ../../msn/msn_r0.c:366 ../../msn/msn_r1.c:499 ../../msn/msn_r1.c:608
 #: ../../msn/msn_r1_r.c:115
@@ -469,7 +469,7 @@ msgstr "You must take off your helmet first."
 
 #: ../../msn/msn_r0.c:397
 msgid "Du mußt erst den Versorgungsteil abnehmen."
-msgstr ""
+msgstr "You must take off your supply first."
 
 #: ../../msn/msn_r0.c:401
 msgid "Du ziehst den Raumanzug aus."
@@ -481,7 +481,7 @@ msgstr "You put on your space suit."
 
 #: ../../msn/msn_r0.c:431
 msgid "Den Helm hättest du|besser angelassen!"
-msgstr ""
+msgstr "You should have kept your helmet on!"
 
 #: ../../msn/msn_r0.c:441
 msgid "Du ziehst den Helm auf."
@@ -493,15 +493,15 @@ msgstr "You must wear the suit first."
 
 #: ../../msn/msn_r0.c:467
 msgid "Den Versorungsteil hättest du|besser nicht abgenommen!"
-msgstr ""
+msgstr "You should have not taken off your supply!"
 
 #: ../../msn/msn_r0.c:469
 msgid "Du nimmst den Versorgungsteil ab."
-msgstr ""
+msgstr "You take off your supply."
 
 #: ../../msn/msn_r0.c:477
 msgid "Du ziehst den Versorgungsteil an."
-msgstr ""
+msgstr "You put on your supply."
 
 #: ../../msn/msn_r0.c:489
 msgid "Die Leitung ist hier unnütz."
@@ -522,7 +522,7 @@ msgstr "Wait a minute, there is a bookmark in it|that says \"Forty-two\"."
 
 #: ../../msn/msn_r0.c:507
 msgid "Du hättest besser vorher|den Stecker rausgezogen."
-msgstr ""
+msgstr "You should have pulled|the plug before."
 
 #: ../../msn/msn_r0.c:567
 msgid "Deine Armbanduhr piepst,|die Alarmzeit ist erreicht."
@@ -733,7 +733,7 @@ msgstr ""
 
 #: ../../msn/msn_r1.c:572
 msgid "Laß lieber die Finger davon!"
-msgstr ""
+msgstr "You better keep your hands off!"
 
 #: ../../msn/msn_r1.c:591
 msgid "An dem Kabel ist doch gar kein Stecker."
@@ -775,7 +775,7 @@ msgstr "You must open the hatch first."
 #: ../../msn/msn_r1.c:801
 #, fuzzy
 msgid "Das Seil ist hier schon ganz richtig."
-msgstr "The cable is in the right place."
+msgstr "The cable is already at the right place."
 
 #: ../../msn/msn_r1.c:806
 msgid "Das Kabel ist zu kurz."
@@ -783,15 +783,15 @@ msgstr "The cable is too short."
 
 #: ../../msn/msn_r1.c:913
 msgid "Du hast die Platte schon aufgelegt."
-msgstr ""
+msgstr "You already put the record on."
 
 #: ../../msn/msn_r1.c:925
 msgid "Es ist doch gar keine Platte aufgelegt."
-msgstr ""
+msgstr "You haven't put a record on yet."
 
 #: ../../msn/msn_r1.c:960
 msgid "Die Platte scheint einen Sprung zu haben."
-msgstr ""
+msgstr "The record seems to be scratched."
 
 #: ../../msn/msn_r1.c:981
 msgid "Schneid doch besser ein|längeres Stück Kabel ab!"
