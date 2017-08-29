@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-08-29 02:21+0000\n"
+"PO-Revision-Date: 2017-08-29 02:56+0000\n"
 "Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -703,7 +703,6 @@ msgid "Er zeigt Normaldruck an."
 msgstr "It indicates normal pressure."
 
 #: ../../msn/msn_r1.c:464
-#, fuzzy
 msgid "Ein Stück Schrott."
 msgstr "Some scrap metal."
 
@@ -956,20 +955,21 @@ msgid "Der einzige Raumanzug, den die|anderen hiergelassen haben ..."
 msgstr "The only space suit the others have left ..."
 
 #: ../../msn/msn_r1_r.c:72
+#, fuzzy
 msgid "Versorgung"
-msgstr ""
+msgstr "Supply"
 
 #: ../../msn/msn_r1_r.c:72
 msgid "Es ist der Versorgungsteil zum Raumanzug."
-msgstr ""
+msgstr "It is the supply for the spacesuit."
 
 #: ../../msn/msn_r1_r.c:74
 msgid "Druckmesser"
-msgstr ""
+msgstr "Manometer"
 
 #: ../../msn/msn_r1_r.c:81 ../../msn/msn_r1_r.c:84
 msgid "Schrott"
-msgstr ""
+msgstr "Scrap"
 
 #: ../../msn/msn_r1_r.c:81
 msgid ""
@@ -982,17 +982,18 @@ msgid "Lüsterklemme"
 msgstr ""
 
 #: ../../msn/msn_r1_r.c:84
+#, fuzzy
 msgid ""
 "Junge, Junge! Die Explosion hat ein|ganz schönes Durcheinander angerichtet."
-msgstr ""
+msgstr "Boy, oh boy! The explosion wreaked|quite some havoc."
 
 #: ../../msn/msn_r1_r.c:86
 msgid "Reaktor"
-msgstr ""
+msgstr "Reactor"
 
 #: ../../msn/msn_r1_r.c:86
 msgid "Das war einmal der Reaktor."
-msgstr ""
+msgstr "This was a reactor once."
 
 #: ../../msn/msn_r1_r.c:87
 msgid "Düse"
@@ -1000,37 +1001,38 @@ msgstr ""
 
 #: ../../msn/msn_r1_r.c:88
 msgid "blauer Kürbis"
-msgstr ""
+msgstr "blue pumpkin"
 
 #: ../../msn/msn_r1_r.c:88
 msgid "Keine Ahnung, was das ist."
-msgstr ""
+msgstr "No idea what this is."
 
 #: ../../msn/msn_r1_r.c:90
 msgid "Landefähre"
-msgstr ""
+msgstr "Landing module"
 
 #: ../../msn/msn_r1_r.c:90
+#, fuzzy
 msgid "Sie war eigentlich für Bodenuntersuchungen|auf Arsano 3 gedacht."
-msgstr ""
+msgstr "It was supposed to be used for soil|investigation on Arsano 3."
 
 #: ../../msn/msn_r1_r.c:93 ../../msn/msn_r1_r.c:120
 msgid "Sie führt nach draußen."
-msgstr ""
+msgstr "It leads outside."
 
 #: ../../msn/msn_r1_r.c:95
 msgid "Generator"
-msgstr ""
+msgstr "Generator"
 
 #: ../../msn/msn_r1_r.c:95
 msgid "Er versorgt das Raumschiff mit Strom."
-msgstr ""
+msgstr "It supplies power to the spaceship."
 
 #: ../../msn/msn_r1_r.c:102 ../../msn/msn_r1_r.c:154 ../../msn/msn_r1_r.c:169
 #: ../../msn/msn_r1_r.c:205 ../../msn/msn_r1_r.c:223 ../../msn/msn_r1_r.c:249
 #: ../../msn/msn_r1_r.c:283 ../../msn/msn_r3.c:1490
 msgid "Steckdose"
-msgstr ""
+msgstr "Socket"
 
 #: ../../msn/msn_r1_r.c:103
 msgid ""
