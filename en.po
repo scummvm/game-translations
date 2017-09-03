@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-09-03 14:51+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-09-03 15:57+0000\n"
+"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -976,10 +976,12 @@ msgid ""
 "Da ist eine Lüsterklemme dran, die|noch ganz brauchbar aussieht.|Ich nehme "
 "sie mit."
 msgstr ""
+"There is a terminal strip on it|that looks quite useful.|I will take it with "
+"me."
 
 #: ../../msn/msn_r1_r.c:83
 msgid "Lüsterklemme"
-msgstr ""
+msgstr "Terminal strip"
 
 #: ../../msn/msn_r1_r.c:84
 #, fuzzy
@@ -1038,366 +1040,389 @@ msgstr "Socket"
 msgid ""
 "Es ist ein Sicherheitsknopf.|Er kann nur mit einem spitzen|Gegenstand "
 "gedrückt werden."
-msgstr ""
+msgstr "It's a safety button.|It can only be pressed|with a pointed object."
 
 #: ../../msn/msn_r1_r.c:106 ../../msn/msn_r2.c:1300
 msgid "Tastatur"
-msgstr ""
+msgstr "Keyboard"
 
 #: ../../msn/msn_r1_r.c:116
 msgid "leere Kabelrolle"
-msgstr ""
+msgstr "Empty cable reel"
 
 #: ../../msn/msn_r1_r.c:117
 msgid ""
 "Hey, das ist die Keycard des Commanders!|Er muß sie bei dem Überstürzten|"
 "Aufbruch verloren haben."
 msgstr ""
+"Hey, that's the commander's keycard!|He must have lost it in the "
+"rushed|departure."
 
 #: ../../msn/msn_r1_r.c:119 ../../msn/msn_r1_r.c:137 ../../msn/msn_r1_r.c:188
 #: ../../msn/msn_r2.c:1212
 msgid "Seil"
-msgstr ""
+msgstr "Rope"
 
 #: ../../msn/msn_r1_r.c:124
 msgid "Klappe"
-msgstr ""
+msgstr "Hatch"
 
 #: ../../msn/msn_r1_r.c:125 ../../msn/msn_r1_r.c:128 ../../msn/msn_r1_r.c:242
 #: ../../msn/msn_r1_r.c:243 ../../msn/msn_r3.c:1489
 msgid "Leitung"
-msgstr ""
+msgstr "Cable"
 
 #: ../../msn/msn_r1_r.c:126
 msgid "Spannungmessgerät"
-msgstr ""
+msgstr "Voltmeter"
 
 #: ../../msn/msn_r1_r.c:127
 msgid "Klemme"
-msgstr ""
+msgstr "Clamp"
 
 #: ../../msn/msn_r1_r.c:128
 msgid "Sie führt vom Generator zum Spannungmessgerät."
-msgstr ""
+msgstr "It goes from the generator to the voltage meter."
 
 #: ../../msn/msn_r1_r.c:143 ../../msn/msn_r1_r.c:212 ../../msn/msn_r1_r.c:213
 #: ../../msn/msn_r1_r.c:214 ../../msn/msn_r1_r.c:217 ../../msn/msn_r3.c:1603
 #: ../../msn/msn_r3.c:1618 ../../msn/msn_r3.c:1640 ../../msn/msn_r3.c:1650
 #: ../../msn/msn_r3.c:1651
 msgid "Bild"
-msgstr ""
+msgstr "Image"
 
 #: ../../msn/msn_r1_r.c:143
 msgid "Manche Leute haben schon|einen komischen Geschmack."
-msgstr ""
+msgstr "Some people have funny tastes."
 
 #: ../../msn/msn_r1_r.c:145
 msgid "Zeichengeräte"
-msgstr ""
+msgstr "Drawing instruments"
 
 #: ../../msn/msn_r1_r.c:146
 msgid ""
 "Auf dem Zettel sind lauter|unverständliche Skizzen und Berechnungen.|"
 "(Jedenfalls für dich unverständlich.)"
 msgstr ""
+"There are incomprehensible sketches|and calculations on that note.|(In any "
+"case, it's incomprehensible to you.)"
 
 #: ../../msn/msn_r1_r.c:148 ../../msn/msn_r1_r.c:215 ../../msn/msn_r1_r.c:233
 #: ../../msn/msn_r1_r.c:276
 msgid "Magnete"
-msgstr ""
+msgstr "Magnets"
 
 #: ../../msn/msn_r1_r.c:148 ../../msn/msn_r1_r.c:215 ../../msn/msn_r1_r.c:233
 #: ../../msn/msn_r1_r.c:276
+#, fuzzy
 msgid "Damit werden Sachen auf|dem Tisch festgehalten."
-msgstr ""
+msgstr "This keeps things|on the board."
 
 #: ../../msn/msn_r1_r.c:152 ../../msn/msn_r1_r.c:167 ../../msn/msn_r1_r.c:190
 #: ../../msn/msn_r1_r.c:203 ../../msn/msn_r1_r.c:221 ../../msn/msn_r1_r.c:247
 #: ../../msn/msn_r1_r.c:260 ../../msn/msn_r1_r.c:281
 msgid "Schrank"
-msgstr ""
+msgstr "Cabinet"
 
 #: ../../msn/msn_r1_r.c:153 ../../msn/msn_r1_r.c:168 ../../msn/msn_r1_r.c:183
 #: ../../msn/msn_r1_r.c:186 ../../msn/msn_r1_r.c:195 ../../msn/msn_r1_r.c:204
 #: ../../msn/msn_r1_r.c:222 ../../msn/msn_r1_r.c:248 ../../msn/msn_r1_r.c:262
 #: ../../msn/msn_r1_r.c:264 ../../msn/msn_r1_r.c:267 ../../msn/msn_r1_r.c:282
 #: ../../msn/msn_r2.c:1299
+#, fuzzy
 msgid "Fach"
-msgstr ""
+msgstr "Compartment"
 
 #: ../../msn/msn_r1_r.c:155 ../../msn/msn_r1_r.c:170 ../../msn/msn_r1_r.c:206
 #: ../../msn/msn_r1_r.c:224 ../../msn/msn_r1_r.c:250 ../../msn/msn_r1_r.c:278
 #: ../../msn/msn_r2.c:1254
 msgid "Toilette"
-msgstr ""
+msgstr "Toilet"
 
 #: ../../msn/msn_r1_r.c:161 ../../msn/msn_r1_r.c:176 ../../msn/msn_r2.c:1283
 msgid "Schachspiel"
-msgstr ""
+msgstr "Game of chess"
 
 #: ../../msn/msn_r1_r.c:161
+#, fuzzy
 msgid "Es macht wohl Spaß, an|der Decke Schach zu spielen."
-msgstr ""
+msgstr "I guess it's fun to play|chess on the ceiling."
 
 #: ../../msn/msn_r1_r.c:163
 msgid "Tennisschläger"
-msgstr ""
+msgstr "Tennis racquets"
 
 #: ../../msn/msn_r1_r.c:163
+#, fuzzy
 msgid "Fliegt Boris Becker auch mit?"
-msgstr ""
+msgstr "Is Boris Becker part of the crew?"
 
 #: ../../msn/msn_r1_r.c:164
 msgid "Tennisball"
-msgstr ""
+msgstr "Tennis ball"
 
 #: ../../msn/msn_r1_r.c:164 ../../msn/msn_r1_r.c:213
 msgid "Toll!"
-msgstr ""
+msgstr "Awesome!"
 
 #: ../../msn/msn_r1_r.c:176
 msgid "Dein Magnetschachspiel. Schach war|schon immer deine Leidenschaft."
-msgstr ""
+msgstr "Your magnetic chess game. Chess|has always been your passion."
 
 #: ../../msn/msn_r1_r.c:178
 msgid "Bett"
-msgstr ""
+msgstr "Bed"
 
 #: ../../msn/msn_r1_r.c:178
 msgid "Das ist dein Bett. Toll, nicht wahr?"
-msgstr ""
+msgstr "This is your bed. Great, isn't it?"
 
 #: ../../msn/msn_r1_r.c:183 ../../msn/msn_r1_r.c:186 ../../msn/msn_r1_r.c:195
+#, fuzzy
 msgid "Das ist eins deiner drei Fächer."
-msgstr ""
+msgstr "It's one of your three compartments."
 
 #: ../../msn/msn_r1_r.c:185
 msgid "Alben"
-msgstr ""
+msgstr "Albums"
 
 #: ../../msn/msn_r1_r.c:185
 msgid "Deine Briefmarkensammlung."
-msgstr ""
+msgstr "Your stamp collection."
 
 #: ../../msn/msn_r1_r.c:188
 msgid "Es ist ungefähr 10 m lang und 4 cm dick."
-msgstr ""
+msgstr "It is about 10 m long and 4 cm thick."
 
 #: ../../msn/msn_r1_r.c:190
 msgid "Das ist dein Schrank."
-msgstr ""
+msgstr "This is your cabinet."
 
 #: ../../msn/msn_r1_r.c:191 ../../msn/msn_r1_r.c:274 ../../msn/msn_r1_r.c:275
+#, fuzzy
 msgid "Krimskram"
-msgstr ""
+msgstr "Junk"
 
 #: ../../msn/msn_r1_r.c:191 ../../msn/msn_r1_r.c:274 ../../msn/msn_r1_r.c:275
+#, fuzzy
 msgid "Es ist nichts brauchbares dabei."
-msgstr ""
+msgstr "There is nothing useful in there."
 
 #: ../../msn/msn_r1_r.c:192 ../../msn/msn_r1_r.c:273
 msgid "Kleider"
-msgstr ""
+msgstr "Clothes"
 
 #: ../../msn/msn_r1_r.c:192
 msgid "Es sind Standard-Weltraum-Klamotten."
-msgstr ""
+msgstr "They are standard space gear."
 
 #: ../../msn/msn_r1_r.c:193 ../../msn/msn_r1_r.c:269 ../../msn/msn_r1_r.c:271
 msgid "Unterwäsche"
-msgstr ""
+msgstr "Underwear"
 
 #: ../../msn/msn_r1_r.c:194
+#, fuzzy
 msgid "Strümpfe"
-msgstr ""
+msgstr "Socks"
 
 #: ../../msn/msn_r1_r.c:197 ../../msn/msn_r1_r.c:268
 msgid "Buch"
-msgstr ""
+msgstr "Book"
 
 #: ../../msn/msn_r1_r.c:197
 msgid "Es ist|\"Per Anhalter durch die Galaxis\"|von Douglas Adams."
-msgstr ""
+msgstr "This is|\"The Hitchhiker's Guide to the Galaxy\"|by Douglas Adams."
 
 #: ../../msn/msn_r1_r.c:212
+#, fuzzy
 msgid "Herb!"
-msgstr ""
+msgstr "Austere!"
 
 #: ../../msn/msn_r1_r.c:214
 msgid "Genial!"
-msgstr ""
+msgstr "Brilliant!"
 
 #: ../../msn/msn_r1_r.c:217
 msgid "Es scheint noch nicht fertig zu sein."
-msgstr ""
+msgstr "It doesn't seem ready yet."
 
 #: ../../msn/msn_r1_r.c:218
 msgid "Stift"
-msgstr ""
+msgstr "Pen"
 
 #: ../../msn/msn_r1_r.c:218
 msgid "Ein Kugelschreiber."
-msgstr ""
+msgstr "A ballpoint pen."
 
 #: ../../msn/msn_r1_r.c:230 ../../msn/msn_r1_r.c:231
 msgid "Poster"
-msgstr ""
+msgstr "Poster"
 
 #: ../../msn/msn_r1_r.c:230
+#, fuzzy
 msgid "Ein Poster von \"Big Boss\"."
-msgstr ""
+msgstr "A poster from \"Big Boss\""
 
 #: ../../msn/msn_r1_r.c:231
+#, fuzzy
 msgid "Ein Poster von \"Rock Desaster\"."
-msgstr ""
+msgstr "A poster for \"Rock Disaster\"."
 
 #: ../../msn/msn_r1_r.c:232
+#, fuzzy
 msgid "Box"
-msgstr ""
+msgstr "Speaker"
 
 #: ../../msn/msn_r1_r.c:235
 msgid "Schallplatte"
-msgstr ""
+msgstr "Record"
 
 #: ../../msn/msn_r1_r.c:235
+#, fuzzy
 msgid "Die Platte ist von \"Big Boss\"."
-msgstr ""
+msgstr "This record is from \"Big Boss\"."
 
 #: ../../msn/msn_r1_r.c:237
 msgid "Schallplattenständer"
-msgstr ""
+msgstr "Record stand"
 
 #: ../../msn/msn_r1_r.c:237
 msgid "Du hast jetzt keine Zeit, in|der Plattensammlung rumzustöbern."
-msgstr ""
+msgstr "You don't have time to rummage|around the record collection now."
 
 #: ../../msn/msn_r1_r.c:240
 msgid "Plattenspieler"
-msgstr ""
+msgstr "Record player"
 
 #: ../../msn/msn_r1_r.c:240
 msgid "Sieht aus, als käme|er aus dem Museum."
-msgstr ""
+msgstr "Looks like something from a museum."
 
 #: ../../msn/msn_r1_r.c:244
+#, fuzzy
 msgid "Stecker"
-msgstr ""
+msgstr "Male plug"
 
 #: ../../msn/msn_r1_r.c:261
 msgid "Pistole"
-msgstr ""
+msgstr "Gun"
 
 #: ../../msn/msn_r1_r.c:261
 msgid "Es ist keine Munition drin."
-msgstr ""
+msgstr "There is no ammunition in it."
 
 #: ../../msn/msn_r1_r.c:263
 msgid "Bücher"
-msgstr ""
+msgstr "Books"
 
 #: ../../msn/msn_r1_r.c:263
 msgid "Lauter wissenschaftliche Bücher."
-msgstr ""
+msgstr "All scientific books."
 
 #: ../../msn/msn_r1_r.c:265
 msgid "Kabelrolle"
-msgstr ""
+msgstr "Cable reel"
 
 #: ../../msn/msn_r1_r.c:265
 msgid "Da sind mindestens zwanzig Meter drauf."
-msgstr ""
+msgstr "There is at least 20 meters of cable on it."
 
 #: ../../msn/msn_r1_r.c:269 ../../msn/msn_r1_r.c:271
 msgid "Ich habe keine Lust, in|der Unterwäsche des|Commanders rumzuwühlen."
-msgstr ""
+msgstr "I don't feel like digging around|in the commander's underwear."
 
 #: ../../msn/msn_r1_r.c:284
 msgid "Ordner"
-msgstr ""
+msgstr "Folders"
 
 #: ../../msn/msn_r1_r.c:284
 msgid ""
 "Darauf steht \"Dienstanweisungen|zur Mission Supernova\".|Es steht nichts "
 "wichtiges drin."
 msgstr ""
+"It says,\"Instructions for the Mission Supernova.\"|There is nothing "
+"important in it."
 
 #: ../../msn/msn_r1_r.c:291
 msgid "Klo"
-msgstr ""
+msgstr "Loo"
 
 #: ../../msn/msn_r1_r.c:291
+#, fuzzy
 msgid "Ein Klo mit Saugmechanismus."
-msgstr ""
+msgstr "A toilet with suction mechanism."
 
 #: ../../msn/msn_r1_r.c:292
 msgid "Dusche"
-msgstr ""
+msgstr "Shower"
 
 #: ../../msn/msn_r2.c:57
+#, fuzzy
 msgid "Die Raumschiffe sind alle verschlossen."
-msgstr ""
+msgstr "The spaceships are all locked."
 
 #: ../../msn/msn_r2.c:64 ../../msn/msn_r2.c:1098
 msgid "Unsinn!"
-msgstr ""
+msgstr "Nonsense!"
 
 #: ../../msn/msn_r2.c:91
 msgid ""
 "Komisch! Auf einmal kannst du|das Schild lesen! Darauf steht:|\"Treffpunkt "
 "Galactica\"."
-msgstr ""
+msgstr "Funny! You can read the sign now! It says \"Galactica meeting point\"."
 
 #: ../../msn/msn_r2.c:92
 msgid "Darauf steht:|\"Treffpunkt Galactica\"."
-msgstr ""
+msgstr "It says:|\"Galactica meeting point\"."
 
 #: ../../msn/msn_r2.c:144
+#, fuzzy
 msgid "Wieso das denn nicht?"
-msgstr ""
+msgstr "Why the hell not?"
 
 #: ../../msn/msn_r2.c:145 ../../msn/msn_r2.c:154 ../../msn/msn_r2.c:1082
 msgid "Wo bin ich hier?"
-msgstr ""
+msgstr "Where am I here?"
 
 #: ../../msn/msn_r2.c:146 ../../msn/msn_r2.c:183
 msgid "Wo soll ich die Schuhe ablegen?"
-msgstr ""
+msgstr "Where should I put my shoes?"
 
 #: ../../msn/msn_r2.c:147
 msgid "Schwachsinn! Ich gehe jetzt nach oben!"
-msgstr ""
+msgstr "Bullshit! I'm going upstairs now!"
 
 #: ../../msn/msn_r2.c:155
 msgid "Schönes Wetter heute, nicht wahr?"
-msgstr ""
+msgstr "Nice weather today, isn't it?"
 
 #: ../../msn/msn_r2.c:156
 msgid "Würden Sie mich bitte durchlassen."
-msgstr ""
+msgstr "Would you please let me through?"
 
 #: ../../msn/msn_r2.c:157
 msgid "Hey Alter, laß mich durch!"
-msgstr ""
+msgstr "Hey, dude, let me through!"
 
 #: ../../msn/msn_r2.c:164
 msgid "Was haben Sie gesagt?"
-msgstr ""
+msgstr "What did you say?"
 
 #: ../../msn/msn_r2.c:165
 msgid "Sprechen Sie bitte etwas deutlicher!"
-msgstr ""
+msgstr "Please speak more clearly!"
 
 #: ../../msn/msn_r2.c:174
 msgid "Durch deinen Helm kannst|du nicht sprechen."
-msgstr ""
+msgstr "You can't talk with your helmet on."
 
 #: ../../msn/msn_r2.c:189 ../../msn/msn_r2.c:251
 msgid "Was, das wissen Sie nicht?"
-msgstr ""
+msgstr "What, you don't know that?"
 
 #: ../../msn/msn_r2.c:190 ../../msn/msn_r2.c:252
 msgid "Sie befinden sich im Restaurant|\"Treffpunkt Galactica\"."
-msgstr ""
+msgstr "You are in the restaurant|\"Galactica meeting point\"."
 
 #: ../../msn/msn_r2.c:191 ../../msn/msn_r2.c:253
 msgid ""
