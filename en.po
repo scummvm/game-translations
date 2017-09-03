@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-08-26 10:18+0000\n"
+"PO-Revision-Date: 2017-09-03 15:46+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -272,7 +272,7 @@ msgstr ""
 
 #: ../../ms2/ms2_mod.c:619
 msgid "Genial!"
-msgstr ""
+msgstr "Brilliant!"
 
 #: ../../ms2/ms2_mod.c:621
 msgid "Spitze!"
@@ -453,7 +453,7 @@ msgstr ""
 #: ../../ms2/ms2_pyra.c:1230 ../../ms2/ms2_pyra.c:1238
 #: ../../ms2/ms2_pyra.c:1246
 msgid "Gang"
-msgstr ""
+msgstr "Corridor"
 
 #: ../../ms2/ms2_mus.c:875
 msgid "Ziemlich groß."
@@ -598,7 +598,7 @@ msgstr ""
 #: ../../ms2/ms2_pyra.c:1254 ../../ms2/ms2_pyra.c:1262
 #: ../../ms2/ms2_pyra.c:1273 ../../ms2/ms2_pyra.c:1283
 msgid "Seil"
-msgstr ""
+msgstr "Rope"
 
 #: ../../ms2/ms2_pyra.c:1009 ../../ms2/ms2_pyra.c:1043 ../../ms2/ms2_r1.c:850
 #: ../../ms2/ms2_r2.c:1223 ../../ms2/ms2_r2.c:1224 ../../ms2/ms2_r2.c:1233
@@ -1110,7 +1110,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:728
 msgid "Unsinn!"
-msgstr ""
+msgstr "Nonsense!"
 
 #: ../../ms2/ms2_r1.c:730
 msgid "Tut mir leid, die sind|schon alle ausverkauft."
@@ -1382,7 +1382,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:858
 msgid "Bücher"
-msgstr ""
+msgstr "Books"
 
 #: ../../ms2/ms2_r1.c:859
 msgid "Lexikon"
@@ -2447,7 +2447,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:1256
 msgid "Klappe"
-msgstr ""
+msgstr "Hatch"
 
 #: ../../ms2/ms2_r2.c:1256
 msgid "Sie ist mit einem altmodischen|Schloß verschlossen."
@@ -2487,7 +2487,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:1262
 msgid "Bild"
-msgstr ""
+msgstr "Image"
 
 #: ../../ms2/ms2_r2.c:1262
 msgid "Ein ungewöhnliches Bild."
@@ -2495,7 +2495,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:1263
 msgid "Schrank"
-msgstr ""
+msgstr "Cabinet"
 
 #: ../../ms2/ms2_r2.c:1263
 msgid "Er ist verschlossen"
@@ -2545,7 +2545,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:1279 ../../ms2/ms2_r2.c:1280
 msgid "Leitung"
-msgstr ""
+msgstr "Cable"
 
 #: ../../ms2/ms2_r2.c:1279
 msgid "Irgendetwas scheint hier|kaputtgegangen zu sein."
