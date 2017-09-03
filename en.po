@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-08-29 02:56+0000\n"
+"PO-Revision-Date: 2017-09-03 14:49+0000\n"
 "Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -440,7 +440,7 @@ msgstr "New alarm time (hh:mm):"
 
 #: ../../msn/msn_r0.c:332 ../../msn/msn_r1.c:486 ../../msn/msn_r1.c:595
 msgid "Leitung mit Lüsterklemme"
-msgstr ""
+msgstr "Cable with terminal strip"
 
 #: ../../msn/msn_r0.c:344
 msgid "Kabelrolle mit Lüsterklemme"
