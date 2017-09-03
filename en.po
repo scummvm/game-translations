@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-09-03 14:50+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-09-03 14:51+0000\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -728,7 +728,7 @@ msgstr "It is not sharp enough."
 
 #: ../../msn/msn_r1.c:570
 msgid "Du wirst aus den Anzeigen nicht schlau."
-msgstr ""
+msgstr "You cannot make sense of it."
 
 #: ../../msn/msn_r1.c:572
 msgid "Laß lieber die Finger davon!"
@@ -903,7 +903,7 @@ msgstr "It is a keycard reader."
 
 #: ../../msn/msn_r1_r.c:38 ../../msn/msn_r3.c:1599
 msgid "Gang"
-msgstr ""
+msgstr "Corridor"
 
 #: ../../msn/msn_r1_r.c:44 ../../msn/msn_r1_r.c:45
 msgid "Dies ist eine der Tiefschlafkammern."
