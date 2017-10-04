@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-04 22:42+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-10-04 22:43+0000\n"
+"Last-Translator: Michael D. <michael@drueing.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -998,7 +998,7 @@ msgstr "This was a reactor once."
 
 #: ../../msn/msn_r1_r.c:87
 msgid "Düse"
-msgstr ""
+msgstr "Thruster"
 
 #: ../../msn/msn_r1_r.c:88
 msgid "blauer Kürbis"
@@ -1427,7 +1427,7 @@ msgstr "You are in the restaurant|\"Galactica meeting point\"."
 msgid ""
 "Wir sind bei den interessantesten|Ereignissen in der Galaxis|immer zur "
 "Stelle."
-msgstr ""
+msgstr "We are always there when interesting things happen in the galaxy."
 
 #: ../../msn/msn_r2.c:194
 msgid "Wenn Sie meinen."
