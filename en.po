@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-04 22:44+0000\n"
-"Last-Translator: Michael D. <michael@drueing.de>\n"
+"PO-Revision-Date: 2017-10-04 22:45+0000\n"
+"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1435,7 +1435,7 @@ msgstr "If you say so."
 
 #: ../../msn/msn_r2.c:199 ../../msn/msn_r2.c:256
 msgid "In der Toilette gibt es|Schließfächer für Schuhe."
-msgstr "In the restroom there are lockers for shoes."
+msgstr "There are lockers for shoes|in the restroom."
 
 #: ../../msn/msn_r2.c:204
 msgid ""
