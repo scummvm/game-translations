@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-09-29 19:51+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-04 22:41+0000\n"
+"Last-Translator: Michael D. <michael@drueing.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -416,7 +416,7 @@ msgstr "Here, this article looks interesting."
 
 #: ../../msn/msn_r0.c:268
 msgid "Hmm, irgendwie komme|ich mir verarscht vor."
-msgstr ""
+msgstr "hmm, somehow I feel tricked."
 
 #: ../../msn/msn_r0.c:273
 msgid "Es ist die Keycard des Commanders."
