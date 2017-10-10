@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-10 22:14+0000\n"
+"PO-Revision-Date: 2017-10-10 22:20+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -2797,12 +2797,12 @@ msgid ""
 "Commander an alle! Achtung, Achtung!|Begeben Sie sich sofort zum "
 "Notraumschiff!"
 msgstr ""
-"Commander to all! Attention, attention! Attention!|Get to the emergency ship "
+"Commander to all! Attention, attention!|Get to the emergency ship "
 "immediately!"
 
 #: ../../msn/msn_s.c:256
 msgid "Ich wiederhole:|Begeben Sie sich sofort zum Notraumschiff!"
-msgstr "I repeat,|proceed immediately to the emergency spaceship!"
+msgstr "I repeat, proceed immediately|to the emergency spaceship!"
 
 #: ../../msn/msn_s.c:263
 msgid ""
