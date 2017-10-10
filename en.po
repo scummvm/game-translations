@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-04 22:50+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-10 21:22+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -755,9 +755,8 @@ msgid "Keycard des Commanders"
 msgstr "Keycard of the Commander"
 
 #: ../../msn/msn_r1.c:766
-#, fuzzy
 msgid "Was nützt dir der Anschluß|ohne eine Stromquelle?!"
-msgstr "The connection is useless without a power source!"
+msgstr "What good would come from connecting it|without a power source?!"
 
 #: ../../msn/msn_r1.c:770
 msgid "Die Spannung ist auf Null abgesunken."
@@ -954,9 +953,8 @@ msgid "Der einzige Raumanzug, den die|anderen hiergelassen haben ..."
 msgstr "The only space suit the others have left ..."
 
 #: ../../msn/msn_r1_r.c:72
-#, fuzzy
 msgid "Versorgung"
-msgstr "Supply"
+msgstr "Oxygen Supply"
 
 #: ../../msn/msn_r1_r.c:72
 msgid "Es ist der Versorgungsteil zum Raumanzug."
@@ -983,10 +981,9 @@ msgid "Lüsterklemme"
 msgstr "Terminal strip"
 
 #: ../../msn/msn_r1_r.c:84
-#, fuzzy
 msgid ""
 "Junge, Junge! Die Explosion hat ein|ganz schönes Durcheinander angerichtet."
-msgstr "Boy, oh boy! The explosion wreaked|quite some havoc."
+msgstr "Boy, oh boy! The explosion created|quite a mess."
 
 #: ../../msn/msn_r1_r.c:86
 msgid "Reaktor"
@@ -1013,9 +1010,8 @@ msgid "Landefähre"
 msgstr "Landing module"
 
 #: ../../msn/msn_r1_r.c:90
-#, fuzzy
 msgid "Sie war eigentlich für Bodenuntersuchungen|auf Arsano 3 gedacht."
-msgstr "It was supposed to be used for soil|investigation on Arsano 3."
+msgstr "It was supposed to be used for soil analysis|on Arsano 3."
 
 #: ../../msn/msn_r1_r.c:93 ../../msn/msn_r1_r.c:120
 msgid "Sie führt nach draußen."
