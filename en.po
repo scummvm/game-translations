@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 06:00+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 06:01+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1799,13 +1799,13 @@ msgstr "I just wanted to know if you got your wallet back."
 
 #: ../../msn/msn_r2.c:959
 msgid "Was wollen Sie denn schon wieder?"
-msgstr ""
+msgstr "What do you want again?"
 
 #: ../../msn/msn_r2.c:965
 msgid ""
 "Haben Sie zufällig meine Brieftasche gesehen?|Ich muß Sie irgendwo verloren "
 "haben."
-msgstr ""
+msgstr "Have you seen my wallet, by chance?|I must have lost it somewhere."
 
 #: ../../msn/msn_r2.c:966
 msgid ""
