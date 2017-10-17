@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 02:09+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 02:19+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1607,19 +1607,19 @@ msgstr "No, you must be mistaken.|I don't know you."
 
 #: ../../msn/msn_r2.c:726
 msgid "Aber ihre Kleidung habe ich irgendwo schon mal gesehen."
-msgstr ""
+msgstr "However, I've seen your clothes somewhere before."
 
 #: ../../msn/msn_r2.c:727
 msgid "Ja? Komisch."
-msgstr ""
+msgstr "Yes? Strange."
 
 #: ../../msn/msn_r2.c:728
 msgid "Jetzt weiß ich's. Sie sind Roger W. !"
-msgstr ""
+msgstr "Now I know. You are Roger W.!"
 
 #: ../../msn/msn_r2.c:729
 msgid "Pssst, nicht so laut, sonst will|gleich jeder ein Autogramm von mir."
-msgstr ""
+msgstr "Pssst, not so loud, otherwise|everyone will want an autograph from me."
 
 #: ../../msn/msn_r2.c:730
 msgid ""
