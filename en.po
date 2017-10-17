@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 01:43+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 01:47+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1484,26 +1484,28 @@ msgstr "In one of the lockers in this room,|you will find some coins."
 
 #: ../../msn/msn_r2.c:332
 msgid "Mach doch zuerst das Fach leer!"
-msgstr ""
+msgstr "First, empty the drawer!"
 
 #: ../../msn/msn_r2.c:340
 msgid "Münze"
-msgstr ""
+msgstr "Coin"
 
 #: ../../msn/msn_r2.c:353
 msgid ""
 "Komisch! Auf einmal kannst du|das Schild lesen! Darauf steht:|\"Zutritt nur "
 "für Personal\"."
 msgstr ""
+"Strange! Suddenly you can |read the sign! It states:|\"Access Only for "
+"Personnel\"."
 
 #: ../../msn/msn_r2.c:361
 msgid ""
 "Komisch! Auf einmal kannst|du das Schild lesen!|Darauf steht:\"Toilette\"."
-msgstr ""
+msgstr "Strange! Suddenly you can read the sign!|It says:\"Toilet\"."
 
 #: ../../msn/msn_r2.c:362
 msgid "Darauf steht:|\"Toilette\"."
-msgstr ""
+msgstr "It says:|\"Toilet\""
 
 #: ../../msn/msn_r2.c:372
 msgid "Du ziehst den Raumanzug wieder an."
