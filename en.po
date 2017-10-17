@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 06:01+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 06:03+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1810,15 +1810,15 @@ msgstr "Have you seen my wallet, by chance?|I must have lost it somewhere."
 #: ../../msn/msn_r2.c:966
 msgid ""
 "Ohne die Brieftasche kann ich nicht|starten, weil meine Keycard darin ist."
-msgstr ""
+msgstr "Without my wallet I can not take off|because my keycard is in it."
 
 #: ../../msn/msn_r2.c:975
 msgid "Oh! Vielen Dank."
-msgstr ""
+msgstr "Oh! Many thanks."
 
 #: ../../msn/msn_r2.c:976
 msgid "Wo ist denn Ihr Raumschiff?|Soll ich Sie ein Stück mitnehmen?"
-msgstr ""
+msgstr "Where is your spaceship?"
 
 #: ../../msn/msn_r2.c:979
 msgid "Wo wollen Sie denn hin?"
