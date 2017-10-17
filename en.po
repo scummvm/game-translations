@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-09-03 15:46+0000\n"
+"PO-Revision-Date: 2017-10-17 15:53+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -405,7 +405,7 @@ msgstr ""
 #: ../../ms2/ms2_mus.c:747 ../../ms2/ms2_pyra.c:1010 ../../ms2/ms2_r1.c:805
 #: ../../ms2/ms2_r1.c:816 ../../ms2/ms2_r2.c:1203 ../../ms2/ms2_r2.c:1214
 msgid "Eingang"
-msgstr ""
+msgstr "Entrance"
 
 #: ../../ms2/ms2_mus.c:748 ../../ms2/ms2_mus.c:756 ../../ms2/ms2_mus.c:757
 #: ../../ms2/ms2_mus.c:765 ../../ms2/ms2_mus.c:766 ../../ms2/ms2_mus.c:774
@@ -428,7 +428,7 @@ msgstr ""
 #: ../../ms2/ms2_pyra.c:1309 ../../ms2/ms2_r2.c:1225 ../../ms2/ms2_r2.c:1226
 #: ../../ms2/ms2_r2.c:1235 ../../ms2/ms2_r2.c:1236 ../../ms2/ms2_r2.c:1247
 msgid "Tür"
-msgstr ""
+msgstr "Door"
 
 #: ../../ms2/ms2_mus.c:749
 msgid "Strasse zum Stadtzentrum"
@@ -482,7 +482,7 @@ msgstr ""
 #: ../../ms2/ms2_pyra.c:26 ../../ms2/ms2_pyra.c:1255 ../../ms2/ms2_pyra.c:1256
 #: ../../ms2/ms2_pyra.c:1274 ../../ms2/ms2_pyra.c:1284
 msgid "Loch"
-msgstr ""
+msgstr "Opening"
 
 #: ../../ms2/ms2_pyra.c:27
 msgid "Buchstabe"
@@ -604,7 +604,7 @@ msgstr "Rope"
 #: ../../ms2/ms2_r2.c:1223 ../../ms2/ms2_r2.c:1224 ../../ms2/ms2_r2.c:1233
 #: ../../ms2/ms2_r2.c:1234
 msgid "Schild"
-msgstr ""
+msgstr "Sign"
 
 #: ../../ms2/ms2_pyra.c:1009
 msgid ""
@@ -1228,7 +1228,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:795
 msgid "Raumschiff"
-msgstr ""
+msgstr "Spaceship"
 
 #: ../../ms2/ms2_r1.c:795
 msgid "Damit bist du hierhergekommen."
@@ -1280,7 +1280,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:817
 msgid "Treppe"
-msgstr ""
+msgstr "Staircase"
 
 #: ../../ms2/ms2_r1.c:817
 msgid "Sie führt zu den Geschäften."
@@ -1362,7 +1362,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:846 ../../ms2/ms2_r2.c:1264
 msgid "Stuhl"
-msgstr ""
+msgstr "Chair"
 
 #: ../../ms2/ms2_r1.c:846
 msgid "Etwas Entspannung könntest du jetzt gebrauchen."
@@ -1370,7 +1370,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:847 ../../ms2/ms2_r1.c:848
 msgid "Gekritzel"
-msgstr ""
+msgstr "Scribble"
 
 #: ../../ms2/ms2_r1.c:849 ../../ms2/ms2_r1.c:873
 msgid "Gesicht"
@@ -1604,7 +1604,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:203
 msgid "Gute Nacht!"
-msgstr ""
+msgstr "Good night!"
 
 #: ../../ms2/ms2_r2.c:207
 msgid "Äh, wie geht es euch?"
@@ -1744,7 +1744,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:368
 msgid "Nein!"
-msgstr ""
+msgstr "No!"
 
 #: ../../ms2/ms2_r2.c:378
 msgid "Haben Sie schon eine Eintrittskarte?"
@@ -2426,8 +2426,9 @@ msgid "Klingel"
 msgstr ""
 
 #: ../../ms2/ms2_r2.c:1245
+#, fuzzy
 msgid "Anzeige"
-msgstr ""
+msgstr "Advertisement"
 
 #: ../../ms2/ms2_r2.c:1246
 msgid "Tastenblock"
