@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 02:05+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 02:08+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1591,17 +1591,19 @@ msgstr "At least two more hours."
 #: ../../msn/msn_r2.c:722
 msgid ""
 "Haben Sie keine Idee, womit wir uns|bis dahin die Zeit vertreiben können?"
-msgstr ""
+msgstr "Don't you have an idea|that can help pass the time?"
 
 #: ../../msn/msn_r2.c:723
 msgid ""
 "Hmm ... im Moment fällt mir nichts ein, aber vielleicht|hat der Spieler des "
 "Adventures ja eine Idee."
 msgstr ""
+"Hmm ... at the moment I'm not sure,|but maybe the Adventure Game Player has "
+"an idea.\n"
 
 #: ../../msn/msn_r2.c:725
 msgid "Nein, Sie müssen sich irren.|Ich kenne Sie jedenfalls nicht."
-msgstr ""
+msgstr "No, you must be wrong.|I don't know you."
 
 #: ../../msn/msn_r2.c:726
 msgid "Aber ihre Kleidung habe ich irgendwo schon mal gesehen."
