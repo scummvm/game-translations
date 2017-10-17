@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
 "PO-Revision-Date: 2017-10-17 05:49+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1731,7 +1731,7 @@ msgstr "Chess? What is that?"
 
 #: ../../msn/msn_r2.c:763
 msgid "Schach ist ein interessantes Spiel.|Ich werde es Ihnen erklären."
-msgstr ""
+msgstr "Chess is an interesting game.|I'll explain it to you."
 
 #: ../../msn/msn_r2.c:769
 msgid "Knapp zwei Stunden später ..."
