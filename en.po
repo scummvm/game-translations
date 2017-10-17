@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 01:31+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 01:33+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1461,16 +1461,16 @@ msgstr "You remove your shoes|and put them in one|of the lockers."
 
 #: ../../msn/msn_r2.c:307
 msgid "Du ziehst deine Schuhe wieder an."
-msgstr ""
+msgstr "You put your shoes on again."
 
 #: ../../msn/msn_r2.c:311
 msgid ""
 "Du durchsuchst die Klos nach|anderen brauchbaren Sachen,|findest aber nichts."
-msgstr ""
+msgstr "You search the toilet|for other useful items,|but find nothing."
 
 #: ../../msn/msn_r2.c:316
 msgid "Bevor du aufs Klo gehst,|solltest du besser deinen|Raumanzug ausziehen."
-msgstr ""
+msgstr "Before you use the toilet,| you had better take off your suit."
 
 #: ../../msn/msn_r2.c:319
 msgid "Du gehst seit sieben Jahren das|erste Mal wieder aufs Klo!"
