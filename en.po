@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 02:28+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 02:34+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1632,57 +1632,60 @@ msgstr "Uh... I see."
 
 #: ../../msn/msn_r2.c:732
 msgid "Wann kommt denn das nächste SQ-Abenteuer raus?"
-msgstr ""
+msgstr "When does the next SQ adventure come out?"
 
 #: ../../msn/msn_r2.c:733
 msgid "SQ 127 müßte in einem Monat erscheinen."
-msgstr ""
+msgstr "SQ 127 should come out in a month."
 
 #: ../../msn/msn_r2.c:734
 msgid "Was, Teil 127 ??"
-msgstr ""
+msgstr "What, part 127 ??"
 
 #: ../../msn/msn_r2.c:735
 msgid "Bei uns ist gerade Teil 8 erschienen."
-msgstr ""
+msgstr "We have just released part 8."
 
 #: ../../msn/msn_r2.c:736
 msgid "Hmm ... von welchem Planeten sind Sie denn?"
-msgstr ""
+msgstr "Hmm ... what planet are you from?"
 
 #: ../../msn/msn_r2.c:737
 msgid "Von der Erde."
-msgstr ""
+msgstr "From the Earth."
 
 #: ../../msn/msn_r2.c:738
 msgid "Erde? Nie gehört."
-msgstr ""
+msgstr "Earth? Never heard of it."
 
 #: ../../msn/msn_r2.c:739
 msgid ""
 "Wahrscheinlich irgendein Kaff, wo Neuerungen|erst hundert Jahre später "
 "hingelangen."
-msgstr ""
+msgstr "Probably some Dump, where innovations happen|only a century late."
 
 #: ../../msn/msn_r2.c:740
 msgid "Äh ... kann sein."
-msgstr ""
+msgstr "Uh ... maybe."
 
 #: ../../msn/msn_r2.c:741
 msgid "Aber eins müssen Sie mir erklären!"
-msgstr ""
+msgstr "But you must tell me!"
 
 #: ../../msn/msn_r2.c:742
 msgid ""
 "Wieso sehen Sie mir so verdammt ähnlich, wenn|Sie nicht von Xenon stammen, "
 "wie ich?"
 msgstr ""
+"Why do you look so damn similar to me|if you are not from Xenon, like me?\n"
 
 #: ../../msn/msn_r2.c:743
 msgid ""
 "Keine Ahnung. Bis jetzt dachte ich immer, Sie wären ein|von Programmierern "
 "auf der Erde erfundenes Computersprite."
 msgstr ""
+"I have no idea. Until now, I've always thought you were|a computer "
+"character, invented by programmers on Earth."
 
 #: ../../msn/msn_r2.c:744
 msgid "Was? Lachhaft!"
