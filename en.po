@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 06:07+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 06:10+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1844,43 +1844,43 @@ msgstr "I wouldn't do that now, because|Roger W. is standing beside his ship."
 
 #: ../../msn/msn_r2.c:1069
 msgid "Alle Raumschiffe haben|den Planeten verlassen."
-msgstr ""
+msgstr "All spaceships|have left the planet."
 
 #: ../../msn/msn_r2.c:1071
 msgid "Alle Raumschiffe haben den Planeten|verlassen, bis auf eins ..."
-msgstr ""
+msgstr "All spaceships have left the planet,|except for one ..."
 
 #: ../../msn/msn_r2.c:1083
 msgid "Was wollen Sie von mir?"
-msgstr ""
+msgstr "What do you want from me?"
 
 #: ../../msn/msn_r2.c:1084
 msgid "Hilfe!!"
-msgstr ""
+msgstr "Help!!"
 
 #: ../../msn/msn_r2.c:1085
 msgid "Warum sprechen Sie meine Sprache?"
-msgstr ""
+msgstr "Why do you speak my language?"
 
 #: ../../msn/msn_r2.c:1091
 msgid "Ja, ich bin einverstanden."
-msgstr ""
+msgstr "Yes, I agree."
 
 #: ../../msn/msn_r2.c:1092
 msgid "Nein, lieber bleibe ich hier, als mit Ihnen zu fliegen."
-msgstr ""
+msgstr "No, I'd rather stay here than fly with you."
 
 #: ../../msn/msn_r2.c:1141
 msgid "Ich glaube, er wacht auf."
-msgstr ""
+msgstr "I think he's waking up."
 
 #: ../../msn/msn_r2.c:1143
 msgid "Ja, sieht so aus."
-msgstr ""
+msgstr "Yes, it looks like it."
 
 #: ../../msn/msn_r2.c:1148
 msgid "Sie befinden sich im Raumschiff \"Dexxa\"."
-msgstr ""
+msgstr "You are in the back of the spaceship \"Dexxa\"."
 
 #: ../../msn/msn_r2.c:1149
 msgid ""
