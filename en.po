@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
 "PO-Revision-Date: 2017-10-17 06:03+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1818,7 +1818,7 @@ msgstr "Oh! Many thanks."
 
 #: ../../msn/msn_r2.c:976
 msgid "Wo ist denn Ihr Raumschiff?|Soll ich Sie ein Stück mitnehmen?"
-msgstr "Where is your spaceship?"
+msgstr "Where is your spaceship?|Shall I give you a lift?"
 
 #: ../../msn/msn_r2.c:979
 msgid "Wo wollen Sie denn hin?"
