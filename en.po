@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 01:49+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 02:00+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1513,53 +1513,55 @@ msgstr "You put the space suit back on."
 
 #: ../../msn/msn_r2.c:382 ../../msn/msn_r3.c:488 ../../msn/msn_r3.c:540
 msgid "Nicht so gewalttätig!"
-msgstr ""
+msgstr "Not so rough!"
 
 #: ../../msn/msn_r2.c:603
 msgid ""
 "Du hast das komische Gefühl,|daß draußen etwas passiert,|und eilst zum "
 "Restaurant."
 msgstr ""
+"You get the funny feeling,|that something has happened outside,|and hurry to "
+"the restaurant."
 
 #: ../../msn/msn_r2.c:617
 msgid "Da! Die Supernova!"
-msgstr ""
+msgstr "There! The Supernova!"
 
 #: ../../msn/msn_r2.c:630
 msgid "Zwei Minuten später ..."
-msgstr ""
+msgstr "Two minutes later ..."
 
 #: ../../msn/msn_r2.c:638
 msgid "Hey, was machen Sie in meinem Raumschiff?!"
-msgstr ""
+msgstr " Hey, what are you doing in my spaceship?"
 
 #: ../../msn/msn_r2.c:641
 msgid "Geben Sie mir sofort meine Brieftasche wieder!"
-msgstr ""
+msgstr "Just give me my wallet back!"
 
 #: ../../msn/msn_r2.c:644
 msgid "Versuchen Sie das ja nicht nochmal!"
-msgstr ""
+msgstr "Do not try that again!"
 
 #: ../../msn/msn_r2.c:647
 msgid "Und jetzt raus mit Ihnen!"
-msgstr ""
+msgstr "And now, get out of here!"
 
 #: ../../msn/msn_r2.c:660
 msgid "Zehn Minuten später ..."
-msgstr ""
+msgstr "Ten Minutes later ..."
 
 #: ../../msn/msn_r2.c:690
 msgid "Könnten Sie mir ein Gericht empfehlen?"
-msgstr ""
+msgstr "Could you recommend a dish for me?"
 
 #: ../../msn/msn_r2.c:691
 msgid "Wie lange dauert es denn noch bis zur Supernova?"
-msgstr ""
+msgstr "How long does it take to reach the Supernova?"
 
 #: ../../msn/msn_r2.c:692
 msgid "Sie kommen mir irgendwie bekannt vor."
-msgstr ""
+msgstr "You look very familiar to me."
 
 #: ../../msn/msn_r2.c:704
 msgid "Hey, Witzkeks, laß die Brieftasche da liegen!"
