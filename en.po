@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 05:49+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"PO-Revision-Date: 2017-10-17 05:52+0000\n"
+"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1731,15 +1731,15 @@ msgstr "Chess? What is that?"
 
 #: ../../msn/msn_r2.c:763
 msgid "Schach ist ein interessantes Spiel.|Ich werde es Ihnen erklären."
-msgstr "Chess is an interesting game.|I'll explain it to you."
+msgstr "Chess is an interesting game.|I will explain it to you."
 
 #: ../../msn/msn_r2.c:769
 msgid "Knapp zwei Stunden später ..."
-msgstr ""
+msgstr "Almost two hours later ..."
 
 #: ../../msn/msn_r2.c:787
 msgid "Roger W. steht kurz vor dem Schachmatt|und grübelt nach einem Ausweg."
-msgstr ""
+msgstr "Roger W. is on the brink of checkmate|and trying to find a way out."
 
 #: ../../msn/msn_r2.c:831
 msgid "Darf ich hier Platz nehmen?"
