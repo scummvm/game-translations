@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 05:53+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 05:57+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1759,23 +1759,23 @@ msgstr ""
 
 #: ../../msn/msn_r2.c:918
 msgid "Nein, tut mir leid."
-msgstr ""
+msgstr "No, I'm sorry."
 
 #: ../../msn/msn_r2.c:924
 msgid "Nein, danke. Ich bleibe lieber hier."
-msgstr ""
+msgstr "No thanks. I'd rather stay here."
 
 #: ../../msn/msn_r2.c:925
 msgid "Ja, das wäre gut."
-msgstr ""
+msgstr "Yes, that would be good."
 
 #: ../../msn/msn_r2.c:931
 msgid "Zur Erde."
-msgstr ""
+msgstr "To Earth."
 
 #: ../../msn/msn_r2.c:932
 msgid "Zum Präsident der Galaxis."
-msgstr ""
+msgstr "To the President of the Galaxy."
 
 #: ../../msn/msn_r2.c:933
 msgid "Nach Xenon."
