@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 02:01+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 02:04+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1565,24 +1565,24 @@ msgstr "You look kind of familiar to me."
 
 #: ../../msn/msn_r2.c:704
 msgid "Hey, Witzkeks, laß die Brieftasche da liegen!"
-msgstr ""
+msgstr "Hey, Joker, leave the Wallet there!"
 
 #: ../../msn/msn_r2.c:708
 msgid "Das ist nicht deine."
-msgstr ""
+msgstr "This is not yours."
 
 #: ../../msn/msn_r2.c:713
 msgid "Roger ist im Moment nicht ansprechbar."
-msgstr ""
+msgstr "Roger is not available at the moment."
 
 #: ../../msn/msn_r2.c:718
 msgid "Bestellen Sie lieber nichts!"
-msgstr ""
+msgstr "Do Not order anything!"
 
 #: ../../msn/msn_r2.c:719
 msgid ""
 "Ich habe vor zwei Stunden mein Essen|bestellt und immer noch nichts bekommen."
-msgstr ""
+msgstr "I ordered my food two hours ago|and I still haven't received it."
 
 #: ../../msn/msn_r2.c:721
 msgid "Noch mindestens zwei Stunden."
