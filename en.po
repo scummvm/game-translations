@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 06:14+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"PO-Revision-Date: 2017-10-17 06:35+0000\n"
+"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1453,7 +1453,7 @@ msgstr "Quit asking so stupidly!"
 
 #: ../../msn/msn_r2.c:262
 msgid "Das würde ich an ihrer|Stelle nicht versuchen!"
-msgstr ""
+msgstr "I would not try that if I were you!"
 
 #: ../../msn/msn_r2.c:300
 msgid "Du ziehst deine Schuhe|aus und legst sie in|eins der Schließfächer."
@@ -1896,7 +1896,7 @@ msgstr "Don't worry, we just want to help you."
 
 #: ../../msn/msn_r2.c:1152
 msgid "Und wieso hat der Typ im Raumanzug|eben auf mich geschossen?"
-msgstr "And why did the guy in the spacesuit shoot at me?"
+msgstr "And why did the guy in the spacesuit|shoot at me?"
 
 #: ../../msn/msn_r2.c:1153
 msgid "Das war eine Schreckreaktion."
@@ -2707,7 +2707,7 @@ msgstr ""
 
 #: ../../msn/msn_r3.c:1684
 msgid "Lauter Bäume."
-msgstr ""
+msgstr "Nothing but trees."
 
 #: ../../msn/msn_s.c:84
 msgid "Teil 1:"
