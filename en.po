@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 05:32+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 05:34+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1698,13 +1698,15 @@ msgstr "How do you explain then|that I am seated opposite you?"
 
 #: ../../msn/msn_r2.c:746
 msgid "Ja, das ist in der Tat seltsam."
-msgstr ""
+msgstr "Yes, this is definitely strange."
 
 #: ../../msn/msn_r2.c:747
 msgid ""
 "Halt, jetzt weiß ich es. Sie sind von der Konkurrenz,|von \"Georgefilm Games"
 "\" und wollen mich verunsichern."
 msgstr ""
+"Wait, now I understand! You are from the competition, \"Georgefilm Games\", "
+"and want to unnerve me.\n"
 
 #: ../../msn/msn_r2.c:748
 msgid "Nein, ich bin nur ein Ahnungsloser Koch von der Erde."
