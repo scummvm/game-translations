@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
 "PO-Revision-Date: 2017-10-17 05:57+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1779,7 +1779,7 @@ msgstr "To the President of the Galaxy."
 
 #: ../../msn/msn_r2.c:933
 msgid "Nach Xenon."
-msgstr ""
+msgstr "To Xenon."
 
 #: ../../msn/msn_r2.c:934
 msgid "Mir egal, setzen Sie mich irgendwo ab!"
