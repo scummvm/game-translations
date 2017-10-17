@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 05:35+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 05:38+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1710,7 +1710,7 @@ msgstr ""
 
 #: ../../msn/msn_r2.c:748
 msgid "Nein, ich bin nur ein Ahnungsloser Koch von der Erde."
-msgstr ""
+msgstr "No, I'm just a clueless cook from the Earth."
 
 #: ../../msn/msn_r2.c:749
 msgid ""
@@ -1720,11 +1720,11 @@ msgstr ""
 
 #: ../../msn/msn_r2.c:761
 msgid "Eine Partie Schach! Das ist eine gute Idee."
-msgstr ""
+msgstr "A game of chess! That's a good idea."
 
 #: ../../msn/msn_r2.c:762
 msgid "Schach? Was ist das denn?"
-msgstr ""
+msgstr "Chess? What is that?"
 
 #: ../../msn/msn_r2.c:763
 msgid "Schach ist ein interessantes Spiel.|Ich werde es Ihnen erklären."
