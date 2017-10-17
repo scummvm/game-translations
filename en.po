@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 06:35+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 06:36+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1751,7 +1751,7 @@ msgstr "Sure!"
 
 #: ../../msn/msn_r2.c:892
 msgid "Du tippst auf den Tasten herum,|aber es passiert nichts."
-msgstr ""
+msgstr "You tap the buttons,|but nothing happens."
 
 #: ../../msn/msn_r2.c:917
 msgid "Ach, Ihnen gehört die. Ich habe sie eben im Sand gefunden."
