@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 02:34+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 02:35+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1689,7 +1689,7 @@ msgstr ""
 
 #: ../../msn/msn_r2.c:744
 msgid "Was? Lachhaft!"
-msgstr ""
+msgstr "What? Ridiculous!"
 
 #: ../../msn/msn_r2.c:745
 msgid "Wie erklären Sie sich dann,|daß ich ihnen gegenübersitze?"
