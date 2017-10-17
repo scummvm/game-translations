@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 06:03+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-17 06:06+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1822,25 +1822,26 @@ msgstr "Where is your spaceship?|Shall I give you a lift?"
 
 #: ../../msn/msn_r2.c:979
 msgid "Wo wollen Sie denn hin?"
-msgstr ""
+msgstr "Where do you want to go?"
 
 #: ../../msn/msn_r2.c:981
 msgid "Ok, steigen Sie ein!"
-msgstr ""
+msgstr "Ok, get in!"
 
 #: ../../msn/msn_r2.c:983
 msgid "Wie Sie wollen."
-msgstr ""
+msgstr "As you wish."
 
 #: ../../msn/msn_r2.c:1030
 msgid "Huch, du lebst ja noch!"
-msgstr ""
+msgstr "Huh, you're still alive!"
 
 #: ../../msn/msn_r2.c:1057
 msgid ""
 "Das würde ich jetzt nicht tun, schließlich|steht Roger W. neben seinem "
 "Schiff."
 msgstr ""
+"I wouldn't do that now, after all,|Roger W. is standing beside his ship."
 
 #: ../../msn/msn_r2.c:1069
 msgid "Alle Raumschiffe haben|den Planeten verlassen."
