@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-21 23:49+0100\n"
-"PO-Revision-Date: 2017-10-17 15:53+0000\n"
+"PO-Revision-Date: 2017-10-18 01:46+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -46,7 +46,7 @@ msgstr "Close"
 #. I18N: Press
 #: ../../msn/msn.c:1620
 msgid "Drücke"
-msgstr "Press"
+msgstr "Push"
 
 #. I18N: Pull
 #: ../../msn/msn.c:1622
@@ -101,7 +101,7 @@ msgstr "Close "
 #. I18N: Press
 #: ../../msn/msn.c:2344
 msgid "Drücke "
-msgstr "Press "
+msgstr "Push "
 
 #. I18N: Pull
 #: ../../msn/msn.c:2346
@@ -1033,7 +1033,7 @@ msgstr "Socket"
 msgid ""
 "Es ist ein Sicherheitsknopf.|Er kann nur mit einem spitzen|Gegenstand "
 "gedrückt werden."
-msgstr "It's a safety button.|It can only be pressed|with a pointed object."
+msgstr "It's a safety button.|It can only be pushed|with a pointed object."
 
 #: ../../msn/msn_r1_r.c:106 ../../msn/msn_r2.c:1300
 msgid "Tastatur"
