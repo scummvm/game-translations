@@ -42,7 +42,7 @@ msgstr ""
 msgid "Schließe"
 msgstr ""
 
-#. I18N: Press
+#. I18N: Push
 #: ../../msn/msn.c:1620
 msgid "Drücke"
 msgstr ""
@@ -97,7 +97,7 @@ msgstr ""
 msgid "Schließe "
 msgstr ""
 
-#. I18N: Press
+#. I18N: Push
 #: ../../msn/msn.c:2344
 msgid "Drücke "
 msgstr ""
@@ -2192,7 +2192,7 @@ msgid "Ach, halten Sie's Maul, ich gehe trotzdem!"
 msgstr ""
 
 #: ../../msn/msn_r3.c:245 ../../msn/msn_r3.c:246
-msgid "Wenn Sie mich durchlassen gebe ich Ihnen         "
+msgid "Wenn Sie mich durchlassen gebe ich Ihnen %d Xa."
 msgstr ""
 
 #: ../../msn/msn_r3.c:258
@@ -2213,11 +2213,6 @@ msgstr ""
 
 #: ../../msn/msn_r3.c:273
 msgid "Nein!"
-msgstr ""
-
-#: ../../msn/msn_r3.c:284 ../../msn/msn_r3.c:285
-#, c-format
-msgid "%d Xa."
 msgstr ""
 
 #: ../../msn/msn_r3.c:310
@@ -2424,6 +2419,7 @@ msgstr ""
 msgid "Verbindung wird hergestellt"
 msgstr ""
 
+#. I18N: Here the %s is a name
 #: ../../msn/msn_r3.c:1121
 #, c-format
 msgid "%s am Apparat."
