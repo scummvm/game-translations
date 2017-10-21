@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:53+0100\n"
-"PO-Revision-Date: 2017-10-18 01:46+0000\n"
+"PO-Revision-Date: 2017-10-21 16:44+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -365,7 +365,7 @@ msgstr "It's me, Horst Hummel."
 #: ../../msn/msn_r0.c:127
 #, c-format
 msgid "%d Xa"
-msgstr ""
+msgstr "%d Xa"
 
 #: ../../msn/msn_r0.c:147
 msgid "Ok."
@@ -2274,26 +2274,29 @@ msgid "Nein!"
 msgstr "No!"
 
 #: ../../msn/msn_r3.c:310
+#, fuzzy
 msgid "Das müßte schon ein bißchen mehr sein."
-msgstr ""
+msgstr "That should be a little more than that."
 
 #: ../../msn/msn_r3.c:324
 msgid "Ok, dann machen Sie daß Sie wegkommen!"
-msgstr ""
+msgstr "Okay, then get out of here!"
 
 #: ../../msn/msn_r3.c:430
 msgid "Der Axacussaner hat dich erwischt."
-msgstr ""
+msgstr "The Axacussan caught you."
 
 #: ../../msn/msn_r3.c:547
 msgid ""
 "Diese Tür würde ich lieber|nicht öffnen. Nach dem Schild zu|urteilen, ist "
 "jemand in dem Raum."
 msgstr ""
+"I'd rather not open that door.|Judging by the sign, there's|someone in that "
+"room."
 
 #: ../../msn/msn_r3.c:642
 msgid "Du stellst dich hinter die Säule."
-msgstr ""
+msgstr "You stand behind the column."
 
 #: ../../msn/msn_r3.c:656
 msgid "Hmm, er scheint kaputt zu sein."
@@ -2305,29 +2308,31 @@ msgstr ""
 
 #: ../../msn/msn_r3.c:696
 msgid "Welche Zahlenkombination willst|du eingeben?"
-msgstr ""
+msgstr "Which combination do you want|to enter?"
 
 #: ../../msn/msn_r3.c:708
 msgid ""
 "Hmm, das haut nicht ganz hin,|aber irgendwie muß die Zahl|mit dem Code "
 "zusammenhängen."
 msgstr ""
+"Hmm, that doesn't really work,|but somehow the number|must be related to the "
+"code."
 
 #: ../../msn/msn_r3.c:710
 msgid "Das war die falsche Kombination."
-msgstr ""
+msgstr "That combination is incorrect."
 
 #: ../../msn/msn_r3.c:748
 msgid "Streng geheim"
-msgstr ""
+msgstr "Strictly secret"
 
 #: ../../msn/msn_r3.c:749
 msgid "418-98"
-msgstr ""
+msgstr "418-98"
 
 #: ../../msn/msn_r3.c:750
 msgid "Sehr geehrter Dr. Hansi,"
-msgstr ""
+msgstr "Dear Dr. Hansi,"
 
 #: ../../msn/msn_r3.c:751
 msgid "Ich muß Ihren Roboterexperten ein Lob aussprechen. Die"
