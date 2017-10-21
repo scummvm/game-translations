@@ -2302,10 +2302,6 @@ msgstr "You stand behind the column."
 msgid "Hmm, er scheint kaputt zu sein."
 msgstr "Hmm, it seems to be broken."
 
-#: ../../msn/msn_r3.c:657
-msgid "Hmm, it seems to be broken."
-msgstr ""
-
 #: ../../msn/msn_r3.c:696
 msgid "Welche Zahlenkombination willst|du eingeben?"
 msgstr "Which combination do you want|to enter?"

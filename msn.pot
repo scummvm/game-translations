@@ -2241,10 +2241,6 @@ msgstr ""
 msgid "Hmm, er scheint kaputt zu sein."
 msgstr ""
 
-#: ../../msn/msn_r3.c:657
-msgid "Hmm, it seems to be broken."
-msgstr ""
-
 #: ../../msn/msn_r3.c:696
 msgid "Welche Zahlenkombination willst|du eingeben?"
 msgstr ""
