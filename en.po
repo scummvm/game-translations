@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:53+0100\n"
-"PO-Revision-Date: 2017-10-21 16:44+0000\n"
+"PO-Revision-Date: 2017-10-21 17:14+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -2336,182 +2336,182 @@ msgstr "Dear Dr. Hansi,"
 
 #: ../../msn/msn_r3.c:751
 msgid "Ich muß Ihren Roboterexperten ein Lob aussprechen. Die"
-msgstr ""
+msgstr "I must commend your robot expert. The imitation"
 
 #: ../../msn/msn_r3.c:752
 msgid "Imitation von Horst Hummel ist perfekt gelungen, wie ich"
-msgstr ""
+msgstr "of Horst Hummel was a perfect success, as I found"
 
 #: ../../msn/msn_r3.c:753
 msgid "heute bei der Übertragung des Interviews feststellen"
-msgstr ""
+msgstr "out today during the broadcast of the interview."
 
 #: ../../msn/msn_r3.c:754
 msgid "konnte. Dem Aufschwung Ihrer Firma durch die Werbe-"
-msgstr ""
+msgstr "Nothing should stand in the way of your company's"
 
 #: ../../msn/msn_r3.c:755
 msgid "kampagne mit dem falschen Horst Hummel dürfte ja jetzt"
-msgstr ""
+msgstr "recovery through the advertising campaign with"
 
 #: ../../msn/msn_r3.c:756
 msgid "nichts mehr im Wege stehen."
-msgstr ""
+msgstr "the false Horst Hummel now."
 
 #: ../../msn/msn_r3.c:757
 msgid "PS: Herzlichen zum Geburtstag!"
-msgstr ""
+msgstr "PS: Happy Birthday!"
 
 #: ../../msn/msn_r3.c:758
 msgid "Hochachtungsvoll"
-msgstr ""
+msgstr "Yours sincerely"
 
 #: ../../msn/msn_r3.c:759
 msgid "Commander Sumoti"
-msgstr ""
+msgstr "Commander Sumoti"
 
 #: ../../msn/msn_r3.c:766
 msgid "Nicht zu fassen!"
-msgstr ""
+msgstr "I can't believe it!"
 
 #: ../../msn/msn_r3.c:838
 msgid "Hey, hinter dem Bild ist Geld|versteckt. Ich nehme es mit."
-msgstr ""
+msgstr "Hey, there's money hidden behind that|picture. I'll take it with me."
 
 #: ../../msn/msn_r3.c:1047
 msgid "DR. ALAB HANSI"
-msgstr ""
+msgstr "DR. ALAB HANSI"
 
 #: ../../msn/msn_r3.c:1047
 msgid "ALAB HANSI"
-msgstr ""
+msgstr "ALAB HANSI"
 
 #: ../../msn/msn_r3.c:1048
 msgid "SAVAL LUN"
-msgstr ""
+msgstr "SAVAL LUN"
 
 #: ../../msn/msn_r3.c:1048 ../../msn/msn_r3.c:1050
 msgid "x"
-msgstr ""
+msgstr "x"
 
 #: ../../msn/msn_r3.c:1049
 msgid "PROF. DR. UGNUL TSCHABB"
-msgstr ""
+msgstr "PROF. DR. UGNUL TSCHABB"
 
 #: ../../msn/msn_r3.c:1049
 msgid "UGNUL TSCHABB"
-msgstr ""
+msgstr "UGNUL TSCHABB"
 
 #: ../../msn/msn_r3.c:1050
 msgid "ALGA HURZ LI"
-msgstr ""
+msgstr "ALGA HURZ LI"
 
 #: ../../msn/msn_r3.c:1054
 msgid "Alab Hansi"
-msgstr ""
+msgstr "Alab Hansi"
 
 #: ../../msn/msn_r3.c:1054
 msgid "Saval Lun"
-msgstr ""
+msgstr "Saval Lun"
 
 #: ../../msn/msn_r3.c:1054
 msgid "Ugnul Tschabb"
-msgstr ""
+msgstr "Ugnul Tschabb"
 
 #: ../../msn/msn_r3.c:1054
 msgid "Alga Hurz Li"
-msgstr ""
+msgstr "Alga Hurz Li"
 
 #: ../../msn/msn_r3.c:1060
 msgid "Guten Tag, hier ist Horst Hummel."
-msgstr ""
+msgstr "Hello, I am Horst Hummel."
 
 #: ../../msn/msn_r3.c:1062
 msgid "Es ist sehr wichtig."
-msgstr ""
+msgstr "It's very important."
 
 #: ../../msn/msn_r3.c:1068
 msgid "Vom Mars."
-msgstr ""
+msgstr "From Mars."
 
 #: ../../msn/msn_r3.c:1069
 msgid "Vom Klo."
-msgstr ""
+msgstr "The toilet."
 
 #: ../../msn/msn_r3.c:1070
 msgid "Das werde ich kaum erzählen."
-msgstr ""
+msgstr "I won't tell you that."
 
 #: ../../msn/msn_r3.c:1079
 msgid "1 Büromanager"
-msgstr ""
+msgstr "1 Office manager"
 
 #: ../../msn/msn_r3.c:1080
 msgid "2 Telomat"
-msgstr ""
+msgstr "2 Phone"
 
 #: ../../msn/msn_r3.c:1081
 msgid "3 ProText"
-msgstr ""
+msgstr "3 ProText"
 
 #: ../../msn/msn_r3.c:1082
 msgid "4 Calculata"
-msgstr ""
+msgstr "4 Calculata"
 
 #: ../../msn/msn_r3.c:1083
 msgid "Bitte wählen"
-msgstr ""
+msgstr "Please select an option"
 
 #: ../../msn/msn_r3.c:1091
 msgid "Geben Sie den gewünschten Namen ein:"
-msgstr ""
+msgstr "Enter the desired name:"
 
 #: ../../msn/msn_r3.c:1092
 msgid "(Vor- und Nachname)"
-msgstr ""
+msgstr "(first and last name)"
 
 #: ../../msn/msn_r3.c:1106
 msgid "Name unbekannt"
-msgstr ""
+msgstr "Name unknown"
 
 #: ../../msn/msn_r3.c:1112
 msgid "Verbindung unmöglich"
-msgstr ""
+msgstr "Connection not possible"
 
 #: ../../msn/msn_r3.c:1116
 msgid "Verbindung wird hergestellt"
-msgstr ""
+msgstr "Connection is established"
 
 #. I18N: Here the %s is a name
 #: ../../msn/msn_r3.c:1121
 #, c-format
 msgid "%s am Apparat."
-msgstr ""
+msgstr "%s speaking."
 
 #: ../../msn/msn_r3.c:1127
 #, c-format
 msgid "Hier ist %s. Können Sie mal gerade kommen?"
-msgstr ""
+msgstr "This is %s. Can you come over now?"
 
 #: ../../msn/msn_r3.c:1134
 msgid "Huch, Sie hören sich aber|nicht gut an. Ich komme sofort."
-msgstr ""
+msgstr "You don't sound good.|I'll be right there."
 
 #: ../../msn/msn_r3.c:1145
 msgid "Horst Hummel! Von wo rufen Sie an?"
-msgstr ""
+msgstr "Horst Hummel! Where are you calling from?"
 
 #: ../../msn/msn_r3.c:1151
 msgid "Hmm, keine Antwort."
-msgstr ""
+msgstr "Hmm, no answer."
 
 #: ../../msn/msn_r3.c:1164
 msgid "Passwort:"
-msgstr ""
+msgstr "Password:"
 
 #: ../../msn/msn_r3.c:1215
 msgid "Was war das für ein Geräusch?"
-msgstr ""
+msgstr "What was that noise?"
 
 #: ../../msn/msn_r3.c:1217 ../../msn/msn_s.c:312
 msgid "Ich werde mal nachsehen."
@@ -2519,17 +2519,19 @@ msgstr "Let's find out..."
 
 #: ../../msn/msn_r3.c:1305
 msgid "Jetzt verschwinden Sie endlich!"
-msgstr ""
+msgstr "Get the hell out of here!"
 
 #: ../../msn/msn_r3.c:1306
 msgid "Huch, ich habe mich vertan."
-msgstr ""
+msgstr "Oops, I made a mistake."
 
 #: ../../msn/msn_r3.c:1368
 msgid ""
 "Nachdem du zwei Stunden im|Dschungel herumgeirrt bist,|findest du ein "
 "Gebäude."
 msgstr ""
+"After you've been wandering around|the jungle for two hours,|you find a "
+"building."
 
 #: ../../msn/msn_r3.c:1481
 msgid "Tablett"
