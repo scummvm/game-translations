@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-10-17 15:53+0000\n"
+"PO-Revision-Date: 2017-10-22 17:55+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -40,7 +40,7 @@ msgstr "Close"
 
 #: ../../ms2/ms2.c:1642
 msgid "Drücke"
-msgstr "Press"
+msgstr "Push"
 
 #: ../../ms2/ms2.c:1642
 msgid "Ziehe"
@@ -84,7 +84,7 @@ msgstr "Close "
 
 #: ../../ms2/ms2.c:2334
 msgid "Drücke "
-msgstr "Press "
+msgstr "Push "
 
 #: ../../ms2/ms2.c:2334
 msgid "Ziehe "
@@ -256,7 +256,7 @@ msgstr ""
 
 #: ../../ms2/ms2_mod.c:611
 msgid "Nicht zu fassen!"
-msgstr ""
+msgstr "I can't believe it!"
 
 #: ../../ms2/ms2_mod.c:613
 msgid "Super, ey!"
@@ -710,7 +710,7 @@ msgstr ""
 
 #: ../../ms2/ms2_pyra.c:1201 ../../ms2/ms2_pyra.c:1212
 msgid "Augen"
-msgstr ""
+msgstr "Eyes"
 
 #: ../../ms2/ms2_pyra.c:1202 ../../ms2/ms2_pyra.c:1213
 #: ../../ms2/ms2_pyra.c:1336
@@ -894,7 +894,7 @@ msgstr ""
 #: ../../ms2/ms2_r1.c:224
 #, c-format
 msgid "%d Xa"
-msgstr ""
+msgstr "%d Xa"
 
 #: ../../ms2/ms2_r1.c:242
 msgid ""
@@ -1224,7 +1224,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:788
 msgid "Karte"
-msgstr ""
+msgstr "Map"
 
 #: ../../ms2/ms2_r1.c:795
 msgid "Raumschiff"
@@ -1296,7 +1296,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:819 ../../ms2/ms2_r1.c:820
 msgid "Stange"
-msgstr ""
+msgstr "Rod"
 
 #: ../../ms2/ms2_r1.c:821
 msgid "Pfosten"
@@ -1390,7 +1390,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:860
 msgid "Pflanze"
-msgstr ""
+msgstr "Plant"
 
 #: ../../ms2/ms2_r1.c:861
 msgid "Maske"
@@ -2395,7 +2395,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:1206
 msgid "Axacussaner"
-msgstr ""
+msgstr "Axacussan"
 
 #: ../../ms2/ms2_r2.c:1207
 msgid "Teilnahmekarte"
