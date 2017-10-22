@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:53+0100\n"
-"PO-Revision-Date: 2017-10-21 17:14+0000\n"
+"PO-Revision-Date: 2017-10-22 18:01+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -639,8 +639,9 @@ msgstr ""
 "consciousness."
 
 #: ../../msn/msn_r1.c:295
+#, fuzzy
 msgid "Was steht dir jetzt wohl wirklich bevor?"
-msgstr ""
+msgstr "What is going to happen to you now?"
 
 #: ../../msn/msn_r1.c:307
 msgid "Geschwindigkeit: "
@@ -2531,195 +2532,198 @@ msgstr ""
 
 #: ../../msn/msn_r3.c:1481
 msgid "Tablett"
-msgstr ""
+msgstr "Tray"
 
 #: ../../msn/msn_r3.c:1481
 msgid "Es ist irgendein Fraß und|etwas zu Trinken darauf."
-msgstr ""
+msgstr "There is some kind of food|and a drink on it."
 
 #: ../../msn/msn_r3.c:1483
 msgid "Stange"
-msgstr ""
+msgstr "Rod"
 
 #: ../../msn/msn_r3.c:1483
 msgid "Es scheint eine Lampe zu sein."
-msgstr ""
+msgstr "It seems to be a lamp."
 
 #: ../../msn/msn_r3.c:1484
 msgid "Augen"
-msgstr ""
+msgstr "Eyes"
 
 #: ../../msn/msn_r3.c:1484
 msgid "Es ist nur ein Bild."
-msgstr ""
+msgstr "It's just a picture."
 
 #: ../../msn/msn_r3.c:1486
+#, fuzzy
 msgid "Sieht etwas anders aus als auf der Erde."
-msgstr ""
+msgstr "Looks a little different than on Earth."
 
 #: ../../msn/msn_r3.c:1488
 msgid "Metallblock"
-msgstr ""
+msgstr "Metal block"
 
 #: ../../msn/msn_r3.c:1488
 msgid "Er ist ziemlich schwer."
-msgstr ""
+msgstr "It's pretty heavy."
 
 #: ../../msn/msn_r3.c:1490
 msgid "Roboter"
-msgstr ""
+msgstr "Robot"
 
 #: ../../msn/msn_r3.c:1490
+#, fuzzy
 msgid "Den hast du erledigt."
-msgstr ""
+msgstr "You took care of it."
 
 #: ../../msn/msn_r3.c:1491 ../../msn/msn_r3.c:1528
 msgid "Tisch"
-msgstr ""
+msgstr "Table"
 
 #: ../../msn/msn_r3.c:1491
 msgid "Ein kleiner Metalltisch."
-msgstr ""
+msgstr "A small metal table."
 
 #: ../../msn/msn_r3.c:1524
 msgid "Zellentür"
-msgstr ""
+msgstr "Cell door"
 
 #: ../../msn/msn_r3.c:1524
 msgid "Hier warst du eingesperrt."
-msgstr ""
+msgstr "You were locked up here."
 
 #: ../../msn/msn_r3.c:1526
 msgid "Laptop"
-msgstr ""
+msgstr "Laptop"
 
 #: ../../msn/msn_r3.c:1576 ../../msn/msn_r3.c:1577
 msgid "Säule"
-msgstr ""
+msgstr "Pillar"
 
 #: ../../msn/msn_r3.c:1580
 msgid "Auf einem Schild an der Tür steht \"Dr. Alab Hansi\"."
-msgstr ""
+msgstr "A sign on the door says \"Dr. Alab Hansi\"."
 
 #: ../../msn/msn_r3.c:1582
 msgid "Auf einem Schild an der Tür steht \"Saval Lun\"."
-msgstr ""
+msgstr "A sign on the door says \"Saval Lun\"."
 
 #: ../../msn/msn_r3.c:1584
 msgid "Auf einem Schild an der Tür steht \"Prof. Dr. Ugnul Tschabb\"."
-msgstr ""
+msgstr "A sign on the door says \"Prof. Dr. Ugnul Tschabb\"."
 
 #: ../../msn/msn_r3.c:1586
 msgid "Auf einem Schild an der Tür steht \"Alga Hurz Li\"."
-msgstr ""
+msgstr "A sign on the door says \"Alga Hurz Li\"."
 
 #: ../../msn/msn_r3.c:1597 ../../msn/msn_r3.c:1613
 msgid "Axacussaner"
-msgstr ""
+msgstr "Axacussan"
 
 #: ../../msn/msn_r3.c:1597
 msgid "Du müßtest ihn irgendwie ablenken."
-msgstr ""
+msgstr "You have to distract him somehow."
 
 #: ../../msn/msn_r3.c:1599
 msgid "Komisches Bild."
-msgstr ""
+msgstr "Funny picture."
 
 #: ../../msn/msn_r3.c:1600
 msgid "Karte"
-msgstr ""
+msgstr "Map"
 
 #: ../../msn/msn_r3.c:1600
 msgid "Darauf steht: \"Generalkarte\"."
-msgstr ""
+msgstr "It says:\"General Map\"."
 
 #: ../../msn/msn_r3.c:1612
 msgid "Lampe"
-msgstr ""
+msgstr "Lamp"
 
 #: ../../msn/msn_r3.c:1614
 msgid "Seltsam!"
-msgstr ""
+msgstr "Strange!"
 
 #: ../../msn/msn_r3.c:1623 ../../msn/msn_r3.c:1670
 msgid "Geld"
-msgstr ""
+msgstr "Cash"
 
 #: ../../msn/msn_r3.c:1623
 msgid "Es sind 500 Xa."
-msgstr ""
+msgstr "It's 500 Xa."
 
 #: ../../msn/msn_r3.c:1624
 msgid "Schließfach"
-msgstr ""
+msgstr "Locker"
 
 #: ../../msn/msn_r3.c:1624
 msgid "Es hat ein elektronisches Zahlenschloß."
-msgstr ""
+msgstr "It has an electronic combination lock."
 
 #: ../../msn/msn_r3.c:1626
 msgid "Brief"
-msgstr ""
+msgstr "Note"
 
 #: ../../msn/msn_r3.c:1635
+#, fuzzy
 msgid "Würfel"
-msgstr ""
+msgstr "Dice"
 
 #: ../../msn/msn_r3.c:1635
 msgid "Sonderbar!"
-msgstr ""
+msgstr "Quirky!"
 
 #: ../../msn/msn_r3.c:1636
 msgid "Affenstark!"
-msgstr ""
+msgstr "Awesome!"
 
 #: ../../msn/msn_r3.c:1637
 msgid "Komisches Ding"
-msgstr ""
+msgstr "Strange thing"
 
 #: ../../msn/msn_r3.c:1637
 msgid "Wundersam!"
-msgstr ""
+msgstr "Amazing!"
 
 #: ../../msn/msn_r3.c:1646 ../../msn/msn_r3.c:1647
 msgid "Es ist ein Axacussanerkopf auf dem Bild."
-msgstr ""
+msgstr "There is an Axacussan head in the picture."
 
 #: ../../msn/msn_r3.c:1648 ../../msn/msn_r3.c:1659
 msgid "Pflanze"
-msgstr ""
+msgstr "Plant"
 
 #: ../../msn/msn_r3.c:1658
 msgid "Figur"
-msgstr ""
+msgstr "Figure"
 
 #: ../../msn/msn_r3.c:1658
 msgid "Stark!"
-msgstr ""
+msgstr "Strong!"
 
 #: ../../msn/msn_r3.c:1659
 msgid "Sie ist den Pflanzen auf der Erde sehr ähnlich."
-msgstr ""
+msgstr "It is very similar to the plants on earth."
 
 #: ../../msn/msn_r3.c:1668
 msgid "Er funktioniert nicht."
-msgstr ""
+msgstr "It doesn't work."
 
 #: ../../msn/msn_r3.c:1669
 msgid "Graffiti"
-msgstr ""
+msgstr "Graffiti"
 
 #: ../../msn/msn_r3.c:1669
 msgid "Seltsamer Büroschmuck!"
-msgstr ""
+msgstr "Strange office decoration!"
 
 #: ../../msn/msn_r3.c:1670
 msgid "Es sind 350 Xa."
-msgstr ""
+msgstr "It's 350 Xa."
 
 #: ../../msn/msn_r3.c:1680
 msgid "Dschungel"
-msgstr ""
+msgstr "Jungle"
 
 #: ../../msn/msn_r3.c:1680
 msgid "Lauter Bäume."
