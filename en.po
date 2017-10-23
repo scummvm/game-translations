@@ -430,14 +430,10 @@ msgstr "This is the keycard of the Commander."
 #: ../../msn/msn_r0.c:277
 msgid ""
 "Es ist eine Uhr mit extra|lautem Wecker. Sie hat einen|Knopf zum Verstellen "
-"der Alarmzeit.|Uhrzeit: "
+"der Alarmzeit.|Uhrzeit: %s   Alarmzeit: %s"
 msgstr ""
 "This is a clock with a very loud alarm. It has a button|for adjusting the "
-"alarm time.|Time: "
-
-#: ../../msn/msn_r0.c:279
-msgid "   Alarmzeit: "
-msgstr "   Alarm time: "
+"alarm time.|Time: %s   Alarm: %s"
 
 #: ../../msn/msn_r0.c:291
 msgid "Neue Alarmzeit (hh:mm) :"

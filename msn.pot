@@ -427,11 +427,7 @@ msgstr ""
 #: ../../msn/msn_r0.c:277
 msgid ""
 "Es ist eine Uhr mit extra|lautem Wecker. Sie hat einen|Knopf zum Verstellen "
-"der Alarmzeit.|Uhrzeit: "
-msgstr ""
-
-#: ../../msn/msn_r0.c:279
-msgid "   Alarmzeit: "
+"der Alarmzeit.|Uhrzeit: %s   Alarmzeit: %s"
 msgstr ""
 
 #: ../../msn/msn_r0.c:291
