@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-10-22 17:55+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-10-25 07:09+0000\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -220,31 +220,31 @@ msgstr "Tested by ...#"
 
 #: ../../ms2/ms2_mod.c:548
 msgid "^Das war's.#"
-msgstr ""
+msgstr "^That's it.#"
 
 #: ../../ms2/ms2_mod.c:549
 msgid "^Schluß!#"
-msgstr ""
+msgstr "^Over!#"
 
 #: ../../ms2/ms2_mod.c:550
 msgid "^Ende!#"
-msgstr ""
+msgstr "^End!#"
 
 #: ../../ms2/ms2_mod.c:551
 msgid "^Aus!#"
-msgstr ""
+msgstr "^Done!#"
 
 #: ../../ms2/ms2_mod.c:552
 msgid "^Tschüß!#"
-msgstr ""
+msgstr "^Bye!#"
 
 #: ../../ms2/ms2_mod.c:603
 msgid "Oh!"
-msgstr ""
+msgstr "Oh!"
 
 #: ../../ms2/ms2_mod.c:605
 msgid "Nicht schlecht!"
-msgstr ""
+msgstr "Not bad!"
 
 #: ../../ms2/ms2_mod.c:607
 msgid "Supersound!"
@@ -252,7 +252,7 @@ msgstr ""
 
 #: ../../ms2/ms2_mod.c:609
 msgid "Klasse!"
-msgstr ""
+msgstr "Great!"
 
 #: ../../ms2/ms2_mod.c:611
 msgid "Nicht zu fassen!"
@@ -264,11 +264,11 @@ msgstr ""
 
 #: ../../ms2/ms2_mod.c:615
 msgid "Fantastisch!"
-msgstr ""
+msgstr "Fantastic!"
 
 #: ../../ms2/ms2_mod.c:617
 msgid "Umwerfend!"
-msgstr ""
+msgstr "Stunning!"
 
 #: ../../ms2/ms2_mod.c:619
 msgid "Genial!"
@@ -276,15 +276,15 @@ msgstr "Brilliant!"
 
 #: ../../ms2/ms2_mod.c:621
 msgid "Spitze!"
-msgstr ""
+msgstr "Awesome!"
 
 #: ../../ms2/ms2_mod.c:623
 msgid "Jawoll!"
-msgstr ""
+msgstr "Alright!"
 
 #: ../../ms2/ms2_mod.c:625
 msgid "Hervorragend!"
-msgstr ""
+msgstr "Outstanding!"
 
 #: ../../ms2/ms2_mod.c:627
 msgid "Ultragut!"
@@ -296,67 +296,68 @@ msgstr ""
 
 #: ../../ms2/ms2_mod.c:631
 msgid "Yeah!"
-msgstr ""
+msgstr "Yeah!"
 
 #: ../../ms2/ms2_mus.c:60
 msgid "Ein Wächter betritt den Raum.|Du wirst verhaftet."
-msgstr ""
+msgstr "A guard enters the room.|You are getting arrested."
 
 #: ../../ms2/ms2_mus.c:73
 msgid "Die nächsten paar Jahre|verbringst du im Knast."
-msgstr ""
+msgstr "The next few years|you will spend in jail."
 
 #: ../../ms2/ms2_mus.c:145
 msgid "Es wird Alarm ausgelöst."
-msgstr ""
+msgstr "The alarm is about to be set off."
 
 #: ../../ms2/ms2_mus.c:200
 msgid "Du hörst Schritte."
-msgstr ""
+msgstr "You are hearing footsteps."
 
 #: ../../ms2/ms2_mus.c:232
 msgid "Um das Schloss zu öffnen,|brauchst du einige Zeit."
-msgstr ""
+msgstr "You will take some time,|to pick that lock."
 
 #: ../../ms2/ms2_mus.c:238
 msgid "Du gerätst in Panik|und ziehst die Keycard|aus der Tür."
-msgstr ""
+msgstr "You are panicking|and remove the keycard|from the door."
 
 #: ../../ms2/ms2_mus.c:316
 msgid "Du hast deinen Auftrag|noch nicht ausgeführt."
-msgstr ""
+msgstr "You have not completed|your task, yet."
 
 #: ../../ms2/ms2_mus.c:330
 msgid ""
 "Obwohl du die Alarmanlage noch|nicht ausgeschaltet hast,|entscheidest du "
 "dich, zu fliehen."
-msgstr ""
+msgstr "Although you haven't|disabled the alarm yet,|you decide to escape."
 
 #: ../../ms2/ms2_mus.c:337
 msgid ""
 "Du entledigst dich der Einbruchswerkzeuge|und nimmst ein Taxi zum "
 "Kulturpalast."
 msgstr ""
+"You get rid of your burglar tools|and take a cab to the Palace of Culture."
 
 #: ../../ms2/ms2_mus.c:376 ../../ms2/ms2_mus.c:532 ../../ms2/ms2_mus.c:631
 msgid "Diese Tür brauchst|du nicht zu öffnen."
-msgstr ""
+msgstr "You don't need|to open this door."
 
 #: ../../ms2/ms2_mus.c:394
 msgid "Uff, es hat geklappt!"
-msgstr ""
+msgstr "Phew, it worked!"
 
 #: ../../ms2/ms2_mus.c:407
 msgid "Zurück im Quartier der Gangster ..."
-msgstr ""
+msgstr "Back in the gangsters' hideout ..."
 
 #: ../../ms2/ms2_mus.c:417
 msgid "Das lief ja wie am Schnürchen!"
-msgstr ""
+msgstr "Everything went like clockwork!"
 
 #: ../../ms2/ms2_mus.c:418
 msgid "Hier, dein Anteil von 30000 Xa."
-msgstr ""
+msgstr "Here, your share of 30000 Xa."
 
 #: ../../ms2/ms2_mus.c:425
 msgid "Wo ist denn der Saurierkopf?"
