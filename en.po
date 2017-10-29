@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-10-25 07:09+0000\n"
+"PO-Revision-Date: 2017-10-29 15:05+0000\n"
 "Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -2427,9 +2427,8 @@ msgid "Klingel"
 msgstr ""
 
 #: ../../ms2/ms2_r2.c:1245
-#, fuzzy
 msgid "Anzeige"
-msgstr "Advertisement"
+msgstr "Display"
 
 #: ../../ms2/ms2_r2.c:1246
 msgid "Tastenblock"
