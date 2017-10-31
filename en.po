@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-10-29 15:05+0000\n"
+"PO-Revision-Date: 2017-10-31 17:21+0000\n"
 "Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -128,7 +128,7 @@ msgstr "Restart"
 
 #: ../../ms2/ms2.c:3002
 msgid "Schreibfehler"
-msgstr ""
+msgstr "write error"
 
 #: ../../ms2/ms2.c:3243
 msgid "Textgeschwindigkeit:"
@@ -361,7 +361,7 @@ msgstr "Here, your share of 30000 Xa."
 
 #: ../../ms2/ms2_mus.c:425
 msgid "Wo ist denn der Saurierkopf?"
-msgstr ""
+msgstr "Where's the dinosaur skull?"
 
 #: ../../ms2/ms2_mus.c:426
 msgid "Dazu hatte ich keine Zeit mehr."
@@ -369,7 +369,7 @@ msgstr ""
 
 #: ../../ms2/ms2_mus.c:427
 msgid "Was? Du spinnst wohl!|Dann kriegst du auch deinen|Anteil nicht. Raus!"
-msgstr ""
+msgstr "What? You're nuts!|Then you won't get your|share. Beat it!"
 
 #: ../../ms2/ms2_mus.c:703
 msgid "Der Sauger ist schon dort."
