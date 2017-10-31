@@ -1031,7 +1031,7 @@ msgstr ""
 
 #: ../../msn/msn_r1_r.c:117
 msgid ""
-"Hey, das ist die Keycard des Commanders!|Er muß sie bei dem Überstürzten|"
+"Hey, das ist die Keycard des Commanders!|Er muß sie bei dem überstürzten|"
 "Aufbruch verloren haben."
 msgstr ""
 
