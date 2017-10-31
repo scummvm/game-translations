@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:53+0100\n"
-"PO-Revision-Date: 2017-10-31 22:00+0000\n"
+"PO-Revision-Date: 2017-10-31 22:17+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -470,7 +470,7 @@ msgstr "You must take off your helmet first."
 
 #: ../../msn/msn_r0.c:397
 msgid "Du mußt erst den Versorgungsteil abnehmen."
-msgstr "You must take off your supply first."
+msgstr "You must take off your oxygen supply unit first."
 
 #: ../../msn/msn_r0.c:401
 msgid "Du ziehst den Raumanzug aus."
@@ -498,15 +498,15 @@ msgstr "You must wear the suit first."
 
 #: ../../msn/msn_r0.c:467
 msgid "Den Versorungsteil hättest du|besser nicht abgenommen!"
-msgstr "You should have not taken off your supply!"
+msgstr "You should not have taken off your oxygen supply unit!"
 
 #: ../../msn/msn_r0.c:469
 msgid "Du nimmst den Versorgungsteil ab."
-msgstr "You take off your supply."
+msgstr "You take off your oxygen supply unit."
 
 #: ../../msn/msn_r0.c:477
 msgid "Du ziehst den Versorgungsteil an."
-msgstr "You put on your supply."
+msgstr "You put on your oxygen supply unit."
 
 #: ../../msn/msn_r0.c:489
 msgid "Die Leitung ist hier unnütz."
@@ -696,7 +696,7 @@ msgstr "Emergency energy supply active"
 
 #: ../../msn/msn_r1.c:447
 msgid "Zu niedriger Luftdruck soll ungesund sein."
-msgstr "Air pressure too low is unhealthy."
+msgstr "Air pressure too low unhealthy is."
 
 #: ../../msn/msn_r1.c:454
 msgid "Er zeigt Null an."
@@ -958,11 +958,11 @@ msgstr "The only space suit left behind by the others..."
 
 #: ../../msn/msn_r1_r.c:72
 msgid "Versorgung"
-msgstr "Oxygen Supply"
+msgstr "Oxygen Supply Unit"
 
 #: ../../msn/msn_r1_r.c:72
 msgid "Es ist der Versorgungsteil zum Raumanzug."
-msgstr "It is the supply for the space suit."
+msgstr "It is the oxygen supply unit for the space suit."
 
 #: ../../msn/msn_r1_r.c:74
 msgid "Druckmesser"
