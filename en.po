@@ -484,6 +484,10 @@ msgstr "You put on your space suit."
 msgid "Den Helm hättest du|besser angelassen!"
 msgstr "You should have kept your helmet on!"
 
+#: ../../msn/msn_r0.c:433
+msgid "Du ziehst den Helm ab."
+msgstr "You put on your helmet."
+
 #: ../../msn/msn_r0.c:441
 msgid "Du ziehst den Helm auf."
 msgstr "You take off your helmet."
