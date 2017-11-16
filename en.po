@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-16 14:56+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"PO-Revision-Date: 2017-11-16 14:57+0000\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -401,7 +401,7 @@ msgstr "Dinosaur"
 
 #: ../../ms2/ms2_mus.c:746
 msgid "Du hast jetzt besseres zu tun,|als das Ding anzuschauen."
-msgstr "You have better things to do now than look at that thing."
+msgstr "You have better things to do now|than look at that thing."
 
 #: ../../ms2/ms2_mus.c:747 ../../ms2/ms2_pyra.c:1010 ../../ms2/ms2_r1.c:805
 #: ../../ms2/ms2_r1.c:816 ../../ms2/ms2_r2.c:1203 ../../ms2/ms2_r2.c:1214
