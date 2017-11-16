@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
 "PO-Revision-Date: 2017-11-16 22:15+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -470,7 +470,7 @@ msgstr "This is the head|you're looking for."
 
 #: ../../ms2/ms2_mus.c:975
 msgid "Alarmanlage"
-msgstr ""
+msgstr "Alarm system"
 
 #: ../../ms2/ms2_mus.c:976 ../../ms2/ms2_r1.c:783
 msgid "Sauger"
