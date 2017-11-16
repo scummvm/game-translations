@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-16 14:57+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-16 22:14+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -433,7 +433,7 @@ msgstr "Door"
 
 #: ../../ms2/ms2_mus.c:749
 msgid "Strasse zum Stadtzentrum"
-msgstr ""
+msgstr "Road to the city center"
 
 #: ../../ms2/ms2_mus.c:793
 msgid "Kamera"
@@ -441,11 +441,11 @@ msgstr ""
 
 #: ../../ms2/ms2_mus.c:793
 msgid "Hoffentlich bemerkt dich niemand."
-msgstr ""
+msgstr "Hopefully nobody will notice you."
 
 #: ../../ms2/ms2_mus.c:856
 msgid "Haupteingang"
-msgstr ""
+msgstr "Main entrance"
 
 #: ../../ms2/ms2_mus.c:873 ../../ms2/ms2_mus.c:874 ../../ms2/ms2_mus.c:885
 #: ../../ms2/ms2_mus.c:893 ../../ms2/ms2_pyra.c:1046 ../../ms2/ms2_pyra.c:1054
@@ -458,15 +458,15 @@ msgstr "Corridor"
 
 #: ../../ms2/ms2_mus.c:875
 msgid "Ziemlich groß."
-msgstr ""
+msgstr "Quite large."
 
 #: ../../ms2/ms2_mus.c:876 ../../ms2/ms2_r1.c:787
 msgid "Saurierkopf"
-msgstr ""
+msgstr "Dinosaur head"
 
 #: ../../ms2/ms2_mus.c:876
 msgid "Dies ist der Kopf,|den du suchst."
-msgstr ""
+msgstr "This is the head you're looking for."
 
 #: ../../ms2/ms2_mus.c:975
 msgid "Alarmanlage"
