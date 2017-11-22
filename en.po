@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:53+0100\n"
-"PO-Revision-Date: 2017-11-07 00:28+0000\n"
+"PO-Revision-Date: 2017-11-22 00:10+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -389,11 +389,11 @@ msgstr "You've already opened it."
 
 #: ../../msn/msn_r0.c:206
 msgid "In dem Ei ist eine Tablette|in einer Plastikhülle."
-msgstr "The egg contains a tablet|in a plastic sleeve."
+msgstr "The egg contains a pill|in a plastic sleeve."
 
 #: ../../msn/msn_r0.c:214
 msgid "Du ißt die Tablette und merkst,|daß sich irgendetwas verändert hat."
-msgstr "You eat the tablet and realize|that something has changed."
+msgstr "You eat the pill and realize|that something has changed."
 
 #: ../../msn/msn_r0.c:224
 msgid ""
@@ -401,7 +401,7 @@ msgid ""
 "diese Schrift jetzt|lesen können, hat die Tablette gewirkt.\""
 msgstr ""
 "Funny! Now you can read the inscription! It says, \"If you can read this "
-"text now, the tablet has worked.\""
+"text now, the pill has worked.\""
 
 #: ../../msn/msn_r0.c:232
 msgid "Sie ist leer."
@@ -1530,7 +1530,7 @@ msgstr ""
 
 #: ../../msn/msn_r2.c:617
 msgid "Da! Die Supernova!"
-msgstr "There! The Supernova!"
+msgstr "There! The supernova!"
 
 #: ../../msn/msn_r2.c:630
 msgid "Zwei Minuten später ..."
@@ -1603,7 +1603,7 @@ msgid ""
 "Hmm ... im Moment fällt mir nichts ein, aber vielleicht|hat der Spieler des "
 "Adventures ja eine Idee."
 msgstr ""
-"Hmm ... at the moment I'm not sure,but maybe|the Adventure Game Player has "
+"Hmm ... at the moment I'm not sure, but maybe|the Adventure Game Player has "
 "an idea."
 
 #: ../../msn/msn_r2.c:725
@@ -1667,7 +1667,7 @@ msgstr "Earth? Never heard of it."
 msgid ""
 "Wahrscheinlich irgendein Kaff, wo Neuerungen|erst hundert Jahre später "
 "hingelangen."
-msgstr "Probably some Dump, where innovations|happen only a century late."
+msgstr "Probably some dump, where innovations|happen only a century late."
 
 #: ../../msn/msn_r2.c:740
 msgid "Äh ... kann sein."
@@ -1890,7 +1890,7 @@ msgid ""
 "Sie,|nämlich zur Erforschung der Supernova."
 msgstr ""
 "We come from the planet Axacuss|and are here for the same reason as you,|"
-"namely, to investigate the Supernova."
+"namely, to observe the supernova."
 
 #: ../../msn/msn_r2.c:1151
 msgid "Sie können beruhigt sein, wir wollen Ihnen nur helfen."
