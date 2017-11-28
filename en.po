@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
 "PO-Revision-Date: 2017-11-28 23:49+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -491,7 +491,7 @@ msgstr "Letter"
 
 #: ../../ms2/ms2_pyra.c:28
 msgid "Sie ist sehr massiv."
-msgstr "She is very massive."
+msgstr "It is very massive."
 
 #: ../../ms2/ms2_pyra.c:29
 msgid "Hmm, X und Y, irgendwo|habe ich die Buchstaben|schon gesehen."
