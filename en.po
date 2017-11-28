@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-28 23:49+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-28 23:51+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -495,27 +495,27 @@ msgstr "It is very massive."
 
 #: ../../ms2/ms2_pyra.c:29
 msgid "Hmm, X und Y, irgendwo|habe ich die Buchstaben|schon gesehen."
-msgstr ""
+msgstr "Hmm, X and Y|I have seen these letters|somewhere before."
 
 #: ../../ms2/ms2_pyra.c:34
 msgid "Deine Zeit ist um, Fremder!"
-msgstr ""
+msgstr "Your Time is up, Stranger!"
 
 #: ../../ms2/ms2_pyra.c:76
 msgid "Du hast das Seil|doch schon festgebunden."
-msgstr ""
+msgstr "You already tied the rope."
 
 #: ../../ms2/ms2_pyra.c:80
 msgid "Das würde wenig bringen."
-msgstr ""
+msgstr "That would amount to little."
 
 #: ../../ms2/ms2_pyra.c:126
 msgid "Sonnenstich, oder was?"
-msgstr ""
+msgstr "Sunstroke, or what?"
 
 #: ../../ms2/ms2_pyra.c:385
 msgid "Du merkst, daß der Boden|unter dir nachgibt, und|springst zur Seite."
-msgstr ""
+msgstr "You notice that the ground is giving way under you, and you leap aside."
 
 #: ../../ms2/ms2_pyra.c:537
 msgid "Puzzleteil"
