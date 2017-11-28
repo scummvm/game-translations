@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-16 22:15+0000\n"
+"PO-Revision-Date: 2017-11-28 23:49+0000\n"
 "Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -478,7 +478,7 @@ msgstr ""
 
 #: ../../ms2/ms2_mus.c:977
 msgid "Wand"
-msgstr ""
+msgstr "Wall"
 
 #: ../../ms2/ms2_pyra.c:26 ../../ms2/ms2_pyra.c:1255 ../../ms2/ms2_pyra.c:1256
 #: ../../ms2/ms2_pyra.c:1274 ../../ms2/ms2_pyra.c:1284
@@ -487,11 +487,11 @@ msgstr "Opening"
 
 #: ../../ms2/ms2_pyra.c:27
 msgid "Buchstabe"
-msgstr ""
+msgstr "Letter"
 
 #: ../../ms2/ms2_pyra.c:28
 msgid "Sie ist sehr massiv."
-msgstr ""
+msgstr "She is very massive."
 
 #: ../../ms2/ms2_pyra.c:29
 msgid "Hmm, X und Y, irgendwo|habe ich die Buchstaben|schon gesehen."
