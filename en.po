@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-29 00:07+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"PO-Revision-Date: 2017-11-29 00:14+0000\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -365,7 +365,7 @@ msgstr "Where's the dinosaur skull?"
 
 #: ../../ms2/ms2_mus.c:426
 msgid "Dazu hatte ich keine Zeit mehr."
-msgstr ""
+msgstr "I didn't have enough time for that."
 
 #: ../../ms2/ms2_mus.c:427
 msgid "Was? Du spinnst wohl!|Dann kriegst du auch deinen|Anteil nicht. Raus!"
@@ -437,7 +437,7 @@ msgstr "Road to the city center"
 
 #: ../../ms2/ms2_mus.c:793
 msgid "Kamera"
-msgstr ""
+msgstr "Security camera"
 
 #: ../../ms2/ms2_mus.c:793
 msgid "Hoffentlich bemerkt dich niemand."
@@ -543,7 +543,7 @@ msgstr ""
 
 #: ../../ms2/ms2_pyra.c:715
 msgid "Hey, das ist|mindestens 10 Meter tief!"
-msgstr "Hey, that is|at least 10 feet deep!"
+msgstr "Hey, that is|at least 10 meters deep!"
 
 #: ../../ms2/ms2_pyra.c:731
 msgid "In dem Schlitz|ist nichts mehr."
