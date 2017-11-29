@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-29 00:19+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-29 00:29+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -561,7 +561,7 @@ msgstr "You try to open the coffin,|but the lid does not|move a millimeter."
 
 #: ../../ms2/ms2_pyra.c:913 ../../ms2/ms2_pyra.c:923
 msgid "Du hast die Kugel schon gedrückt."
-msgstr ""
+msgstr "You have already|squished the ball."
 
 #: ../../ms2/ms2_pyra.c:944
 msgid "Die Kugel bewegt sich ein Stück."
