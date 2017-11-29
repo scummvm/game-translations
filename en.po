@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-29 00:30+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-29 00:31+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -565,19 +565,19 @@ msgstr "You have already|pushed the ball."
 
 #: ../../ms2/ms2_pyra.c:944
 msgid "Die Kugel bewegt sich ein Stück."
-msgstr ""
+msgstr "The ball moves a bit."
 
 #: ../../ms2/ms2_pyra.c:965
 msgid "Herzlichen Glückwunsch!"
-msgstr ""
+msgstr "Congratulations!"
 
 #: ../../ms2/ms2_pyra.c:966
 msgid "Sie haben das Spiel gelöst|und gewinnen 400 Xa!"
-msgstr ""
+msgstr "You solved the game|and won 400 Xa!"
 
 #: ../../ms2/ms2_pyra.c:967
 msgid "Vielen Dank für die Benutzung eines|VIRTUAL-REALITY-SYSTEMS-Produkts!"
-msgstr ""
+msgstr "Thank you for using a|VIRTUAL-REALITY-SYSTEMS-Product!"
 
 #: ../../ms2/ms2_pyra.c:991
 msgid "N"
