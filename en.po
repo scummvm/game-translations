@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 10:33+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 10:35+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1377,7 +1377,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:845
 msgid "Darüber steht:|\"Gewinnausgabe / Geldrückgabe\"."
-msgstr ""
+msgstr "It says:|\"Prize / Money Return\"."
 
 #: ../../ms2/ms2_r1.c:846 ../../ms2/ms2_r2.c:1264
 msgid "Stuhl"
@@ -1385,7 +1385,7 @@ msgstr "Chair"
 
 #: ../../ms2/ms2_r1.c:846
 msgid "Etwas Entspannung könntest du jetzt gebrauchen."
-msgstr ""
+msgstr "You could use some relaxation right about now."
 
 #: ../../ms2/ms2_r1.c:847 ../../ms2/ms2_r1.c:848
 msgid "Gekritzel"
@@ -1393,11 +1393,11 @@ msgstr "Scribble"
 
 #: ../../ms2/ms2_r1.c:849 ../../ms2/ms2_r1.c:873
 msgid "Gesicht"
-msgstr ""
+msgstr "Face"
 
 #: ../../ms2/ms2_r1.c:849
 msgid "Nicht zu fassen! Die|Wände sind genauso beschmutzt|wie auf der Erde."
-msgstr ""
+msgstr "Unbelievable! The walls|are just as dirty|as those on Earth."
 
 #: ../../ms2/ms2_r1.c:858
 msgid "Bücher"
@@ -1405,7 +1405,7 @@ msgstr "Books"
 
 #: ../../ms2/ms2_r1.c:859
 msgid "Lexikon"
-msgstr ""
+msgstr "Dictionary"
 
 #: ../../ms2/ms2_r1.c:860
 msgid "Pflanze"
@@ -1413,15 +1413,15 @@ msgstr "Plant"
 
 #: ../../ms2/ms2_r1.c:861
 msgid "Maske"
-msgstr ""
+msgstr "Mask"
 
 #: ../../ms2/ms2_r1.c:862
 msgid "Schlange"
-msgstr ""
+msgstr "Snake"
 
 #: ../../ms2/ms2_r1.c:863
 msgid "Becher"
-msgstr ""
+msgstr "Cup"
 
 #: ../../ms2/ms2_r1.c:864
 msgid "Joystick"
