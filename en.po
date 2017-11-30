@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
 "PO-Revision-Date: 2017-11-30 10:14+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1112,7 +1112,7 @@ msgstr "Ugly, right?"
 
 #: ../../ms2/ms2_r1.c:683
 msgid "Aber verkaufen tut sich das Zeug gut."
-msgstr ""
+msgstr "But this stuff sells well."
 
 #: ../../ms2/ms2_r1.c:699
 #, c-format
