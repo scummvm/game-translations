@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 08:44+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"PO-Revision-Date: 2017-11-30 08:52+0000\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -678,7 +678,7 @@ msgstr "right side"
 #: ../../ms2/ms2_pyra.c:1271 ../../ms2/ms2_pyra.c:1282
 #: ../../ms2/ms2_pyra.c:1292
 msgid "linke Seite"
-msgstr "left Side"
+msgstr "left side"
 
 #: ../../ms2/ms2_pyra.c:1071
 msgid "Knopf"
@@ -686,8 +686,9 @@ msgstr "Button"
 
 #: ../../ms2/ms2_pyra.c:1143 ../../ms2/ms2_pyra.c:1151
 #: ../../ms2/ms2_pyra.c:1159 ../../ms2/ms2_pyra.c:1167
+#, fuzzy
 msgid "Schrift"
-msgstr ""
+msgstr "Engraving"
 
 #: ../../ms2/ms2_pyra.c:1175 ../../ms2/ms2_pyra.c:1184
 msgid "Tomate"
