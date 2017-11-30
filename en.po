@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 09:22+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 09:23+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -878,15 +878,15 @@ msgstr "There is no chip inserted."
 
 #: ../../ms2/ms2_r1.c:162
 msgid "Wozu? Du hast sowieso nur die eine CD."
-msgstr ""
+msgstr "What for? You only have one CD anyway."
 
 #: ../../ms2/ms2_r1.c:166
 msgid "Die \"Mad Monkeys\"-CD. Du hast|sie schon tausendmal gehört."
-msgstr ""
+msgstr "The \"Mad Monkeys\" CD. You've heard them a thousand times."
 
 #: ../../ms2/ms2_r1.c:183
 msgid "Du hörst nichts.|Der Chip ist unbespielt."
-msgstr ""
+msgstr "You do not hear anything.|The Chip is empty."
 
 #: ../../ms2/ms2_r1.c:185
 msgid "Du hörst dir den Anfang|der überspielten CD an."
