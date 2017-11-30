@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 09:09+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 09:13+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -825,11 +825,11 @@ msgstr "It looks like metal."
 
 #: ../../ms2/ms2_r1.c:83
 msgid "Ein Taxi kommt angerauscht,|du steigst ein."
-msgstr ""
+msgstr "A taxi arrives, and you get in."
 
 #: ../../ms2/ms2_r1.c:90
 msgid "Du drückst auf den Knopf, aber nichts passiert"
-msgstr ""
+msgstr "You press the Button, but nothing happens"
 
 #: ../../ms2/ms2_r1.c:94
 msgid "Es ist leer."
