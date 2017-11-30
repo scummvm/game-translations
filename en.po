@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 13:32+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 13:33+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1797,32 +1797,32 @@ msgstr "I'm sorry, the participation cards|are already sold out."
 
 #: ../../ms2/ms2_r2.c:393
 msgid "Scheiße!"
-msgstr ""
+msgstr "Crap!"
 
 #: ../../ms2/ms2_r2.c:396
 msgid "Das kann ich Ihnen|leider nicht sagen."
-msgstr ""
+msgstr "I can not tell you that."
 
 #: ../../ms2/ms2_r2.c:401
 msgid "Wo ist denn nun Ihr Musikchip?"
-msgstr ""
+msgstr "Where is your music chip?"
 
 #: ../../ms2/ms2_r2.c:403
 msgid "Jetzt beeilen Sie sich doch!"
-msgstr ""
+msgstr "Now hurry up!"
 
 #: ../../ms2/ms2_r2.c:416
 msgid ""
 "Huch, Sie sind hier bei einem Musik-,|nicht bei einem Imitationswettbewerb"
-msgstr ""
+msgstr "Huh, you're here at a music contest,|not at an imitation contest."
 
 #: ../../ms2/ms2_r2.c:417
 msgid "Imitationswettbewerb?|Ich will niemanden imitieren."
-msgstr ""
+msgstr "Imitation Competition?| I do not want to imitate anyone."
 
 #: ../../ms2/ms2_r2.c:418
 msgid "Guter Witz, wieso sehen Sie|dann aus wie Horst Hummel?"
-msgstr ""
+msgstr "Good joke. Why do you look like Horst Hummel?"
 
 #: ../../ms2/ms2_r2.c:420
 msgid ""
