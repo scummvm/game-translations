@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 08:57+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 08:59+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -767,15 +767,15 @@ msgstr "It is about 5 meters deep."
 
 #: ../../ms2/ms2_pyra.c:1275
 msgid "Steine"
-msgstr ""
+msgstr "Stones"
 
 #: ../../ms2/ms2_pyra.c:1285
 msgid "Platte"
-msgstr ""
+msgstr "Plate"
 
 #: ../../ms2/ms2_pyra.c:1315 ../../ms2/ms2_pyra.c:1323
 msgid "Sarg"
-msgstr ""
+msgstr "Coffin"
 
 #: ../../ms2/ms2_pyra.c:1316 ../../ms2/ms2_pyra.c:1322
 #: ../../ms2/ms2_pyra.c:1333 ../../ms2/ms2_r1.c:833 ../../ms2/ms2_r1.c:840
@@ -785,19 +785,19 @@ msgstr "Exit"
 
 #: ../../ms2/ms2_pyra.c:1323
 msgid "Unheimlich!"
-msgstr ""
+msgstr "Creepy!"
 
 #: ../../ms2/ms2_pyra.c:1324 ../../ms2/ms2_r1.c:865
 msgid "Zahnbürste"
-msgstr ""
+msgstr "Toothbrush"
 
 #: ../../ms2/ms2_pyra.c:1324 ../../ms2/ms2_pyra.c:1325
 msgid "Die Sache mit der|Artus GmbH scheint dir zu|Kopf gestiegen zu sein."
-msgstr ""
+msgstr "The thing with the|Artus GmbH seems to have|gotten to your head."
 
 #: ../../ms2/ms2_pyra.c:1325
 msgid "Zahnpastatube"
-msgstr ""
+msgstr "Toothpaste"
 
 #: ../../ms2/ms2_pyra.c:1326 ../../ms2/ms2_pyra.c:1327
 msgid "Kugel"
