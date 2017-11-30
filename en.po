@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 14:34+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 16:47+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1861,150 +1861,165 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:489
 msgid "Sie haben das Wort!"
-msgstr ""
+msgstr "You have the floor!"
 
 #: ../../ms2/ms2_r2.c:490
 msgid "Nun ja, meine erste Frage lautet: ..."
-msgstr ""
+msgstr "Well, my first question is ..."
 
 #: ../../ms2/ms2_r2.c:491
 msgid ""
 "Warum haben Sie sich sofort nach|Ihrer Landung entschlossen, für|die Artus-"
 "GmbH zu arbeiten?"
 msgstr ""
+"Why did you decide immediately|after your arrival to work for|Artus GmbH?"
 
 #: ../../ms2/ms2_r2.c:492
 msgid ""
 "Es war meine freie Entscheidung.|Die Artus-GmbH hat mir einfach gefallen."
-msgstr ""
+msgstr "It was a decision I made on my own.|I just decided I liked Artus-GmbH."
 
 #: ../../ms2/ms2_r2.c:493
 msgid ""
 "Wieso betonen Sie, daß es|Ihre freie Entscheidung war?|Haben Sie Angst, daß "
 "man Ihnen|nicht glaubt?"
 msgstr ""
+"Why do you stress that|it was a decision made on your own?|Are you afraid "
+"that I will not believe you?"
 
 #: ../../ms2/ms2_r2.c:494
 msgid "Also, ich muß doch sehr bitten!|Was soll diese unsinnige Frage?"
-msgstr ""
+msgstr "Well, I have to ask!|What is with this nonsensical question?"
 
 #: ../../ms2/ms2_r2.c:495
 msgid ""
 "Ich finde die Frage wichtig.|Nun, Herr Hummel, was haben|Sie dazu zu sagen?"
 msgstr ""
+"I think the question is important.|Well, Mr. Hummel, what do you have to say?"
 
 #: ../../ms2/ms2_r2.c:505
 msgid "Auf solch eine Frage brauche|ich nicht zu antworten!"
-msgstr ""
+msgstr "I don't feel that I have|to answer such a question!"
 
 #: ../../ms2/ms2_r2.c:506
 msgid "Gut, dann etwas anderes ..."
-msgstr ""
+msgstr "Good, now something else..."
 
 #: ../../ms2/ms2_r2.c:507
 msgid ""
 "Sie sind von Beruf Koch.|Wie hieß das Restaurant,|in dem Sie auf der Erde|"
 "gearbeitet haben?"
 msgstr ""
+"You are a chef by profession.|What was the name of the restaurant|where you "
+"worked|on Earth?"
 
 #: ../../ms2/ms2_r2.c:508
 msgid "Hmm, daß weiß ich nicht mehr."
-msgstr ""
+msgstr "Hmm, I do not remember that."
 
 #: ../../ms2/ms2_r2.c:509
 msgid ""
 "Sie wollen mir doch nicht weismachen,|daß Sie den Namen vergessen haben!"
-msgstr ""
+msgstr "You do not want to tell me|that you forgot the name!"
 
 #: ../../ms2/ms2_r2.c:510
 msgid "Schließlich haben Sie|zehn Jahre dort gearbeitet!"
-msgstr ""
+msgstr "After all, you worked there for ten years!"
 
 #: ../../ms2/ms2_r2.c:511
 msgid "Woher wollen Sie das wissen?"
-msgstr ""
+msgstr "How do you know that?"
 
 #: ../../ms2/ms2_r2.c:512
 msgid "Nun, ich komme von der Erde,|im Gegensatz zu Ihnen!"
-msgstr ""
+msgstr "Well, I come from Earth,|unlike you!"
 
 #: ../../ms2/ms2_r2.c:522
 msgid "Langsam gehen Sie zu weit!"
-msgstr ""
+msgstr "Now you've gone too far!"
 
 #: ../../ms2/ms2_r2.c:523
 msgid ""
 "Sie sind ein Roboter!|Das merkt man schon an|Ihrer dummen Antwort!|Sie sind "
 "nicht optimal|programmiert!"
 msgstr ""
+"You are a robot!|You can clearly tell by|your stupid answer!|You are not "
+"even optimally|programmed!"
 
 #: ../../ms2/ms2_r2.c:533
 msgid ""
 "Wenn Sie jetzt nicht mit Ihren|Beleidigungen aufhören, muß ich|Ihnen das "
 "Mikrofon abschalten!"
 msgstr ""
+"If you do not stop right now|with your insults, I will have|to turn off the "
+"microphone!"
 
 #: ../../ms2/ms2_r2.c:534
 msgid "Ich bin der echte Horst Hummel,|und hier ist der Beweis!"
-msgstr ""
+msgstr "I am the real Horst Hummel,|and here is the proof!"
 
 #: ../../ms2/ms2_r2.c:558
 msgid ""
 "Am nächsten Morgen sind alle|Zeitungen voll mit deiner spektakulären|"
 "Enthüllung des Schwindels."
 msgstr ""
+"The next morning, all the papers|are full of your spectacular|revelation of "
+"fraud."
 
 #: ../../ms2/ms2_r2.c:561
 msgid ""
 "Die Manager der Artus-GmbH und Commander|Sumoti wurden sofort verhaftet."
 msgstr ""
+"The managers of Artus-GmbH and Commander|Sumoti were arrested immediately."
 
 #: ../../ms2/ms2_r2.c:564
 msgid ""
 "Nach dem Streß der letzten Tage,|entscheidest du dich, auf die|Erde "
 "zurückzukehren."
-msgstr ""
+msgstr "After the stress of the last few days,|you decide to return to Earth."
 
 #: ../../ms2/ms2_r2.c:567
 msgid "Während du dich vor Interviews|kaum noch retten kannst, ..."
-msgstr ""
+msgstr "While you can barely save|yourself from interviews, ..."
 
 #: ../../ms2/ms2_r2.c:570
 msgid ""
 "... arbeiten die Axacussanischen|Techniker an einem Raumschiff,|das dich zur "
 "Erde zurückbringen soll."
 msgstr ""
+"... the Axacussan|technicians are working on a spaceship|to bring you back "
+"to Earth."
 
 #: ../../ms2/ms2_r2.c:573
 msgid "Eine Woche später ist der|Tag des Starts gekommen."
-msgstr ""
+msgstr "One week later, the day of the launch has arrived."
 
 #: ../../ms2/ms2_r2.c:603
 msgid ""
 "Zum dritten Mal in deinem|Leben verbringst du eine lange|Zeit im Tiefschlaf."
-msgstr ""
+msgstr "For the third time in your life,|you spend a long time|in deep sleep."
 
 #: ../../ms2/ms2_r2.c:606
 msgid "Zehn Jahre später ..."
-msgstr ""
+msgstr "Ten years later ..."
 
 #: ../../ms2/ms2_r2.c:609
 msgid ""
 "Du wachst auf und beginnst,|dich schwach an deine|Erlebnisse zu erinnern."
-msgstr ""
+msgstr "You wake up and begin|to faintly remember|your experiences."
 
 #: ../../ms2/ms2_r2.c:612
 msgid "Um dich herum ist alles dunkel."
-msgstr ""
+msgstr "Everything is dark around you."
 
 #: ../../ms2/ms2_r2.c:670 ../../ms2/ms2_r2.c:900
 #, c-format
 msgid "Sie zeigt %d an."
-msgstr ""
+msgstr "It displays %d 1."
 
 #: ../../ms2/ms2_r2.c:680
 msgid "Ich interessiere mich für den Job, bei dem man über Nacht"
-msgstr ""
+msgstr "I'm interested in the job that requires staying overnight."
 
 #: ../../ms2/ms2_r2.c:681
 msgid "reich werden kann."
