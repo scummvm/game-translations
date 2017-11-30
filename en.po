@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 10:24+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 10:26+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1261,39 +1261,39 @@ msgstr "You cannot tell from here,|what those vehicles are."
 
 #: ../../ms2/ms2_r1.c:803 ../../ms2/ms2_r1.c:804
 msgid "Fahrzeug"
-msgstr ""
+msgstr "Vehicle"
 
 #: ../../ms2/ms2_r1.c:803 ../../ms2/ms2_r1.c:804
 msgid "Es scheint ein Taxi zu sein."
-msgstr ""
+msgstr "It seems to be a taxi."
 
 #: ../../ms2/ms2_r1.c:805
 msgid "Komisch, er ist verschlossen."
-msgstr ""
+msgstr "Funny, it is closed."
 
 #: ../../ms2/ms2_r1.c:806
 msgid "Portemonnaie"
-msgstr ""
+msgstr "Wallet"
 
 #: ../../ms2/ms2_r1.c:806
 msgid "Das muß ein Axacussaner|hier verloren haben."
-msgstr ""
+msgstr "This must have been|lost by an Axacussan."
 
 #: ../../ms2/ms2_r1.c:807
 msgid "Gerät"
-msgstr ""
+msgstr "Device"
 
 #: ../../ms2/ms2_r1.c:807
 msgid "Auf dem Gerät steht: \"Taxi-Call\".|Es ist ein kleiner Knopf daran."
-msgstr ""
+msgstr "The device says \"Taxi Call.\"|There is a small button on it."
 
 #: ../../ms2/ms2_r1.c:808
 msgid "Ausweis"
-msgstr ""
+msgstr "ID card"
 
 #: ../../ms2/ms2_r1.c:808
 msgid "Auf dem Ausweis steht:|  Berta Tschell|  Axacuss City|  115AY2,96A,32"
-msgstr ""
+msgstr "On the card reads: | Berta Tschell | Axacuss City | 115AY2,96A, 32"
 
 #: ../../ms2/ms2_r1.c:817
 msgid "Treppe"
