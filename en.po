@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 10:11+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 10:14+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1075,40 +1075,40 @@ msgstr "Over 400 sextillion keywords."
 
 #: ../../ms2/ms2_r1.c:674
 msgid "Die ist nicht zu verkaufen."
-msgstr ""
+msgstr "It is not for sale."
 
 #: ../../ms2/ms2_r1.c:675
 msgid "So eine habe ich meinem Enkel zum Geburtstag geschenkt."
-msgstr ""
+msgstr "I gave one to my grandson for his birthday."
 
 #: ../../ms2/ms2_r1.c:675
 msgid "Er war begeistert von dem Ding."
-msgstr ""
+msgstr "He was excited about this thing."
 
 #: ../../ms2/ms2_r1.c:676
 msgid "Der stammt aus einem bekannten Computerspiel."
-msgstr ""
+msgstr "It comes from a well-known computer game."
 
 #: ../../ms2/ms2_r1.c:677
 msgid "Robust, handlich und stromsparend."
-msgstr ""
+msgstr "Robust, handy and energy-saving."
 
 #: ../../ms2/ms2_r1.c:678 ../../ms2/ms2_r1.c:679 ../../ms2/ms2_r1.c:680
 #: ../../ms2/ms2_r1.c:681
 msgid "Irgendein lasches Gesöff."
-msgstr ""
+msgstr "Some cheap swill."
 
 #: ../../ms2/ms2_r1.c:682
 msgid "Das sind Protestaufkleber gegen die hohen Taxigebühren."
-msgstr ""
+msgstr "These are the stickers protesting the high taxi fees."
 
 #: ../../ms2/ms2_r1.c:683
 msgid "Das ist Geschirr aus der neuen Umbina-Kollektion."
-msgstr ""
+msgstr "These are dishes from the new Umbina-Collection."
 
 #: ../../ms2/ms2_r1.c:683
 msgid "Häßlich, nicht wahr?"
-msgstr ""
+msgstr "Ugly, right?"
 
 #: ../../ms2/ms2_r1.c:683
 msgid "Aber verkaufen tut sich das Zeug gut."
