@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 13:29+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 13:32+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1741,27 +1741,31 @@ msgstr "You do not dare to appear|in front of so many people|and turn back."
 
 #: ../../ms2/ms2_r2.c:347
 msgid "Oh, Sie sind Teilnehmer!|Dann sind Sie aber spät dran."
-msgstr ""
+msgstr "Oh, you are a participant!|But you are late."
 
 #: ../../ms2/ms2_r2.c:348
 msgid "Spielen Sie die Musik live?"
-msgstr ""
+msgstr "Do you play the music live?"
 
 #: ../../ms2/ms2_r2.c:351
 msgid ""
 "Dann geben Sie bitte Ihren Musikchip ab!|Er wird bei Ihrem Auftritt "
 "abgespielt."
 msgstr ""
+"Then please submit your music chip!|It will be played during your "
+"performance."
 
 #: ../../ms2/ms2_r2.c:357
 msgid ""
 "Oh, Sie sind sofort an der Reihe!|Beeilen Sie sich! Der Bühneneingang|ist "
 "hinter dem Haupteingang rechts."
 msgstr ""
+"Oh, it's your turn!|Hurry! The stage entrance|is behind the main entrance on "
+"the right."
 
 #: ../../ms2/ms2_r2.c:367
 msgid "Habe ich noch einen zweiten Versuch?"
-msgstr ""
+msgstr "Can I have another try?"
 
 #: ../../ms2/ms2_r2.c:368
 msgid "Nein!"
@@ -1769,27 +1773,27 @@ msgstr "No!"
 
 #: ../../ms2/ms2_r2.c:378
 msgid "Haben Sie schon eine Eintrittskarte?"
-msgstr ""
+msgstr "Do you already have a ticket?"
 
 #: ../../ms2/ms2_r2.c:380
 msgid "Tut mir leid, die Karten|sind schon alle ausverkauft."
-msgstr ""
+msgstr "I'm sorry, the cards|are already sold out."
 
 #: ../../ms2/ms2_r2.c:381
 msgid "Mist!"
-msgstr ""
+msgstr "Crap!"
 
 #: ../../ms2/ms2_r2.c:383
 msgid "Haben Sie schon eine Teilnahmekarte?"
-msgstr ""
+msgstr "Do you already have a participation card?"
 
 #: ../../ms2/ms2_r2.c:386
 msgid "Ja, hier ist sie."
-msgstr ""
+msgstr "Yes, here it is."
 
 #: ../../ms2/ms2_r2.c:392
 msgid "Tut mir leid, die Teilnahmekarten|sind schon alle ausverkauft."
-msgstr ""
+msgstr "I'm sorry, the tickets|are already sold out."
 
 #: ../../ms2/ms2_r2.c:393
 msgid "Scheiße!"
