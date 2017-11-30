@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
 "PO-Revision-Date: 2017-11-30 16:48+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2023,7 +2023,7 @@ msgstr "I'm interested in the job where you can get"
 
 #: ../../ms2/ms2_r2.c:681
 msgid "reich werden kann."
-msgstr "one can get rich."
+msgstr "rich overnight."
 
 #: ../../ms2/ms2_r2.c:682
 msgid "Ich verkaufe frische Tomaten."
