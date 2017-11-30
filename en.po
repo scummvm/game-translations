@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 13:33+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 14:34+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1834,26 +1834,30 @@ msgid ""
 "Ich werde Ihnen beweisen, daß ich Horst Hummel bin,|indem ich diesen "
 "Wettbewerb hier gewinne."
 msgstr ""
+"I will prove to you that I am Horst Hummel,|by winning this competition."
 
 #: ../../ms2/ms2_r2.c:422
 msgid "Dann kann ich in dieser verdammten Fernsehshow|auftreten."
-msgstr ""
+msgstr "Then I can perform in this|damn TV show."
 
 #: ../../ms2/ms2_r2.c:447
 msgid ""
 "Du hampelst ein bißchen zu|der Musik vom Chip herum.|Die Leute sind "
 "begeistert!"
 msgstr ""
+"You're rocking a little bit|to the music from the chip.|People are excited!"
 
 #: ../../ms2/ms2_r2.c:484
 msgid "Guten Abend. Diesmal haben wir|einen besonderen Gast bei uns."
-msgstr ""
+msgstr "Good evening. This time we have|a special guest with us."
 
 #: ../../ms2/ms2_r2.c:485
 msgid ""
 "Es ist der Gewinner des gestrigen|Musikwettbewerbs im Kulturpalast,|der dort "
 "vor allem durch seine|Verkleidung aufgefallen war."
 msgstr ""
+"He is the winner of yesterday's music competition in the Culture Palace.|He "
+"was particularly noteworthy|because of his disguise."
 
 #: ../../ms2/ms2_r2.c:489
 msgid "Sie haben das Wort!"
