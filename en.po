@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 08:37+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 08:38+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -612,10 +612,11 @@ msgid ""
 "Darauf steht:|\"Willst du finden das|richtige Loch, so wage|dich in die "
 "Pyramide!\"."
 msgstr ""
+"It reads:|\"Want to find|the right Hole? Then dare|to enter the Pyramid!\"."
 
 #: ../../ms2/ms2_pyra.c:1010
 msgid "Es ist eine kleine Öffnung."
-msgstr ""
+msgstr "It is a small Opening."
 
 #: ../../ms2/ms2_pyra.c:1011
 msgid "Pyramide"
