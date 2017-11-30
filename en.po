@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 10:19+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 10:20+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1169,35 +1169,35 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:760 ../../ms2/ms2_r2.c:419
 msgid "Ich BIN Horst Hummel!"
-msgstr ""
+msgstr "I AM Horst Hummel!"
 
 #: ../../ms2/ms2_r1.c:761
 msgid "Geben Sie's auf!"
-msgstr ""
+msgstr "Give it up!"
 
 #: ../../ms2/ms2_r1.c:762
 msgid "An Ihrer Gestik merkt man, daß Sie|ein verkleideter Axacussaner sind."
-msgstr ""
+msgstr "You can tell from your gestures that you are|a disguised Axacussan."
 
 #: ../../ms2/ms2_r1.c:763
 msgid "Der echte Hummel bewegt sich|anders, irgendwie ruckartig."
-msgstr ""
+msgstr "The real Hummel moves|differently, kind of jerky."
 
 #: ../../ms2/ms2_r1.c:764
 msgid "Weil er ein Roboter ist! ICH bin der Echte!"
-msgstr ""
+msgstr "Because he is a Robot! I am the real one!"
 
 #: ../../ms2/ms2_r1.c:765 ../../ms2/ms2_r2.c:56
 msgid "Ach, Sie spinnen ja!"
-msgstr ""
+msgstr "Oh, you are crazy!"
 
 #: ../../ms2/ms2_r1.c:766
 msgid "Sie Trottel!!!"
-msgstr ""
+msgstr "You Idiot!!!"
 
 #: ../../ms2/ms2_r1.c:767
 msgid "Seien Sie still, oder ich werfe Sie raus!"
-msgstr ""
+msgstr "Shut up or I'll kick you out!"
 
 #: ../../ms2/ms2_r1.c:780
 msgid "Taschenmesser"
@@ -1205,7 +1205,7 @@ msgstr "pocket knife"
 
 #: ../../ms2/ms2_r1.c:780
 msgid "Hey, da ist sogar eine Säge dran."
-msgstr ""
+msgstr "Hey, there's even a saw on it."
 
 #: ../../ms2/ms2_r1.c:781
 msgid "20 Xa"
