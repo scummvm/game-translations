@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 09:41+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 10:09+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1003,25 +1003,27 @@ msgstr "You are about to pass out."
 
 #: ../../ms2/ms2_r1.c:582
 msgid "Du ruhst dich eine Weile aus."
-msgstr ""
+msgstr "You rest for a while."
 
 #: ../../ms2/ms2_r1.c:598
 msgid ""
 "An der Wand steht:|\"Ich kenne eine tolle Geheimschrift:|A=Z, B=Y, C=X ...|"
 "0=0, 1=9, 2=8 ...\""
 msgstr ""
+"On the Wall is:|\"I know a great cypher:|A=Z, B=Y, C=X ...|0=0, 1=9, 2=8 ..."
+"\""
 
 #: ../../ms2/ms2_r1.c:657
 msgid "Ok, ich nehme es."
-msgstr ""
+msgstr "OK, I'll take it."
 
 #: ../../ms2/ms2_r1.c:658
 msgid "Nein danke, das ist mir zu teuer."
-msgstr ""
+msgstr "No thanks, that's too expensive for me."
 
 #: ../../ms2/ms2_r1.c:662
 msgid "Ich würde gern etwas kaufen."
-msgstr ""
+msgstr "I would like to buy something."
 
 #: ../../ms2/ms2_r1.c:663
 msgid "Ich bin's, Horst Hummel."
@@ -1029,43 +1031,43 @@ msgstr "It's me, Horst Hummel."
 
 #: ../../ms2/ms2_r1.c:664
 msgid "Haben Sie auch einen Musikchip für das Gerät?"
-msgstr ""
+msgstr "Do you have a music chip for the device?"
 
 #: ../../ms2/ms2_r1.c:668
 msgid "Eine tolle Maske, nicht wahr?"
-msgstr ""
+msgstr "It's a great mask, right?"
 
 #: ../../ms2/ms2_r1.c:668
 msgid "Komisch, daß sie schon drei Jahre da steht."
-msgstr ""
+msgstr "Strange that it has been there for three years."
 
 #: ../../ms2/ms2_r1.c:669
 msgid "Ein starker Trunk. Zieht ganz schön rein."
-msgstr ""
+msgstr "A strong drink. It hits you pretty hard."
 
 #: ../../ms2/ms2_r1.c:670
 msgid "Ein Abspiel- und Aufnahmegerät für die neuen Musikchips."
-msgstr ""
+msgstr "A playback and recording device for the new music chips."
 
 #: ../../ms2/ms2_r1.c:671
 msgid "Eine ARTUS-Zahnbürste. Der letzte Schrei."
-msgstr ""
+msgstr "An ARTUS toothbrush. The latest craze."
 
 #: ../../ms2/ms2_r1.c:671
 msgid "Verkaufe ich massenhaft, die Dinger."
-msgstr ""
+msgstr "I sell these things in bulk."
 
 #: ../../ms2/ms2_r1.c:672
 msgid "Das sind echte Raritäten. Bücher in gebundener Form."
-msgstr ""
+msgstr "These are real rarities. Books in bound form."
 
 #: ../../ms2/ms2_r1.c:673
 msgid "Die Encyclopedia Axacussana."
-msgstr ""
+msgstr "The Encyclopedia Axacussana."
 
 #: ../../ms2/ms2_r1.c:673
 msgid "Das größte erhältliche Lexikon auf 30 Speicherchips."
-msgstr ""
+msgstr "The largest available dictionary on 30 memory chips."
 
 #: ../../ms2/ms2_r1.c:673
 msgid "Über 400 Trilliarden Stichwörter."
