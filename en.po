@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 10:43+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 10:45+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1563,11 +1563,11 @@ msgstr "This information costs a Xa."
 
 #: ../../ms2/ms2_r2.c:104
 msgid "Wie Sie meinen."
-msgstr ""
+msgstr "As you say."
 
 #: ../../ms2/ms2_r2.c:110
 msgid "Sie können die Karte von MIR bekommen!"
-msgstr ""
+msgstr "You can get the card from ME!"
 
 #: ../../ms2/ms2_r2.c:111
 msgid "Aber nur eine Teilnahmekarte,|keine Eintrittskarte."
@@ -1575,11 +1575,11 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:112
 msgid "Was wollen Sie dafür haben?"
-msgstr ""
+msgstr "What do you want for it?"
 
 #: ../../ms2/ms2_r2.c:113
 msgid "Machen Sie ein Angebot!"
-msgstr ""
+msgstr "Make an offer!\n"
 
 #: ../../ms2/ms2_r2.c:133
 msgid "Das ist ein gutes Angebot!"
