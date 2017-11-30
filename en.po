@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
 "PO-Revision-Date: 2017-11-30 10:45+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1579,7 +1579,7 @@ msgstr "What do you want for it?"
 
 #: ../../ms2/ms2_r2.c:113
 msgid "Machen Sie ein Angebot!"
-msgstr "Make an offer!\n"
+msgstr "Make an offer!"
 
 #: ../../ms2/ms2_r2.c:133
 msgid "Das ist ein gutes Angebot!"
