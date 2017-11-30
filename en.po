@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
 "PO-Revision-Date: 2017-11-30 09:35+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -967,7 +967,7 @@ msgstr "Five minutes later ..."
 
 #: ../../ms2/ms2_r1.c:433
 msgid "Du hast doch schon eine Stange"
-msgstr "You already have a Pole"
+msgstr "You already have a pole"
 
 #: ../../ms2/ms2_r1.c:436
 msgid "Du sägst eine der Stangen ab."
