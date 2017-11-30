@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 09:21+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 09:22+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -870,7 +870,7 @@ msgstr "Without an inserted|music chip, you can not|record on the device."
 
 #: ../../ms2/ms2_r1.c:152
 msgid "Du nimmst den Chip|aus dem Gerät."
-msgstr ""
+msgstr "You remove the Chip|from the device."
 
 #: ../../ms2/ms2_r1.c:157
 msgid "Es ist kein Chip eingelegt."
