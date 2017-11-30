@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 09:15+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"PO-Revision-Date: 2017-11-30 09:16+0000\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -845,11 +845,11 @@ msgstr "You attach the|magnet to the pole."
 
 #: ../../ms2/ms2_r1.c:110
 msgid "Stange mit Magnet"
-msgstr "Pole with Magnet"
+msgstr "Pole with magnet"
 
 #: ../../ms2/ms2_r1.c:111
 msgid "Raffiniert!"
-msgstr ""
+msgstr "Cunning!"
 
 #: ../../ms2/ms2_r1.c:118
 msgid "Du mußt das|Gerät erst kaufen."
