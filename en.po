@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 10:14+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 10:19+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1117,11 +1117,11 @@ msgstr "But this stuff sells well."
 #: ../../ms2/ms2_r1.c:699
 #, c-format
 msgid "Das kostet %d Xa."
-msgstr ""
+msgstr "That costs %d 1 Xa."
 
 #: ../../ms2/ms2_r1.c:726
 msgid "Schauen Sie sich ruhig um!"
-msgstr ""
+msgstr "Take a look around!"
 
 #: ../../ms2/ms2_r1.c:728
 msgid "Unsinn!"
@@ -1129,31 +1129,31 @@ msgstr "Nonsense!"
 
 #: ../../ms2/ms2_r1.c:730
 msgid "Tut mir leid, die sind|schon alle ausverkauft."
-msgstr ""
+msgstr "I'm very sorry|they are already sold out."
 
 #: ../../ms2/ms2_r1.c:743
 msgid "Guten Abend."
-msgstr ""
+msgstr "Good evening."
 
 #: ../../ms2/ms2_r1.c:744
 msgid "Hallo."
-msgstr ""
+msgstr "Hello."
 
 #: ../../ms2/ms2_r1.c:754
 msgid "Huch, Sie haben mich aber erschreckt!"
-msgstr ""
+msgstr "Yikes, you scared me!"
 
 #: ../../ms2/ms2_r1.c:755
 msgid "Wieso?"
-msgstr ""
+msgstr "How so?"
 
 #: ../../ms2/ms2_r1.c:756
 msgid "Ihre Verkleidung ist wirklich täuschend echt."
-msgstr ""
+msgstr "Your disguise is really deceptively real."
 
 #: ../../ms2/ms2_r1.c:757
 msgid "Welche Verkleidung?"
-msgstr ""
+msgstr "What disguise?"
 
 #: ../../ms2/ms2_r1.c:758
 msgid "Na, tun Sie nicht so!"
@@ -1164,6 +1164,8 @@ msgid ""
 "Sie haben sich verkleidet wie der Außerirdische,|dieser Horst Hummel, oder "
 "wie er heißt."
 msgstr ""
+"They disguised themselves as the extraterrestrial,|that Horst Hummel, or "
+"whatever his name is."
 
 #: ../../ms2/ms2_r1.c:760 ../../ms2/ms2_r2.c:419
 msgid "Ich BIN Horst Hummel!"
