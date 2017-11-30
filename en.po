@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
 "PO-Revision-Date: 2017-11-30 10:24+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1257,7 +1257,7 @@ msgstr "Vehicles"
 
 #: ../../ms2/ms2_r1.c:796
 msgid "Du kannst von hier aus nicht erkennen,|was das für Fahrzeuge sind."
-msgstr "You can not tell from here,|what those vehicles are."
+msgstr "You cannot tell from here,|what those vehicles are."
 
 #: ../../ms2/ms2_r1.c:803 ../../ms2/ms2_r1.c:804
 msgid "Fahrzeug"
