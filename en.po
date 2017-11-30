@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
 "PO-Revision-Date: 2017-11-30 09:09+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -821,7 +821,7 @@ msgstr "There's nothing special about it."
 
 #: ../../ms2/ms2_r1.c:12
 msgid "Sieht nach Metall aus."
-msgstr "It looks like Metal."
+msgstr "It looks like metal."
 
 #: ../../ms2/ms2_r1.c:83
 msgid "Ein Taxi kommt angerauscht,|du steigst ein."
