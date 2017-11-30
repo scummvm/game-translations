@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
 "PO-Revision-Date: 2017-11-30 13:32+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1793,7 +1793,7 @@ msgstr "Yes, here it is."
 
 #: ../../ms2/ms2_r2.c:392
 msgid "Tut mir leid, die Teilnahmekarten|sind schon alle ausverkauft."
-msgstr "I'm sorry, the tickets|are already sold out."
+msgstr "I'm sorry, the participation cards|are already sold out."
 
 #: ../../ms2/ms2_r2.c:393
 msgid "Scheiße!"
