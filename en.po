@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 10:37+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 10:39+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1469,57 +1469,57 @@ msgstr "You are probably not completely|informed about the current prices!"
 
 #: ../../ms2/ms2_r2.c:47
 msgid "Ich bin's, Horst Hummel!"
-msgstr ""
+msgstr "It's me, Horst Hummel!"
 
 #: ../../ms2/ms2_r2.c:48
 msgid "Schönes Wetter heute!"
-msgstr ""
+msgstr "Nice weather today!"
 
 #: ../../ms2/ms2_r2.c:49
 msgid ""
 "Können Sie mir sagen, von wem ich eine Eintrittskartefür den Musikwettbewerb "
 "kriegen kann?"
-msgstr ""
+msgstr "Can you tell me who can get me a ticket for the music contest?"
 
 #: ../../ms2/ms2_r2.c:55
 msgid "Ok, hier haben Sie den Xa."
-msgstr ""
+msgstr "Ok, here is the Xa."
 
 #: ../../ms2/ms2_r2.c:60
 msgid "Ich biete Ihnen 500 Xa."
-msgstr ""
+msgstr "I offer you 500 Xa."
 
 #: ../../ms2/ms2_r2.c:61
 msgid "Ich biete Ihnen 1000 Xa."
-msgstr ""
+msgstr "I offer you 1000 Xa."
 
 #: ../../ms2/ms2_r2.c:62
 msgid "Ich biete Ihnen 5000 Xa."
-msgstr ""
+msgstr "I offer you 5000 Xa."
 
 #: ../../ms2/ms2_r2.c:63
 msgid "Ich biete Ihnen 10000 Xa."
-msgstr ""
+msgstr "I offer you 10000 Xa."
 
 #: ../../ms2/ms2_r2.c:72
 msgid "Vielen Dank für Ihren Kauf!"
-msgstr ""
+msgstr "Thank you for your purchase!"
 
 #: ../../ms2/ms2_r2.c:77
 msgid "Was bieten Sie mir|denn nun für die Karte?"
-msgstr ""
+msgstr "What will you offer me|for the card?"
 
 #: ../../ms2/ms2_r2.c:81
 msgid "Hallo, Sie!"
-msgstr ""
+msgstr "Hello to you!"
 
 #: ../../ms2/ms2_r2.c:83 ../../ms2/ms2_r2.c:719
 msgid "Was wollen Sie?"
-msgstr ""
+msgstr "What do you want?"
 
 #: ../../ms2/ms2_r2.c:87
 msgid "Wer sind Sie?"
-msgstr ""
+msgstr "Who are you?"
 
 #: ../../ms2/ms2_r2.c:88
 msgid "Horst Hummel!"
