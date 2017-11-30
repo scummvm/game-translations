@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 13:26+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 13:29+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1691,53 +1691,54 @@ msgstr "Get started!"
 
 #: ../../ms2/ms2_r2.c:273
 msgid "Einen Moment, ich muß erstmal überlegen, was ich|euch spiele."
-msgstr ""
+msgstr "One moment, I have to think about what I'm playing for you."
 
 #: ../../ms2/ms2_r2.c:275
 msgid "Anfangen!!!"
-msgstr ""
+msgstr "Begin!!!"
 
 #: ../../ms2/ms2_r2.c:278
 msgid "Nun denn ..."
-msgstr ""
+msgstr "Well then ..."
 
 #: ../../ms2/ms2_r2.c:279
 msgid "Raus!"
-msgstr ""
+msgstr "Out!"
 
 #: ../../ms2/ms2_r2.c:291 ../../ms2/ms2_r2.c:306
 msgid "Buh!"
-msgstr ""
+msgstr "Boo!"
 
 #: ../../ms2/ms2_r2.c:298
 msgid "Aufhören!"
-msgstr ""
+msgstr "Stop!"
 
 #: ../../ms2/ms2_r2.c:309
 msgid "Hilfe!"
-msgstr ""
+msgstr "Help!"
 
 #: ../../ms2/ms2_r2.c:312
 msgid "Ich verziehe mich lieber."
-msgstr ""
+msgstr "I'd prefer to get lost."
 
 #: ../../ms2/ms2_r2.c:317
 msgid "Mist, auf dem Chip war|gar keine Musik drauf."
-msgstr ""
+msgstr "Shit, there was no music on the chip at all."
 
 #: ../../ms2/ms2_r2.c:319
 msgid "Das ging ja voll daneben!"
-msgstr ""
+msgstr "That went completely wrong!"
 
 #: ../../ms2/ms2_r2.c:327
 msgid "Du näherst dich der Bühne,|aber dir wird mulmig zumute."
-msgstr ""
+msgstr "You approach the stage,|but you feel queasy."
 
 #: ../../ms2/ms2_r2.c:330
 msgid ""
 "Du traust dich nicht, vor|so vielen Menschen aufzutreten|und kehrst wieder "
 "um."
 msgstr ""
+"You do not dare to appear|in front of so many people|but you return again."
 
 #: ../../ms2/ms2_r2.c:347
 msgid "Oh, Sie sind Teilnehmer!|Dann sind Sie aber spät dran."
