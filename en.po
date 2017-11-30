@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 10:47+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 10:49+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1648,23 +1648,23 @@ msgstr "So ..."
 
 #: ../../ms2/ms2_r2.c:218
 msgid "Ok, los gehts!"
-msgstr ""
+msgstr "OK let's go!"
 
 #: ../../ms2/ms2_r2.c:219
 msgid "Ich klimper mal was auf dem Keyboard hier."
-msgstr ""
+msgstr "I'll fix something on the keyboard here."
 
 #: ../../ms2/ms2_r2.c:234
 msgid "Halt, sie sind doch schon drangewesen!"
-msgstr ""
+msgstr "Stop, I've already been on it!"
 
 #: ../../ms2/ms2_r2.c:240
 msgid "He, Sie! Haben Sie|eine Eintrittskarte?"
-msgstr ""
+msgstr "Hey, you! Do you have|a ticket?"
 
 #: ../../ms2/ms2_r2.c:244
 msgid "Ja natürlich, hier ist meine Teilnahmekarte."
-msgstr ""
+msgstr "Yes of course, here is my participation card."
 
 #: ../../ms2/ms2_r2.c:245
 msgid ""
