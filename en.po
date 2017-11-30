@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 16:48+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 20:17+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2027,198 +2027,217 @@ msgstr "rich overnight."
 
 #: ../../ms2/ms2_r2.c:682
 msgid "Ich verkaufe frische Tomaten."
-msgstr ""
+msgstr "I sell fresh tomatoes."
 
 #: ../../ms2/ms2_r2.c:683
 msgid "Ich bin der Klempner. Ich soll hier ein Rohr reparieren."
-msgstr ""
+msgstr "I am the plumber. I'm supposed to fix a pipe here."
 
 #: ../../ms2/ms2_r2.c:688
 msgid "Ja, hört sich gut an."
-msgstr ""
+msgstr "Yes, it sounds good."
 
 #: ../../ms2/ms2_r2.c:689
 msgid "Krumme Geschäfte? Für wen halten Sie mich? Auf Wiedersehen!"
-msgstr ""
+msgstr "Crooked business? Who do you think I am? Goodbye!"
 
 #: ../../ms2/ms2_r2.c:693
 msgid "Äh - könnten Sie mir das Ganze nochmal erklären?"
-msgstr ""
+msgstr "Uh - could you explain that to me again?"
 
 #: ../../ms2/ms2_r2.c:694
 msgid "Wie groß ist mein Anteil?"
-msgstr ""
+msgstr "How big is my share?"
 
 #: ../../ms2/ms2_r2.c:695
 msgid ""
 "Machen Sie es immer so, daß Sie Ihre Komplizen überein Graffitti anwerben?"
-msgstr ""
+msgstr "Do you always use Graffiti to recruit your accomplices?"
 
 #: ../../ms2/ms2_r2.c:722
 msgid "Hmm, Moment mal, ich frage den Boss."
-msgstr ""
+msgstr "Hmm wait, I ask the boss."
 
 #: ../../ms2/ms2_r2.c:728
 msgid "Kurze Zeit später ..."
-msgstr ""
+msgstr "A short while later ..."
 
 #: ../../ms2/ms2_r2.c:736
 msgid "Ok, der Boss will dich sprechen."
-msgstr ""
+msgstr "Ok, the boss wants to talk to you."
 
 #: ../../ms2/ms2_r2.c:742
 msgid "Du betrittst die Wohnung und|wirst zu einem Tisch geführt."
-msgstr ""
+msgstr "You enter the apartment and are led to a table."
 
 #: ../../ms2/ms2_r2.c:748
 msgid "Hmm, du willst dir also|etwas Geld verdienen?"
-msgstr ""
+msgstr "Hmm, so you want to earn some money?"
 
 #: ../../ms2/ms2_r2.c:750
 msgid "Nun ja, wir planen|einen nächtlichen Besuch|eines bekannten Museums."
-msgstr ""
+msgstr "Well, we're planning|a nightly visit|to a well-known museum."
 
 #: ../../ms2/ms2_r2.c:751
 msgid "Wie sieht's aus, bist du interessiert?"
-msgstr ""
+msgstr "How about it, are you interested?"
 
 #: ../../ms2/ms2_r2.c:754
 msgid "Halt, warte!"
-msgstr ""
+msgstr "Stop, wait!"
 
 #: ../../ms2/ms2_r2.c:755
 msgid "Überleg's dir, es springen|30000 Xa für dich raus!"
-msgstr ""
+msgstr "Think about it, it will make about|30000 Xa for you!"
 
 #: ../../ms2/ms2_r2.c:756
 msgid "30000?! Ok, ich mache mit."
-msgstr ""
+msgstr "30000?! Ok, I will do it."
 
 #: ../../ms2/ms2_r2.c:758
 msgid "Gut, dann zu den Einzelheiten."
-msgstr ""
+msgstr "Good, now then to the details."
 
 #: ../../ms2/ms2_r2.c:759
 msgid "Bei dem Museum handelt es|sich um das Orzeng-Museum."
-msgstr ""
+msgstr "The museum in question is|the Orzeng Museum."
 
 #: ../../ms2/ms2_r2.c:760
 msgid "Es enthält die wertvollsten|Dinosaurierfunde von ganz Axacuss."
-msgstr ""
+msgstr "It contains the most valuable|dinosaur discoveries of Axacuss."
 
 #: ../../ms2/ms2_r2.c:761
 msgid "Wir haben es auf das Sodo-Skelett|abgesehen. Es ist weltberühmt."
-msgstr ""
+msgstr "We're aiming to get the Sodo skeleton.|It is world famous."
 
 #: ../../ms2/ms2_r2.c:762
 msgid "Alle bekannten Paläontologen haben|sich schon damit beschäftigt."
-msgstr ""
+msgstr "All known paleontologists|have already dealt with it."
 
 #: ../../ms2/ms2_r2.c:763
 msgid ""
 "Der Grund dafür ist, daß es allen|bis jetzt bekannten Erkenntnissen|Über die "
 "Evolution widerspricht."
 msgstr ""
+"The reason for this is that it contradicts all known|knowledge about "
+"evolution."
 
 #: ../../ms2/ms2_r2.c:764
 msgid ""
 "Irgendein verrückter Forscher|bietet uns 200.000 Xa,|wenn wir ihm das Ding "
 "beschaffen."
 msgstr ""
+"Some crazy researcher|will give us 200,000 Xa,|if we get him that thing."
 
 #: ../../ms2/ms2_r2.c:765
 msgid "So, jetzt zu deiner Aufgabe:"
-msgstr ""
+msgstr "So, now to your task:"
 
 #: ../../ms2/ms2_r2.c:767
 msgid "Du dringst durch den Nebeneingang|in das Gebäude ein."
-msgstr ""
+msgstr "You enter through the side entrance|into the building."
 
 #: ../../ms2/ms2_r2.c:768
 msgid ""
 "Dort schaltest du die Alarmanlage aus,|durch die das Sodo-Skelett gesichert "
 "wird."
-msgstr ""
+msgstr "There you switch off the alarm system,|which secures the Sodo skeleton."
 
 #: ../../ms2/ms2_r2.c:769
 msgid "Wir betreten einen anderen Gebäudeteil|und holen uns das Gerippe."
-msgstr ""
+msgstr "We'll enter another part of the building|and get the skeleton."
 
 #: ../../ms2/ms2_r2.c:770
 msgid "Deine Aufgabe ist nicht leicht.|Schau dir diesen Plan an."
-msgstr ""
+msgstr "Your task is not easy.|Look at this plan."
 
 #: ../../ms2/ms2_r2.c:775
 msgid ""
 "Unten siehst du die kleine Abstellkammer,|durch die du in die "
 "Austellungsräume kommst."
 msgstr ""
+"Below you can see the small storage room,|through which you come to the "
+"showrooms."
 
 #: ../../ms2/ms2_r2.c:776
 msgid "Bei der mit Y gekennzeichneten|Stelle ist die Alarmanlage."
-msgstr ""
+msgstr "At the location marked Y, the alarm is on."
 
 #: ../../ms2/ms2_r2.c:777
 msgid ""
 "Bei dem X steht ein großer Dinosaurier|mit einem wertvollen Schädel.|Den "
 "Schädel nimmst du mit."
 msgstr ""
+"The X marks the spot with a big dinosaur|with a valuable skull.|You will "
+"take the skull with you."
 
 #: ../../ms2/ms2_r2.c:778
 msgid "Nun zu den Problemen:"
-msgstr ""
+msgstr "Now for the problems:"
 
 #: ../../ms2/ms2_r2.c:779
 msgid "Die weiß gekennzeichneten|Türen sind verschlossen."
-msgstr ""
+msgstr "The marked white doors|are locked."
 
 #: ../../ms2/ms2_r2.c:780
 msgid ""
 "Sie müssen mit einer Spezialkeycard geöffnet|werden, was jedoch einige Zeit "
 "dauert."
-msgstr ""
+msgstr "They have to be opened with a special card,|but this takes some time."
 
 #: ../../ms2/ms2_r2.c:781
 msgid ""
 "Außerdem gibt es in den auf der Karte|farbigen Räumen einen Druck-Alarm."
 msgstr ""
+"In addition, there are pressure alarms|in the rooms which are colored on the "
+"map."
 
 #: ../../ms2/ms2_r2.c:782
 msgid ""
 "Du darfst dich dort nicht länger|als 16 bzw. 8 Sekunden aufhalten,|sonst "
 "wird Alarm ausgelöst."
 msgstr ""
+"You can not stay there longer than|16 or 8 seconds,|otherwise the alarm will "
+"sound."
 
 #: ../../ms2/ms2_r2.c:783
 msgid "Im Raum oben rechts ist|eine Kamera installiert."
-msgstr ""
+msgstr "In the room at the top right|there is a camera installed."
 
 #: ../../ms2/ms2_r2.c:784
 msgid ""
 "Diese wird jedoch nur von|der 21. bis zur 40. Sekunde|einer Minute überwacht."
 msgstr ""
+"However, this is only monitored|between the 21st to the 40th second|of every "
+"minute."
 
 #: ../../ms2/ms2_r2.c:785
 msgid "Das größte Problem ist der Wächter."
-msgstr ""
+msgstr "The biggest problem is the guard."
 
 #: ../../ms2/ms2_r2.c:786
 msgid ""
 "Er braucht für seine Runde genau|eine Minute, ist also ungefähr|zehn "
 "Sekunden in einem Raum."
 msgstr ""
+"He needs exactly one minute for his round,|so he is in each room|for about "
+"ten seconds."
 
 #: ../../ms2/ms2_r2.c:787
 msgid ""
 "Du müßtest seine Schritte hören können,|wenn du in der Abstellkammer bist|"
 "und der Wächter dort vorbeikommt."
 msgstr ""
+"You should be able to hear his footsteps,|if you are in the closet|and the "
+"guard passes by."
 
 #: ../../ms2/ms2_r2.c:788
 msgid ""
 "Wenn du es bis zur Alarmanlage|geschafft hast, hängst du dich|mit dem Sauger "
 "an die Wand,|damit du keinen Druck-Alarm auslöst."
 msgstr ""
+"If you make it to the burglar alarm,|you'll use the vacuum to hang on the "
+"wall,|so you do not trigger a pressure alarm."
 
 #: ../../ms2/ms2_r2.c:789
 msgid "Die Alarmanlage schaltest du|mit einem speziellen Gerät aus."
