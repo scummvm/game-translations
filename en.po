@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 16:47+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"PO-Revision-Date: 2017-11-30 16:48+0000\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2019,7 +2019,7 @@ msgstr "It displays %d 1."
 
 #: ../../ms2/ms2_r2.c:680
 msgid "Ich interessiere mich für den Job, bei dem man über Nacht"
-msgstr "I'm interested in the job that requires staying overnight."
+msgstr "I'm interested in the job where you can get"
 
 #: ../../ms2/ms2_r2.c:681
 msgid "reich werden kann."
