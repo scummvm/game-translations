@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
 "PO-Revision-Date: 2017-11-30 10:26+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1293,7 +1293,7 @@ msgstr "ID card"
 
 #: ../../ms2/ms2_r1.c:808
 msgid "Auf dem Ausweis steht:|  Berta Tschell|  Axacuss City|  115AY2,96A,32"
-msgstr "On the card reads: | Berta Tschell | Axacuss City | 115AY2,96A, 32"
+msgstr "On the card it reads: | Berta Tschell | Axacuss City | 115AY2,96A,32"
 
 #: ../../ms2/ms2_r1.c:817
 msgid "Treppe"
