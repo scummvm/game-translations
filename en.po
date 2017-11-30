@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 10:41+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 10:42+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1551,11 +1551,11 @@ msgstr "Aha."
 
 #: ../../ms2/ms2_r2.c:97
 msgid "Ja, kann ich."
-msgstr ""
+msgstr "Yes, I can."
 
 #: ../../ms2/ms2_r2.c:98
 msgid "Von wem denn?"
-msgstr ""
+msgstr "From who?"
 
 #: ../../ms2/ms2_r2.c:99
 msgid "Diese Information kostet einen Xa."
