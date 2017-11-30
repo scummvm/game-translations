@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 09:16+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 09:17+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -853,11 +853,11 @@ msgstr "Cunning!"
 
 #: ../../ms2/ms2_r1.c:118
 msgid "Du mußt das|Gerät erst kaufen."
-msgstr ""
+msgstr "You must buy|this device first."
 
 #: ../../ms2/ms2_r1.c:127
 msgid "Du legst den Chip|in das Gerät ein."
-msgstr ""
+msgstr "You insert the Chip|into the device."
 
 #: ../../ms2/ms2_r1.c:137
 msgid "Du überspielst die CD|auf den Musikchip."
