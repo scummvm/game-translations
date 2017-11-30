@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
 "PO-Revision-Date: 2017-11-30 09:24+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -890,7 +890,7 @@ msgstr "You do not hear anything.|The chip is empty."
 
 #: ../../ms2/ms2_r1.c:185
 msgid "Du hörst dir den Anfang|der überspielten CD an."
-msgstr "You are listening to the beginning|of the dubbed CD."
+msgstr "You are listening to the beginning|of the copied CD."
 
 #: ../../ms2/ms2_r1.c:187
 msgid "Es ist kein Chip einglegt."
