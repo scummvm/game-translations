@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 08:40+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 08:42+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -632,17 +632,19 @@ msgstr ""
 
 #: ../../ms2/ms2_pyra.c:1012
 msgid "Sonne"
-msgstr ""
+msgstr "Sun"
 
 #: ../../ms2/ms2_pyra.c:1012
 msgid "Schön!"
-msgstr ""
+msgstr "Nice!"
 
 #: ../../ms2/ms2_pyra.c:1043
 msgid ""
 "\"Hallo Fremder, wenn du diesen|Raum betreten hast, bleibt|dir nur noch eine "
 "Stunde Zeit,|um deine Aufgabe zu erfüllen!\""
 msgstr ""
+"\"Hello, Stranger, when you enter|this room, you have only an hour|to "
+"accomplish your task!\""
 
 #: ../../ms2/ms2_pyra.c:1044 ../../ms2/ms2_pyra.c:1052
 #: ../../ms2/ms2_pyra.c:1060 ../../ms2/ms2_pyra.c:1068
@@ -659,7 +661,7 @@ msgstr ""
 #: ../../ms2/ms2_pyra.c:1270 ../../ms2/ms2_pyra.c:1281
 #: ../../ms2/ms2_pyra.c:1291
 msgid "rechte Seite"
-msgstr ""
+msgstr "right Side"
 
 #: ../../ms2/ms2_pyra.c:1045 ../../ms2/ms2_pyra.c:1053
 #: ../../ms2/ms2_pyra.c:1061 ../../ms2/ms2_pyra.c:1069
