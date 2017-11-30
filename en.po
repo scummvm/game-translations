@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 08:52+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 08:53+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -692,19 +692,19 @@ msgstr "Engraving"
 
 #: ../../ms2/ms2_pyra.c:1175 ../../ms2/ms2_pyra.c:1184
 msgid "Tomate"
-msgstr ""
+msgstr "Tomato"
 
 #: ../../ms2/ms2_pyra.c:1175 ../../ms2/ms2_pyra.c:1184
 msgid "Komisch!"
-msgstr ""
+msgstr "Funny!"
 
 #: ../../ms2/ms2_pyra.c:1183 ../../ms2/ms2_pyra.c:1272
 msgid "Messer"
-msgstr ""
+msgstr "Knife"
 
 #: ../../ms2/ms2_pyra.c:1183
 msgid "Es ist ein relativ stabiles Messer."
-msgstr ""
+msgstr "It is a relatively sturdy Knife."
 
 #: ../../ms2/ms2_pyra.c:1192 ../../ms2/ms2_pyra.c:1203
 #: ../../ms2/ms2_pyra.c:1214
