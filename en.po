@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 20:18+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 20:19+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -373,15 +373,15 @@ msgstr "What? You're nuts!|Then you won't get your|share. Beat it!"
 
 #: ../../ms2/ms2_mus.c:703
 msgid "Der Sauger ist schon dort."
-msgstr ""
+msgstr "The sucker is already there."
 
 #: ../../ms2/ms2_mus.c:707
 msgid "Du heftest den Sauger an die Wand|und hälst dich daran fest."
-msgstr ""
+msgstr "You fix the sucker on the wall|and hold on to it."
 
 #: ../../ms2/ms2_mus.c:718
 msgid "Du stellst dich auf den|Boden nimmst den Sauger|wieder von der Wand"
-msgstr ""
+msgstr "You stand on the floor|then remove the sucker from the wall."
 
 #: ../../ms2/ms2_mus.c:722
 msgid "Die Alarmanlage ist|schon ausgeschaltet."
