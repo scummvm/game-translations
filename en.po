@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
 "PO-Revision-Date: 2017-11-30 08:53+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -713,7 +713,7 @@ msgstr "Monster"
 
 #: ../../ms2/ms2_pyra.c:1200
 msgid "Es ist dick und|ungefähr 15 Meter lang."
-msgstr ""
+msgstr "It is thick and|about 15 Meters long."
 
 #: ../../ms2/ms2_pyra.c:1201 ../../ms2/ms2_pyra.c:1212
 msgid "Augen"
