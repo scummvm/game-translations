@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
 "PO-Revision-Date: 2017-11-30 10:43+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1559,7 +1559,7 @@ msgstr "From whom?"
 
 #: ../../ms2/ms2_r2.c:99
 msgid "Diese Information kostet einen Xa."
-msgstr "This information costs Xa."
+msgstr "This information costs a Xa."
 
 #: ../../ms2/ms2_r2.c:104
 msgid "Wie Sie meinen."
