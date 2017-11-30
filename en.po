@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
 "PO-Revision-Date: 2017-11-30 13:33+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1822,7 +1822,7 @@ msgstr "Imitation Competition?| I do not want to imitate anyone."
 
 #: ../../ms2/ms2_r2.c:418
 msgid "Guter Witz, wieso sehen Sie|dann aus wie Horst Hummel?"
-msgstr "Good joke. Why do you look like Horst Hummel?"
+msgstr "Good joke. Then why do you look like Horst Hummel?"
 
 #: ../../ms2/ms2_r2.c:420
 msgid ""
