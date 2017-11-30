@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 10:39+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"PO-Revision-Date: 2017-11-30 10:41+0000\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1523,11 +1523,11 @@ msgstr "Who are you?"
 
 #: ../../ms2/ms2_r2.c:88
 msgid "Horst Hummel!"
-msgstr ""
+msgstr "Horst Hummel!"
 
 #: ../../ms2/ms2_r2.c:89
 msgid "Kenne ich nicht."
-msgstr ""
+msgstr "Never heard of him."
 
 #: ../../ms2/ms2_r2.c:90
 msgid "Was, Sie kennen den berühmten Horst Hummel nicht?"
