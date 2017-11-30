@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 10:35+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 10:37+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1429,42 +1429,43 @@ msgstr "Joystick"
 
 #: ../../ms2/ms2_r1.c:865
 msgid "Eine normale Zahnbürste,|es steht nur \"Artus\" darauf."
-msgstr ""
+msgstr "A normal Toothbrush.|It says \"Artus\" on it."
 
 #: ../../ms2/ms2_r1.c:866
 msgid "Musikgerät"
-msgstr ""
+msgstr "Music device"
 
 #: ../../ms2/ms2_r1.c:866
 msgid ""
 "Ein Gerät zum Abspielen und|Aufnehmen von Musikchips.|Es ist ein Mikrofon "
 "daran."
 msgstr ""
+"A device for playing and recording music chips.|There is a microphone on it."
 
 #: ../../ms2/ms2_r1.c:867 ../../ms2/ms2_r1.c:868 ../../ms2/ms2_r1.c:869
 #: ../../ms2/ms2_r1.c:870 ../../ms2/ms2_r1.c:871
 msgid "Flasche"
-msgstr ""
+msgstr "Bottle"
 
 #: ../../ms2/ms2_r1.c:867
 msgid "Auf dem Etikett steht:|\"Enthält 10% Hyperalkohol\"."
-msgstr ""
+msgstr "The label says: \"Contains 10% Hyperalcohol\"."
 
 #: ../../ms2/ms2_r1.c:872
 msgid "Kiste"
-msgstr ""
+msgstr "Box"
 
 #: ../../ms2/ms2_r1.c:874
 msgid "Verkäufer"
-msgstr ""
+msgstr "Seller"
 
 #: ../../ms2/ms2_r2.c:36
 msgid "Was? Dafür wollen Sie die Karte haben?"
-msgstr ""
+msgstr "What? Do you want the card for that?"
 
 #: ../../ms2/ms2_r2.c:37
 msgid "Sie sind wohl nicht ganz über|die aktuellen Preise informiert!"
-msgstr ""
+msgstr "You are probably not completely informed about the current prices!"
 
 #: ../../ms2/ms2_r2.c:47
 msgid "Ich bin's, Horst Hummel!"
