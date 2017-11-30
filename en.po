@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 09:36+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 09:37+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -983,19 +983,19 @@ msgstr "The cabin is occupied."
 
 #: ../../ms2/ms2_r1.c:524
 msgid "He, nimm erstmal das Geld|aus dem Rückgabeschlitz!"
-msgstr ""
+msgstr "Hey, take the money|from the return slot!"
 
 #: ../../ms2/ms2_r1.c:526
 msgid "Du hast doch schon bezahlt."
-msgstr ""
+msgstr "You have already paid."
 
 #: ../../ms2/ms2_r1.c:528
 msgid "Du hast nicht mehr genug Geld."
-msgstr ""
+msgstr "You do not have enough money left."
 
 #: ../../ms2/ms2_r1.c:531
 msgid "Du wirfst 10 Xa in den Schlitz."
-msgstr ""
+msgstr "You throw 10 Xa in the slot."
 
 #: ../../ms2/ms2_r1.c:566
 msgid "Dir wird schwarz vor Augen."
