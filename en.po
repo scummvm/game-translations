@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-11-30 10:21+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-11-30 10:22+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1221,23 +1221,23 @@ msgstr "The \"Mad Monkeys\" CD is still in there."
 
 #: ../../ms2/ms2_r1.c:783
 msgid "Mit dem Ding sollst du dich|an der Wand festhalten."
-msgstr ""
+msgstr "You should hold onto the wall|using that thing."
 
 #: ../../ms2/ms2_r1.c:785
 msgid "Spezialkeycard"
-msgstr ""
+msgstr "Special keycard"
 
 #: ../../ms2/ms2_r1.c:785
 msgid "Damit sollst du die|Türen knacken können."
-msgstr ""
+msgstr "With that you should be able to crack the doors."
 
 #: ../../ms2/ms2_r1.c:786
 msgid "Alarmknacker"
-msgstr ""
+msgstr "Alarm cracker"
 
 #: ../../ms2/ms2_r1.c:786
 msgid "Ein kleines Gerät, um|die Alarmanlage auszuschalten."
-msgstr ""
+msgstr "A small device|to turn off the alarm."
 
 #: ../../ms2/ms2_r1.c:788
 msgid "Karte"
