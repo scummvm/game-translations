@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-12-02 05:18+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-12-02 10:23+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2253,47 +2253,50 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:795
 msgid "So, noch irgendwelche Fragen?"
-msgstr ""
+msgstr "So, any more questions?"
 
 #: ../../ms2/ms2_r2.c:801
 msgid "Also gut."
-msgstr ""
+msgstr "All right then."
 
 #: ../../ms2/ms2_r2.c:803
 msgid "Du bekommst 30000 Xa."
-msgstr ""
+msgstr "You get 30000 Xa."
 
 #: ../../ms2/ms2_r2.c:805
 msgid "Ja, die Methode hat sich bewährt."
-msgstr ""
+msgstr "Yes, that method has proven itself worthy."
 
 #: ../../ms2/ms2_r2.c:808
 msgid "Hast du sonst noch Fragen?"
-msgstr ""
+msgstr "Do you have any questions?"
 
 #: ../../ms2/ms2_r2.c:811
 msgid "Nachdem wir alles geklärt|haben, kann es ja losgehen!"
-msgstr ""
+msgstr "After we have clarified everything, we can start!"
 
 #: ../../ms2/ms2_r2.c:816
 msgid "Zur vereinbarten Zeit ..."
-msgstr ""
+msgstr "At the agreed upon time ..."
 
 #: ../../ms2/ms2_r2.c:834
 msgid ""
 "Du stehst vor dem Orzeng Museum,|während die Gangster schon in einen|anderen "
 "Gebäuderteil eingedrungen sind."
 msgstr ""
+"You stand in front of the Orzeng Museum,|while the gangsters have already "
+"penetrated|into another part of the building."
 
 #: ../../ms2/ms2_r2.c:837
 msgid ""
 "Wichtiger Hinweis:|Hier ist die letzte Möglichkeit,|vor dem Einbruch "
 "abzuspeichern."
 msgstr ""
+"Important note:|Here is the last possibility to save|before the break-in."
 
 #: ../../ms2/ms2_r2.c:840
 msgid "Wenn Sie das Museum betreten haben,|können Sie nicht mehr speichern!"
-msgstr ""
+msgstr "Once you enter the museum,|you will not be able to save!"
 
 #: ../../ms2/ms2_r2.c:848
 msgid "Stecken Sie sich Ihre|Tomaten an den Hut!"
@@ -2301,7 +2304,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:855
 msgid "Das kann ja jeder sagen!"
-msgstr ""
+msgstr "Anyone can say that!"
 
 #: ../../ms2/ms2_r2.c:865
 msgid "Niemand öffnet."
