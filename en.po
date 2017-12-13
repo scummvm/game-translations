@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:53+0100\n"
-"PO-Revision-Date: 2017-11-22 00:10+0000\n"
+"PO-Revision-Date: 2017-12-13 21:29+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -535,7 +535,7 @@ msgstr "Your watch beeps,|this is the alarm."
 
 #: ../../msn/msn_r0.c:803 ../../msn/msn_r1_r.c:117
 msgid "Keycard"
-msgstr "keycard"
+msgstr "Keycard"
 
 #: ../../msn/msn_r0.c:803
 msgid "Die Keycard für deine Schränke."
@@ -543,7 +543,7 @@ msgstr "The keycard for your locker."
 
 #: ../../msn/msn_r0.c:805
 msgid "Taschenmesser"
-msgstr "pocket knife"
+msgstr "Pocket knife"
 
 #: ../../msn/msn_r0.c:805
 msgid "Es ist nicht mehr das schärfste."
@@ -551,7 +551,7 @@ msgstr "It is quite blunt."
 
 #: ../../msn/msn_r0.c:807 ../../msn/msn_r3.c:1527
 msgid "Armbanduhr"
-msgstr "watch"
+msgstr "Watch"
 
 #: ../../msn/msn_r0.c:808 ../../msn/msn_r1_r.c:199
 msgid "Discman"
@@ -585,7 +585,7 @@ msgstr "Energy depleted"
 #. I18N: Artificial coma interrupted
 #: ../../msn/msn_r1.c:112
 msgid "Tiefschlafprozess abgebrochen"
-msgstr "Artificial coma interrupted"
+msgstr "Stasis interrupted"
 
 #: ../../msn/msn_r1.c:120 ../../msn/msn_r1.c:156
 msgid "Bitte legen Sie sich in die angezeigte Schlafkammer."
@@ -1138,7 +1138,7 @@ msgstr "Toilet"
 
 #: ../../msn/msn_r1_r.c:161 ../../msn/msn_r1_r.c:176 ../../msn/msn_r2.c:1283
 msgid "Schachspiel"
-msgstr "Game of chess"
+msgstr "Chessboard"
 
 #: ../../msn/msn_r1_r.c:161
 msgid "Es macht wohl Spaß, an|der Decke Schach zu spielen."
