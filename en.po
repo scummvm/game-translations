@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-12-02 10:23+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"PO-Revision-Date: 2017-12-13 21:26+0000\n"
+"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1201,7 +1201,7 @@ msgstr "Shut up or I'll kick you out!"
 
 #: ../../ms2/ms2_r1.c:780
 msgid "Taschenmesser"
-msgstr "pocket knife"
+msgstr "Pocket knife"
 
 #: ../../ms2/ms2_r1.c:780
 msgid "Hey, da ist sogar eine Säge dran."
