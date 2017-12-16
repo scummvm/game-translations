@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-12-13 21:26+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2017-12-16 12:23+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2312,7 +2312,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:870
 msgid "Welche Zahl willst du eingeben:      "
-msgstr ""
+msgstr "What number do you want to enter:      "
 
 #: ../../ms2/ms2_r2.c:882 ../../ms2/ms2_r2.c:886
 msgid "Falsche Eingabe"
@@ -2320,11 +2320,11 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:896
 msgid "Der Aufzug bewegt sich."
-msgstr ""
+msgstr "The elevator is moving."
 
 #: ../../ms2/ms2_r2.c:914
 msgid "Die Karte wird|nicht angenommen."
-msgstr ""
+msgstr "The card|is not accepted."
 
 #: ../../ms2/ms2_r2.c:927
 msgid "Da ist nichts mehr."
@@ -2332,17 +2332,19 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:930
 msgid "Da ist ein Schlüssel unter dem Bett!"
-msgstr ""
+msgstr "There's a key under the bed!"
 
 #: ../../ms2/ms2_r2.c:936
 msgid ""
 "Hey, da ist etwas unter dem|Bett. Nach dem Geräusch zu|urteilen, ist es aus "
 "Metall."
 msgstr ""
+"Hey, there is something under the|bed. Judging by the noise,|it is made of "
+"metal."
 
 #: ../../ms2/ms2_r2.c:939
 msgid "Mist, es gelingt dir nicht,|den Gegenstand hervorzuholen."
-msgstr ""
+msgstr "Shit, you do not succeed in getting the object out."
 
 #: ../../ms2/ms2_r2.c:945
 msgid "Die Klappe ist schon offen."
@@ -2350,7 +2352,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:979
 msgid "Der Schlüsssel paßt nicht."
-msgstr ""
+msgstr "The key does not fit."
 
 #: ../../ms2/ms2_r2.c:983
 msgid ""
@@ -2360,11 +2362,11 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:987
 msgid "Es passiert nichts. Das Ding|scheint kaputt zu sein."
-msgstr ""
+msgstr "Nothing happens. The thing|seems to be broken."
 
 #: ../../ms2/ms2_r2.c:998
 msgid "Hochspannung ist ungesund, wie du aus|Teil 1 eigentlich wissen müßtest!"
-msgstr ""
+msgstr "High voltage is unhealthy, as you|should already know|from Part 1!"
 
 #: ../../ms2/ms2_r2.c:1034
 msgid "Es hängt ein Kabel heraus."
@@ -2372,7 +2374,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:1035
 msgid "Irgendetwas hat hier|nicht ganz funktioniert."
-msgstr ""
+msgstr "Something did not|quite work out here."
 
 #: ../../ms2/ms2_r2.c:1059
 msgid "Du ziehst den Raumanzug an."
@@ -2384,7 +2386,7 @@ msgstr "Your take off your space suit."
 
 #: ../../ms2/ms2_r2.c:1069 ../../ms2/ms2_r2.c:1099
 msgid "Das ist schon verbunden."
-msgstr ""
+msgstr "That is already connected."
 
 #: ../../ms2/ms2_r2.c:1129
 msgid "Die Leitung ist hier|schon ganz richtig."
@@ -2392,15 +2394,15 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:1137
 msgid "Roger W.! Wie kommen Sie denn hierher?"
-msgstr ""
+msgstr "Roger W.! How did you get here?"
 
 #: ../../ms2/ms2_r2.c:1140
 msgid "Ach, sieh mal einer an! Sie schon wieder!"
-msgstr ""
+msgstr "Oh, look at that! It's you again!"
 
 #: ../../ms2/ms2_r2.c:1141
 msgid "Wo haben Sie denn|Ihr Schiff gelassen?"
-msgstr ""
+msgstr "Where did you|leave your ship?"
 
 #: ../../ms2/ms2_r2.c:1144
 msgid "Schauen Sie mal hinter mich auf|den Turm! Da oben hängt es."
