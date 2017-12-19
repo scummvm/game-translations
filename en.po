@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-12-19 23:27+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-12-19 23:29+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2736,34 +2736,39 @@ msgstr "Um, I see."
 
 #: ../../ms2/ms2_s.c:160
 msgid "Plötzlich lenkt dich eine|Lautsprecherstimme vom Fernseher ab."
-msgstr ""
+msgstr "Suddenly, a speaker's voice|distracts you from the television."
 
 #: ../../ms2/ms2_s.c:163
 msgid ""
 "\"Sehr geehrte Damen und Herren,|wir sind soeben auf dem Flughafen|von "
 "Axacuss City gelandet.\""
 msgstr ""
+"\"Ladies and Gentlemen,|We just landed at the airport|at Axacuss City.\""
 
 #: ../../ms2/ms2_s.c:166
 msgid ""
 "\"Ich hoffe, Sie hatten einen angenehmen Flug.|Bitte verlassen Sie das "
 "Raumschiff! Auf Wiedersehen!\""
-msgstr ""
+msgstr "\"I hope you had a nice flight.|Please leave the spaceship! Goodbye!\""
 
 #: ../../ms2/ms2_s.c:186
 msgid ""
 "Während die anderen Passagiere|aussteigen, versuchst du,|den Schock zu "
 "verarbeiten."
 msgstr ""
+"While the other passengers|are disembarking, you are trying|to handle the "
+"shock."
 
 #: ../../ms2/ms2_s.c:189
 msgid ""
 "\"Ich muß beweisen, daß dieser|Roboter der falsche Horst|Hummel ist!\", "
 "denkst du."
 msgstr ""
+"\"I have to prove that this robot|is the wrong Horst|Hummel!\", you think."
 
 #: ../../ms2/ms2_s.c:192
 msgid ""
 "\"Diese Mistkerle von der Artus GmbH und|Commander Sumoti müssen entlarvt "
 "werden!\""
 msgstr ""
+"\"These bastards from Artus GmbH and|Commander Sumoti must be unmasked!\""
