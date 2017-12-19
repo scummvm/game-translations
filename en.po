@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-12-19 23:26+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"PO-Revision-Date: 2017-12-19 23:27+0000\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2728,11 +2728,11 @@ msgstr ""
 
 #: ../../ms2/ms2_s.c:153
 msgid "Zahnbürsten von solcher Qualität|gab es auf der Erde nicht."
-msgstr "Toothbrushes of such quality|do not exist on the Earth."
+msgstr "Toothbrushes of such quality|do not exist on Earth."
 
 #: ../../ms2/ms2_s.c:154
 msgid "Äh, ach so."
-msgstr ""
+msgstr "Um, I see."
 
 #: ../../ms2/ms2_s.c:160
 msgid "Plötzlich lenkt dich eine|Lautsprecherstimme vom Fernseher ab."
