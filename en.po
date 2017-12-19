@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-12-19 23:29+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"PO-Revision-Date: 2017-12-19 23:36+0000\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -248,7 +248,7 @@ msgstr "Not bad!"
 
 #: ../../ms2/ms2_mod.c:607
 msgid "Supersound!"
-msgstr ""
+msgstr "Supersound!"
 
 #: ../../ms2/ms2_mod.c:609
 msgid "Klasse!"
@@ -260,7 +260,7 @@ msgstr "I can't believe it!"
 
 #: ../../ms2/ms2_mod.c:613
 msgid "Super, ey!"
-msgstr ""
+msgstr "Dope, yo!"
 
 #: ../../ms2/ms2_mod.c:615
 msgid "Fantastisch!"
@@ -288,7 +288,7 @@ msgstr "Outstanding!"
 
 #: ../../ms2/ms2_mod.c:627
 msgid "Ultragut!"
-msgstr ""
+msgstr "Ultra-good!"
 
 #: ../../ms2/ms2_mod.c:629
 msgid "Megacool!"
@@ -1157,7 +1157,7 @@ msgstr "What disguise?"
 
 #: ../../ms2/ms2_r1.c:758
 msgid "Na, tun Sie nicht so!"
-msgstr ""
+msgstr "Stop pretending you don't know!"
 
 #: ../../ms2/ms2_r1.c:759
 msgid ""
@@ -1571,7 +1571,7 @@ msgstr "You can get the card from ME!"
 
 #: ../../ms2/ms2_r2.c:111
 msgid "Aber nur eine Teilnahmekarte,|keine Eintrittskarte."
-msgstr ""
+msgstr "But only a participation ticket,|not an entrance ticket."
 
 #: ../../ms2/ms2_r2.c:112
 msgid "Was wollen Sie dafür haben?"
@@ -2585,7 +2585,7 @@ msgid ""
 "darunter.|Du bräuchtest einen Stock oder so etwas."
 msgstr ""
 "Under the bed are certainly important|things to find, only you cannot reach "
-"underneath.|You need a stick or something"
+"underneath.|You need a stick or something."
 
 #: ../../ms2/ms2_r2.c:1267
 msgid "Schlüssel"
