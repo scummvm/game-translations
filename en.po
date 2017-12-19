@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-12-19 23:17+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-12-19 23:19+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2549,11 +2549,11 @@ msgstr "Ordinary pencils."
 
 #: ../../ms2/ms2_r2.c:1261
 msgid "Metallklötzchen"
-msgstr ""
+msgstr "Metal blocks"
 
 #: ../../ms2/ms2_r2.c:1261
 msgid "Es ist magnetisch."
-msgstr ""
+msgstr "It is magnetic."
 
 #: ../../ms2/ms2_r2.c:1262
 msgid "Bild"
@@ -2561,7 +2561,7 @@ msgstr "Image"
 
 #: ../../ms2/ms2_r2.c:1262
 msgid "Ein ungewöhnliches Bild."
-msgstr ""
+msgstr "An unusual picture."
 
 #: ../../ms2/ms2_r2.c:1263
 msgid "Schrank"
@@ -2569,15 +2569,15 @@ msgstr "Cabinet"
 
 #: ../../ms2/ms2_r2.c:1263
 msgid "Er ist verschlossen"
-msgstr ""
+msgstr "It is closed"
 
 #: ../../ms2/ms2_r2.c:1265
 msgid "Aufzug"
-msgstr ""
+msgstr "Elevator"
 
 #: ../../ms2/ms2_r2.c:1266
 msgid "unter Bett"
-msgstr ""
+msgstr "under Bed"
 
 #: ../../ms2/ms2_r2.c:1266
 msgid ""
