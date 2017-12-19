@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-12-19 23:20+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-12-19 23:24+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2589,19 +2589,19 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:1267
 msgid "Schlüssel"
-msgstr ""
+msgstr "Key"
 
 #: ../../ms2/ms2_r2.c:1267
 msgid "Ein kleiner Metallschlüssel."
-msgstr ""
+msgstr "A small metal key."
 
 #: ../../ms2/ms2_r2.c:1274 ../../ms2/ms2_r2.c:1277
 msgid "Schalter"
-msgstr ""
+msgstr "Switch"
 
 #: ../../ms2/ms2_r2.c:1275
 msgid "Griff"
-msgstr ""
+msgstr "Handle"
 
 #: ../../ms2/ms2_r2.c:1276
 msgid "Luke"
@@ -2613,7 +2613,7 @@ msgstr "Space suit"
 
 #: ../../ms2/ms2_r2.c:1278
 msgid "Ein zusammenfaltbarer Raumanzug."
-msgstr ""
+msgstr "A collapsible Spacesuit."
 
 #: ../../ms2/ms2_r2.c:1279 ../../ms2/ms2_r2.c:1280
 msgid "Leitung"
@@ -2621,38 +2621,42 @@ msgstr "Cable"
 
 #: ../../ms2/ms2_r2.c:1279
 msgid "Irgendetwas scheint hier|kaputtgegangen zu sein."
-msgstr ""
+msgstr "Something seems to|have broken here."
 
 #: ../../ms2/ms2_r2.c:1280
 msgid "Sie hängt lose von der Decke runter."
-msgstr ""
+msgstr "It hangs loose from the ceiling."
 
 #: ../../ms2/ms2_s.c:85
 msgid ""
 "Zur Erinnerung:|Dir ist es gelungen, aus den|Artus-Geheimbüros zu fliehen."
-msgstr ""
+msgstr "Reminder:|You managed to escape from the|Artus-GmbH secret offices."
 
 #: ../../ms2/ms2_s.c:88
 msgid ""
 "Nun befindest du dich in|einem Passagierraumschiff,|das nach Axacuss City "
 "fliegt."
-msgstr ""
+msgstr "Now you are in a passenger|spaceship that|flies to Axacuss City."
 
 #: ../../ms2/ms2_s.c:91
 msgid ""
 "Während des Fluges schaust du dir|das axacussanische Fernsehprogramm an.|Du "
 "stößt auf etwas Interessantes ..."
 msgstr ""
+"During the flight, you watch the|Axacussan TV program.|You come across "
+"something interesting ..."
 
 #: ../../ms2/ms2_s.c:119
 msgid "Herzlich willkommen!"
-msgstr ""
+msgstr "Welcome!"
 
 #: ../../ms2/ms2_s.c:123
 msgid ""
 "Heute zu Gast ist Alga Lorch.|Sie wird Fragen an den Erdling|Horst Hummel "
 "stellen."
 msgstr ""
+"Alga Lorch will be present today.|She will ask questions to the Earthling|"
+"Horst Hummel."
 
 #: ../../ms2/ms2_s.c:127
 msgid "Horst wird alle Fragen|beantworten, soweit es|ihm möglich ist."
@@ -2660,17 +2664,19 @@ msgstr ""
 
 #: ../../ms2/ms2_s.c:128
 msgid "Sie haben das Wort, Frau Lorch!"
-msgstr ""
+msgstr "You have the floor, Mrs Lorch!"
 
 #: ../../ms2/ms2_s.c:134
 msgid "Herr Hummel, hier ist meine erste Frage: ..."
-msgstr ""
+msgstr "Mr. Hummel, here is my first question: ..."
 
 #: ../../ms2/ms2_s.c:135
 msgid ""
 "Sie sind nun ein berühmter Mann auf Axacuss.|Aber sicher vermissen Sie auch "
 "Ihren Heimatplaneten."
 msgstr ""
+"You are now a famous man on Axacuss.|But surely you will miss your home "
+"planet."
 
 #: ../../ms2/ms2_s.c:136
 msgid ""
