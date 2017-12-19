@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-12-19 23:24+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-12-19 23:26+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2682,21 +2682,25 @@ msgid ""
 "Wenn Sie wählen könnten, würden Sie lieber|ein normales Leben auf der Erde "
 "führen,|oder finden Sie das Leben hier gut?"
 msgstr ""
+"If you could choose, would you prefer|to lead a normal life on Earth,|or do "
+"you find life here good?"
 
 #: ../../ms2/ms2_s.c:137
 msgid ""
 "Ehrlich gesagt finde ich es schön,|berühmt zu sein. Das Leben ist|"
 "aufregender als auf der Erde."
 msgstr ""
+"Honestly, I think it's nice to be|famous. Life is more exciting here|than on "
+"earth."
 
 #: ../../ms2/ms2_s.c:138
 msgid "Außerdem sind die Leute von der|Artus GmbH hervorragende Freunde."
-msgstr ""
+msgstr "In addition, the people of|Artus GmbH are excellent friends."
 
 #: ../../ms2/ms2_s.c:139
 msgid ""
 "Nun ja, planen Sie denn trotzdem,|irgendwann auf die Erde zurückzukehren?"
-msgstr ""
+msgstr "Well, are you still planning|to return to Earth someday?"
 
 #: ../../ms2/ms2_s.c:140
 msgid "Das kann ich Ihnen zum jetzigen|Zeitpunkt noch nicht genau sagen."
@@ -2704,23 +2708,27 @@ msgstr ""
 
 #: ../../ms2/ms2_s.c:141
 msgid "Aber ich versichere Ihnen, ich|werde noch eine Weile hierbleiben."
-msgstr ""
+msgstr "But I assure you,|I will stay here for a while."
 
 #: ../../ms2/ms2_s.c:142
 msgid ""
 "Aha, mich interessiert außerdem,|ob es hier auf Axacuss etwas gibt,|das Sie "
 "besonders mögen."
 msgstr ""
+"I see, I'm also interested in|whether there's anything here on Axacuss that "
+"you particularly like."
 
 #: ../../ms2/ms2_s.c:152
 msgid ""
 "Oh mir gefällt der ganze Planet,|aber das Beste hier sind die|hervorragenden "
 "Artus-Zahnbürsten!"
 msgstr ""
+"Oh I like the whole planet,|but the best here are the|great Artus-"
+"Toothbrushes!"
 
 #: ../../ms2/ms2_s.c:153
 msgid "Zahnbürsten von solcher Qualität|gab es auf der Erde nicht."
-msgstr ""
+msgstr "Toothbrushes of such quality|do not exist on the Earth."
 
 #: ../../ms2/ms2_s.c:154
 msgid "Äh, ach so."
