@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-12-16 14:06+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-12-19 23:10+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2406,7 +2406,7 @@ msgstr "Where did you|leave your ship?"
 
 #: ../../ms2/ms2_r2.c:1144
 msgid "Schauen Sie mal hinter mich auf|den Turm! Da oben hängt es."
-msgstr ""
+msgstr "Take a look behind me, up on|the tower! It's up there."
 
 #: ../../ms2/ms2_r2.c:1145
 msgid ""
@@ -2416,12 +2416,12 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:1146
 msgid "Mich wundert, daß es die Leute|hier so gelassen nehmen."
-msgstr ""
+msgstr "I am surprised that people|here take things so calmly."
 
 #: ../../ms2/ms2_r2.c:1147
 msgid ""
 "Die tun gerade so, als ob der Turm|schon immer so schräg gestanden hätte!"
-msgstr ""
+msgstr "They are pretending that the tower|has always been that slanted!"
 
 #: ../../ms2/ms2_r2.c:1148
 msgid "Hat er auch, schon seit|mehreren Jahrhunderten!"
@@ -2439,7 +2439,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:1156
 msgid "Hmm, was mach ich jetzt bloß?"
-msgstr ""
+msgstr "Hmm, what am I going to do now?"
 
 #: ../../ms2/ms2_r2.c:1157
 msgid ""
@@ -2449,11 +2449,11 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:1160
 msgid "Ok, einverstanden."
-msgstr ""
+msgstr "Ok, I agree."
 
 #: ../../ms2/ms2_r2.c:1204
 msgid "Faszinierend!"
-msgstr ""
+msgstr "Fascinating!"
 
 #: ../../ms2/ms2_r2.c:1205
 msgid "Taxis"
