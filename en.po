@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-12-19 23:36+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-12-19 23:58+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2328,7 +2328,7 @@ msgstr "The card|is not accepted."
 
 #: ../../ms2/ms2_r2.c:927
 msgid "Da ist nichts mehr."
-msgstr ""
+msgstr "There is nothing left."
 
 #: ../../ms2/ms2_r2.c:930
 msgid "Da ist ein Schlüssel unter dem Bett!"
@@ -2348,7 +2348,7 @@ msgstr "Shit, you do not succeed in getting the object out."
 
 #: ../../ms2/ms2_r2.c:945
 msgid "Die Klappe ist schon offen."
-msgstr ""
+msgstr "The flap is already open."
 
 #: ../../ms2/ms2_r2.c:979
 msgid "Der Schlüsssel paßt nicht."
@@ -2359,6 +2359,8 @@ msgid ""
 "Du steckst den Chip in die|Anlage, aber es passiert nichts.|Die Anlage "
 "scheint kaputt zu sein."
 msgstr ""
+"You put the chip in the system,|but nothing happens.|The system seems to be "
+"broken."
 
 #: ../../ms2/ms2_r2.c:987
 msgid "Es passiert nichts. Das Ding|scheint kaputt zu sein."
