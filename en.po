@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
 "PO-Revision-Date: 2017-12-19 23:14+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2509,7 +2509,7 @@ msgstr "There are keys from 0 to 9 on it."
 
 #: ../../ms2/ms2_r2.c:1255
 msgid "Chip"
-msgstr ""
+msgstr "Chip"
 
 #: ../../ms2/ms2_r2.c:1255
 msgid "Es ist ein Musikchip!"
