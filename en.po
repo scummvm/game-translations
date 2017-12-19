@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-12-19 23:14+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-12-19 23:15+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2513,7 +2513,7 @@ msgstr "Chip"
 
 #: ../../ms2/ms2_r2.c:1255
 msgid "Es ist ein Musikchip!"
-msgstr ""
+msgstr "It's a music chip!"
 
 #: ../../ms2/ms2_r2.c:1256
 msgid "Klappe"
@@ -2521,19 +2521,19 @@ msgstr "Hatch"
 
 #: ../../ms2/ms2_r2.c:1256
 msgid "Sie ist mit einem altmodischen|Schloß verschlossen."
-msgstr ""
+msgstr "It is closed with an old-fashioned lock."
 
 #: ../../ms2/ms2_r2.c:1258
 msgid "Musikanlage"
-msgstr ""
+msgstr "Music system"
 
 #: ../../ms2/ms2_r2.c:1258
 msgid "Toll, eine in die Wand|integrierte Stereoanlage."
-msgstr ""
+msgstr "Great, a built-in stereo|in the wall."
 
 #: ../../ms2/ms2_r2.c:1259
 msgid "Boxen"
-msgstr ""
+msgstr "Boxes"
 
 #: ../../ms2/ms2_r2.c:1259
 msgid "Ganz normale Boxen."
