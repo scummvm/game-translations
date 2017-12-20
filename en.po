@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-12-19 23:58+0000\n"
-"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
+"PO-Revision-Date: 2017-12-20 00:19+0000\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2359,7 +2359,7 @@ msgid ""
 "Du steckst den Chip in die|Anlage, aber es passiert nichts.|Die Anlage "
 "scheint kaputt zu sein."
 msgstr ""
-"You put the chip in the system,|but nothing happens.|The system seems to be "
+"You put the chip in the stereo,|but nothing happens.|The stereo seems to be "
 "broken."
 
 #: ../../ms2/ms2_r2.c:987
@@ -2372,7 +2372,7 @@ msgstr "High voltage is unhealthy, as you|should already know|from Part 1!"
 
 #: ../../ms2/ms2_r2.c:1034
 msgid "Es hängt ein Kabel heraus."
-msgstr ""
+msgstr "A cable hangs out."
 
 #: ../../ms2/ms2_r2.c:1035
 msgid "Irgendetwas hat hier|nicht ganz funktioniert."
@@ -2392,7 +2392,7 @@ msgstr "That is already connected."
 
 #: ../../ms2/ms2_r2.c:1129
 msgid "Die Leitung ist hier|schon ganz richtig."
-msgstr ""
+msgstr "The cable is already|at the right place."
 
 #: ../../ms2/ms2_r2.c:1137
 msgid "Roger W.! Wie kommen Sie denn hierher?"
@@ -2415,6 +2415,8 @@ msgid ""
 "Ich hatte es scheinbar etwas zu|eilig, aber ich mußte unbedingt|zu den "
 "Dreharbeiten nach Xenon!"
 msgstr ""
+"Apparently I was too much in a hurry,|but I had to be at the film shooting "
+"in Xenon!"
 
 #: ../../ms2/ms2_r2.c:1146
 msgid "Mich wundert, daß es die Leute|hier so gelassen nehmen."
@@ -2427,17 +2429,19 @@ msgstr "They are pretending that the tower|has always been that slanted!"
 
 #: ../../ms2/ms2_r2.c:1148
 msgid "Hat er auch, schon seit|mehreren Jahrhunderten!"
-msgstr ""
+msgstr "It has, for|several centuries, actually!"
 
 #: ../../ms2/ms2_r2.c:1151
 msgid ""
 "Äh ... ach so. Und von wo|kommen Sie? Sie hatten's ja|wohl auch ziemlich "
 "eilig."
 msgstr ""
+"Uh ... I see. And where are you coming from? It seems you were in quite a "
+"hurry as well."
 
 #: ../../ms2/ms2_r2.c:1152
 msgid "Ich komme von Axacuss."
-msgstr ""
+msgstr "I come from Axacuss."
 
 #: ../../ms2/ms2_r2.c:1156
 msgid "Hmm, was mach ich jetzt bloß?"
@@ -2447,7 +2451,7 @@ msgstr "Hmm, what am I going to do now?"
 msgid ""
 "Ich kenne ein gutes Cafe nicht|weit von hier, da können|wir uns erstmal "
 "erholen."
-msgstr ""
+msgstr "I know a good cafe not far from here,|where we can get some rest."
 
 #: ../../ms2/ms2_r2.c:1160
 msgid "Ok, einverstanden."
