@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-12-20 00:19+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-12-20 00:22+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2467,7 +2467,7 @@ msgstr "Taxis"
 
 #: ../../ms2/ms2_r2.c:1205
 msgid "Hier ist ja richtig was los!"
-msgstr ""
+msgstr "There seems to be something really going on here!"
 
 #: ../../ms2/ms2_r2.c:1206
 msgid "Axacussaner"
@@ -2666,7 +2666,7 @@ msgstr ""
 
 #: ../../ms2/ms2_s.c:127
 msgid "Horst wird alle Fragen|beantworten, soweit es|ihm möglich ist."
-msgstr ""
+msgstr "Horst will answer all|questions as far|as is possible."
 
 #: ../../ms2/ms2_s.c:128
 msgid "Sie haben das Wort, Frau Lorch!"
