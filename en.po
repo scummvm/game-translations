@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2017-12-20 00:28+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"PO-Revision-Date: 2017-12-20 00:36+0000\n"
+"Last-Translator: Jennifer McMurray <mcmurray.jennifer@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -539,7 +539,7 @@ msgstr "It does not fit|between the stones."
 
 #: ../../ms2/ms2_pyra.c:710 ../../ms2/ms2_pyra.c:741 ../../ms2/ms2_pyra.c:840
 msgid "Das ist doch|oben festgebunden!"
-msgstr ""
+msgstr "That is|already tied up!"
 
 #: ../../ms2/ms2_pyra.c:715
 msgid "Hey, das ist|mindestens 10 Meter tief!"
