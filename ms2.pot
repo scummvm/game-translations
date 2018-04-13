@@ -1456,7 +1456,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:49
 msgid ""
-"Können Sie mir sagen, von wem ich eine Eintrittskartefür den Musikwettbewerb "
+"Können Sie mir sagen, von wem ich eine Eintrittskarte für den Musikwettbewerb "
 "kriegen kann?"
 msgstr ""
 
@@ -2006,7 +2006,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:695
 msgid ""
-"Machen Sie es immer so, daß Sie Ihre Komplizen überein Graffitti anwerben?"
+"Machen Sie es immer so, daß Sie Ihre Komplizen über ein Graffitti anwerben?"
 msgstr ""
 
 #: ../../ms2/ms2_r2.c:722
