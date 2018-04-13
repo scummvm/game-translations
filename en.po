@@ -1476,8 +1476,8 @@ msgstr "Nice weather today!"
 
 #: ../../ms2/ms2_r2.c:49
 msgid ""
-"Können Sie mir sagen, von wem ich eine Eintrittskartefür den Musikwettbewerb "
-"kriegen kann?"
+"Können Sie mir sagen, von wem ich eine Eintrittskarte für den "
+"Musikwettbewerb kriegen kann?"
 msgstr "Can you tell me who can get me a ticket for the music contest?"
 
 #: ../../ms2/ms2_r2.c:55
@@ -2050,7 +2050,7 @@ msgstr "How big is my share?"
 
 #: ../../ms2/ms2_r2.c:695
 msgid ""
-"Machen Sie es immer so, daß Sie Ihre Komplizen überein Graffitti anwerben?"
+"Machen Sie es immer so, daß Sie Ihre Komplizen über ein Graffitti anwerben?"
 msgstr "Do you always use graffiti to recruit your accomplices?"
 
 #: ../../ms2/ms2_r2.c:722
