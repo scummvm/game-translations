@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:53+0100\n"
-"PO-Revision-Date: 2018-04-13 21:29+0000\n"
+"PO-Revision-Date: 2018-04-14 20:14+0000\n"
 "Last-Translator: Adrian Frühwirth <bonki@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -307,7 +307,7 @@ msgstr "The adventure continues ...##"
 
 #: ../../msn/msn_mod.c:592
 msgid "... wenn Sie sich für 30,- DM registrieren lassen!##"
-msgstr "... if you register for 30, - DM!##"
+msgstr "... if you register for 30,- DM!##"
 
 #: ../../msn/msn_mod.c:593
 msgid "(Falls Sie das nicht schon längst getan haben.)##"
@@ -393,7 +393,7 @@ msgstr "The egg contains a pill|in a plastic sleeve."
 
 #: ../../msn/msn_r0.c:214
 msgid "Du ißt die Tablette und merkst,|daß sich irgendetwas verändert hat."
-msgstr "You eat the pill and realize|that something has changed."
+msgstr "You swallow the pill and realize|that something has changed."
 
 #: ../../msn/msn_r0.c:224
 msgid ""
@@ -425,7 +425,7 @@ msgstr "Hmm, somehow|I feel tricked."
 
 #: ../../msn/msn_r0.c:273
 msgid "Es ist die Keycard des Commanders."
-msgstr "This is the keycard of the Commander."
+msgstr "This is the Commander's keycard."
 
 #: ../../msn/msn_r0.c:277
 msgid ""
@@ -474,7 +474,7 @@ msgstr "You must take off your oxygen supply unit first."
 
 #: ../../msn/msn_r0.c:401
 msgid "Du ziehst den Raumanzug aus."
-msgstr "Your take off your space suit."
+msgstr "You take off your space suit."
 
 #: ../../msn/msn_r0.c:407
 msgid "Du ziehst den Raumanzug an."
@@ -517,8 +517,8 @@ msgid ""
 "Stark, das ist ja die Fortsetzung zum \"Anhalter\":|\"Das Restaurant am Ende "
 "des Universums\"."
 msgstr ""
-"Great, this is the sequel to the \"Hitchhiker\":|\"The Restaurant at the End "
-"of the Universe\"."
+"Great, this is the sequel to \"Hitchhiker\":|\"The Restaurant at the End of "
+"the Universe\"."
 
 #: ../../msn/msn_r0.c:495
 msgid ""
@@ -565,7 +565,7 @@ msgstr "There is a \"Mad Monkeys\" CD in it."
 msgid ""
 "In der Küche warst du schon|oft genug, im Moment hast|du keinen Appetit."
 msgstr ""
-"You have been often enough|in the kitchen and you are|no longer hungry."
+"You have been in the kitchen|often enough and right now|you are not hungry."
 
 #. I18N: FORTYTWO
 #: ../../msn/msn_r1.c:91
@@ -627,7 +627,7 @@ msgstr "Danger"
 msgid ""
 "Du wachst mit brummendem Schädel auf|und merkst, daß du nur geträumt hast."
 msgstr ""
-"You wake up with a buzzing sensation in your head|and realise that it was "
+"You wake up with a buzzing sensation in your head|and realize that it was "
 "only a dream."
 
 #: ../../msn/msn_r1.c:292
@@ -752,11 +752,11 @@ msgstr "The cable is in the way."
 
 #: ../../msn/msn_r1.c:685
 msgid "Das geht nicht.|Die Luke ist mindestens|5 Meter über dem Boden."
-msgstr "That will not do.|The hatch is at least|5 meters above the ground."
+msgstr "That won't work.|The hatch is at least|5 meters above the ground."
 
 #: ../../msn/msn_r1.c:694
 msgid "Keycard des Commanders"
-msgstr "Keycard of the Commander"
+msgstr "The Commander's keycard"
 
 #: ../../msn/msn_r1.c:766
 msgid "Was nützt dir der Anschluß|ohne eine Stromquelle?!"
@@ -820,15 +820,15 @@ msgstr "What?! No one in the cockpit!|They're crazy!"
 
 #: ../../msn/msn_r1.c:1105
 msgid "Komisch, es ist nur|noch ein Raumanzug da."
-msgstr "Funny, there's only|one space suit."
+msgstr "Funny, there's only|one space suit left."
 
 #: ../../msn/msn_r1.c:1113
 msgid ""
 "Was ist denn das für ein Chaos?|Und außerdem fehlt das Notraumschiff!|Jetzt "
 "wird mir einiges klar.|Die anderen sind geflüchtet,|und ich habe es verpennt."
 msgstr ""
-"What is that chaos? And also|the escape ship is missing!|Now I understand. "
-"The others|have escaped, and they left|me behind."
+"What is this chaos? And the|escape ship is missing too!|Now I understand. "
+"The others|have escaped and they left|me behind."
 
 #: ../../msn/msn_r1_r.c:16 ../../msn/msn_r1_r.c:17 ../../msn/msn_r1_r.c:18
 #: ../../msn/msn_r1_r.c:19 ../../msn/msn_r1_r.c:20 ../../msn/msn_r1_r.c:21
@@ -1194,7 +1194,7 @@ msgstr "This is your cabinet."
 
 #: ../../msn/msn_r1_r.c:191 ../../msn/msn_r1_r.c:274 ../../msn/msn_r1_r.c:275
 msgid "Krimskram"
-msgstr "Junk"
+msgstr "Bits and pieces"
 
 #: ../../msn/msn_r1_r.c:191 ../../msn/msn_r1_r.c:274 ../../msn/msn_r1_r.c:275
 msgid "Es ist nichts brauchbares dabei."
@@ -1254,7 +1254,7 @@ msgstr "A poster of \"Big Boss\"."
 
 #: ../../msn/msn_r1_r.c:231
 msgid "Ein Poster von \"Rock Desaster\"."
-msgstr "A poster for \"Rock Disaster\"."
+msgstr "A poster of \"Rock Disaster\"."
 
 #: ../../msn/msn_r1_r.c:232
 msgid "Box"
@@ -1418,7 +1418,7 @@ msgstr "If you say so."
 
 #: ../../msn/msn_r2.c:199 ../../msn/msn_r2.c:256
 msgid "In der Toilette gibt es|Schließfächer für Schuhe."
-msgstr "There are lockers for shoes|in the restroom."
+msgstr "There are shoe lockers|in the restroom."
 
 #: ../../msn/msn_r2.c:204
 msgid ""
@@ -1436,7 +1436,7 @@ msgstr "Hhius otgfh Dgfdrkjlh Fokj gf."
 
 #: ../../msn/msn_r2.c:230 ../../msn/msn_s.c:289
 msgid "Halt!"
-msgstr "Halt!"
+msgstr "Stop!"
 
 #: ../../msn/msn_r2.c:232
 msgid "Uhwdejkt!"
@@ -1499,9 +1499,7 @@ msgstr "Coin"
 msgid ""
 "Komisch! Auf einmal kannst du|das Schild lesen! Darauf steht:|\"Zutritt nur "
 "für Personal\"."
-msgstr ""
-"Strange! Suddenly you can |read the sign! It states:|\"Access Only for "
-"Personnel\"."
+msgstr "Strange! Suddenly you can|read the sign! It states:|\"Staff only\"."
 
 #: ../../msn/msn_r2.c:361
 msgid ""
@@ -1525,7 +1523,7 @@ msgid ""
 "Du hast das komische Gefühl,|daß draußen etwas passiert,|und eilst zum "
 "Restaurant."
 msgstr ""
-"You get the funny feeling,|that something has happened outside,|and hurry to "
+"You get the funny feeling|that something is happening outside|and hurry to "
 "the restaurant."
 
 #: ../../msn/msn_r2.c:617
@@ -1542,7 +1540,7 @@ msgstr "Hey, what are you doing in my spaceship?!"
 
 #: ../../msn/msn_r2.c:641
 msgid "Geben Sie mir sofort meine Brieftasche wieder!"
-msgstr "Just give me my wallet back!"
+msgstr "Return my wallet at once!"
 
 #: ../../msn/msn_r2.c:644
 msgid "Versuchen Sie das ja nicht nochmal!"
@@ -1558,7 +1556,7 @@ msgstr "Ten Minutes later ..."
 
 #: ../../msn/msn_r2.c:690
 msgid "Könnten Sie mir ein Gericht empfehlen?"
-msgstr "Could you recommend a dish for me?"
+msgstr "Do you have any recommendations?"
 
 #: ../../msn/msn_r2.c:691
 msgid "Wie lange dauert es denn noch bis zur Supernova?"
@@ -1570,7 +1568,7 @@ msgstr "You look kind of familiar to me."
 
 #: ../../msn/msn_r2.c:704
 msgid "Hey, Witzkeks, laß die Brieftasche da liegen!"
-msgstr "Hey, Joker, leave the Wallet there!"
+msgstr "Hey, joker, leave the wallet alone!"
 
 #: ../../msn/msn_r2.c:708
 msgid "Das ist nicht deine."
@@ -1582,7 +1580,7 @@ msgstr "Roger is not available at the moment."
 
 #: ../../msn/msn_r2.c:718
 msgid "Bestellen Sie lieber nichts!"
-msgstr "Do Not order anything!"
+msgstr "I would not order anything if I were you!"
 
 #: ../../msn/msn_r2.c:719
 msgid ""
@@ -1657,7 +1655,7 @@ msgstr "Hmm ... what planet are you from?"
 
 #: ../../msn/msn_r2.c:737
 msgid "Von der Erde."
-msgstr "From the Earth."
+msgstr "Earth."
 
 #: ../../msn/msn_r2.c:738
 msgid "Erde? Nie gehört."
@@ -1667,7 +1665,7 @@ msgstr "Earth? Never heard of it."
 msgid ""
 "Wahrscheinlich irgendein Kaff, wo Neuerungen|erst hundert Jahre später "
 "hingelangen."
-msgstr "Probably some dump, where innovations|happen only a century late."
+msgstr "Probably some dump where innovations|happen a century late."
 
 #: ../../msn/msn_r2.c:740
 msgid "Äh ... kann sein."
@@ -1714,7 +1712,7 @@ msgstr ""
 
 #: ../../msn/msn_r2.c:748
 msgid "Nein, ich bin nur ein Ahnungsloser Koch von der Erde."
-msgstr "No, I'm just a clueless cook from the Earth."
+msgstr "No, I'm just a clueless cook from Earth."
 
 #: ../../msn/msn_r2.c:749
 msgid ""
@@ -1829,7 +1827,7 @@ msgstr "Where do you want to go?"
 
 #: ../../msn/msn_r2.c:981
 msgid "Ok, steigen Sie ein!"
-msgstr "Ok, get in!"
+msgstr "OK, get in!"
 
 #: ../../msn/msn_r2.c:983
 msgid "Wie Sie wollen."
@@ -1960,7 +1958,7 @@ msgstr "Good, do you have any questions?"
 
 #: ../../msn/msn_r2.c:1174
 msgid "Keine Panik!"
-msgstr "Don't panic!"
+msgstr "Don't worry!"
 
 #: ../../msn/msn_r2.c:1175
 msgid "Wir tun Ihnen nichts."
@@ -2251,7 +2249,7 @@ msgstr "You again?"
 
 #: ../../msn/msn_r3.c:264
 msgid "Halt! Sie sind doch dieser Hummel.|Bleiben Sie sofort stehen!"
-msgstr "Stop! You're this Hummel.|Stop right there!"
+msgstr "Stop! You're this Hummel guy.|Stop right there!"
 
 #: ../../msn/msn_r3.c:266
 msgid "Sehr witzig!"
@@ -2311,7 +2309,7 @@ msgstr "That combination is incorrect."
 
 #: ../../msn/msn_r3.c:748
 msgid "Streng geheim"
-msgstr "Strictly secret"
+msgstr "Top secret"
 
 #: ../../msn/msn_r3.c:749
 msgid "418-98"
@@ -2323,7 +2321,7 @@ msgstr "Dear Dr. Hansi,"
 
 #: ../../msn/msn_r3.c:751
 msgid "Ich muß Ihren Roboterexperten ein Lob aussprechen. Die"
-msgstr "I must commend your robot expert. The imitation"
+msgstr "I must commend your robot experts. The imitation"
 
 #: ../../msn/msn_r3.c:752
 msgid "Imitation von Horst Hummel ist perfekt gelungen, wie ich"
@@ -2526,7 +2524,7 @@ msgstr "Tray"
 
 #: ../../msn/msn_r3.c:1481
 msgid "Es ist irgendein Fraß und|etwas zu Trinken darauf."
-msgstr "There is some kind of food|and a drink on it."
+msgstr "There is something resembling food|and a drink on it."
 
 #: ../../msn/msn_r3.c:1483
 msgid "Stange"
@@ -2690,7 +2688,7 @@ msgstr "Strong!"
 
 #: ../../msn/msn_r3.c:1659
 msgid "Sie ist den Pflanzen auf der Erde sehr ähnlich."
-msgstr "It is very similar to the plants on earth."
+msgstr "It is very similar to the plants on Earth."
 
 #: ../../msn/msn_r3.c:1668
 msgid "Er funktioniert nicht."
@@ -2774,7 +2772,7 @@ msgstr "I have no idea, Sir."
 
 #: ../../msn/msn_s.c:215
 msgid "Ingenieur an Commander, bitte kommen!"
-msgstr "Engineer to Commander, come in!"
+msgstr "Engineer to Commander, do you copy?"
 
 #: ../../msn/msn_s.c:221
 msgid "Was ist los?"
@@ -2814,7 +2812,7 @@ msgstr "I can't take any chances.|Captain, sound the alarm!"
 
 #: ../../msn/msn_s.c:232 ../../msn/msn_s.c:264
 msgid "Ok, Sir."
-msgstr "Ok, Sir."
+msgstr "OK, sir."
 
 #: ../../msn/msn_s.c:255
 msgid ""
