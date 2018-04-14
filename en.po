@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2018-04-14 05:54+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2018-04-14 17:56+0000\n"
+"Last-Translator: Adrian Frühwirth <bonki@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2454,7 +2454,7 @@ msgstr "I know a good cafe not far from here,|where we can get some rest."
 
 #: ../../ms2/ms2_r2.c:1160
 msgid "Ok, einverstanden."
-msgstr "Ok, I agree."
+msgstr "OK, I agree."
 
 #: ../../ms2/ms2_r2.c:1204
 msgid "Faszinierend!"
@@ -2526,7 +2526,7 @@ msgstr "Hatch"
 
 #: ../../ms2/ms2_r2.c:1256
 msgid "Sie ist mit einem altmodischen|Schloß verschlossen."
-msgstr "It is closed with an old-fashioned lock."
+msgstr "It is secured with an old-fashioned lock."
 
 #: ../../ms2/ms2_r2.c:1258
 msgid "Musikanlage"
@@ -2542,7 +2542,7 @@ msgstr "Speakers"
 
 #: ../../ms2/ms2_r2.c:1259
 msgid "Ganz normale Boxen."
-msgstr "Ordinary Speakers."
+msgstr "Ordinary speakers."
 
 #: ../../ms2/ms2_r2.c:1260
 msgid "Stifte"
@@ -2618,7 +2618,7 @@ msgstr "Space suit"
 
 #: ../../ms2/ms2_r2.c:1278
 msgid "Ein zusammenfaltbarer Raumanzug."
-msgstr "A collapsible Spacesuit."
+msgstr "A collapsible spacesuit."
 
 #: ../../ms2/ms2_r2.c:1279 ../../ms2/ms2_r2.c:1280
 msgid "Leitung"
@@ -2665,7 +2665,7 @@ msgstr ""
 
 #: ../../ms2/ms2_s.c:127
 msgid "Horst wird alle Fragen|beantworten, soweit es|ihm möglich ist."
-msgstr "Horst will answer all|questions as far|as it is possible."
+msgstr "Horst will answer all|questions as fully|as possible."
 
 #: ../../ms2/ms2_s.c:128
 msgid "Sie haben das Wort, Frau Lorch!"
@@ -2696,7 +2696,7 @@ msgid ""
 "aufregender als auf der Erde."
 msgstr ""
 "Honestly, I think it's nice to be|famous. Life is more exciting here|than on "
-"earth."
+"Earth."
 
 #: ../../ms2/ms2_s.c:138
 msgid "Außerdem sind die Leute von der|Artus GmbH hervorragende Freunde."
@@ -2720,7 +2720,7 @@ msgid ""
 "Aha, mich interessiert außerdem,|ob es hier auf Axacuss etwas gibt,|das Sie "
 "besonders mögen."
 msgstr ""
-"I see, I'm also interested in|whether there's anything here on Axacuss that "
+"I see. I'm also interested in|whether there's anything here on Axacuss that "
 "you particularly like."
 
 #: ../../ms2/ms2_s.c:152
@@ -2728,8 +2728,8 @@ msgid ""
 "Oh mir gefällt der ganze Planet,|aber das Beste hier sind die|hervorragenden "
 "Artus-Zahnbürsten!"
 msgstr ""
-"Oh I like the whole planet,|but the best here are the|great Artus-"
-"Toothbrushes!"
+"Oh I like the whole planet,|but the best thing here are the|extraordinary "
+"Artus toothbrushes!"
 
 #: ../../ms2/ms2_s.c:153
 msgid "Zahnbürsten von solcher Qualität|gab es auf der Erde nicht."
@@ -2769,7 +2769,8 @@ msgid ""
 "\"Ich muß beweisen, daß dieser|Roboter der falsche Horst|Hummel ist!\", "
 "denkst du."
 msgstr ""
-"\"I have to prove that this robot|is the wrong Horst|Hummel!\", you think."
+"\"I have to prove that this robot|is the wrong Horst|Hummel!\", you think to "
+"yourself."
 
 #: ../../ms2/ms2_s.c:192
 msgid ""
