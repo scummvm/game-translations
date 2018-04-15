@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2017-07-22 19:37+0100\n"
-"PO-Revision-Date: 2018-04-14 17:59+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"PO-Revision-Date: 2018-04-15 05:41+0000\n"
+"Last-Translator: Adrian Frühwirth <bonki@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1163,7 +1163,7 @@ msgid ""
 "Sie haben sich verkleidet wie der Außerirdische,|dieser Horst Hummel, oder "
 "wie er heißt."
 msgstr ""
-"You disguised yourself as the extraterrestrial,|that Horst Hummel, or "
+"You disguised yourself as that extraterrestrial guy,|Horst Hummel, or "
 "whatever his name is."
 
 #: ../../ms2/ms2_r1.c:760 ../../ms2/ms2_r2.c:419
@@ -2383,7 +2383,7 @@ msgstr "You put on your space suit."
 
 #: ../../ms2/ms2_r2.c:1061
 msgid "Du ziehst den Raumanzug aus."
-msgstr "Your take off your space suit."
+msgstr "You take off your space suit."
 
 #: ../../ms2/ms2_r2.c:1069 ../../ms2/ms2_r2.c:1099
 msgid "Das ist schon verbunden."
