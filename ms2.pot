@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
-"POT-Creation-Date: 2017-07-22 19:37+0100\n"
+"POT-Creation-Date: 2019-06-10 22:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -565,6 +565,10 @@ msgstr ""
 msgid "Die Kugel bewegt sich ein Stück."
 msgstr ""
 
+#: ../../ms2/ms2_pyra.c:961
+msgid "Das Auge ist schon offen."
+msgstr ""
+
 #: ../../ms2/ms2_pyra.c:965
 msgid "Herzlichen Glückwunsch!"
 msgstr ""
@@ -701,6 +705,10 @@ msgstr ""
 #: ../../ms2/ms2_pyra.c:1192 ../../ms2/ms2_pyra.c:1203
 #: ../../ms2/ms2_pyra.c:1214
 msgid "Monster"
+msgstr ""
+
+#: ../../ms2/ms2_pyra.c:1192
+msgid "Sieht gefährlich aus!"
 msgstr ""
 
 #: ../../ms2/ms2_pyra.c:1200
@@ -1456,8 +1464,8 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:49
 msgid ""
-"Können Sie mir sagen, von wem ich eine Eintrittskarte für den Musikwettbewerb "
-"kriegen kann?"
+"Können Sie mir sagen, von wem ich eine Eintrittskarte für den "
+"Musikwettbewerb kriegen kann?"
 msgstr ""
 
 #: ../../ms2/ms2_r2.c:55
