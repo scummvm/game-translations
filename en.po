@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2019-06-10 22:58+0100\n"
 "PO-Revision-Date: 2019-06-11 14:23+0000\n"
-"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1165,7 +1165,7 @@ msgstr "What disguise?"
 
 #: ../../ms2/ms2_r1.c:758
 msgid "Na, tun Sie nicht so!"
-msgstr "Stop pretending you don't know!"
+msgstr "Don't pretend you don't know!"
 
 #: ../../ms2/ms2_r1.c:759
 msgid ""
