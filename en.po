@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2019-06-10 22:58+0100\n"
-"PO-Revision-Date: 2019-06-10 22:13+0000\n"
+"PO-Revision-Date: 2019-06-11 14:23+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -532,7 +532,7 @@ msgstr "You are currently playing an|Adventure, not a Role-Playing Game!"
 
 #: ../../ms2/ms2_pyra.c:699 ../../ms2/ms2_pyra.c:800
 msgid "Du kannst das Seil|nirgends befestigen."
-msgstr "There's nowhere|to attach the rope."
+msgstr "You cannot see anything to which|you could attach the rope."
 
 #: ../../ms2/ms2_pyra.c:705 ../../ms2/ms2_pyra.c:784
 msgid "Es paßt nicht|zwischen die Steine."
@@ -570,7 +570,7 @@ msgstr "The ball moves a bit."
 
 #: ../../ms2/ms2_pyra.c:961
 msgid "Das Auge ist schon offen."
-msgstr "This Eye is already open."
+msgstr "This eye is already open."
 
 #: ../../ms2/ms2_pyra.c:965
 msgid "Herzlichen Glückwunsch!"
@@ -809,7 +809,7 @@ msgstr "Toothpaste"
 
 #: ../../ms2/ms2_pyra.c:1326 ../../ms2/ms2_pyra.c:1327
 msgid "Kugel"
-msgstr "Ball"
+msgstr "Sphere"
 
 #: ../../ms2/ms2_pyra.c:1326 ../../ms2/ms2_pyra.c:1327
 msgid "Hmm, die Kugel sieht lose aus."
@@ -869,7 +869,7 @@ msgstr "You insert the chip|into the device."
 
 #: ../../ms2/ms2_r1.c:137
 msgid "Du überspielst die CD|auf den Musikchip."
-msgstr "You transfer the CD|to the Music chip."
+msgstr "You transfer the CD content|to the Music chip."
 
 #: ../../ms2/ms2_r1.c:141
 msgid ""
@@ -1018,8 +1018,8 @@ msgid ""
 "An der Wand steht:|\"Ich kenne eine tolle Geheimschrift:|A=Z, B=Y, C=X ...|"
 "0=0, 1=9, 2=8 ...\""
 msgstr ""
-"On the Wall is:|\"I know a great cypher:|A=Z, B=Y, C=X ...|0=0, 1=9, 2=8 ..."
-"\""
+"Something is written on the wall:|\"I know a great cipher:|A=Z, B=Y, C=X "
+"...|0=0, 1=9, 2=8 ...\""
 
 #: ../../ms2/ms2_r1.c:657
 msgid "Ok, ich nehme es."
@@ -1679,7 +1679,7 @@ msgid ""
 "Sie sind Teilnehmer! Fragen|Sie bitte an der Kasse nach,|wann Sie auftreten "
 "können."
 msgstr ""
-"You are a participant!|Please ask at the checkout|when you can go on stage."
+"You are a participant!|Please ask at the ticket office|when you can perform."
 
 #: ../../ms2/ms2_r2.c:247
 msgid "Äh, nein."
@@ -1835,7 +1835,7 @@ msgstr "Good joke. Then why do you look like Horst Hummel?"
 #: ../../ms2/ms2_r2.c:420
 msgid ""
 "Na, nun hören Sie auf! So perfekt ist|ihre Verkleidung auch wieder nicht."
-msgstr "Oh come on! Your disguise isn't that perfect."
+msgstr "Oh come on! Your disguise isn't that good."
 
 #: ../../ms2/ms2_r2.c:421
 msgid ""
@@ -2402,7 +2402,7 @@ msgstr "That is already connected."
 
 #: ../../ms2/ms2_r2.c:1129
 msgid "Die Leitung ist hier|schon ganz richtig."
-msgstr "The cable is already|at the right place."
+msgstr "The cable is already|in the right place."
 
 #: ../../ms2/ms2_r2.c:1137
 msgid "Roger W.! Wie kommen Sie denn hierher?"
@@ -2439,7 +2439,7 @@ msgstr "They are pretending that the tower|has always been that slanted!"
 
 #: ../../ms2/ms2_r2.c:1148
 msgid "Hat er auch, schon seit|mehreren Jahrhunderten!"
-msgstr "It has, for|several centuries, actually!"
+msgstr "It has, for several|centuries actually!"
 
 #: ../../ms2/ms2_r2.c:1151
 msgid ""
@@ -2731,7 +2731,7 @@ msgid ""
 "Aha, mich interessiert außerdem,|ob es hier auf Axacuss etwas gibt,|das Sie "
 "besonders mögen."
 msgstr ""
-"I see. I'm also interested in|whether there's anything here on Axacuss that "
+"I see. I'm also interested in|whether there's anything here on Axacuss |that "
 "you particularly like."
 
 #: ../../ms2/ms2_s.c:152
