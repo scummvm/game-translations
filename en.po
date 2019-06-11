@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2019-06-10 22:58+0100\n"
 "PO-Revision-Date: 2019-06-11 14:23+0000\n"
-"Last-Translator: Joseph-Eugene Winzer <Joe.Winzer@gmx.de>\n"
+"Last-Translator: vyzigold <smulumas@gmail.com>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1865,7 +1865,7 @@ msgid ""
 "Es ist der Gewinner des gestrigen|Musikwettbewerbs im Kulturpalast,|der dort "
 "vor allem durch seine|Verkleidung aufgefallen war."
 msgstr ""
-"He is the winner of yesterday's music competition in the Palace of Culture.|"
+"He is the winner of yesterday's|music competition in the Palace of Culture.|"
 "He was particularly noteworthy|because of his disguise."
 
 #: ../../ms2/ms2_r2.c:489
@@ -1929,7 +1929,7 @@ msgstr "Hmm, I do not remember that."
 #: ../../ms2/ms2_r2.c:509
 msgid ""
 "Sie wollen mir doch nicht weismachen,|daß Sie den Namen vergessen haben!"
-msgstr "Do you really expect me to believe you cannot remember the name?"
+msgstr "Do you really expect me to believe|you cannot remember the name?"
 
 #: ../../ms2/ms2_r2.c:510
 msgid "Schließlich haben Sie|zehn Jahre dort gearbeitet!"
@@ -2446,7 +2446,7 @@ msgid ""
 "Äh ... ach so. Und von wo|kommen Sie? Sie hatten's ja|wohl auch ziemlich "
 "eilig."
 msgstr ""
-"Uh ... I see. And where are you coming from? It seems you were in quite a "
+"Uh ... I see. And where|are you coming from? It seems|you were in quite a "
 "hurry as well."
 
 #: ../../ms2/ms2_r2.c:1152
