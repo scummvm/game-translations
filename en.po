@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
-"POT-Creation-Date: 2019-06-10 22:58+0100\n"
+"POT-Creation-Date: 2019-06-13 00:06+0100\n"
 "PO-Revision-Date: 2019-06-11 14:23+0000\n"
 "Last-Translator: vyzigold <smulumas@gmail.com>\n"
 "Language-Team: none\n"
@@ -325,6 +325,10 @@ msgstr "You are panicking|and remove the keycard|from the door."
 #: ../../ms2/ms2_mus.c:316
 msgid "Du hast deinen Auftrag|noch nicht ausgeführt."
 msgstr "You have not completed|your task yet."
+
+#: ../../ms2/ms2_mus.c:322
+msgid "Es gelingt dir, zu fliehen."
+msgstr ""
 
 #: ../../ms2/ms2_mus.c:330
 msgid ""
