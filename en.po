@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2019-06-13 00:06+0100\n"
-"PO-Revision-Date: 2019-06-11 14:23+0000\n"
-"Last-Translator: vyzigold <smulumas@gmail.com>\n"
+"PO-Revision-Date: 2019-06-12 23:15+0000\n"
+"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -328,7 +328,7 @@ msgstr "You have not completed|your task yet."
 
 #: ../../ms2/ms2_mus.c:322
 msgid "Es gelingt dir, zu fliehen."
-msgstr ""
+msgstr "You manage to escape."
 
 #: ../../ms2/ms2_mus.c:330
 msgid ""
