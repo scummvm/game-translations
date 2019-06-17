@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2019-06-13 00:06+0100\n"
-"PO-Revision-Date: 2019-06-12 23:15+0000\n"
+"PO-Revision-Date: 2019-07-08 22:20+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -746,7 +746,7 @@ msgstr "Note"
 
 #: ../../ms2/ms2_pyra.c:1211
 msgid "Darauf steht:|\"Wenn du fast am Ziel|bist, tu folgendes:|Sauf!\""
-msgstr "It reads:|\"When you're almost there,|do the following:|Drink!\""
+msgstr "It reads:|\"When you are almost there,|do the following:|Drink!\""
 
 #: ../../ms2/ms2_pyra.c:1255
 msgid "Es ist ca. 10 Meter tief."
