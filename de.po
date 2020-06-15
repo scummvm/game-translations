@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2020-02-15 15:09+0000\n"
-"Last-Translator: George <Amb23@mail.com>\n"
-"Language-Team: German <https://translations.scummvm.org/projects/prince/"
-"prince/de/>\n"
+"PO-Revision-Date: 2020-06-15 17:47+0000\n"
+"Last-Translator: Matan Bareket <mataniko@gmail.com>\n"
+"Language-Team: German <https://translations.scummvm.org/projects/"
+"game-translations/prince/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #: dialog0001.txt:1
 msgid "HERO: Przeppp... raszam..."
@@ -11013,7 +11013,7 @@ msgstr ""
 
 #: mob.lst:52002
 msgid "powrót - "
-msgstr "rückkehr - "
+msgstr "Rückkehr "
 
 #: variatxt.txt:10
 msgid "Nie mogę tego użyć."
