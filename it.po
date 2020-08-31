@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2019-06-13 00:06+0100\n"
-"PO-Revision-Date: 2020-03-19 21:15+0000\n"
+"PO-Revision-Date: 2020-09-01 23:43+0000\n"
 "Last-Translator: Walter Agazzi <tag2015@gmail.com>\n"
-"Language-Team: none\n"
+"Language-Team: Italian <https://translations.scummvm.org/projects/"
+"game-translations/episode-2/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.11\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #: ../../ms2/ms2.c:1641
 msgid "Gehe"
@@ -152,7 +153,7 @@ msgstr "Lo stai già trasportando."
 
 #: ../../ms2/ms2.c:3370
 msgid "Du bist doch schon da."
-msgstr "Ti trovi già lì."
+msgstr "Ti trovi già nelle vicinanze."
 
 #: ../../ms2/ms2.c:3373
 msgid "Das ist geschlossen."
@@ -358,11 +359,11 @@ msgstr ""
 
 #: ../../ms2/ms2_mus.c:417
 msgid "Das lief ja wie am Schnürchen!"
-msgstr ""
+msgstr "È filato tutto liscio come l'olio!"
 
 #: ../../ms2/ms2_mus.c:418
 msgid "Hier, dein Anteil von 30000 Xa."
-msgstr ""
+msgstr "Tieni, la tua parte. 30000 Xa."
 
 #: ../../ms2/ms2_mus.c:425
 msgid "Wo ist denn der Saurierkopf?"
@@ -370,15 +371,15 @@ msgstr "Dov'è il teschio di dinosauro?"
 
 #: ../../ms2/ms2_mus.c:426
 msgid "Dazu hatte ich keine Zeit mehr."
-msgstr ""
+msgstr "Non ho fatto in tempo."
 
 #: ../../ms2/ms2_mus.c:427
 msgid "Was? Du spinnst wohl!|Dann kriegst du auch deinen|Anteil nicht. Raus!"
-msgstr ""
+msgstr "Cosa? Sei fuori di testa!|Puoi scordarti il tuo compenso!|Fuori di qui!"
 
 #: ../../ms2/ms2_mus.c:703
 msgid "Der Sauger ist schon dort."
-msgstr ""
+msgstr "La ventosa è già posizionata."
 
 #: ../../ms2/ms2_mus.c:707
 msgid "Du heftest den Sauger an die Wand|und hälst dich daran fest."
@@ -390,15 +391,15 @@ msgstr ""
 
 #: ../../ms2/ms2_mus.c:722
 msgid "Die Alarmanlage ist|schon ausgeschaltet."
-msgstr ""
+msgstr "Il sistema di allarme|è già stato disattivato."
 
 #: ../../ms2/ms2_mus.c:725
 msgid "Um die Anlage abzuschalten,|brauchst du einige Zeit."
-msgstr ""
+msgstr "Ti servirà un po' di tempo|per disattivare il sistema."
 
 #: ../../ms2/ms2_mus.c:729
 msgid "Die Alarmanlage ist jetzt ausgeschaltet."
-msgstr ""
+msgstr "Il sistema di allarme è ora disattivato."
 
 #: ../../ms2/ms2_mus.c:746 ../../ms2/ms2_mus.c:875
 msgid "Saurier"
@@ -471,7 +472,7 @@ msgstr "Teschio di dinosauro"
 
 #: ../../ms2/ms2_mus.c:876
 msgid "Dies ist der Kopf,|den du suchst."
-msgstr ""
+msgstr "Questa è la testa|che ti interessa."
 
 #: ../../ms2/ms2_mus.c:975
 msgid "Alarmanlage"
@@ -496,7 +497,7 @@ msgstr "Lettera"
 
 #: ../../ms2/ms2_pyra.c:28
 msgid "Sie ist sehr massiv."
-msgstr ""
+msgstr "È davvero imponente."
 
 #: ../../ms2/ms2_pyra.c:29
 msgid "Hmm, X und Y, irgendwo|habe ich die Buchstaben|schon gesehen."
@@ -504,11 +505,11 @@ msgstr "Hmm, X e Y, ho già visto|queste lettere|da qualche parte."
 
 #: ../../ms2/ms2_pyra.c:34
 msgid "Deine Zeit ist um, Fremder!"
-msgstr ""
+msgstr "Tempo scaduto, straniero!"
 
 #: ../../ms2/ms2_pyra.c:76
 msgid "Du hast das Seil|doch schon festgebunden."
-msgstr ""
+msgstr "Hai già legato la corda."
 
 #: ../../ms2/ms2_pyra.c:80
 msgid "Das würde wenig bringen."
@@ -516,7 +517,7 @@ msgstr ""
 
 #: ../../ms2/ms2_pyra.c:126
 msgid "Sonnenstich, oder was?"
-msgstr ""
+msgstr "Un colpo di sole, o che altro?"
 
 #: ../../ms2/ms2_pyra.c:385
 msgid "Du merkst, daß der Boden|unter dir nachgibt, und|springst zur Seite."
@@ -532,11 +533,11 @@ msgstr ""
 
 #: ../../ms2/ms2_pyra.c:683
 msgid "Du spielst gerade ein|Adventure, kein Rollenspiel!"
-msgstr ""
+msgstr "Stai giocando un'avventura,|non un gioco di ruolo!"
 
 #: ../../ms2/ms2_pyra.c:699 ../../ms2/ms2_pyra.c:800
 msgid "Du kannst das Seil|nirgends befestigen."
-msgstr ""
+msgstr "Non vedi nulla a cui|potresti attaccare la corda."
 
 #: ../../ms2/ms2_pyra.c:705 ../../ms2/ms2_pyra.c:784
 msgid "Es paßt nicht|zwischen die Steine."
@@ -590,19 +591,19 @@ msgstr ""
 
 #: ../../ms2/ms2_pyra.c:991
 msgid "N"
-msgstr ""
+msgstr "N"
 
 #: ../../ms2/ms2_pyra.c:991
 msgid "O"
-msgstr ""
+msgstr "E"
 
 #: ../../ms2/ms2_pyra.c:991
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: ../../ms2/ms2_pyra.c:991
 msgid "W"
-msgstr ""
+msgstr "O"
 
 #: ../../ms2/ms2_pyra.c:1008 ../../ms2/ms2_pyra.c:1200
 #: ../../ms2/ms2_pyra.c:1254 ../../ms2/ms2_pyra.c:1262
@@ -624,7 +625,7 @@ msgstr ""
 
 #: ../../ms2/ms2_pyra.c:1010
 msgid "Es ist eine kleine Öffnung."
-msgstr ""
+msgstr "È una piccola apertura."
 
 #: ../../ms2/ms2_pyra.c:1011
 msgid "Pyramide"
@@ -642,7 +643,7 @@ msgstr "Sole"
 
 #: ../../ms2/ms2_pyra.c:1012
 msgid "Schön!"
-msgstr ""
+msgstr "Bello!"
 
 #: ../../ms2/ms2_pyra.c:1043
 msgid ""
@@ -665,7 +666,7 @@ msgstr ""
 #: ../../ms2/ms2_pyra.c:1270 ../../ms2/ms2_pyra.c:1281
 #: ../../ms2/ms2_pyra.c:1291
 msgid "rechte Seite"
-msgstr ""
+msgstr "lato destro"
 
 #: ../../ms2/ms2_pyra.c:1045 ../../ms2/ms2_pyra.c:1053
 #: ../../ms2/ms2_pyra.c:1061 ../../ms2/ms2_pyra.c:1069
@@ -682,7 +683,7 @@ msgstr ""
 #: ../../ms2/ms2_pyra.c:1271 ../../ms2/ms2_pyra.c:1282
 #: ../../ms2/ms2_pyra.c:1292
 msgid "linke Seite"
-msgstr ""
+msgstr "lato sinistro"
 
 #: ../../ms2/ms2_pyra.c:1071
 msgid "Knopf"
@@ -691,7 +692,7 @@ msgstr "Pulsante"
 #: ../../ms2/ms2_pyra.c:1143 ../../ms2/ms2_pyra.c:1151
 #: ../../ms2/ms2_pyra.c:1159 ../../ms2/ms2_pyra.c:1167
 msgid "Schrift"
-msgstr ""
+msgstr "Iscrizione"
 
 #: ../../ms2/ms2_pyra.c:1175 ../../ms2/ms2_pyra.c:1184
 msgid "Tomate"
@@ -699,7 +700,7 @@ msgstr "Pomodoro"
 
 #: ../../ms2/ms2_pyra.c:1175 ../../ms2/ms2_pyra.c:1184
 msgid "Komisch!"
-msgstr ""
+msgstr "Buffo!"
 
 #: ../../ms2/ms2_pyra.c:1183 ../../ms2/ms2_pyra.c:1272
 msgid "Messer"
@@ -826,43 +827,43 @@ msgstr "Non ha nulla di speciale."
 
 #: ../../ms2/ms2_r1.c:12
 msgid "Sieht nach Metall aus."
-msgstr ""
+msgstr "Sembra metallo."
 
 #: ../../ms2/ms2_r1.c:83
 msgid "Ein Taxi kommt angerauscht,|du steigst ein."
-msgstr ""
+msgstr "Arriva un taxi, e tu sali a bordo."
 
 #: ../../ms2/ms2_r1.c:90
 msgid "Du drückst auf den Knopf, aber nichts passiert"
-msgstr ""
+msgstr "Hai premuto il tasto, ma non è successo niente"
 
 #: ../../ms2/ms2_r1.c:94
 msgid "Es ist leer."
-msgstr ""
+msgstr "È vuoto."
 
 #: ../../ms2/ms2_r1.c:97
 msgid "Du findest ein kleines Gerät,|einen Ausweis und einen Xa."
-msgstr ""
+msgstr "Hai trovato un piccolo apparecchio,|una carta d'identità ed uno Xa."
 
 #: ../../ms2/ms2_r1.c:109
 msgid "Du heftest den|Magnet an die Stange."
-msgstr ""
+msgstr "Hai attaccato|la calamita all'asta."
 
 #: ../../ms2/ms2_r1.c:110
 msgid "Stange mit Magnet"
-msgstr ""
+msgstr "Asta con calamita"
 
 #: ../../ms2/ms2_r1.c:111
 msgid "Raffiniert!"
-msgstr ""
+msgstr "Intelligente!"
 
 #: ../../ms2/ms2_r1.c:118
 msgid "Du mußt das|Gerät erst kaufen."
-msgstr ""
+msgstr "Prima devi acquistare|l'apparecchio."
 
 #: ../../ms2/ms2_r1.c:127
 msgid "Du legst den Chip|in das Gerät ein."
-msgstr ""
+msgstr "Hai inserito il chip|nell'apparecchio."
 
 #: ../../ms2/ms2_r1.c:137
 msgid "Du überspielst die CD|auf den Musikchip."
@@ -1044,7 +1045,7 @@ msgstr "È strano che sia qui da tre anni."
 
 #: ../../ms2/ms2_r1.c:669
 msgid "Ein starker Trunk. Zieht ganz schön rein."
-msgstr ""
+msgstr "Un liquore forte. Per veri duri."
 
 #: ../../ms2/ms2_r1.c:670
 msgid "Ein Abspiel- und Aufnahmegerät für die neuen Musikchips."
@@ -1088,11 +1089,11 @@ msgstr "Ne è rimasto entusiasta."
 
 #: ../../ms2/ms2_r1.c:676
 msgid "Der stammt aus einem bekannten Computerspiel."
-msgstr ""
+msgstr "Proviene da un videogioco piuttosto famoso."
 
 #: ../../ms2/ms2_r1.c:677
 msgid "Robust, handlich und stromsparend."
-msgstr ""
+msgstr "Robusto, deciso e rivitalizzante."
 
 #: ../../ms2/ms2_r1.c:678 ../../ms2/ms2_r1.c:679 ../../ms2/ms2_r1.c:680
 #: ../../ms2/ms2_r1.c:681
@@ -1101,7 +1102,7 @@ msgstr "Un liquore economico."
 
 #: ../../ms2/ms2_r1.c:682
 msgid "Das sind Protestaufkleber gegen die hohen Taxigebühren."
-msgstr ""
+msgstr "Sono degli adesivi di protesta contro le tariffe dei taxi."
 
 #: ../../ms2/ms2_r1.c:683
 msgid "Das ist Geschirr aus der neuen Umbina-Kollektion."
@@ -2507,7 +2508,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r2.c:1262
 msgid "Bild"
-msgstr ""
+msgstr "Immagine"
 
 #: ../../ms2/ms2_r2.c:1262
 msgid "Ein ungewöhnliches Bild."
