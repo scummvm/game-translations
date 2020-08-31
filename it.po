@@ -7,16 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
-"POT-Creation-Date: 2020-09-02 22:47+0100\n"
-"PO-Revision-Date: 2020-03-13 23:23+0000\n"
+"POT-Creation-Date: 2017-07-22 19:53+0100\n"
+"PO-Revision-Date: 2020-09-02 22:36+0000\n"
 "Last-Translator: Walter Agazzi <tag2015@gmail.com>\n"
-"Language-Team: none\n"
+"Language-Team: Italian <https://translations.scummvm.org/projects/"
+"game-translations/episode-1/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.11\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #. I18N: Go
 #: ../../msn/msn.c:1610
@@ -212,7 +213,7 @@ msgstr "Lo stai già trasportando."
 #. I18N: You're already there.
 #: ../../msn/msn.c:3344
 msgid "Du bist doch schon da."
-msgstr "Ti trovi già lì."
+msgstr "Ti trovi già nelle vicinanze."
 
 #. I18N: This is closed
 #: ../../msn/msn.c:3347 ../../msn/msn_r1.c:683
@@ -1088,7 +1089,7 @@ msgstr "Collega il generatore al misuratore di tensione."
 #: ../../msn/msn_r3.c:1614 ../../msn/msn_r3.c:1636 ../../msn/msn_r3.c:1646
 #: ../../msn/msn_r3.c:1647
 msgid "Bild"
-msgstr "Figura"
+msgstr "Immagine"
 
 #: ../../msn/msn_r1_r.c:143
 msgid "Manche Leute haben schon|einen komischen Geschmack."
@@ -1490,7 +1491,8 @@ msgstr "Wow, sono sette anni|che non vai in bagno!"
 msgid ""
 "In einem der Schließfächer,|die sich auch im Raum befinden,|findest du "
 "einige Münzen."
-msgstr "Hai trovato qualche moneta|in uno degli armadietti."
+msgstr ""
+"In questo bagno ci sono anche degli stipetti.|In uno trovi qualche moneta!"
 
 #: ../../msn/msn_r2.c:332
 msgid "Mach doch zuerst das Fach leer!"
