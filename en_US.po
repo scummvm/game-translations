@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2020-09-02 22:47+0100\n"
-"PO-Revision-Date: 2018-04-14 20:14+0000\n"
-"Last-Translator: Adrian Frühwirth <bonki@scummvm.org>\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-09-02 23:00+0000\n"
+"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
+"Language-Team: English (United States) <https://translations.scummvm.org/"
+"projects/game-translations/episode-1/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.9\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #. I18N: Go
 #: ../../msn/msn.c:1610
@@ -497,7 +498,6 @@ msgid "Du mußt erst den Anzug anziehen."
 msgstr "You must wear the suit first."
 
 #: ../../msn/msn_r0.c:467
-#, fuzzy
 msgid "Den Versorgungsteil hättest du|besser nicht abgenommen!"
 msgstr "You should not have taken off your oxygen supply unit!"
 
@@ -1804,9 +1804,8 @@ msgid "Was wollen Sie denn schon wieder?"
 msgstr "What do you want again?"
 
 #: ../../msn/msn_r2.c:961
-#, fuzzy
 msgid "Nein."
-msgstr "No"
+msgstr "No."
 
 #: ../../msn/msn_r2.c:965
 msgid ""
