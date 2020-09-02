@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
-"POT-Creation-Date: 2017-07-22 19:53+0100\n"
+"POT-Creation-Date: 2020-09-02 22:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1761,6 +1761,10 @@ msgstr ""
 
 #: ../../msn/msn_r2.c:959
 msgid "Was wollen Sie denn schon wieder?"
+msgstr ""
+
+#: ../../msn/msn_r2.c:961
+msgid "Nein."
 msgstr ""
 
 #: ../../msn/msn_r2.c:965
