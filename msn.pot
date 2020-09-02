@@ -492,7 +492,7 @@ msgid "Du mußt erst den Anzug anziehen."
 msgstr ""
 
 #: ../../msn/msn_r0.c:467
-msgid "Den Versorungsteil hättest du|besser nicht abgenommen!"
+msgid "Den Versorgungsteil hättest du|besser nicht abgenommen!"
 msgstr ""
 
 #: ../../msn/msn_r0.c:469
