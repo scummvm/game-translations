@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2019-06-13 00:06+0100\n"
-"PO-Revision-Date: 2020-09-01 23:43+0000\n"
-"Last-Translator: Walter Agazzi <tag2015@gmail.com>\n"
+"PO-Revision-Date: 2020-09-03 23:43+0000\n"
+"Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: Italian <https://translations.scummvm.org/projects/"
 "game-translations/episode-2/it/>\n"
 "Language: it\n"
@@ -1613,7 +1613,7 @@ msgstr ""
 #: ../../ms2/ms2_r2.c:197 ../../ms2/ms2_r2.c:379 ../../ms2/ms2_r2.c:391
 #: ../../ms2/ms2_r2.c:697
 msgid "Nein."
-msgstr ""
+msgstr "No."
 
 #: ../../ms2/ms2_r2.c:201
 msgid "Hallo, Leute!"
