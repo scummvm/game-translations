@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
-"POT-Creation-Date: 2017-07-22 19:53+0100\n"
+"POT-Creation-Date: 2020-09-02 22:47+0100\n"
 "PO-Revision-Date: 2020-03-13 23:23+0000\n"
 "Last-Translator: Walter Agazzi <tag2015@gmail.com>\n"
 "Language-Team: none\n"
@@ -497,7 +497,8 @@ msgid "Du mußt erst den Anzug anziehen."
 msgstr "Prima devi indossare la tuta spaziale."
 
 #: ../../msn/msn_r0.c:467
-msgid "Den Versorungsteil hättest du|besser nicht abgenommen!"
+#, fuzzy
+msgid "Den Versorgungsteil hättest du|besser nicht abgenommen!"
 msgstr "Non avresti dovuto scollegare la riserva di ossigeno!"
 
 #: ../../msn/msn_r0.c:469
@@ -524,8 +525,8 @@ msgstr ""
 msgid ""
 "Moment mal, es ist ein Lesezeichen drin,|auf dem \"Zweiundvierzig\" steht."
 msgstr ""
-"Aspetta un attimo, c'è un segnalibro all'interno|con scritto \"Quaranta-due\""
-"."
+"Aspetta un attimo, c'è un segnalibro all'interno|con scritto \"Quaranta-due"
+"\"."
 
 #: ../../msn/msn_r0.c:507
 msgid "Du hättest besser vorher|den Stecker rausgezogen."
@@ -1141,7 +1142,8 @@ msgstr "Scacchiera"
 
 #: ../../msn/msn_r1_r.c:161
 msgid "Es macht wohl Spaß, an|der Decke Schach zu spielen."
-msgstr "Giocare a scacchi sul soffitto deve|essere un'esperienza entusiasmante."
+msgstr ""
+"Giocare a scacchi sul soffitto deve|essere un'esperienza entusiasmante."
 
 #: ../../msn/msn_r1_r.c:163
 msgid "Tennisschläger"
@@ -1354,8 +1356,8 @@ msgid ""
 "Komisch! Auf einmal kannst du|das Schild lesen! Darauf steht:|\"Treffpunkt "
 "Galactica\"."
 msgstr ""
-"Curioso! Adesso riesci a leggere l'insegna!|Dice \"Punto di Ritrovo "
-"Galactica\"."
+"Curioso! Adesso riesci a leggere l'insegna!|Dice \"Punto di Ritrovo Galactica"
+"\"."
 
 #: ../../msn/msn_r2.c:92
 msgid "Darauf steht:|\"Treffpunkt Galactica\"."
@@ -1503,8 +1505,8 @@ msgid ""
 "Komisch! Auf einmal kannst du|das Schild lesen! Darauf steht:|\"Zutritt nur "
 "für Personal\"."
 msgstr ""
-"Che strano!|Ora riesci a leggere il cartello! Dice:|\"Riservato al "
-"Personale\"."
+"Che strano!|Ora riesci a leggere il cartello! Dice:|\"Riservato al Personale"
+"\"."
 
 #: ../../msn/msn_r2.c:361
 msgid ""
@@ -1809,6 +1811,11 @@ msgstr "Volevo sapere se avevi ritrovato il portafoglio."
 #: ../../msn/msn_r2.c:959
 msgid "Was wollen Sie denn schon wieder?"
 msgstr "Ancora tu? E ora cosa vuoi?"
+
+#: ../../msn/msn_r2.c:961
+#, fuzzy
+msgid "Nein."
+msgstr "No"
 
 #: ../../msn/msn_r2.c:965
 msgid ""
