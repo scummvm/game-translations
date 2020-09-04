@@ -10,8 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2019-06-13 00:06+0100\n"
 "PO-Revision-Date: 2020-09-03 23:43+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
-"Language-Team: Italian <https://translations.scummvm.org/projects/"
-"game-translations/episode-2/it/>\n"
+"Language-Team: Italian <https://translations.scummvm.org/projects/game-"
+"translations/episode-2/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -375,7 +375,8 @@ msgstr "Non ho fatto in tempo."
 
 #: ../../ms2/ms2_mus.c:427
 msgid "Was? Du spinnst wohl!|Dann kriegst du auch deinen|Anteil nicht. Raus!"
-msgstr "Cosa? Sei fuori di testa!|Puoi scordarti il tuo compenso!|Fuori di qui!"
+msgstr ""
+"Cosa? Sei fuori di testa!|Puoi scordarti il tuo compenso!|Fuori di qui!"
 
 #: ../../ms2/ms2_mus.c:703
 msgid "Der Sauger ist schon dort."
@@ -1295,7 +1296,8 @@ msgstr "Carta d'identità"
 
 #: ../../ms2/ms2_r1.c:808
 msgid "Auf dem Ausweis steht:|  Berta Tschell|  Axacuss City|  115AY2,96A,32"
-msgstr "Sulla carta c'è scritto: | Berta Tschell | Axacuss City | 115AY2,96A,32"
+msgstr ""
+"Sulla carta c'è scritto: | Berta Tschell | Axacuss City | 115AY2,96A,32"
 
 #: ../../ms2/ms2_r1.c:817
 msgid "Treppe"

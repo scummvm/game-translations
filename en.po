@@ -1022,8 +1022,8 @@ msgid ""
 "An der Wand steht:|\"Ich kenne eine tolle Geheimschrift:|A=Z, B=Y, C=X ...|"
 "0=0, 1=9, 2=8 ...\""
 msgstr ""
-"Something is written on the wall:|\"I know a great cipher:|A=Z, B=Y, C=X "
-"...|0=0, 1=9, 2=8 ...\""
+"Something is written on the wall:|\"I know a great cipher:|A=Z, B=Y, C=X ...|"
+"0=0, 1=9, 2=8 ...\""
 
 #: ../../ms2/ms2_r1.c:657
 msgid "Ok, ich nehme es."
