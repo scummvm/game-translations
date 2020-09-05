@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2020-02-24 16:34+0000\n"
+"PO-Revision-Date: 2020-09-06 10:43+0000\n"
 "Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
 "Language-Team: English <https://translations.scummvm.org/projects/prince/"
 "prince/en/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.11\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #: dialog0001.txt:1
 msgid "HERO: Przeppp... raszam..."
@@ -3315,7 +3315,7 @@ msgstr "P#OTHER: Why it is so empty here?"
 
 #: dialog0065.txt:100006
 msgid "HERO: Ludzie odwracają się od starych bogów,|eeee... panie...."
-msgstr "HERO: People are turning away from|the old gods,|eeee..  mister..."
+msgstr "HERO: People are turning away from|the old gods,|eeee.. mister..."
 
 #: dialog0065.txt:100007
 msgid "HERO: Wszyscy gonią za zyskiem, uciechami|codziennego dnia. Religia przestaje|ich interesować."
@@ -3342,12 +3342,12 @@ msgstr ""
 #: dialog0065.txt:100102
 msgid "HERO: Nie wątpię, eeee... panie.... Ale ja|nie jestem wieczny, a ta historia..."
 msgstr ""
-"HERO: For sure, eeee...  mister....|but I won't live forever....|and this "
+"HERO: For sure, eeee... mister....|but I won't live forever....|and this "
 "whole story is..."
 
 #: dialog0065.txt:100103
 msgid "HERO: Cóż, trwa właściwie całe moje życie."
-msgstr "HERO:  Well, it actually lasts all my life."
+msgstr "HERO: Well, it actually lasts all my life."
 
 #: dialog0065.txt:100104
 msgid "HERO: Następnym razem, obiecuję.#B0"
@@ -10389,7 +10389,7 @@ msgstr "path - It leads back to the main road."
 
 #: mob.lst:2002
 msgid "łania - Chyba oswojona z widokiem ludzi."
-msgstr "deer  - It seems accustomed to the sight of humans."
+msgstr "deer - It seems accustomed to the sight of humans."
 
 #: mob.lst:2003
 msgid "mostek - Widziałem większe pchły."
@@ -12083,7 +12083,7 @@ msgstr "Tumulus - "
 
 #: mob.lst:50010
 msgid "Smocza jaskinia - "
-msgstr "Dragon's Lair  - "
+msgstr "Dragon's Lair - "
 
 #: mob.lst:50011
 msgid "Młyn - "
