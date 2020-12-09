@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
 "PO-Revision-Date: 2020-12-09 00:34+0000\n"
-"Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
+"Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
 "Language: ru\n"
@@ -25,19 +25,19 @@ msgstr "HERO: Проссс... тите..."
 
 #: dialog0001.txt:2
 msgid "OTHER: Nie ma mowy. Idź sobie. Nie widzisz, że|staram się ciebie ignorować?"
-msgstr "OTHER: Заткнись! Не видишь,|я пытаюсь тебя игнорировать!"
+msgstr "OTHER: Заткнись! И уйди уже отсюда, |без того уже глаза мозолишь!"
 
 #: dialog0001.txt:3
 msgid "HERO: Ale ja nic..."
-msgstr "HERO: Но я не..."
+msgstr "HERO: Так я ж ничего..."
 
 #: dialog0001.txt:4
 msgid "OTHER: Wiedziałem."
-msgstr "OTHER: Знаю."
+msgstr "OTHER: Ничего! И звать тебя никак!"
 
 #: dialog0001.txt:105
 msgid "$0: Co to za miejsce?"
-msgstr "$0: Что это за место?"
+msgstr "$0: А где это я вообще?"
 
 #: dialog0001.txt:106
 msgid "$4: Jak to, szaleńców?"
@@ -45,11 +45,11 @@ msgstr "$4: Что, сумасшедший дом?"
 
 #: dialog0001.txt:107
 msgid "$1: Proszę, musi mi pan pomóc wydostać się stąd!"
-msgstr "$1: Пожалуйста, помоги мне выбраться отсюда!"
+msgstr "$1: Помоги мне отсюда выбраться! Прошу тебя!"
 
 #: dialog0001.txt:108
 msgid "$2: Tu chyba nie jest zbyt bezpiecznie, prawda?"
-msgstr "$2: Тут не очень-то безопасно, не так ли?"
+msgstr "$2: Смотрю, тут как-то небезопасно."
 
 #: dialog0001.txt:109
 msgid "$3: Nie chcę przeszkadzać."
