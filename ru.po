@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
 "PO-Revision-Date: 2020-12-09 00:41+0000\n"
-"Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
+"Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
 "Language: ru\n"
@@ -1613,11 +1613,11 @@ msgstr "HERO: Отмычки и шулерские кости."
 
 #: dialog0021.txt:2
 msgid "P#HERO: A więc jednak jesteś właściwym człowiekiem|na właściwym miejscu."
-msgstr "P#HERO: Ты здесь на своём месте."
+msgstr "P#HERO: Да уж, здесь как раз тебе самое место."
 
 #: dialog0021.txt:3
 msgid "HERO: Zwracam honor do kieszeni. Nie masz|chropowatych paluchów."
-msgstr "HERO: Беру свои слова назад. У тебя не грубые руки."
+msgstr "HERO: Хорошо. Беру свои слова назад. Нормальные у тебя руки."
 
 #: dialog0021.txt:4
 msgid "OTHER: Kłaniam się do stóp, książę. I proszę|o zwrot narzędzi pracy."
@@ -1638,9 +1638,7 @@ msgstr "HERO: Какая ирония судьбы — обокрасть вор
 
 #: dialog0021.txt:8
 msgid "HERO: Mam nadzieję, że to cię czegoś nauczy|i porzucisz ten niecny proceder."
-msgstr ""
-"HERO: Я надеюсь, что это послужит тебе уроком|и побудит бросить это порочное "
-"ремесло."
+msgstr "HERO: Надеюсь, ты хорошо все понял|и обязательно завяжешь."
 
 #: dialog0021.txt:9
 msgid "OTHER: <westchnienie>"
@@ -1648,7 +1646,7 @@ msgstr "OTHER: Уф..."
 
 #: dialog0022.txt:1
 msgid "OTHER: Do licha, znowu będę musiał|dorobić nowy komplet."
-msgstr "OTHER: Вот блин, теперь придётся|мастерить инструменты заново."
+msgstr "OTHER: Ну вот. Теперь заново весь хабар мастерить."
 
 #: dialog0023.txt:1
 msgid "HERO: Dzień dobry."
