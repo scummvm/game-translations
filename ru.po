@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2020-12-09 00:40+0000\n"
-"Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
+"PO-Revision-Date: 2020-12-09 00:41+0000\n"
+"Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
 "Language: ru\n"
@@ -1564,8 +1564,8 @@ msgstr "OTHER: Это — руки мастера!"
 #: dialog0020.txt:101808
 msgid "HERO: Nie wierzę, mówisz tak tylko, bo wstyd|ci odcisków od pracy na polu."
 msgstr ""
-"HERO: Да брось заливать-то.|Небось,плуг этими руками водил,|а теперь мне тут "
-"рассказываешь."
+"HERO: Да брось заливать-то.|Небось, плуг этими руками водил,|а теперь мне "
+"тут рассказываешь."
 
 #: dialog0020.txt:101809
 msgid "OTHER: Tak?"
@@ -2645,7 +2645,7 @@ msgstr "OTHER: Вы сами виноваты, что вас предал Хоф
 
 #: dialog0049.txt:100803
 msgid "OTHER: ...to okoliczni chłopi zdewastowali|w jego poszukiwaniu pół lasu."
-msgstr "OTHER:  ... Местные крестьяне пол леса перепахали в|поисках этого корня."
+msgstr "OTHER: ...Местные крестьяне пол леса перепахали в|поисках этого корня."
 
 #: dialog0049.txt:100804
 msgid "OTHER: W skrócie: nie mam półfabrykatów."
@@ -7337,7 +7337,7 @@ msgstr "OTHER: Наша специальная ВИП ложа!#E2#X3"
 
 #: dialog0239.txt:100301
 msgid "OTHER: Ależ oczywiście, mamy przez|sobą całą wieczność."
-msgstr "OTHER: Но нам еще много чего надо осмотреть:"
+msgstr "OTHER: Но нам еще много чего надо осмотреть."
 
 #: dialog0239.txt:100302
 msgid "OTHER: Proszę się nie spieszyć.#E3#X4"
@@ -9238,7 +9238,7 @@ msgstr "OTHER: Любопытно, не так ли?"
 
 #: dialog0388.txt:1
 msgid "OTHER: Opowiedzmy po kolei o bohaterach naszej historii."
-msgstr "OTHER: Но я продолжу с историей по порядку:"
+msgstr "OTHER: Но я продолжу с историей по порядку."
 
 #: dialog0389.txt:1
 msgid "OTHER: Galador!"
