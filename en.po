@@ -2,19 +2,21 @@
 # Copyright (C) 2020 ScummVM Team
 # This file is distributed under the same license as the ScummVM package.
 # Eugene Sandulenko <sev@scummvm.org>, 2020.
-
 msgid ""
 msgstr ""
 "Project-Id-Version: Petka1 0.0.1\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2020-12-07 22:01+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2020-12-13 01:14+0000\n"
 "Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: English\n"
+"Language-Team: English <https://translations.scummvm.org/projects/petka/"
+"petka1/en/>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #. p_0_0 obj_0
 msgid "Петька"
@@ -126,23 +128,23 @@ msgstr ""
 
 #. p_0_0 obj_27
 msgid "STARTUP - New"
-msgstr ""
+msgstr "STARTUP - New"
 
 #. p_0_0 obj_28
 msgid "STARTUP - Load"
-msgstr ""
+msgstr "STARTUP - Load"
 
 #. p_0_0 obj_29
 msgid "STARTUP - Misc"
-msgstr ""
+msgstr "STARTUP - Misc"
 
 #. p_0_0 obj_30
 msgid "STARTUP - Credits"
-msgstr ""
+msgstr "STARTUP - Credits"
 
 #. p_0_0 obj_31
 msgid "STARTUP - Exit"
-msgstr ""
+msgstr "STARTUP - Exit"
 
 #. p_0_0 scn_33
 msgid "Reserved"
@@ -158,7 +160,7 @@ msgstr ""
 
 #. p_0_0 scn_36
 msgid "STARTUP"
-msgstr ""
+msgstr "STARTUP"
 
 #. p_1_0 obj_0
 msgid "Петька"
@@ -190,15 +192,15 @@ msgstr "ICapital"
 
 #. p_1_0 obj_7
 msgid "IАнкина одежда"
-msgstr ""
+msgstr "Anka's clothes"
 
 #. p_1_0 obj_8
 msgid "IБольшой ключ"
-msgstr ""
+msgstr "IBig key"
 
 #. p_1_0 obj_9
 msgid "IБумажка с кодом"
-msgstr ""
+msgstr "IPiece of paper with code"
 
 #. p_1_0 obj_10
 msgid "IВедро"
@@ -206,7 +208,7 @@ msgstr "IBarrel"
 
 #. p_1_0 obj_11
 msgid "IВедро с молоком"
-msgstr ""
+msgstr "IBucket with milk"
 
 #. p_1_0 obj_12
 msgid "IВесла"
@@ -214,19 +216,19 @@ msgstr "IOars"
 
 #. p_1_0 obj_13
 msgid "IЖелтый парик"
-msgstr ""
+msgstr "IYellow wig"
 
 #. p_1_0 obj_14
 msgid "IЗапчасти для пулемета"
-msgstr ""
+msgstr "IGun machine parts"
 
 #. p_1_0 obj_15
 msgid "IЗаряженный пистолет"
-msgstr ""
+msgstr "ILoaded gun"
 
 #. p_1_0 obj_16
 msgid "IИнструкция для пулемета"
-msgstr ""
+msgstr "IMachine gun manual"
 
 #. p_1_0 obj_17
 msgid "IКокосы"
@@ -242,7 +244,7 @@ msgstr "IMagnet"
 
 #. p_1_0 obj_20
 msgid "IМаленький ключ"
-msgstr ""
+msgstr "ISmall key"
 
 #. p_1_0 obj_21
 msgid "IМахорка"
@@ -262,7 +264,7 @@ msgstr "IGun"
 
 #. p_1_0 obj_25
 msgid "IПакетик с семенами"
-msgstr ""
+msgstr "IPackage with seeds"
 
 #. p_1_0 obj_26
 msgid "IПатрон"
@@ -278,7 +280,7 @@ msgstr "ITwig"
 
 #. p_1_0 obj_29
 msgid "IРезиновая баба"
-msgstr ""
+msgstr "IInflatable doll"
 
 #. p_1_0 obj_30
 msgid "IСено"
@@ -286,19 +288,19 @@ msgstr "IHay"
 
 #. p_1_0 obj_31
 msgid "IСломанные весла"
-msgstr ""
+msgstr "IBroken oars"
 
 #. p_1_0 obj_32
 msgid "IСтранный пулемет"
-msgstr ""
+msgstr "IWeird machine gun"
 
 #. p_1_0 obj_33
 msgid "IСухие табачные листья"
-msgstr ""
+msgstr "IDried tobacco leaves"
 
 #. p_1_0 obj_34
 msgid "IТабачные листья"
-msgstr ""
+msgstr "ITobacco leaves"
 
 #. p_1_0 obj_35
 msgid "IТалон"
@@ -314,7 +316,7 @@ msgstr "IWig"
 
 #. p_1_0 obj_38
 msgid "IШкура коровы"
-msgstr ""
+msgstr "ICow skin"
 
 #. p_1_0 obj_39
 msgid "IШприц"
@@ -322,7 +324,7 @@ msgstr "ISyringe"
 
 #. p_1_0 obj_40
 msgid "IШприц с пчелами"
-msgstr ""
+msgstr "ISyringe with bees"
 
 #. p_1_0 obj_41
 msgid "Панель опций - новая игра"
@@ -522,7 +524,7 @@ msgstr "Aquarium"
 
 #. p_1_0 obj_90
 msgid "Большой ключ"
-msgstr ""
+msgstr "Big key"
 
 #. p_1_0 obj_91
 msgid "Сложенный резиновый матрасик"
@@ -550,7 +552,7 @@ msgstr "Clock"
 
 #. p_1_0 obj_97
 msgid "Часы с оторваной кукушкой"
-msgstr ""
+msgstr "Clock with broken cuckoo"
 
 #. p_1_0 obj_98
 msgid "Стол"
@@ -614,7 +616,7 @@ msgstr "Chest"
 
 #. p_1_0 obj_113
 msgid "Открытый сундук"
-msgstr ""
+msgstr "Open chest"
 
 #. p_1_0 obj_114
 msgid "Табуретка-1"
@@ -862,7 +864,7 @@ msgstr "Machine Guns"
 
 #. p_1_0 obj_175
 msgid "Мешок с картошкой"
-msgstr ""
+msgstr "Sack of potatoes"
 
 #. p_1_0 obj_176
 msgid "Меха"
@@ -874,11 +876,11 @@ msgstr ""
 
 #. p_1_0 obj_178
 msgid "Анка1"
-msgstr ""
+msgstr "Anka1"
 
 #. p_1_0 obj_179
 msgid "Анка2"
-msgstr ""
+msgstr "Anka2"
 
 #. p_1_0 obj_180
 msgid "Кактус"
@@ -914,19 +916,19 @@ msgstr ""
 
 #. p_1_0 obj_188
 msgid "plan 1"
-msgstr ""
+msgstr "plan 1"
 
 #. p_1_0 obj_189
 msgid "plan 2"
-msgstr ""
+msgstr "plan 2"
 
 #. p_1_0 obj_190
 msgid "plan 3"
-msgstr ""
+msgstr "plan 3"
 
 #. p_1_0 obj_191
 msgid "Пузыри"
-msgstr ""
+msgstr "Bubbles"
 
 #. p_1_0 obj_192
 msgid "Вывеска"
@@ -950,7 +952,7 @@ msgstr ""
 
 #. p_1_0 obj_197
 msgid "Алкаш"
-msgstr "Drunk"
+msgstr "Drunkard"
 
 #. p_1_0 obj_198
 msgid "Красноармеец 1"
@@ -1030,7 +1032,7 @@ msgstr "Piggy bank"
 
 #. p_1_0 obj_217
 msgid "Бюст В.И.Л."
-msgstr ""
+msgstr "Lenin bust"
 
 #. p_1_0 obj_218
 msgid "Плакат SBG"
@@ -1098,15 +1100,15 @@ msgstr ""
 
 #. p_1_0 obj_234
 msgid "Тыква 1"
-msgstr ""
+msgstr "Pumpkin 1"
 
 #. p_1_0 obj_235
 msgid "Тыква 2"
-msgstr ""
+msgstr "Pumpkin 2"
 
 #. p_1_0 obj_236
 msgid "Тыква 3"
-msgstr ""
+msgstr "Pumpkin 3"
 
 #. p_1_0 obj_237
 msgid "Грядка"
@@ -1290,15 +1292,15 @@ msgstr ""
 
 #. p_1_0 obj_282
 msgid "Плакат \"Шварценеггер\""
-msgstr ""
+msgstr "Schwarzenegger poster"
 
 #. p_1_0 obj_283
 msgid "Плакат \"Мадонна\""
-msgstr ""
+msgstr "Madonna poster"
 
 #. p_1_0 obj_284
 msgid "Плакат \"А ты записался... \""
-msgstr ""
+msgstr "\"Keep calm\" poster"
 
 #. p_1_0 obj_285
 msgid "Оружие"
@@ -1310,7 +1312,7 @@ msgstr ""
 
 #. p_1_0 obj_287
 msgid "Картина \"Ленин\""
-msgstr ""
+msgstr "Art piece \"Lenin\""
 
 #. p_1_0 obj_288
 msgid "Талон"
@@ -1342,11 +1344,11 @@ msgstr ""
 
 #. p_1_0 obj_295
 msgid "Забор A"
-msgstr ""
+msgstr "Fence A"
 
 #. p_1_0 obj_296
 msgid "Забор B"
-msgstr ""
+msgstr "Fence B"
 
 #. p_1_0 obj_297
 msgid "Вывеска на пасеке"
@@ -1370,11 +1372,11 @@ msgstr ""
 
 #. p_1_0 obj_302
 msgid "Улей-1"
-msgstr ""
+msgstr "Hive-1"
 
 #. p_1_0 obj_303
 msgid "Улей-2"
-msgstr ""
+msgstr "Hive-2"
 
 #. p_1_0 obj_304
 msgid "Улей с пчелами"
@@ -1414,15 +1416,15 @@ msgstr ""
 
 #. p_1_0 obj_313
 msgid "Пчелы1"
-msgstr ""
+msgstr "Bees1"
 
 #. p_1_0 obj_314
 msgid "Пчелы2"
-msgstr ""
+msgstr "Bees2"
 
 #. p_1_0 obj_315
 msgid "Empty can"
-msgstr ""
+msgstr "Empty can"
 
 #. p_1_0 obj_316
 msgid "Дерево на свалке"
@@ -1478,7 +1480,7 @@ msgstr ""
 
 #. p_1_0 obj_329
 msgid "Хлам"
-msgstr ""
+msgstr "Junk"
 
 #. p_1_0 obj_330
 msgid "Знак"
@@ -1510,7 +1512,7 @@ msgstr "House"
 
 #. p_1_0 obj_337
 msgid "Искры"
-msgstr ""
+msgstr "Sparkles"
 
 #. p_1_0 obj_338
 msgid "Левый рубильник"
@@ -1618,15 +1620,15 @@ msgstr "Disabled person"
 
 #. p_1_0 obj_364
 msgid "Солдаты"
-msgstr ""
+msgstr "Soldiers"
 
 #. p_1_0 obj_365
 msgid "Солдаты2"
-msgstr ""
+msgstr "Soldiers2"
 
 #. p_1_0 obj_366
 msgid "Отверстия от пуль"
-msgstr ""
+msgstr "Bullet holes"
 
 #. p_1_0 obj_367
 msgid "Странная печка"
@@ -1666,11 +1668,11 @@ msgstr ""
 
 #. p_1_0 obj_376
 msgid "Пионеры"
-msgstr ""
+msgstr "Boy-scouts"
 
 #. p_1_0 obj_377
 msgid "Пионер"
-msgstr "Young Pioneer"
+msgstr "Boy-scout"
 
 #. p_1_0 obj_378
 msgid "ElkaP"
@@ -8990,7 +8992,7 @@ msgstr "Right on the rails..."
 
 #. p_1_0 msg_1679, 0 - Петька
 msgid "Не иначе, пионеры резвятся."
-msgstr "The work of the young pioneers, that's for sure."
+msgstr "The work of the boy-scouts, that's for sure."
 
 #. p_1_0 msg_1680, 1 - Василий Иванович
 msgid "Эх, Петька, хорошая у нас все-таки молодежь растет!"
@@ -10214,7 +10216,7 @@ msgstr "People will be lost in the woods without it."
 
 #. p_1_0 msg_2025, 0 - Петька
 msgid "Пионеры юные - головы чугунные..."
-msgstr "Full-metal-jacket young pioneers...."
+msgstr "Full-metal-jacket boy-scouts...."
 
 #. p_1_0 msg_2026, 1 - Василий Иванович
 msgid "Отставить, Петр - это же дети."
@@ -10222,11 +10224,11 @@ msgstr "Let them be, Pete. They're just kids..."
 
 #. p_1_0 msg_2027, 0 - Петька
 msgid "Привет, пионер!"
-msgstr "Hello there, young pioneer!"
+msgstr "Hello there, boy-scout!"
 
 #. p_1_0 msg_2028, 0 - Петька
 msgid "Такой маленький, и уже пионер?"
-msgstr "Aren't you too young to be a pioneer?"
+msgstr "Aren't you too young to be a boy-scout?"
 
 #. p_1_0 msg_2029, 0 - Петька
 msgid "Чем же вы тут занимаетесь?"
@@ -10250,7 +10252,9 @@ msgstr "Pavlik, you say?"
 
 #. p_1_0 msg_2035, 376 - Пионеры
 msgid "Наша пионерская организация деревни Гадюкино рада приветствовать доблестных героев Гражданской войны!"
-msgstr "I'd like to welcome the civil war heroes on behalf of the Organization of the Young Pioneers of Backwoods!"
+msgstr ""
+"I'd like to welcome the civil war heroes on behalf of the Organization of "
+"the Boy-Scouts of Backwoods!"
 
 #. p_1_0 msg_2036, 376 - Пионеры
 msgid "Освобождайте нашу Родину от белогвардейской сволочи."
@@ -10290,11 +10294,11 @@ msgstr "Oh!"
 
 #. p_1_0 msg_2045, 376 - Пионеры
 msgid "Пионер - это состояние души."
-msgstr "Pioneer is a state of being."
+msgstr "Boy-scout is a state of being."
 
 #. p_1_0 msg_2046, 376 - Пионеры
 msgid "Гордое звание \"пионер\" имеет право носить каждый достойный."
-msgstr "Anyone worthy can bear the proud name \"pioneer\"."
+msgstr "Anyone worthy can bear the proud name \"boy-scout\"."
 
 #. p_1_0 msg_2047, 376 - Пионеры
 msgid "Независимо от возраста, пола и цвета кожи."
@@ -10414,7 +10418,7 @@ msgstr "Anything."
 
 #. p_1_0 msg_2076, 376 - Пионеры
 msgid "Пионеры никогда ничего не теряют!"
-msgstr "Pioneers never lose anything!"
+msgstr "Boy-scouts never lose anything!"
 
 #. p_1_0 msg_2077, 376 - Пионеры
 msgid "А зачем хулиганам поддельная банка?"
@@ -10434,7 +10438,7 @@ msgstr "No, we're just warning you..."
 
 #. p_1_0 msg_2082, 376 - Пионеры
 msgid "Пионеры никогда не обманывают старших!"
-msgstr "Pioneers never lie to their elders!"
+msgstr "Boy-scouts never lie to their superiors!"
 
 #. p_1_0 msg_2083, 0 - Петька
 msgid "Никогда-никогда?"
@@ -11554,7 +11558,7 @@ msgstr "It's all correct."
 
 #. p_1_0 msg_2372, 0 - Петька
 msgid "Очень похоже на работу местного пионеротряда."
-msgstr "Looks like the work of a local young pioneers group."
+msgstr "Looks like the work of a local boy-scout group."
 
 #. p_1_0 msg_2373, 1 - Василий Иванович
 msgid "До чего у нас все-таки молодежь пошла политически грамотная!"
@@ -13414,7 +13418,7 @@ msgstr "Vasily Ivanovich"
 
 #. p_2_0 obj_2
 msgid "Полоска в чемодане"
-msgstr ""
+msgstr "Strip in the trunk"
 
 #. p_2_0 obj_3
 msgid "IБанковский чек"
@@ -13614,99 +13618,99 @@ msgstr "ICorkscrew"
 
 #. p_2_0 obj_52
 msgid "Панель опций - новая игра"
-msgstr ""
+msgstr "Options panel - new game"
 
 #. p_2_0 obj_53
 msgid "Панель опций - загрузить"
-msgstr ""
+msgstr "Options panel - load"
 
 #. p_2_0 obj_54
 msgid "Панель опций - продолжить"
-msgstr ""
+msgstr "Options panel - continue"
 
 #. p_2_0 obj_55
 msgid "Панель опций - выход"
-msgstr ""
+msgstr "Options panel - quit"
 
 #. p_2_0 obj_56
 msgid "Панель опций - сохранить"
-msgstr ""
+msgstr "Options panel - save"
 
 #. p_2_0 obj_57
 msgid "Панель опций - сейф"
-msgstr ""
+msgstr "Options panel - safe"
 
 #. p_2_0 obj_58
 msgid "Панель опций - эффекты"
-msgstr ""
+msgstr "Options panel - effects"
 
 #. p_2_0 obj_59
 msgid "Панель опций - кнопка"
-msgstr ""
+msgstr "Options panel - button"
 
 #. p_2_0 obj_60
 msgid "Панель опций - слайдер 1"
-msgstr ""
+msgstr "Options panel - slider 1"
 
 #. p_2_0 obj_61
 msgid "Панель опций - слайдер 2"
-msgstr ""
+msgstr "Options panel - slider 2"
 
 #. p_2_0 obj_62
 msgid "Панель опций - музыка"
-msgstr ""
+msgstr "Options panel - music"
 
 #. p_2_0 obj_63
 msgid "Панель опций - субтитры"
-msgstr ""
+msgstr "Options panel - subtitles"
 
 #. p_2_0 obj_64
 msgid "Панель опций - речь"
-msgstr ""
+msgstr "Options panel - speech"
 
 #. p_2_0 obj_65
 msgid "Панель опций - скорость"
-msgstr ""
+msgstr "Options panel - speed"
 
 #. p_2_0 obj_66
 msgid "Панель опций - слайдер 3"
-msgstr ""
+msgstr "Options panel - slider 3"
 
 #. p_2_0 obj_67
 msgid "Панель опций - слайдер 4"
-msgstr ""
+msgstr "Options panel - slider 4"
 
 #. p_2_0 obj_68
 msgid "Панель опций - слайдер 1 min"
-msgstr ""
+msgstr "Options panel - slider 1 min"
 
 #. p_2_0 obj_69
 msgid "Панель опций - слайдер 1 max"
-msgstr ""
+msgstr "Options panel - slider 1 max"
 
 #. p_2_0 obj_70
 msgid "Панель опций - слайдер 2 min"
-msgstr ""
+msgstr "Options panel - slider 2 min"
 
 #. p_2_0 obj_71
 msgid "Панель опций - слайдер 2 max"
-msgstr ""
+msgstr "Options panel - slider 2 max"
 
 #. p_2_0 obj_72
 msgid "Панель опций - слайдер 3 min"
-msgstr ""
+msgstr "Options panel - slider 3 min"
 
 #. p_2_0 obj_73
 msgid "Панель опций - слайдер 3 max"
-msgstr ""
+msgstr "Options panel - slider 3 max"
 
 #. p_2_0 obj_74
 msgid "Панель опций - слайдер 4 min"
-msgstr ""
+msgstr "Options panel - slider 4 min"
 
 #. p_2_0 obj_75
 msgid "Панель опций - слайдер 4 max"
-msgstr ""
+msgstr "Options panel - slider 4 max"
 
 #. p_2_0 obj_76
 msgid "Карта 2 - БАНК"
@@ -16278,7 +16282,7 @@ msgstr ""
 
 #. p_2_0 scn_719
 msgid "Reserved"
-msgstr ""
+msgstr "Reserved"
 
 #. p_2_0 scn_720
 msgid "SpDialogs"
@@ -16286,7 +16290,7 @@ msgstr ""
 
 #. p_2_0 scn_721
 msgid "ПАНЕЛЬ УПРАВЛЕНИЯ"
-msgstr ""
+msgstr "CONTROL PANEL"
 
 #. p_2_0 scn_722
 msgid "КАРТА"
@@ -16454,7 +16458,7 @@ msgstr ""
 
 #. p_2_0 scn_763
 msgid "SAVELOAD"
-msgstr ""
+msgstr "SAVELOAD"
 
 #. p_2_0 scn_764
 msgid "Seq - КОНЕЦ ВТОРОЙ ЧАСТИ"
@@ -16738,7 +16742,7 @@ msgstr "Poster"
 
 #. p_2_0 name_375, Пламя во дворе
 msgid "Пламя"
-msgstr ""
+msgstr "Flames"
 
 #. p_2_0 name_377, Платформа ж/д станции
 msgid "Платформа"
@@ -16808,9 +16812,6 @@ msgstr "Brick"
 msgid "Штаб"
 msgstr "Headquarters"
 
-#. p_2_0 name_456, Соломенная шляпа в комнате Анки
-msgid ""
-msgstr ""
 
 #. p_2_0 name_460, Стол в большой комнате
 msgid "Стол"
@@ -20362,7 +20363,7 @@ msgstr "An ordinary boy."
 
 #. p_2_0 msg_878, 0 - Петька
 msgid "Не удивлюсь, если он пионер..."
-msgstr "I won't be surprised if he's a pioneer..."
+msgstr "I won't be surprised if he's a boy-scout..."
 
 #. p_2_0 msg_879, 0 - Петька
 msgid "Он несовершеннолетний."
@@ -30703,4 +30704,3 @@ msgstr "The rosary is no use here."
 #. p_2_0 msg_3703, 0 - Петька
 msgid "Штопор тут не поможет."
 msgstr "The corkscrew is not an option."
-
