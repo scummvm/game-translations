@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Petka1 0.0.1\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2020-12-07 22:01+0000\n"
-"PO-Revision-Date: 2020-12-13 01:14+0000\n"
+"PO-Revision-Date: 2020-12-13 19:02+0000\n"
 "Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
 "Language-Team: English <https://translations.scummvm.org/projects/petka/"
 "petka1/en/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.0.4\n"
+"X-Generator: Weblate 4.3.2\n"
 
 #. p_0_0 obj_0
 msgid "Петька"
@@ -424,99 +424,99 @@ msgstr ""
 
 #. p_1_0 obj_65
 msgid "Карта 1 - ПЕРЕКРЕСТОК В ЛЕСУ"
-msgstr ""
+msgstr "Map 1 - FOREST CROSSROADS"
 
 #. p_1_0 obj_66
 msgid "Карта 1 - ДОМ АНКИ"
-msgstr ""
+msgstr "Map 1 - ANKA'S HOUSE"
 
 #. p_1_0 obj_67
 msgid "Карта 1 - БАНЯ"
-msgstr ""
+msgstr "Map 1 - SAUNA"
 
 #. p_1_0 obj_68
 msgid "Карта 1 - КЛУБ"
-msgstr ""
+msgstr "Map 1 - CLUB"
 
 #. p_1_0 obj_69
 msgid "Карта 1 - ДОМ ФУРМАНОВА"
-msgstr ""
+msgstr "Map 1 - FURMANOV'S HOUSE"
 
 #. p_1_0 obj_70
 msgid "Карта 1 - ПАЛЬМА"
-msgstr ""
+msgstr "Map 1 - PALM"
 
 #. p_1_0 obj_71
 msgid "Карта 1 - ДОРОГА ВОКРУГ ХЛЕВА"
-msgstr ""
+msgstr "Map 1 - ROAD AROUND BARN"
 
 #. p_1_0 obj_72
 msgid "Карта 1 - СВАЛКА"
-msgstr ""
+msgstr "Map 1 - LANDFILL"
 
 #. p_1_0 obj_73
 msgid "Карта 1 - МОСТ"
-msgstr ""
+msgstr "Map 1 - BRIDGE"
 
 #. p_1_0 obj_74
 msgid "Карта 1 - МОСТИК У ДОМА ФУРМАНОВА"
-msgstr ""
+msgstr "Map 1 - SMALL BRIDGE NEAR FURMANOV'S HOUSE"
 
 #. p_1_0 obj_75
 msgid "Карта 1 - ДОМ ПЕТЬКИ"
-msgstr ""
+msgstr "Map 1 - PETE'S HOUSE"
 
 #. p_1_0 obj_76
 msgid "Карта 1 - ПАСЕКА"
-msgstr ""
+msgstr "Map 1 - APIARY"
 
 #. p_1_0 obj_77
 msgid "Карта 1 - ХУТОР"
-msgstr ""
+msgstr "Map 1 - FARM"
 
 #. p_1_0 obj_78
 msgid "Карта 1 - ПЕРЕД МАГАЗИНОМ"
-msgstr ""
+msgstr "Map 1 - NEAR SHOP"
 
 #. p_1_0 obj_79
 msgid "Карта 1 - ТРАНСФОРМАТОР"
-msgstr ""
+msgstr "Map 1 - TRANSFORMER"
 
 #. p_1_0 obj_80
 msgid "Карта 1 - ЛЕСНАЯ ДОРОГА"
-msgstr ""
+msgstr "Map 1 - FOREST ROAD"
 
 #. p_1_0 obj_81
 msgid "Карта 1 - река"
-msgstr ""
+msgstr "Map 1 - RIVER"
 
 #. p_1_0 obj_82
 msgid "Карта 1 - дождь"
-msgstr ""
+msgstr "Map 1 - RAIN"
 
 #. p_1_0 obj_83
 msgid "Карта 1 - мельница"
-msgstr ""
+msgstr "Map 1 - WINDMILL"
 
 #. p_1_0 obj_84
 msgid "Выход из Комнаты Петьки во Времянку"
-msgstr ""
+msgstr "Exit from Pete's Room to Jerry Building"
 
 #. p_1_0 obj_85
 msgid "Петька - КОМНАТА ПЕТЬКИ"
-msgstr ""
+msgstr "Pete - PETE'S ROOM"
 
 #. p_1_0 obj_86
 msgid "ВИЧ - КОМНАТА ПЕТЬКИ"
-msgstr ""
+msgstr "Chapayev - PETE'S ROOM"
 
 #. p_1_0 obj_87
 msgid "Петька с аквариумом"
-msgstr ""
+msgstr "Pete with aquarium"
 
 #. p_1_0 obj_88
 msgid "Петька с дверью"
-msgstr ""
+msgstr "Pete with the door"
 
 #. p_1_0 obj_89
 msgid "Аквариум"
@@ -528,7 +528,7 @@ msgstr "Big key"
 
 #. p_1_0 obj_91
 msgid "Сложенный резиновый матрасик"
-msgstr ""
+msgstr "Folder rubber mattress"
 
 #. p_1_0 obj_92
 msgid "Кукушка"
@@ -544,7 +544,7 @@ msgstr "Closet door"
 
 #. p_1_0 obj_95
 msgid "Кровать Петьки"
-msgstr ""
+msgstr "Pete's bed"
 
 #. p_1_0 obj_96
 msgid "Часы"
@@ -572,7 +572,7 @@ msgstr "Brine"
 
 #. p_1_0 obj_102
 msgid "Кровать Василия Ивановича"
-msgstr ""
+msgstr "Vasily Ivanovich's bed"
 
 #. p_1_0 obj_103
 msgid "Чемодан"
@@ -584,11 +584,11 @@ msgstr "Grenade"
 
 #. p_1_0 obj_105
 msgid "Тазик"
-msgstr ""
+msgstr "Basin"
 
 #. p_1_0 obj_106
 msgid "Бутылки1"
-msgstr ""
+msgstr "Bottles1"
 
 #. p_1_0 obj_107
 msgid "Подкова"
@@ -596,7 +596,7 @@ msgstr "Horseshoe"
 
 #. p_1_0 obj_108
 msgid "Сушеные грибы"
-msgstr ""
+msgstr "Dried mushrooms"
 
 #. p_1_0 obj_109
 msgid "Ухват"
@@ -604,7 +604,7 @@ msgstr "Oven fork"
 
 #. p_1_0 obj_110
 msgid "Самовар Петьки"
-msgstr ""
+msgstr "Pete's samovar"
 
 #. p_1_0 obj_111
 msgid "Печь"
@@ -620,11 +620,11 @@ msgstr "Open chest"
 
 #. p_1_0 obj_114
 msgid "Табуретка-1"
-msgstr ""
+msgstr "Stool-1"
 
 #. p_1_0 obj_115
 msgid "Табуретка-2"
-msgstr ""
+msgstr "Stool-2"
 
 #. p_1_0 obj_116
 msgid "Чайник"
@@ -636,23 +636,23 @@ msgstr "Lamp"
 
 #. p_1_0 obj_118
 msgid "Вход в комнату Петьки"
-msgstr ""
+msgstr "Entrance to Pete's room"
 
 #. p_1_0 obj_119
 msgid "Выход на улицу"
-msgstr ""
+msgstr "Exit to the street"
 
 #. p_1_0 obj_120
 msgid "Петька за подковой"
-msgstr ""
+msgstr "Pete with the horseshoe"
 
 #. p_1_0 obj_121
 msgid "ВИЧ за подковой"
-msgstr ""
+msgstr "Chapayev with the horseshoe"
 
 #. p_1_0 obj_122
 msgid "Петька и сундук"
-msgstr ""
+msgstr "Pete and the chest"
 
 #. p_1_0 obj_123
 msgid "Баня"
@@ -660,19 +660,19 @@ msgstr "Sauna"
 
 #. p_1_0 obj_124
 msgid "Плакат В.И.Л."
-msgstr ""
+msgstr "Lenin poster"
 
 #. p_1_0 obj_125
 msgid "Труба без дыма"
-msgstr ""
+msgstr "Chimney without smoke"
 
 #. p_1_0 obj_126
 msgid "Труба с дымом"
-msgstr ""
+msgstr "Chimney with smoke"
 
 #. p_1_0 obj_127
 msgid "Закрытая дверь в баню"
-msgstr ""
+msgstr "Closed door to the sauna"
 
 #. p_1_0 obj_128
 msgid "Замочная скважина"
@@ -680,39 +680,39 @@ msgstr "Key hole"
 
 #. p_1_0 obj_129
 msgid "Вход в баню"
-msgstr ""
+msgstr "Entrance to the sauna"
 
 #. p_1_0 obj_130
 msgid "Вход в дом Петьки"
-msgstr ""
+msgstr "Entrance to Pete's house"
 
 #. p_1_0 obj_131
 msgid "Дорога от Дома Петьки к Печке"
-msgstr ""
+msgstr "Road from Pete's house to the Stove"
 
 #. p_1_0 obj_132
 msgid "Дорога от Дома Петьки к Окну"
-msgstr ""
+msgstr "Road from Pete's house to the Window"
 
 #. p_1_0 obj_133
 msgid "Скамейка в бане"
-msgstr ""
+msgstr "Sauna bench"
 
 #. p_1_0 obj_134
 msgid "Печная дверца"
-msgstr ""
+msgstr "Stove door"
 
 #. p_1_0 obj_135
 msgid "Открытая топка пустая"
-msgstr ""
+msgstr "Empty open furnace"
 
 #. p_1_0 obj_136
 msgid "Открытая топка с дровами"
-msgstr ""
+msgstr "Open furnace with wood"
 
 #. p_1_0 obj_137
 msgid "Горящая топка"
-msgstr ""
+msgstr "Burning furnace"
 
 #. p_1_0 obj_138
 msgid "Ширма"
@@ -724,11 +724,11 @@ msgstr "Tub"
 
 #. p_1_0 obj_140
 msgid "Окошечко в бане"
-msgstr ""
+msgstr "Small window to the sauna"
 
 #. p_1_0 obj_141
 msgid "Стол1"
-msgstr ""
+msgstr "Table1"
 
 #. p_1_0 obj_142
 msgid "Веники"
@@ -736,19 +736,19 @@ msgstr "Brooms"
 
 #. p_1_0 obj_143
 msgid "Печка и Петька"
-msgstr ""
+msgstr "Stove and Pete"
 
 #. p_1_0 obj_144
 msgid "Анка в бане"
-msgstr ""
+msgstr "Anka in the sauna"
 
 #. p_1_0 obj_145
 msgid "Выход из бани к Дому Петьки"
-msgstr ""
+msgstr "Exit from sauna to Pete's house"
 
 #. p_1_0 obj_146
 msgid "Колодец1"
-msgstr ""
+msgstr "Well1"
 
 #. p_1_0 obj_147
 msgid "Журавль"
@@ -756,27 +756,27 @@ msgstr "Crane"
 
 #. p_1_0 obj_148
 msgid "Дом Петьки и ВИЧа"
-msgstr ""
+msgstr "House of Pete and Chapayev"
 
 #. p_1_0 obj_149
 msgid "Клуб от Печки"
-msgstr ""
+msgstr "Club from Stove"
 
 #. p_1_0 obj_150
 msgid "Магазин от Печки"
-msgstr ""
+msgstr "Shop from Stove"
 
 #. p_1_0 obj_151
 msgid "Сарай от Печки"
-msgstr ""
+msgstr "Barn from Stove"
 
 #. p_1_0 obj_152
 msgid "Дом Кузьмича от Печки"
-msgstr ""
+msgstr "Kuzmich's house from Stove"
 
 #. p_1_0 obj_153
 msgid "Печная Труба"
-msgstr ""
+msgstr "Stove chimney"
 
 #. p_1_0 obj_154
 msgid "Печка"
@@ -16811,7 +16811,6 @@ msgstr "Brick"
 #. p_2_0 name_452, Секретный штаб
 msgid "Штаб"
 msgstr "Headquarters"
-
 
 #. p_2_0 name_460, Стол в большой комнате
 msgid "Стол"
