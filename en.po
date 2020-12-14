@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Petka1 0.0.1\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2020-12-07 22:01+0000\n"
-"PO-Revision-Date: 2020-12-14 00:35+0000\n"
+"PO-Revision-Date: 2020-12-14 11:35+0000\n"
 "Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
 "Language-Team: English <https://translations.scummvm.org/projects/petka/"
 "petka1/en/>\n"
@@ -188,7 +188,7 @@ msgstr "ISprite"
 
 #. p_1_0 obj_6
 msgid "I\"Капитал\""
-msgstr "ICapital"
+msgstr "I\"Das Kapital\""
 
 #. p_1_0 obj_7
 msgid "IАнкина одежда"
@@ -2228,83 +2228,83 @@ msgstr "SWAMP"
 
 #. p_1_0 scn_517
 msgid "ВРЕМЯНКА"
-msgstr ""
+msgstr "JERRY BUILDING"
 
 #. p_1_0 scn_518
 msgid "ДОМ АНКИ"
-msgstr ""
+msgstr "ANKA'S HOUSE"
 
 #. p_1_0 scn_519
 msgid "ДОМ ПЕТЬКИ"
-msgstr ""
+msgstr "PETE'S HOUSE"
 
 #. p_1_0 scn_520
 msgid "ДОМ ФУРМАНОВА"
-msgstr ""
+msgstr "FURMONOV'S HOUSE"
 
 #. p_1_0 scn_521
 msgid "ДОРОГА ВОКРУГ ХЛЕВА"
-msgstr ""
+msgstr "ROAD AROUND CATTLE SHED"
 
 #. p_1_0 scn_522
 msgid "КЛУБ"
-msgstr ""
+msgstr "CLUB"
 
 #. p_1_0 scn_523
 msgid "КОМНАТА АНКИ"
-msgstr ""
+msgstr "ANKA'S ROOM"
 
 #. p_1_0 scn_524
 msgid "КОМНАТА ПЕТЬКИ"
-msgstr ""
+msgstr "PETE'S ROOM"
 
 #. p_1_0 scn_525
 msgid "КОМНАТА ФУРМАНОВА"
-msgstr ""
+msgstr "FURMANOV'S ROOM"
 
 #. p_1_0 scn_526
 msgid "ЛЕСНАЯ ДОРОГА"
-msgstr ""
+msgstr "FOREST ROAD"
 
 #. p_1_0 scn_527
 msgid "ЛЕСНАЯ ДОРОГА - 2"
-msgstr ""
+msgstr "FOREST ROAD - 2"
 
 #. p_1_0 scn_528
 msgid "МАГАЗИН ВНУТРИ"
-msgstr ""
+msgstr "INSIDE SHOP"
 
 #. p_1_0 scn_529
 msgid "МОСТ"
-msgstr ""
+msgstr "BRIDGE"
 
 #. p_1_0 scn_530
 msgid "МОСТИК У ДОМА ФУРМАНОВА"
-msgstr ""
+msgstr "SMALL BRIDGE NEXT TO FURMANOV'S HOUSE"
 
 #. p_1_0 scn_531
 msgid "ОКНО"
-msgstr ""
+msgstr "WINDOW"
 
 #. p_1_0 scn_532
 msgid "ПАЛЬМА"
-msgstr ""
+msgstr "PALM"
 
 #. p_1_0 scn_533
 msgid "ПАСЕКА"
-msgstr ""
+msgstr "APIARY"
 
 #. p_1_0 scn_534
 msgid "ПЕНЕК В ЛЕСУ"
-msgstr ""
+msgstr "STUMP IN THE FOREST"
 
 #. p_1_0 scn_535
 msgid "ПЕРЕД МАГАЗИНОМ"
-msgstr ""
+msgstr "FRONT OF THE SHOP"
 
 #. p_1_0 scn_536
 msgid "ПЕРЕКРЕСТОК В ЛЕСУ"
-msgstr ""
+msgstr "FOREST CROSSROADS"
 
 #. p_1_0 scn_537
 msgid "ПОЛЕ"
@@ -2316,103 +2316,103 @@ msgstr ""
 
 #. p_1_0 scn_539
 msgid "СВАЛКА"
-msgstr ""
+msgstr "LANDFILL"
 
 #. p_1_0 scn_540
 msgid "ТРАНСФОРМАТОР"
-msgstr ""
+msgstr "TRANSFORMER"
 
 #. p_1_0 scn_541
 msgid "ХУТОР"
-msgstr ""
+msgstr "FARM"
 
 #. p_1_0 scn_542
 msgid "Seq - АНАРХИСТАМ ХРЕНОВО"
-msgstr ""
+msgstr "Seq - ANARCHISTS FEEL BAD"
 
 #. p_1_0 scn_543
 msgid "Seq - АНАРХИСТЫ ПЬЮТ"
-msgstr ""
+msgstr "Seq - ANARCHISTS DRINKING"
 
 #. p_1_0 scn_544
 msgid "Seq - БАБА НА БОЛОТЕ"
-msgstr ""
+msgstr "Seq - WOMAN ON THE SWAMP"
 
 #. p_1_0 scn_545
 msgid "Seq - ВСЕ ВЫХОДЯТ ИЗ АКТОВОГО ЗАЛА"
-msgstr ""
+msgstr "Seq - EVERYBODY LEAVES THE MAIN HALL"
 
 #. p_1_0 scn_546
 msgid "Seq - МАНГИТ ТЯНЕТ"
-msgstr ""
+msgstr "Seq - MAGNET IS PULLING"
 
 #. p_1_0 scn_547
 msgid "Seq - BLOWUP"
-msgstr ""
+msgstr "Seq - BLOWUP"
 
 #. p_1_0 scn_548
 msgid "Seq - SMOKE"
-msgstr ""
+msgstr "Seq - SMOKE"
 
 #. p_1_0 scn_549
 msgid "Seq - МАНГИТ ОТПУСКАЕТ"
-msgstr ""
+msgstr "Seq - MAGNET RELEASES"
 
 #. p_1_0 scn_550
 msgid "Seq - ПОШЕЛ ТРЕТИЙ ЧАС ЛЕКЦИИ"
-msgstr ""
+msgstr "Seq - 3RD HOUR OF LECTURE"
 
 #. p_1_0 scn_551
 msgid "Seq - КОНЕЦ ПЕРВОЙ ЧАСТИ"
-msgstr ""
+msgstr "Seq - END OF CHAPTER ONE"
 
 #. p_1_0 scn_552
 msgid "Seq - INTRO0"
-msgstr ""
+msgstr "Seq - INTRO0"
 
 #. p_1_0 scn_553
 msgid "Seq - INTRO1"
-msgstr ""
+msgstr "Seq - INTRO1"
 
 #. p_1_0 scn_554
 msgid "Seq - INTRO1A"
-msgstr ""
+msgstr "Seq - INTRO1A"
 
 #. p_1_0 scn_555
 msgid "Seq - INTRO2"
-msgstr ""
+msgstr "Seq - INTRO2"
 
 #. p_1_0 scn_556
 msgid "Seq - INTRO3"
-msgstr ""
+msgstr "Seq - INTRO3"
 
 #. p_1_0 scn_557
 msgid "Seq - INTRO4"
-msgstr ""
+msgstr "Seq - INTRO4"
 
 #. p_1_0 scn_558
 msgid "Seq - INTRO5"
-msgstr ""
+msgstr "Seq - INTRO5"
 
 #. p_1_0 scn_559
 msgid "Seq - INTRO6"
-msgstr ""
+msgstr "Seq - INTRO6"
 
 #. p_1_0 scn_560
 msgid "Seq - INTRO7"
-msgstr ""
+msgstr "Seq - INTRO7"
 
 #. p_1_0 scn_561
 msgid "Seq - INTRO8"
-msgstr ""
+msgstr "Seq - INTRO8"
 
 #. p_1_0 scn_562
 msgid "Seq - INTRO9"
-msgstr ""
+msgstr "Seq - INTRO9"
 
 #. p_1_0 name_0, <Капитал>
 msgid "\"Капитал\""
-msgstr "Capital"
+msgstr "\"Das Kapital\""
 
 #. p_1_0 name_3, Баба с гусем
 msgid "Крестьянка"
@@ -2420,11 +2420,11 @@ msgstr "Village woman"
 
 #. p_1_0 name_4, Банка с желтой краской
 msgid "Банка"
-msgstr ""
+msgstr "Can"
 
 #. p_1_0 name_7, Белогвардейцы
 msgid "Белогвардейцы"
-msgstr ""
+msgstr "White soldiers"
 
 #. p_1_0 name_8, Береза на болоте
 msgid "Береза"
@@ -2492,7 +2492,7 @@ msgstr "Lector"
 
 #. p_1_0 name_71, Домик на другом берегу
 msgid "Домик"
-msgstr ""
+msgstr "Little house"
 
 #. p_1_0 name_104, Дупло на Пасеке
 msgid "Дупло"
@@ -2568,7 +2568,7 @@ msgstr "Apiary"
 
 #. p_1_0 name_174, Пасечник
 msgid "Пасечник"
-msgstr ""
+msgstr "Beekeeper"
 
 #. p_1_0 name_183, Печная дверца
 msgid "Дверца"
@@ -3064,7 +3064,7 @@ msgstr "Until we run out of them..."
 
 #. p_1_0 msg_50, 0 - Петька
 msgid "Ой, что это там на дне блестит?"
-msgstr ""
+msgstr "What's shining there on the bottom?"
 
 #. p_1_0 msg_51, 0 - Петька
 msgid "Похоже на ключик..."
@@ -3072,7 +3072,7 @@ msgstr "Looks like a key..."
 
 #. p_1_0 msg_52, 0 - Петька
 msgid "Как же я его оттуда достану?"
-msgstr ""
+msgstr "How could I reach it?"
 
 #. p_1_0 msg_53, 0 - Петька
 msgid "Молчит, как рыба."
@@ -3176,11 +3176,11 @@ msgstr "I can't lift it on my own!"
 
 #. p_1_0 msg_78, 0 - Петька
 msgid "Да и зачем она нам?"
-msgstr ""
+msgstr "What are we going to do with it?"
 
 #. p_1_0 msg_79, 0 - Петька
 msgid "Лучше, купим раскладушку!"
-msgstr ""
+msgstr "Or better let's buy a folding bed!"
 
 #. p_1_0 msg_80, 0 - Петька
 msgid "Я не буду класть что попало к себе в кровать."
@@ -3224,15 +3224,15 @@ msgstr "Now they won't disturb us during our sleep."
 
 #. p_1_0 msg_90, 0 - Петька
 msgid "Раньше-то работали кое-как, а теперь совсем встали."
-msgstr ""
+msgstr "It was barely working before and now just stay still."
 
 #. p_1_0 msg_91, 0 - Петька
 msgid "Зачем их таскать, только место занимать будут."
-msgstr ""
+msgstr "Why shall I carry it around, it will just take the precious space."
 
 #. p_1_0 msg_92, 0 - Петька
 msgid "Я же говорил - не надо ковыряться в часах!"
-msgstr ""
+msgstr "Told you - don't mess with the clock!"
 
 #. p_1_0 msg_93, 0 - Петька
 msgid "Доставай бутылку, ставь ее на стол!"
@@ -3776,7 +3776,7 @@ msgstr "That's not how to make a kettle boil."
 
 #. p_1_0 msg_237, 0 - Петька
 msgid "Этот чайник вообще никак не заваришь."
-msgstr ""
+msgstr "It is impossible to boil this kettle."
 
 #. p_1_0 msg_238, 1 - Василий Иванович
 msgid "Кипяточку, что ль, глотнуть?"
@@ -4120,7 +4120,7 @@ msgstr "Look how they're running, Vasily Ivanovich!"
 
 #. p_1_0 msg_327, 1 - Василий Иванович
 msgid "Молдец, Петька."
-msgstr ""
+msgstr "Well done, Petka."
 
 #. p_1_0 msg_328, 1 - Василий Иванович
 msgid "Хвалю!"
@@ -4196,7 +4196,7 @@ msgstr "Got any matches, Vasily Ivanovich?"
 
 #. p_1_0 msg_349, 1 - Василий Иванович
 msgid "Это можно."
-msgstr ""
+msgstr "That could work."
 
 #. p_1_0 msg_350, 0 - Петька
 msgid "Хорошо горит!"
@@ -4340,7 +4340,7 @@ msgstr "No, as in Finland!"
 
 #. p_1_0 msg_386, 1 - Василий Иванович
 msgid "А-аа..."
-msgstr ""
+msgstr "A-aa..."
 
 #. p_1_0 msg_387, 1 - Василий Иванович
 msgid "У этих..."
@@ -4840,7 +4840,7 @@ msgstr "Ahhh...!"
 
 #. p_1_0 msg_514, 1 - Василий Иванович
 msgid "Так бы сразу и сказал."
-msgstr ""
+msgstr "Why didn't you say so?!"
 
 #. p_1_0 msg_515, 1 - Василий Иванович
 msgid "А то ходишь вокруг да около..."
@@ -5128,7 +5128,7 @@ msgstr "See you!"
 
 #. p_1_0 msg_592, 173 - Анка
 msgid "В сто раз хуже, чем на Советской стороне."
-msgstr ""
+msgstr "Way worse than on the Soviet side."
 
 #. p_1_0 msg_593, 173 - Анка
 msgid "Там все у них в упадке."
@@ -5460,11 +5460,11 @@ msgstr "As long as the drunks are occupying the sauna - I'm not going anywhere."
 
 #. p_1_0 msg_675, 0 - Петька
 msgid "Вот прогоните алкашей, тогда и поговорим."
-msgstr ""
+msgstr "First, expel the drunks, then we talk."
 
 #. p_1_0 msg_676, 0 - Петька
 msgid "Ну вы же мужчины! Придумайте что-нибудь. Я подожду..."
-msgstr ""
+msgstr "You're men after all! Come up with something. I'll wait..."
 
 #. p_1_0 msg_677, 0 - Петька
 msgid "Мне кажется, Анке это не нужно."
@@ -5856,11 +5856,11 @@ msgstr "I mean - my bad, sir-yes-sir!"
 
 #. p_1_0 msg_782, 0 - Петька
 msgid "Идея интересная..."
-msgstr ""
+msgstr "An interesting idea..."
 
 #. p_1_0 msg_783, 0 - Петька
 msgid "Только вот замочек этот слишком большой."
-msgstr ""
+msgstr "However, this lock is too big."
 
 #. p_1_0 msg_784, 0 - Петька
 msgid "Отходы деревенского быта."
@@ -5925,6 +5925,8 @@ msgstr "Is that your cow mooing?"
 #. p_1_0 msg_799, 197 - Алкаш
 msgid "Была бы моя - ик! - давно бы на бутылку эту тварюгу сменял..."
 msgstr ""
+"If it would be up to me, hic! I'd exchange this beast for a bottle a long "
+"ago..."
 
 #. p_1_0 msg_800, 197 - Алкаш
 msgid "Это пасечника корова..."
@@ -5940,7 +5942,7 @@ msgstr "She takes it to the other... hic... side..."
 
 #. p_1_0 msg_803, 0 - Петька
 msgid "А ты что тут так стоишь?"
-msgstr ""
+msgstr "Why are you standing here like this?"
 
 #. p_1_0 msg_804, 0 - Петька
 msgid "Охраняешь?"
@@ -5948,7 +5950,7 @@ msgstr "Are you standing guard here?"
 
 #. p_1_0 msg_805, 197 - Алкаш
 msgid "Ты что - ик! - дурак?"
-msgstr ""
+msgstr "Are you - hic! - stupid?"
 
 #. p_1_0 msg_806, 197 - Алкаш
 msgid "Попробуй выпей сколько я - ик - я бы посмотрел, как ты бы стоял!!! -- иииик! --"
@@ -5972,11 +5974,13 @@ msgstr "You don't tell me what to do! I'm not in the army..."
 
 #. p_1_0 msg_811, 0 - Петька
 msgid "Ну не хочешь, как хочешь..."
-msgstr ""
+msgstr "As you wish, whatever..."
 
 #. p_1_0 msg_812, 1 - Василий Иванович
 msgid "Между прочим, нам вчера Фурманов хвастался, что им в военторг спирт завезли..."
 msgstr ""
+"By the way, Furmanov was bragging yesterday that they delivered spirit to "
+"the commissary..."
 
 #. p_1_0 msg_813, 197 - Алкаш
 msgid "Так чего ж вы молчали!"
@@ -6252,7 +6256,7 @@ msgstr "Hello, there, young lady. Nice weather, isn't it!"
 
 #. p_1_0 msg_929, 0 - Петька
 msgid "Нет ли чего для умственного развития?"
-msgstr ""
+msgstr "Do you have anything to, er... stimulate the brain?"
 
 #. p_1_0 msg_930, 0 - Петька
 msgid "Не отпустишь ли в кредит, хозяюшка?"
@@ -6276,7 +6280,7 @@ msgstr "All this sweltering heat..."
 
 #. p_1_0 msg_935, 220 - Продавщица
 msgid "Ой, а ты хоть грамотный?"
-msgstr ""
+msgstr "Can you even read?"
 
 #. p_1_0 msg_936, 0 - Петька
 msgid "Знамо дело."
@@ -6304,7 +6308,7 @@ msgstr "Credit my butt!"
 
 #. p_1_0 msg_942, 220 - Продавщица
 msgid "Твой кредит уж вышел давно!"
-msgstr ""
+msgstr "Your credit is long gone!"
 
 #. p_1_0 msg_943, 0 - Петька
 msgid "Ну дай хоть хлебушка батончик..."
@@ -6320,7 +6324,7 @@ msgstr "Well, give me a sickle then, and I'll go cut some wheat..."
 
 #. p_1_0 msg_946, 0 - Петька
 msgid "Ну дай хоть пальму. Кокосы пойду выращивать..."
-msgstr ""
+msgstr "Well, give me the palm tree then. I'll grow some coconuts..."
 
 #. p_1_0 msg_947, 220 - Продавщица
 msgid "Да таким батоном только сваи заколачивать!"
@@ -6360,7 +6364,7 @@ msgstr "But I can give you the seeds."
 
 #. p_1_0 msg_956, 220 - Продавщица
 msgid "Сажать-то знаешь как?"
-msgstr ""
+msgstr "Do you know how to plant them?"
 
 #. p_1_0 msg_957, 0 - Петька
 msgid "А чего там знать-то?"
@@ -6376,7 +6380,7 @@ msgstr "Yeah, right... You'll have a record harvest."
 
 #. p_1_0 msg_960, 220 - Продавщица
 msgid "Агроном!"
-msgstr ""
+msgstr "Аgriculturist!"
 
 #. p_1_0 msg_961, 220 - Продавщица
 msgid "Ох уж мне этот Фурманов со своей наглядной агитацией!"
@@ -6776,7 +6780,7 @@ msgstr "The hide is all that's left..."
 
 #. p_1_0 msg_1063, 0 - Петька
 msgid "Не, Василь Иваныч, я теперь и пальцем ее не коснусь..."
-msgstr ""
+msgstr "No way, I'm not going to touch it, Vasily Ivanovich..."
 
 #. p_1_0 msg_1064, 0 - Петька
 msgid "Вам надо, вы и берите."
@@ -6868,7 +6872,7 @@ msgstr "Seeing a little Soviet village is a balm for my sore eyes."
 
 #. p_1_0 msg_1098, 0 - Петька
 msgid "Кот домашний, средней пушистости, весьма упитанный."
-msgstr ""
+msgstr "A domestic cat, furry enough, quite fatty."
 
 #. p_1_0 msg_1099, 0 - Петька
 msgid "Интересно, а сколько в Чапае попугаев?"
@@ -7084,7 +7088,7 @@ msgstr "Think about the savings!"
 
 #. p_1_0 msg_1157, 0 - Петька
 msgid "Этим кокосы не сшибить."
-msgstr ""
+msgstr "You can't knock down the coconut with this."
 
 #. p_1_0 msg_1158, 1 - Василий Иванович
 msgid "Что я их, по-твоему, плевками сшибать буду?"
@@ -7100,11 +7104,11 @@ msgstr "Look, a parrot managed to make a nest already."
 
 #. p_1_0 msg_1161, 0 - Петька
 msgid "Настоящие красноармейцы никогда не разоряют птичьих гнезд..."
-msgstr ""
+msgstr "True Red soldiers never ravage bird nests..."
 
 #. p_1_0 msg_1162, 0 - Петька
 msgid "Мы с Василий Иванычем тоже не опустимся до такого."
-msgstr ""
+msgstr "Me and Vasily Ivanovich also do not stoop to this."
 
 #. p_1_0 msg_1163, 1 - Василий Иванович
 msgid "Это ты на что намекаешь, Петька?"
@@ -7464,7 +7468,7 @@ msgstr "Ehm... going according to plan, I'd say."
 
 #. p_1_0 msg_1254, 1 - Василий Иванович
 msgid "По какому плану? У нас плана в помине нет?"
-msgstr ""
+msgstr "What plan? We got no plan at all, right?"
 
 #. p_1_0 msg_1255, 1 - Василий Иванович
 msgid "Значит, ты знаешь, где план достать?"
@@ -7716,31 +7720,31 @@ msgstr "Must be completely drunk..."
 
 #. p_1_0 msg_1324, 1 - Василий Иванович
 msgid "Да чего с него взять..."
-msgstr ""
+msgstr "He is useless..."
 
 #. p_1_0 msg_1325, 1 - Василий Иванович
 msgid "Одно слово - ИН-ТЕЛЛИ-ГЕНТ!"
-msgstr ""
+msgstr "Just one word - SMARTY-PANTS!"
 
 #. p_1_0 msg_1326, 0 - Петька
 msgid "Порубать политрука?"
-msgstr ""
+msgstr "Shall I chop the political instructor?"
 
 #. p_1_0 msg_1327, 0 - Петька
 msgid "На холодец?"
-msgstr ""
+msgstr "...Into jelly?"
 
 #. p_1_0 msg_1328, 0 - Петька
 msgid "А вы знаете, что за это бывает?"
-msgstr ""
+msgstr "And do you realize what would be the consequences?"
 
 #. p_1_0 msg_1330, 0 - Петька
 msgid "А я вот не знаю."
-msgstr ""
+msgstr "Nope, no idea."
 
 #. p_1_0 msg_1331, 0 - Петька
 msgid "Но догадываюсь..."
-msgstr ""
+msgstr "But I have a suspicion..."
 
 #. p_1_0 msg_1332, 0 - Петька
 msgid "Можно, конечно, сказать: \"Именем революции требую показать, что у тебя в подвале находится!\"..."
@@ -7780,11 +7784,11 @@ msgstr "The hatch is nailed shut - we can't force it."
 
 #. p_1_0 msg_1341, 1 - Василий Иванович
 msgid "Я не собираюсь лазить по подвалам, так что открывать это нет смысла."
-msgstr ""
+msgstr "I have no plans to sneak into the basements, so, no sense to open it."
 
 #. p_1_0 msg_1342, 0 - Петька
 msgid "Кстати нам в подвал и не нужно совсем."
-msgstr ""
+msgstr "And by the way, we did not plan to go to the basement."
 
 #. p_1_0 msg_1343, 0 - Петька
 msgid "Наш Добрый Терминатор."
@@ -7840,11 +7844,11 @@ msgstr "Let's leave it for a serious battle."
 
 #. p_1_0 msg_1356, 0 - Петька
 msgid "Василий Иванович никогда не берет чужого..."
-msgstr ""
+msgstr "Vasily Ivanovich never steals..."
 
 #. p_1_0 msg_1357, 0 - Петька
 msgid "Ну или почти никогда."
-msgstr ""
+msgstr "Well, almost never."
 
 #. p_1_0 msg_1358, 0 - Петька
 msgid "Элегантному человеку - элегантная мебель."
@@ -7864,7 +7868,7 @@ msgstr "Leave it - we'll sit down there and chat later."
 
 #. p_1_0 msg_1362, 0 - Петька
 msgid "Столик уж очень красив - не хочу я его ломать."
-msgstr ""
+msgstr "This little table is very beautiful - I do not want to crush it."
 
 #. p_1_0 msg_1363, 0 - Петька
 msgid "Крошка сын к отцу пришел, и спросила кроха..."
@@ -7896,11 +7900,11 @@ msgstr "... to show our soldiers the wicked ways of the west!"
 
 #. p_1_0 msg_1370, 0 - Петька
 msgid "Возьмем! Халява - наш стиль жизни!"
-msgstr ""
+msgstr "Let's take it! Freebies are our way of life!"
 
 #. p_1_0 msg_1371, 1 - Василий Иванович
 msgid "Предпочитаю самогон."
-msgstr ""
+msgstr "I prefer moonshine."
 
 #. p_1_0 msg_1372, 0 - Петька
 msgid "Это специальное вооружение для женских отрядов."
@@ -7940,7 +7944,7 @@ msgstr "Oars are an important part of the quest for the red banner..."
 
 #. p_1_0 msg_1381, 1 - Василий Иванович
 msgid "Делаем вывод:"
-msgstr ""
+msgstr "We're coming to a conclusion:"
 
 #. p_1_0 msg_1382, 0 - Петька
 msgid "Нам они нужны больше?"
@@ -7968,11 +7972,11 @@ msgstr "Well, in this case... OK."
 
 #. p_1_0 msg_1388, 1 - Василий Иванович
 msgid "Даже не знаю, Петр, пригодится нам это или нет."
-msgstr ""
+msgstr "I do not even know, Peter, will we make any use of it."
 
 #. p_1_0 msg_1389, 1 - Василий Иванович
 msgid "Решай сам, ты у меня по хозяйственной части."
-msgstr ""
+msgstr "Decide by yourself, you're after all things household after all."
 
 #. p_1_0 msg_1390, 0 - Петька
 msgid "Это все, что осталось после вчерашнего."
@@ -7992,7 +7996,7 @@ msgstr "Bottles are fine when they're full."
 
 #. p_1_0 msg_1394, 1 - Василий Иванович
 msgid "Зачем мне пустые бутылки?"
-msgstr ""
+msgstr "Why do I need the empty bottles for?"
 
 #. p_1_0 msg_1395, 0 - Петька
 msgid "У Фурманова все стильно, даже табуретки."
@@ -8004,11 +8008,11 @@ msgstr "The stools belong here, not in my pockets."
 
 #. p_1_0 msg_1397, 0 - Петька
 msgid "Вандал, иди охладись - нечего ломать тут все подряд."
-msgstr ""
+msgstr "Cool down, Luddite - stop breaking everything around."
 
 #. p_1_0 msg_1400, 0 - Петька
 msgid "Вандал, иди охладись - нечего ломать тут все подряд.."
-msgstr ""
+msgstr "Cool down, Luddite - stop breaking everything around.."
 
 #. p_1_0 msg_1401, 0 - Петька
 msgid "П. А. С. Е. К. А..."
@@ -8032,7 +8036,7 @@ msgstr "A dirty puddle."
 
 #. p_1_0 msg_1406, 0 - Петька
 msgid "Не надо бросать это в лужу."
-msgstr ""
+msgstr "Please do not throw this into the puddle."
 
 #. p_1_0 msg_1407, 1 - Василий Иванович
 msgid "Ты что, Петька, хочешь посадить меня в лужу?..."
@@ -8080,7 +8084,7 @@ msgstr "Nobody there?"
 
 #. p_1_0 msg_1420, 0 - Петька
 msgid "Не надо бросать это в дупло."
-msgstr ""
+msgstr "Please do not throw it into the hollow."
 
 #. p_1_0 msg_1421, 0 - Петька
 msgid "Не буду я Василь Ивановича просить в дупло лазить."
@@ -13986,7 +13990,7 @@ msgstr ""
 
 #. p_2_0 obj_144
 msgid "Плакат \"Капитал\""
-msgstr ""
+msgstr "Poster \"Das Kapital\""
 
 #. p_2_0 obj_145
 msgid "Плакат \"Кабаре-Дуэт Унижение\""
@@ -14358,7 +14362,7 @@ msgstr ""
 
 #. p_2_0 obj_237
 msgid "Плакат \"Капитал2\""
-msgstr ""
+msgstr "Poster \"Das Kapital2\""
 
 #. p_2_0 obj_238
 msgid "Плакат \"Люкс\""
@@ -16370,7 +16374,7 @@ msgstr ""
 
 #. p_2_0 scn_741
 msgid "САРАЙ"
-msgstr ""
+msgstr "BARN"
 
 #. p_2_0 scn_742
 msgid "САРАЙ ВНУТРИ"
@@ -16410,7 +16414,7 @@ msgstr ""
 
 #. p_2_0 scn_751
 msgid "ПОЛЕ"
-msgstr ""
+msgstr "FIELD"
 
 #. p_2_0 scn_752
 msgid "КРИШНАИД"
@@ -17290,7 +17294,7 @@ msgstr ""
 
 #. p_2_0 msg_49, 0 - Петька
 msgid "Что мне сделать с Василь Иванычем?"
-msgstr ""
+msgstr "I do to Vasily Ivanovich what?"
 
 #. p_2_0 msg_50, 0 - Петька
 msgid "Что-оо?"
