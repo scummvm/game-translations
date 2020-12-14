@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Petka1 0.0.1\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2020-12-07 22:01+0000\n"
-"PO-Revision-Date: 2020-12-13 19:02+0000\n"
+"PO-Revision-Date: 2020-12-14 00:14+0000\n"
 "Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
 "Language-Team: English <https://translations.scummvm.org/projects/petka/"
 "petka1/en/>\n"
@@ -784,7 +784,7 @@ msgstr "Stove"
 
 #. p_1_0 obj_155
 msgid "Веревка на Журавле"
-msgstr ""
+msgstr "Rope on a Crane"
 
 #. p_1_0 obj_156
 msgid "Штуковина"
@@ -792,15 +792,15 @@ msgstr "Thingy"
 
 #. p_1_0 obj_157
 msgid "Дорога от Печки к Дому Петьки"
-msgstr ""
+msgstr "Road from Stove to Pete's house"
 
 #. p_1_0 obj_158
 msgid "Дорога от Печки к Дому Анки"
-msgstr ""
+msgstr "Road from Stove to Anka's house"
 
 #. p_1_0 obj_159
 msgid "Лектор на печке"
-msgstr ""
+msgstr "Lector on the stove"
 
 #. p_1_0 obj_160
 msgid "Дом Анки"
@@ -816,43 +816,43 @@ msgstr "Sunflowers"
 
 #. p_1_0 obj_163
 msgid "Стог сена за домом Анки"
-msgstr ""
+msgstr "Hay stack behind Anka's house"
 
 #. p_1_0 obj_164
 msgid "Дверь дома Анки"
-msgstr ""
+msgstr "Anka's house door"
 
 #. p_1_0 obj_165
 msgid "Дорога от дома Анки к Печке"
-msgstr ""
+msgstr "Road from Anka's house to Stove"
 
 #. p_1_0 obj_166
 msgid "Дорога от дома Анки на Поле"
-msgstr ""
+msgstr "Road from Anka's house to the Field"
 
 #. p_1_0 obj_167
 msgid "Печка Анки"
-msgstr ""
+msgstr "Anka's stove"
 
 #. p_1_0 obj_168
 msgid "Детали от пулеметов"
-msgstr ""
+msgstr "Machine gun parts"
 
 #. p_1_0 obj_169
 msgid "Стол Анки"
-msgstr ""
+msgstr "Anka's table"
 
 #. p_1_0 obj_170
 msgid "Окно Анки"
-msgstr ""
+msgstr "Anka's window"
 
 #. p_1_0 obj_171
 msgid "Плакат \"Культурист\""
-msgstr ""
+msgstr "Poster \"Bodybuilder\""
 
 #. p_1_0 obj_172
 msgid "Керосиновая лампа"
-msgstr ""
+msgstr "Gasoline lamp"
 
 #. p_1_0 obj_173
 msgid "Анка"
@@ -872,7 +872,7 @@ msgstr "Bellows"
 
 #. p_1_0 obj_177
 msgid "Выход на Печку"
-msgstr ""
+msgstr "Exit to the Stove"
 
 #. p_1_0 obj_178
 msgid "Анка1"
@@ -892,11 +892,11 @@ msgstr "Spider"
 
 #. p_1_0 obj_182
 msgid "Красноармеец под окном"
-msgstr ""
+msgstr "Red Army soldier near the window"
 
 #. p_1_0 obj_183
 msgid "Баня из окна"
-msgstr ""
+msgstr "Sauna from the window"
 
 #. p_1_0 obj_184
 msgid "Муха"
@@ -904,15 +904,15 @@ msgstr "Fly"
 
 #. p_1_0 obj_185
 msgid "Дорога от Окна к Клубу"
-msgstr ""
+msgstr "Road from the Window to the Club"
 
 #. p_1_0 obj_186
 msgid "Дорога от Окна к Магазину"
-msgstr ""
+msgstr "Road from the Window to the Shop"
 
 #. p_1_0 obj_187
 msgid "Дорога от Окна к Дому Петьки"
-msgstr ""
+msgstr "Road from the Window to Petka's house"
 
 #. p_1_0 obj_188
 msgid "plan 1"
@@ -944,11 +944,11 @@ msgstr "Trash"
 
 #. p_1_0 obj_195
 msgid "Дверь в сарай"
-msgstr ""
+msgstr "Barn door"
 
 #. p_1_0 obj_196
 msgid "Открытый сарай"
-msgstr ""
+msgstr "Open barn"
 
 #. p_1_0 obj_197
 msgid "Алкаш"
@@ -956,39 +956,39 @@ msgstr "Drunkard"
 
 #. p_1_0 obj_198
 msgid "Красноармеец 1"
-msgstr ""
+msgstr "Red Army soldier 1"
 
 #. p_1_0 obj_199
 msgid "Красноармеец 2"
-msgstr ""
+msgstr "Red Army soldier 2"
 
 #. p_1_0 obj_200
 msgid "Красноармеец 3"
-msgstr ""
+msgstr "Red Army soldier 3"
 
 #. p_1_0 obj_201
 msgid "Красноармеец 4"
-msgstr ""
+msgstr "Red Army soldier 4"
 
 #. p_1_0 obj_202
 msgid "Красноармеец 5"
-msgstr ""
+msgstr "Red Army soldier 5"
 
 #. p_1_0 obj_203
 msgid "Вход в магазин"
-msgstr ""
+msgstr "Shop entrance"
 
 #. p_1_0 obj_204
 msgid "Выход от Магазина на Окно"
-msgstr ""
+msgstr "Exit from Shop to the Window"
 
 #. p_1_0 obj_205
 msgid "Выход от Магазина на Пальму"
-msgstr ""
+msgstr "Exit from Shop to the Palm"
 
 #. p_1_0 obj_206
 msgid "Выход из магазина"
-msgstr ""
+msgstr "Shop exit"
 
 #. p_1_0 obj_207
 msgid "Хлеб"
@@ -1008,19 +1008,19 @@ msgstr "Elephants"
 
 #. p_1_0 obj_211
 msgid "Серп и молот-1"
-msgstr ""
+msgstr "Hammer and Sickle-1"
 
 #. p_1_0 obj_212
 msgid "Серп и молот-2"
-msgstr ""
+msgstr "Hammer and Sickle-2"
 
 #. p_1_0 obj_213
 msgid "Серп и молот-3"
-msgstr ""
+msgstr "Hammer and Sickle-3"
 
 #. p_1_0 obj_214
 msgid "<Капитал>"
-msgstr ""
+msgstr "<Das Kapital>"
 
 #. p_1_0 obj_215
 msgid "Коврик"
@@ -1068,11 +1068,11 @@ msgstr "Samovar"
 
 #. p_1_0 obj_226
 msgid "Пальма в магазине"
-msgstr ""
+msgstr "Palm in the shop"
 
 #. p_1_0 obj_227
 msgid "Открытый замок"
-msgstr ""
+msgstr "Open lock"
 
 #. p_1_0 obj_228
 msgid "Дверь"
@@ -1084,19 +1084,19 @@ msgstr "Pork"
 
 #. p_1_0 obj_230
 msgid "Голодная корова"
-msgstr ""
+msgstr "Hungry cow"
 
 #. p_1_0 obj_231
 msgid "Сытая корова"
-msgstr ""
+msgstr "Fed cow"
 
 #. p_1_0 obj_232
 msgid "Шкура коровы"
-msgstr ""
+msgstr "Cow skin"
 
 #. p_1_0 obj_233
 msgid "Выход к Магазину"
-msgstr ""
+msgstr "Exit to the Shop"
 
 #. p_1_0 obj_234
 msgid "Тыква 1"
@@ -1116,15 +1116,15 @@ msgstr "Seedbed"
 
 #. p_1_0 obj_238
 msgid "Пасека от Пальмы"
-msgstr ""
+msgstr "Apiary to the Palm"
 
 #. p_1_0 obj_239
 msgid "Магазин от Пальмы"
-msgstr ""
+msgstr "Shop to the Palm"
 
 #. p_1_0 obj_240
 msgid "Кот за Пальмой"
-msgstr ""
+msgstr "Cat behind the Palm"
 
 #. p_1_0 obj_241
 msgid "Попугай"
@@ -1136,11 +1136,11 @@ msgstr "Barn"
 
 #. p_1_0 obj_243
 msgid "Росток пальмы"
-msgstr ""
+msgstr "Palm sapling"
 
 #. p_1_0 obj_244
 msgid "Молодая пальма"
-msgstr ""
+msgstr "Young palm"
 
 #. p_1_0 obj_245
 msgid "Пальма"
@@ -1152,27 +1152,27 @@ msgstr "Coconuts"
 
 #. p_1_0 obj_247
 msgid "Гнездо на Пальме"
-msgstr ""
+msgstr "Nest on the Palm"
 
 #. p_1_0 obj_248
 msgid "Дорога от Пальмы к Магазину"
-msgstr ""
+msgstr "Road from Palm to Shop"
 
 #. p_1_0 obj_249
 msgid "Дорога от Пальмы вокруг Сарая"
-msgstr ""
+msgstr "Rod from Palm around the Barn"
 
 #. p_1_0 obj_250
 msgid "Кокос на земле"
-msgstr ""
+msgstr "Coconut on the ground"
 
 #. p_1_0 obj_251
 msgid "Дерево1"
-msgstr ""
+msgstr "Tree1"
 
 #. p_1_0 obj_252
 msgid "Хлев1"
-msgstr ""
+msgstr "Barn1"
 
 #. p_1_0 obj_253
 msgid "Плетень"
@@ -1180,35 +1180,35 @@ msgstr "Wicker fence"
 
 #. p_1_0 obj_254
 msgid "Дорога к Пальме"
-msgstr ""
+msgstr "Road to the Palm"
 
 #. p_1_0 obj_255
 msgid "Дорога к Мостику"
-msgstr ""
+msgstr "Road to the Little bridge"
 
 #. p_1_0 obj_256
 msgid "Мостик1"
-msgstr ""
+msgstr "Little bridge1"
 
 #. p_1_0 obj_257
 msgid "Дом Фурманова."
-msgstr ""
+msgstr "Furmanov's house."
 
 #. p_1_0 obj_258
 msgid "Дорога от Мостика вокруг Сарая"
-msgstr ""
+msgstr "Road from the Little bridge around the Barn"
 
 #. p_1_0 obj_259
 msgid "MostReka"
-msgstr ""
+msgstr "BridgeRiver"
 
 #. p_1_0 obj_260
 msgid "Perila1"
-msgstr ""
+msgstr "Railings1"
 
 #. p_1_0 obj_261
 msgid "Perila2"
-msgstr ""
+msgstr "Railings2"
 
 #. p_1_0 obj_262
 msgid "Самолет"
@@ -1220,7 +1220,7 @@ msgstr "Apple-tree"
 
 #. p_1_0 obj_264
 msgid "Плетень 2"
-msgstr ""
+msgstr "Wicker fence 2"
 
 #. p_1_0 obj_265
 msgid "Колодец"
@@ -1232,7 +1232,7 @@ msgstr "Firewood"
 
 #. p_1_0 obj_267
 msgid "Дверь в дом Фурманова"
-msgstr ""
+msgstr "Furmanov's house door"
 
 #. p_1_0 obj_268
 msgid "Дома"
@@ -1248,23 +1248,23 @@ msgstr "Axe"
 
 #. p_1_0 obj_271
 msgid "Ворот с ведром внизу"
-msgstr ""
+msgstr "Winch with a bucket below"
 
 #. p_1_0 obj_272
 msgid "Ворот в руках Петьки"
-msgstr ""
+msgstr "Winch in Petka's hand"
 
 #. p_1_0 obj_273
 msgid "ВИЧ с ведром"
-msgstr ""
+msgstr "Chapayev with a bucket"
 
 #. p_1_0 obj_274
 msgid "Ворот без ведра"
-msgstr ""
+msgstr "Winch without the bucket"
 
 #. p_1_0 obj_275
 msgid "Ведро привязанное"
-msgstr ""
+msgstr "Tied bucket"
 
 #. p_1_0 obj_276
 msgid "Ведро"
@@ -1276,11 +1276,11 @@ msgstr "Rope"
 
 #. p_1_0 obj_278
 msgid "Веревка2"
-msgstr ""
+msgstr "Rope2"
 
 #. p_1_0 obj_279
 msgid "Веревка3"
-msgstr ""
+msgstr "Rope3"
 
 #. p_1_0 obj_280
 msgid "Фурманов"
@@ -1288,7 +1288,7 @@ msgstr "Furmanov"
 
 #. p_1_0 obj_281
 msgid "Закрытый люк"
-msgstr ""
+msgstr "Closed hatch"
 
 #. p_1_0 obj_282
 msgid "Плакат \"Шварценеггер\""
@@ -1308,7 +1308,7 @@ msgstr "Weapons"
 
 #. p_1_0 obj_286
 msgid "Столик"
-msgstr ""
+msgstr "Small table"
 
 #. p_1_0 obj_287
 msgid "Картина \"Ленин\""
@@ -1324,23 +1324,23 @@ msgstr "Oars"
 
 #. p_1_0 obj_290
 msgid "Выход из Комнаты Фурманова на Дом Фурманова"
-msgstr ""
+msgstr "Exit from Furmanov's room to Furmanov's house"
 
 #. p_1_0 obj_291
 msgid "Бутылки."
-msgstr ""
+msgstr "Bottles."
 
 #. p_1_0 obj_292
 msgid "Яблоко"
-msgstr ""
+msgstr "Apple"
 
 #. p_1_0 obj_293
 msgid "Табуретка-3"
-msgstr ""
+msgstr "Stool-3"
 
 #. p_1_0 obj_294
 msgid "Табуретка-4"
-msgstr ""
+msgstr "Stool-4"
 
 #. p_1_0 obj_295
 msgid "Забор A"
@@ -1356,19 +1356,19 @@ msgstr "Sign at the apiary"
 
 #. p_1_0 obj_298
 msgid "Лужа на Пасеке"
-msgstr ""
+msgstr "Puddle on the Apiary"
 
 #. p_1_0 obj_299
 msgid "Дупло на Пасеке"
-msgstr ""
+msgstr "Hollow on the Apiary"
 
 #. p_1_0 obj_300
 msgid "Дерево на Пасеке"
-msgstr ""
+msgstr "Tree on the Apiary"
 
 #. p_1_0 obj_301
 msgid "Ведро на Пасеке"
-msgstr ""
+msgstr "Bucket on the Apiary"
 
 #. p_1_0 obj_302
 msgid "Улей-1"
@@ -1384,35 +1384,35 @@ msgstr "Hive with bees"
 
 #. p_1_0 obj_305
 msgid "Пасечник Трезвый"
-msgstr ""
+msgstr "Sober beekeeper"
 
 #. p_1_0 obj_306
 msgid "Пасечник1"
-msgstr ""
+msgstr "Beekeper1"
 
 #. p_1_0 obj_307
 msgid "Пасечник Пьяный"
-msgstr ""
+msgstr "Drunk beekeeper"
 
 #. p_1_0 obj_308
 msgid "Пасечник Мертвецки Пьяный"
-msgstr ""
+msgstr "Dead drunk beekeeper"
 
 #. p_1_0 obj_309
 msgid "Провод на Пасеке"
-msgstr ""
+msgstr "Wire on the Apiary"
 
 #. p_1_0 obj_310
 msgid "Кот на Пасеке"
-msgstr ""
+msgstr "Cat on the Apiary"
 
 #. p_1_0 obj_311
 msgid "Дорога от Пасеки к Пальме"
-msgstr ""
+msgstr "Road from the Apiary to the Palm"
 
 #. p_1_0 obj_312
 msgid "Дорога от Пасеки к Свалке"
-msgstr ""
+msgstr "Road from the Apiary to the Landfill"
 
 #. p_1_0 obj_313
 msgid "Пчелы1"
@@ -1428,11 +1428,11 @@ msgstr "Empty can"
 
 #. p_1_0 obj_316
 msgid "Дерево на свалке"
-msgstr ""
+msgstr "Tree on the landfill"
 
 #. p_1_0 obj_317
 msgid "Мусор на свалке"
-msgstr ""
+msgstr "Junk on the landfill"
 
 #. p_1_0 obj_318
 msgid "Ручка унитаза"
@@ -1448,7 +1448,7 @@ msgstr "Rails"
 
 #. p_1_0 obj_321
 msgid "Пасека вдали"
-msgstr ""
+msgstr "Apiary far away"
 
 #. p_1_0 obj_322
 msgid "Провода"
@@ -1456,27 +1456,27 @@ msgstr "Wires"
 
 #. p_1_0 obj_323
 msgid "Сейф закрытый"
-msgstr ""
+msgstr "Closed safe"
 
 #. p_1_0 obj_324
 msgid "Сейф повернутый"
-msgstr ""
+msgstr "Tumbled safe"
 
 #. p_1_0 obj_325
 msgid "Маленький ключ"
-msgstr ""
+msgstr "Small key"
 
 #. p_1_0 obj_326
 msgid "Сейф закрытый без шифра"
-msgstr ""
+msgstr "Safe closed without code"
 
 #. p_1_0 obj_327
 msgid "Дорога от Свалки к Пасеке"
-msgstr ""
+msgstr "Road from the Landfill to Apiary"
 
 #. p_1_0 obj_328
 msgid "Дорога от Свалки к Трансформатору"
-msgstr ""
+msgstr "Road from the Landfill to the Transformer"
 
 #. p_1_0 obj_329
 msgid "Хлам"
@@ -1504,7 +1504,7 @@ msgstr "Skull"
 
 #. p_1_0 obj_335
 msgid "Оборванный провод"
-msgstr ""
+msgstr "Torn out wire"
 
 #. p_1_0 obj_336
 msgid "Дом"
@@ -1528,11 +1528,11 @@ msgstr "Right lever"
 
 #. p_1_0 obj_341
 msgid "Елка"
-msgstr ""
+msgstr "Spruce"
 
 #. p_1_0 obj_342
 msgid "Выход из Трансформатора на Свалку"
-msgstr ""
+msgstr "Exit from the Transformer to the Landfill"
 
 #. p_1_0 obj_343
 msgid "Статуя"
@@ -1540,7 +1540,7 @@ msgstr "Statue"
 
 #. p_1_0 obj_344
 msgid "Поломанная статуя"
-msgstr ""
+msgstr "Broken statue"
 
 #. p_1_0 obj_345
 msgid "Кнопка"
@@ -1556,43 +1556,43 @@ msgstr "Poster"
 
 #. p_1_0 obj_348
 msgid "Плакат на клубе 1"
-msgstr ""
+msgstr "Poster on the club 1"
 
 #. p_1_0 obj_349
 msgid "Плакат на клубе 2"
-msgstr ""
+msgstr "Poster on the club 2"
 
 #. p_1_0 obj_350
 msgid "Плакат на клубе 3"
-msgstr ""
+msgstr "Poster on the club 3"
 
 #. p_1_0 obj_351
 msgid "Плакат на клубе 4"
-msgstr ""
+msgstr "Poster on the club 4"
 
 #. p_1_0 obj_352
 msgid "Плакат на клубе 5"
-msgstr ""
+msgstr "Poster on the club 5"
 
 #. p_1_0 obj_353
 msgid "Дорога от Клуба к Окну"
-msgstr ""
+msgstr "Road from the Club to the Window"
 
 #. p_1_0 obj_354
 msgid "Дорога от Клуба к Перекрестку"
-msgstr ""
+msgstr "Road from the Club to the Crossroads"
 
 #. p_1_0 obj_355
 msgid "Вход в АКТОВЫЙ ЗАЛ"
-msgstr ""
+msgstr "Entrance to the MAIN HALL"
 
 #. p_1_0 obj_356
 msgid "Доктор Лектор"
-msgstr ""
+msgstr "Doctor Lector"
 
 #. p_1_0 obj_357
 msgid "Выход из клуба к входу в Клуб"
-msgstr ""
+msgstr "Exit from the club to the Club entrance"
 
 #. p_1_0 obj_358
 msgid "Лампочка"
@@ -1600,11 +1600,11 @@ msgstr "Lamp"
 
 #. p_1_0 obj_359
 msgid "Мужик с газетой"
-msgstr ""
+msgstr "Man with a newspaper"
 
 #. p_1_0 obj_360
 msgid "Баба с гусем"
-msgstr ""
+msgstr "Woman with a goose"
 
 #. p_1_0 obj_361
 msgid "Чекист"
@@ -1636,11 +1636,11 @@ msgstr "Strange looking stove"
 
 #. p_1_0 obj_368
 msgid "ВИЧ спящий"
-msgstr ""
+msgstr "Sleeping Chapayev"
 
 #. p_1_0 obj_369
 msgid "Петька сидящий"
-msgstr ""
+msgstr "Sitting Petka"
 
 #. p_1_0 obj_370
 msgid "Пламя"
@@ -1652,19 +1652,19 @@ msgstr "Sign"
 
 #. p_1_0 obj_372
 msgid "Дорога от Перекрестка на Мост"
-msgstr ""
+msgstr "Road from the Crossroads to the Bridge"
 
 #. p_1_0 obj_373
 msgid "Дорога от Перекрестка к Клубу"
-msgstr ""
+msgstr "Road from the Crossroads to the Club"
 
 #. p_1_0 obj_374
 msgid "Дорога от Перекрестка к  Лесу с Транспарантом"
-msgstr ""
+msgstr "Road from the Crossroads to the Forest with a Plackard"
 
 #. p_1_0 obj_375
 msgid "Дорога от Перекрестка к Лесу - 2"
-msgstr ""
+msgstr "Road from the Crossroads to the Forest - 2"
 
 #. p_1_0 obj_376
 msgid "Пионеры"
@@ -1676,31 +1676,31 @@ msgstr "Boy-scout"
 
 #. p_1_0 obj_378
 msgid "ElkaP"
-msgstr ""
+msgstr "SpruceP"
 
 #. p_1_0 obj_379
 msgid "Транспарант"
-msgstr ""
+msgstr "Plackard"
 
 #. p_1_0 obj_380
 msgid "Дорога к Болоту"
-msgstr ""
+msgstr "Road to the Swamp"
 
 #. p_1_0 obj_381
 msgid "Дорога от Транспаранта к Перекрестку"
-msgstr ""
+msgstr "Road from the Plackard to the Crossroads"
 
 #. p_1_0 obj_382
 msgid "ДеревоЛ"
-msgstr ""
+msgstr "TreeL"
 
 #. p_1_0 obj_383
 msgid "Коряга"
-msgstr ""
+msgstr "Snag"
 
 #. p_1_0 obj_384
 msgid "Матрос"
-msgstr ""
+msgstr "Seaman"
 
 #. p_1_0 obj_385
 msgid "Ворона"
@@ -1712,11 +1712,11 @@ msgstr "Socks"
 
 #. p_1_0 obj_387
 msgid "Мухомор на болоте"
-msgstr ""
+msgstr "Amanita on the Swamp"
 
 #. p_1_0 obj_388
 msgid "Грядка с табаком"
-msgstr ""
+msgstr "Garden bed with tobacco"
 
 #. p_1_0 obj_389
 msgid "Табак"
@@ -1724,11 +1724,11 @@ msgstr "Tobacco"
 
 #. p_1_0 obj_390
 msgid "Табак1"
-msgstr ""
+msgstr "Tobacco1"
 
 #. p_1_0 obj_391
 msgid "Табак2"
-msgstr ""
+msgstr "Tobacco2"
 
 #. p_1_0 obj_392
 msgid "Болото"
@@ -1736,7 +1736,7 @@ msgstr "Swamp"
 
 #. p_1_0 obj_393
 msgid "Бревно на болоте"
-msgstr ""
+msgstr "Log on the swamp"
 
 #. p_1_0 obj_394
 msgid "Угольки"
@@ -1744,31 +1744,31 @@ msgstr "Coal pieces"
 
 #. p_1_0 obj_395
 msgid "Домик на другом берегу"
-msgstr ""
+msgstr "Little house on the other side"
 
 #. p_1_0 obj_396
 msgid "Береза на болоте"
-msgstr ""
+msgstr "Birch on the swamp"
 
 #. p_1_0 obj_397
 msgid "Выход из Болота на Лес с Транспарантом"
-msgstr ""
+msgstr "Exit from the Swamp to the Forest with Plackard"
 
 #. p_1_0 obj_398
 msgid "Палка на болоте"
-msgstr ""
+msgstr "Stick on the swamp"
 
 #. p_1_0 obj_399
 msgid "Дорога от Леса -2 к Пеньку"
-msgstr ""
+msgstr "Road from the Forest-2 to the Stump"
 
 #. p_1_0 obj_400
 msgid "Дорога от Леса -2 к Перекрестку"
-msgstr ""
+msgstr "Road from the Forest-2 to the Crossorads"
 
 #. p_1_0 obj_401
 msgid "ДеревоП"
-msgstr ""
+msgstr "TreeR"
 
 #. p_1_0 obj_402
 msgid "Пенек"
@@ -1780,47 +1780,47 @@ msgstr "Twig"
 
 #. p_1_0 obj_404
 msgid "Дорога от Пенька на Поле"
-msgstr ""
+msgstr "Road from the Stump to the Filed"
 
 #. p_1_0 obj_405
 msgid "Дорога от Пенька на Лес - 2"
-msgstr ""
+msgstr "Road from the Stump to Forest - 2"
 
 #. p_1_0 obj_406
 msgid "Пенек1"
-msgstr ""
+msgstr "Stump1"
 
 #. p_1_0 obj_407
 msgid "Пенек2"
-msgstr ""
+msgstr "Stump2"
 
 #. p_1_0 obj_408
 msgid "Пенек3"
-msgstr ""
+msgstr "Stump3"
 
 #. p_1_0 obj_409
 msgid "Пенек4"
-msgstr ""
+msgstr "Stump4"
 
 #. p_1_0 obj_410
 msgid "Стог сена"
-msgstr ""
+msgstr "Haystack"
 
 #. p_1_0 obj_411
 msgid "Стог с пятками"
-msgstr ""
+msgstr "Haystack with the soles"
 
 #. p_1_0 obj_412
 msgid "Пятки"
-msgstr ""
+msgstr "Soles"
 
 #. p_1_0 obj_413
 msgid "Сено на Поле"
-msgstr ""
+msgstr "Hay on the Field"
 
 #. p_1_0 obj_414
 msgid "Дома деревни"
-msgstr ""
+msgstr "Village houses"
 
 #. p_1_0 obj_415
 msgid "Дорога с Поля на Пенек"
@@ -2488,7 +2488,7 @@ msgstr "Spare parts"
 
 #. p_1_0 name_66, Доктор Лектор
 msgid "Лектор"
-msgstr "Reader"
+msgstr "Lector"
 
 #. p_1_0 name_71, Домик на другом берегу
 msgid "Домик"
