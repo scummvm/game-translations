@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Petka1 0.0.1\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2020-12-07 22:01+0000\n"
-"PO-Revision-Date: 2020-12-14 00:14+0000\n"
+"PO-Revision-Date: 2020-12-14 00:35+0000\n"
 "Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
 "Language-Team: English <https://translations.scummvm.org/projects/petka/"
 "petka1/en/>\n"
@@ -1824,39 +1824,39 @@ msgstr "Village houses"
 
 #. p_1_0 obj_415
 msgid "Дорога с Поля на Пенек"
-msgstr ""
+msgstr "Road from the Filed to the Stump"
 
 #. p_1_0 obj_416
 msgid "Дорога с Поля к Печке"
-msgstr ""
+msgstr "Road from the Field to the Stove"
 
 #. p_1_0 obj_417
 msgid "Куст обыкновенный"
-msgstr ""
+msgstr "Bush vulgaris"
 
 #. p_1_0 obj_418
 msgid "Мост к белым"
-msgstr ""
+msgstr "Bridge to the Whites"
 
 #. p_1_0 obj_419
 msgid "Будка охраны"
-msgstr ""
+msgstr "Guard's booth"
 
 #. p_1_0 obj_420
 msgid "Знак \"Белая Сволочь\""
-msgstr ""
+msgstr "Sign \"White bastards\""
 
 #. p_1_0 obj_421
 msgid "Банка с желтой краской"
-msgstr ""
+msgstr "Jar with yellow paint"
 
 #. p_1_0 obj_422
 msgid "1-ый Белогвардеец"
-msgstr ""
+msgstr "1st White soldier"
 
 #. p_1_0 obj_423
 msgid "2-ой Белогвардеец"
-msgstr ""
+msgstr "2nd White soldier"
 
 #. p_1_0 obj_424
 msgid "Река"
@@ -1868,39 +1868,39 @@ msgstr "Bush"
 
 #. p_1_0 obj_426
 msgid "Дома на мосту"
-msgstr ""
+msgstr "Houses on the bridge"
 
 #. p_1_0 obj_427
 msgid "Дорога от Моста к Перекрестку"
-msgstr ""
+msgstr "Road from the Bridge to the Crossroads"
 
 #. p_1_0 obj_428
 msgid "Переодетый Петька"
-msgstr ""
+msgstr "Petka in disguise"
 
 #. p_1_0 obj_429
 msgid "Переодетый ВИЧ"
-msgstr ""
+msgstr "Chapayev in disguise"
 
 #. p_1_0 obj_430
 msgid "Куст1"
-msgstr ""
+msgstr "Bush1"
 
 #. p_1_0 obj_431
 msgid "Куст2"
-msgstr ""
+msgstr "Bush2"
 
 #. p_1_0 obj_432
 msgid "Куст3"
-msgstr ""
+msgstr "Bush3"
 
 #. p_1_0 obj_433
 msgid "Куст4"
-msgstr ""
+msgstr "Bush4"
 
 #. p_1_0 obj_434
 msgid "Анка - МОСТ"
-msgstr ""
+msgstr "Anka - BRIDGE"
 
 #. p_1_0 obj_435
 msgid "Анархисты"
@@ -1908,35 +1908,35 @@ msgstr "Anarchists"
 
 #. p_1_0 obj_436
 msgid "Анархисты и пчелы"
-msgstr ""
+msgstr "Anarchists and the bees"
 
 #. p_1_0 obj_437
 msgid "Хитрая баба"
-msgstr ""
+msgstr "Sly woman"
 
 #. p_1_0 obj_438
 msgid "Третий час"
-msgstr ""
+msgstr "Third hour"
 
 #. p_1_0 obj_439
 msgid "Темно"
-msgstr ""
+msgstr "Dark"
 
 #. p_1_0 obj_440
 msgid "Флик с магнитом 1"
-msgstr ""
+msgstr "Flick with magnet 1"
 
 #. p_1_0 obj_441
 msgid "Флик с магнитом 2"
-msgstr ""
+msgstr "Flick with magnet 2"
 
 #. p_1_0 obj_442
 msgid "Флик с магнитом 3"
-msgstr ""
+msgstr "Flick with magnet 3"
 
 #. p_1_0 obj_443
 msgid "Флик с магнитом 4"
-msgstr ""
+msgstr "Flick with magnet 4"
 
 #. p_1_0 obj_444
 msgid "Конец первой части"
@@ -1944,11 +1944,11 @@ msgstr "The end of part one"
 
 #. p_1_0 obj_445
 msgid "Дым1"
-msgstr ""
+msgstr "Smoke1"
 
 #. p_1_0 obj_446
 msgid "Bees"
-msgstr ""
+msgstr "Bees"
 
 #. p_1_0 obj_447
 msgid "SpDialog1"
@@ -2056,139 +2056,139 @@ msgstr ""
 
 #. p_1_0 obj_473
 msgid "SpDialog32"
-msgstr ""
+msgstr "SpDialog32"
 
 #. p_1_0 obj_474
 msgid "SpDialog33"
-msgstr ""
+msgstr "SpDialog33"
 
 #. p_1_0 obj_475
 msgid "SpDialog34"
-msgstr ""
+msgstr "SpDialog34"
 
 #. p_1_0 obj_476
 msgid "SpDialog35"
-msgstr ""
+msgstr "SpDialog35"
 
 #. p_1_0 obj_477
 msgid "SpDialog36"
-msgstr ""
+msgstr "SpDialog36"
 
 #. p_1_0 obj_478
 msgid "SpDialog37"
-msgstr ""
+msgstr "SpDialog37"
 
 #. p_1_0 obj_479
 msgid "SpDialog38"
-msgstr ""
+msgstr "SpDialog38"
 
 #. p_1_0 obj_480
 msgid "SpDialog39"
-msgstr ""
+msgstr "SpDialog39"
 
 #. p_1_0 obj_481
 msgid "SpDialog40"
-msgstr ""
+msgstr "SpDialog40"
 
 #. p_1_0 obj_482
 msgid "SpDialog41"
-msgstr ""
+msgstr "SpDialog41"
 
 #. p_1_0 obj_483
 msgid "SpDialog42"
-msgstr ""
+msgstr "SpDialog42"
 
 #. p_1_0 obj_484
 msgid "SpDialog43"
-msgstr ""
+msgstr "SpDialog43"
 
 #. p_1_0 obj_485
 msgid "INTRO1"
-msgstr ""
+msgstr "INTRO1"
 
 #. p_1_0 obj_486
 msgid "INTRO1A FLY"
-msgstr ""
+msgstr "INTRO1A FLY"
 
 #. p_1_0 obj_487
 msgid "INTRO2 GALAXY"
-msgstr ""
+msgstr "INTRO2 GALAXY"
 
 #. p_1_0 obj_488
 msgid "INTRO2 STONES1"
-msgstr ""
+msgstr "INTRO2 STONES1"
 
 #. p_1_0 obj_489
 msgid "INTRO2 STONES2"
-msgstr ""
+msgstr "INTRO2 STONES2"
 
 #. p_1_0 obj_490
 msgid "INTRO2 SPACESHIP"
-msgstr ""
+msgstr "INTRO2 SPACESHIP"
 
 #. p_1_0 obj_491
 msgid "INTRO3 SUN"
-msgstr ""
+msgstr "INTRO3 SUN"
 
 #. p_1_0 obj_492
 msgid "INTRO3 PLANETS"
-msgstr ""
+msgstr "INTRO3 PLANETS"
 
 #. p_1_0 obj_493
 msgid "INTRO3 EARTH"
-msgstr ""
+msgstr "INTRO3 EARTH"
 
 #. p_1_0 obj_494
 msgid "INTRO4 COMETS"
-msgstr ""
+msgstr "INTRO4 COMETS"
 
 #. p_1_0 obj_495
 msgid "INTRO4 MOON"
-msgstr ""
+msgstr "INTRO4 MOON"
 
 #. p_1_0 obj_496
 msgid "INTRO4 BULLET"
-msgstr ""
+msgstr "INTRO4 BULLET"
 
 #. p_1_0 obj_497
 msgid "INTRO4 STAR1"
-msgstr ""
+msgstr "INTRO4 STAR1"
 
 #. p_1_0 obj_498
 msgid "INTRO4 STAR2"
-msgstr ""
+msgstr "INTRO4 STAR2"
 
 #. p_1_0 obj_499
 msgid "INTRO5 SAILORS"
-msgstr ""
+msgstr "INTRO5 SAILORS"
 
 #. p_1_0 obj_500
 msgid "INTRO6 ALIENS"
-msgstr ""
+msgstr "INTRO6 ALIENS"
 
 #. p_1_0 obj_501
 msgid "INTRO7 BOSS"
-msgstr ""
+msgstr "INTRO7 BOSS"
 
 #. p_1_0 obj_502
 msgid "INTRO8 STARS"
-msgstr ""
+msgstr "INTRO8 STARS"
 
 #. p_1_0 obj_503
 msgid "INTRO8 TELESCOPE"
-msgstr ""
+msgstr "INTRO8 TELESCOPE"
 
 #. p_1_0 obj_504
 msgid "INTRO9 EARTH"
-msgstr ""
+msgstr "INTRO9 EARTH"
 
 #. p_1_0 obj_505
 msgid "Petka smoking"
-msgstr ""
+msgstr "Petka smoking"
 
 #. p_1_0 obj_506
 msgid "SpDialog44"
-msgstr ""
+msgstr "SpDialog44"
 
 #. p_1_0 scn_508
 msgid "Inventory"
@@ -2216,15 +2216,15 @@ msgstr ""
 
 #. p_1_0 scn_514
 msgid "АКТОВЫЙ ЗАЛ В КЛУБЕ"
-msgstr ""
+msgstr "CLUB MAIN HALL"
 
 #. p_1_0 scn_515
 msgid "БАНЯ"
-msgstr ""
+msgstr "SAUNA"
 
 #. p_1_0 scn_516
 msgid "БОЛОТО"
-msgstr ""
+msgstr "SWAMP"
 
 #. p_1_0 scn_517
 msgid "ВРЕМЯНКА"
@@ -16126,59 +16126,59 @@ msgstr ""
 
 #. p_2_0 obj_679
 msgid "SpDialog1"
-msgstr ""
+msgstr "SpDialog1"
 
 #. p_2_0 obj_680
 msgid "SpDialog2"
-msgstr ""
+msgstr "SpDialog2"
 
 #. p_2_0 obj_681
 msgid "SpDialog3"
-msgstr ""
+msgstr "SpDialog3"
 
 #. p_2_0 obj_682
 msgid "SpDialog4"
-msgstr ""
+msgstr "SpDialog4"
 
 #. p_2_0 obj_683
 msgid "SpDialog5"
-msgstr ""
+msgstr "SpDialog5"
 
 #. p_2_0 obj_684
 msgid "SpDialog6"
-msgstr ""
+msgstr "SpDialog6"
 
 #. p_2_0 obj_685
 msgid "SpDialog7"
-msgstr ""
+msgstr "SpDialog7"
 
 #. p_2_0 obj_686
 msgid "SpDialog8"
-msgstr ""
+msgstr "SpDialog8"
 
 #. p_2_0 obj_687
 msgid "SpDialog9"
-msgstr ""
+msgstr "SpDialog9"
 
 #. p_2_0 obj_688
 msgid "SpDialog10"
-msgstr ""
+msgstr "SpDialog10"
 
 #. p_2_0 obj_689
 msgid "SpDialog11"
-msgstr ""
+msgstr "SpDialog11"
 
 #. p_2_0 obj_690
 msgid "SpDialog12"
-msgstr ""
+msgstr "SpDialog12"
 
 #. p_2_0 obj_691
 msgid "SpDialog13"
-msgstr ""
+msgstr "SpDialog13"
 
 #. p_2_0 obj_692
 msgid "SpDialog14"
-msgstr ""
+msgstr "SpDialog14"
 
 #. p_2_0 obj_693
 msgid "SpDialog15"
@@ -16202,35 +16202,35 @@ msgstr ""
 
 #. p_2_0 obj_698
 msgid "SpDialog20"
-msgstr ""
+msgstr "SpDialog20"
 
 #. p_2_0 obj_699
 msgid "SpDialog21"
-msgstr ""
+msgstr "SpDialog21"
 
 #. p_2_0 obj_700
 msgid "SpDialog22"
-msgstr ""
+msgstr "SpDialog22"
 
 #. p_2_0 obj_701
 msgid "SpDialog23"
-msgstr ""
+msgstr "SpDialog23"
 
 #. p_2_0 obj_702
 msgid "SpDialog24"
-msgstr ""
+msgstr "SpDialog24"
 
 #. p_2_0 obj_703
 msgid "SpDialog25"
-msgstr ""
+msgstr "SpDialog25"
 
 #. p_2_0 obj_704
 msgid "SpDialog26"
-msgstr ""
+msgstr "SpDialog26"
 
 #. p_2_0 obj_705
 msgid "SpDialog27"
-msgstr ""
+msgstr "SpDialog27"
 
 #. p_2_0 obj_706
 msgid "Бутылка в ресторане 4"
@@ -16242,7 +16242,7 @@ msgstr ""
 
 #. p_2_0 obj_708
 msgid "SpDialog28"
-msgstr ""
+msgstr "SpDialog28"
 
 #. p_2_0 obj_709
 msgid "Столб 1 -  Ж/Д СТАНЦИЯ"
@@ -16262,15 +16262,15 @@ msgstr ""
 
 #. p_2_0 obj_713
 msgid "SpDialog29"
-msgstr ""
+msgstr "SpDialog29"
 
 #. p_2_0 obj_714
 msgid "SpDialog30"
-msgstr ""
+msgstr "SpDialog30"
 
 #. p_2_0 obj_715
 msgid "SpDialog31"
-msgstr ""
+msgstr "SpDialog31"
 
 #. p_2_0 obj_716
 msgid "END - Seq - КОНЕЦ ВТОРОЙ ЧАСТИ"
@@ -16278,7 +16278,7 @@ msgstr ""
 
 #. p_2_0 scn_718
 msgid "Inventory"
-msgstr ""
+msgstr "Inventory"
 
 #. p_2_0 scn_719
 msgid "Reserved"
@@ -16286,7 +16286,7 @@ msgstr "Reserved"
 
 #. p_2_0 scn_720
 msgid "SpDialogs"
-msgstr ""
+msgstr "SpDialogs"
 
 #. p_2_0 scn_721
 msgid "ПАНЕЛЬ УПРАВЛЕНИЯ"
@@ -16294,7 +16294,7 @@ msgstr "CONTROL PANEL"
 
 #. p_2_0 scn_722
 msgid "КАРТА"
-msgstr ""
+msgstr "MAP"
 
 #. p_2_0 scn_723
 msgid "ДВОР"
