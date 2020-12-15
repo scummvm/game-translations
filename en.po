@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Petka1 0.0.1\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2020-12-07 22:01+0000\n"
-"PO-Revision-Date: 2020-12-14 11:35+0000\n"
+"PO-Revision-Date: 2020-12-15 17:07+0000\n"
 "Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
 "Language-Team: English <https://translations.scummvm.org/projects/petka/"
 "petka1/en/>\n"
@@ -8184,15 +8184,15 @@ msgstr "What should I do with that beehive?"
 
 #. p_1_0 msg_1448, 1 - Василий Иванович
 msgid "Пчел этим не выкуришь, а табак..."
-msgstr ""
+msgstr "You can smoke out tobacco with it, not the bees..."
 
 #. p_1_0 msg_1449, 0 - Петька
 msgid "Ну жаль его!"
-msgstr ""
+msgstr "Go, sting him!"
 
 #. p_1_0 msg_1450, 1 - Василий Иванович
 msgid "Вряд ли Кузьмич обрадуется..."
-msgstr ""
+msgstr "I don't think Kuzmich will be glad..."
 
 #. p_1_0 msg_1451, 0 - Петька
 msgid "Этот улей пустой."
@@ -8372,7 +8372,7 @@ msgstr "Too bad for you!"
 
 #. p_1_0 msg_1508, 305 - Пасечник Трезвый
 msgid "Теща вот у меня больная была, совсем ее ревматизм замучил."
-msgstr ""
+msgstr "Look, my mother-in-law can't move a limb. Rheumatism, you see."
 
 #. p_1_0 msg_1509, 305 - Пасечник Трезвый
 msgid "И вот, услышал я как-то, что лучше пчелиных укусов - лекарства от ревматизма нету."
@@ -8380,7 +8380,7 @@ msgstr "So, I heard they use bee stings as medicine in the East."
 
 #. p_1_0 msg_1510, 305 - Пасечник Трезвый
 msgid "Решил, понимаешь, на теще-то своей и проверить."
-msgstr ""
+msgstr "I decided to try it out on her, see?"
 
 #. p_1_0 msg_1511, 305 - Пасечник Трезвый
 msgid "Набрал, значит, банку целую из улья..."
@@ -8392,7 +8392,7 @@ msgstr "Let them out under her blanket at night..."
 
 #. p_1_0 msg_1513, 305 - Пасечник Трезвый
 msgid "Ревматизм - как рукой сняло!"
-msgstr ""
+msgstr "And her rheumatism was gone in seconds!"
 
 #. p_1_0 msg_1514, 305 - Пасечник Трезвый
 msgid "Вскочила, понимаешь, схватила топор, да по всей деревне - кругами..."
@@ -8404,7 +8404,7 @@ msgstr "She chased me for at least an hour and a half!"
 
 #. p_1_0 msg_1516, 0 - Петька
 msgid "А ты нам пчелок своих не одложишь?"
-msgstr ""
+msgstr "Can you give us some bees?"
 
 #. p_1_0 msg_1517, 0 - Петька
 msgid "Ненадолго..."
@@ -8412,11 +8412,11 @@ msgstr "Just for a little while..."
 
 #. p_1_0 msg_1518, 305 - Пасечник Трезвый
 msgid "Что ж я их, кому ни попадя отдавать стану..."
-msgstr ""
+msgstr "Yeah, right... I wouldn't give them to anyone..."
 
 #. p_1_0 msg_1519, 305 - Пасечник Трезвый
 msgid "Вот ежели б вы мне махорочки, да позабористей принесли, тогда мы, глядишь, по-другому поговорили бы..."
-msgstr ""
+msgstr "Unless that anyone brings me some homemade cigarettes..."
 
 #. p_1_0 msg_1520, 1 - Василий Иванович
 msgid "А то скоро вообще черти  мерещиться начнут!"
@@ -8524,7 +8524,7 @@ msgstr "First you don't want to listen, and now you're calling me names."
 
 #. p_1_0 msg_1546, 0 - Петька
 msgid "А то может все-таки одолжишь десяток-другой?"
-msgstr ""
+msgstr "Maybe you still could lend me a dozen or two?"
 
 #. p_1_0 msg_1547, 305 - Пасечник Трезвый
 msgid "Вот притащите махорку, тогда и поговорим!"
