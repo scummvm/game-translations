@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Petka1 0.0.1\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2020-12-07 22:01+0000\n"
-"PO-Revision-Date: 2020-12-15 17:07+0000\n"
+"PO-Revision-Date: 2020-12-23 17:22+0000\n"
 "Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
 "Language-Team: English <https://translations.scummvm.org/projects/petka/"
 "petka1/en/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.3.2\n"
+"X-Generator: Weblate 4.4\n"
 
 #. p_0_0 obj_0
 msgid "Петька"
@@ -8596,7 +8596,7 @@ msgstr "I'll give you as many as you like!"
 
 #. p_1_0 msg_1564, 307 - Пасечник Пьяный
 msgid "Только вот, понимаешь, выпить больно охота..."
-msgstr ""
+msgstr "But I'm so thirsty..."
 
 #. p_1_0 msg_1565, 0 - Петька
 msgid "Ладно уж, пойдем, поищем..."
@@ -8604,7 +8604,7 @@ msgstr "Ok, ok. We'll find you something..."
 
 #. p_1_0 msg_1566, 0 - Петька
 msgid "Но, если опять обманешь..."
-msgstr ""
+msgstr "But if you trick us again..."
 
 #. p_1_0 msg_1567, 307 - Пасечник Пьяный
 msgid "Да вы несите, несите - будут вам ваши пчелы."
@@ -8620,15 +8620,15 @@ msgstr "Probably..."
 
 #. p_1_0 msg_1570, 0 - Петька
 msgid "У Кузьмича круг интересов ограничен:"
-msgstr ""
+msgstr "Kuzmich has a narrow set of interests:"
 
 #. p_1_0 msg_1571, 0 - Петька
 msgid "Ему бы покурить..."
-msgstr ""
+msgstr "He'd smoke..."
 
 #. p_1_0 msg_1572, 0 - Петька
 msgid "Да выпить..."
-msgstr ""
+msgstr "And drink..."
 
 #. p_1_0 msg_1576, 0 - Петька
 msgid "Обещал пчелами поделиться, выполняй."
@@ -8660,7 +8660,7 @@ msgstr "So? What about our bees?"
 
 #. p_1_0 msg_1585, 307 - Пасечник Пьяный
 msgid "Ну подождите..."
-msgstr ""
+msgstr "Just wait..."
 
 #. p_1_0 msg_1586, 307 - Пасечник Пьяный
 msgid "Подождите чуток..."
@@ -8728,11 +8728,11 @@ msgstr "HA-HA-HA!"
 
 #. p_1_0 msg_1602, 307 - Пасечник Пьяный
 msgid "Ох, уморил!"
-msgstr ""
+msgstr "You've just made my day!"
 
 #. p_1_0 msg_1603, 307 - Пасечник Пьяный
 msgid "А еще можешь?"
-msgstr ""
+msgstr "Know any more?"
 
 #. p_1_0 msg_1604, 0 - Петька
 msgid "Василий Иваныч очень любил пасечников."
@@ -8768,7 +8768,7 @@ msgstr "HA!"
 
 #. p_1_0 msg_1612, 307 - Пасечник Пьяный
 msgid "Странные чего-то у тебя шуточки, Петр."
-msgstr ""
+msgstr "Strange jokes you've got there, Pete..."
 
 #. p_1_0 msg_1613, 307 - Пасечник Пьяный
 msgid "А ну давай еще!"
@@ -8916,7 +8916,7 @@ msgstr "You'd better not connect with this wire."
 
 #. p_1_0 msg_1655, 1 - Василий Иванович
 msgid "Не нравится мне эта затея."
-msgstr ""
+msgstr "I don't like your idea."
 
 #. p_1_0 msg_1658, 0 - Петька
 msgid "Кот как кот."
@@ -9008,7 +9008,7 @@ msgstr "The bank is too high to get to it."
 
 #. p_1_0 msg_1682, 1 - Василий Иванович
 msgid "Бери сам, Петька"
-msgstr ""
+msgstr "Help yourself, Pete"
 
 #. p_1_0 msg_1683, 0 - Петька
 msgid "Это рельсы."
@@ -9024,7 +9024,7 @@ msgstr "You can figure the rest out..."
 
 #. p_1_0 msg_1686, 0 - Петька
 msgid "Пасека - там живут пчелы и Кузьмич"
-msgstr ""
+msgstr "Apiary - Bees and Kuzmich are dwelling there"
 
 #. p_1_0 msg_1687, 0 - Петька
 msgid "Провода какие-то."
@@ -9677,6 +9677,8 @@ msgstr "We're all civilized people here. I'm not going to step on their heads."
 #. p_1_0 msg_1874, 369 - Петька сидящий
 msgid "Василь Иваныч, вас генералом хотят сделать!Чем-то этот выход мне симпатичен."
 msgstr ""
+"They're going to promote you to general, Vasily Ivanovich! I like this "
+"outcome."
 
 #. p_1_0 msg_1875, 369 - Петька сидящий
 msgid "Ничего не выйдет."
@@ -10184,7 +10186,7 @@ msgstr "What orientation are you?"
 
 #. p_1_0 msg_2016, 0 - Петька
 msgid "У меня с ориентацией все вроде нормально,"
-msgstr ""
+msgstr "The normal kind, last time I checked,"
 
 #. p_1_0 msg_2017, 1 - Василий Иванович
 msgid "Ну ладно, а то я было испугался."
@@ -10209,6 +10211,8 @@ msgstr "If we take that sign, many people will get lost!"
 #. p_1_0 msg_2022, 1 - Василий Иванович
 msgid "Что на табличках написано - все правда, а прочитать, Петька, ты и сам можешь."
 msgstr ""
+"I wholeheartedly agree with the context of the sign. I'm sure you can read "
+"it yourself, Pete."
 
 #. p_1_0 msg_2023, 0 - Петька
 msgid "Срубить указатель?"
@@ -10490,7 +10494,7 @@ msgstr "Nice!"
 
 #. p_1_0 msg_2094, 376 - Пионеры
 msgid "Ну тогда мне другая и не нужна, держите."
-msgstr ""
+msgstr "Then I do not need another one. Here, have it."
 
 #. p_1_0 msg_2095, 0 - Петька
 msgid "Точно!"
@@ -10510,7 +10514,7 @@ msgstr "Thank you."
 
 #. p_1_0 msg_2099, 0 - Петька
 msgid "Не за что..."
-msgstr ""
+msgstr "You're welcome..."
 
 #. p_1_0 msg_2100, 0 - Петька
 msgid "Как говорится, молодым везде у нас дорога..."
