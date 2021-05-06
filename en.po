@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Petka1 0.0.1\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2020-12-07 22:01+0000\n"
-"PO-Revision-Date: 2020-12-23 17:22+0000\n"
-"Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
+"PO-Revision-Date: 2021-05-08 00:25+0000\n"
+"Last-Translator: iplaysomegames101 <eduardodelphinodepaula@gmail.com>\n"
 "Language-Team: English <https://translations.scummvm.org/projects/petka/"
 "petka1/en/>\n"
 "Language: en\n"
@@ -10518,11 +10518,11 @@ msgstr "You're welcome..."
 
 #. p_1_0 msg_2100, 0 - Петька
 msgid "Как говорится, молодым везде у нас дорога..."
-msgstr ""
+msgstr "As they say, young people are dear to us everywhere..."
 
 #. p_1_0 msg_2101, 376 - Пионеры
 msgid "Ну тогда я пошел."
-msgstr ""
+msgstr "Well then I went."
 
 #. p_1_0 msg_2102, 0 - Петька
 msgid "Этот знак чудесным образом указывает нам верную дорогу."
@@ -10530,7 +10530,7 @@ msgstr "This sign shows the correct way, like some kind of magic sign."
 
 #. p_1_0 msg_2103, 0 - Петька
 msgid "Без него кто-нибудь может заблудится."
-msgstr ""
+msgstr "Without it, someone can get lost."
 
 #. p_1_0 msg_2104, 0 - Петька
 msgid "Спасибо, транспарант, мы тебе верим."
@@ -10599,6 +10599,8 @@ msgstr "But tobacco - no way, no thanks, it's the most precious thing I've got."
 #. p_1_0 msg_2121, 384 - Матрос
 msgid "Сам грядки копал, сам сеял, сам поливал, сам растил, сам охраняю..."
 msgstr ""
+"I myself dug the beds, I sowed it myself, I watered it myself, I raised it "
+"myself, I guard it myself..."
 
 #. p_1_0 msg_2122, 384 - Матрос
 msgid "А тут еще эта напасть..."
@@ -11390,51 +11392,51 @@ msgstr "Movie-groovy-my butt, Pete!"
 
 #. p_1_0 msg_2327, 0 - Петька
 msgid "Эй, пятки!"
-msgstr ""
+msgstr "Hey heels!"
 
 #. p_1_0 msg_2328, 1 - Василий Иванович
 msgid "Тс-с, Петька, не будем человека тревожить."
-msgstr ""
+msgstr "Hs-s, Petka, let's not disturb the person."
 
 #. p_1_0 msg_2329, 1 - Василий Иванович
 msgid "Может он там спит."
-msgstr ""
+msgstr "Maybe he's sleeping there."
 
 #. p_1_0 msg_2330, 0 - Петька
 msgid "Да ладно вам, Василь Иваныч."
-msgstr ""
+msgstr "Come on, Vasil Ivanitch."
 
 #. p_1_0 msg_2331, 0 - Петька
 msgid "Как же - спит!"
-msgstr ""
+msgstr "How - asleep!"
 
 #. p_1_0 msg_2332, 0 - Петька
 msgid "Знаем мы таких..."
-msgstr ""
+msgstr "We know such..."
 
 #. p_1_0 msg_2333, 1 - Василий Иванович
 msgid "Понятно!"
-msgstr ""
+msgstr "Clear!"
 
 #. p_1_0 msg_2334, 1 - Василий Иванович
 msgid "Теперь я верю тому, что про тебя Анка рассказывала..."
-msgstr ""
+msgstr "Now I believe what Anka told about you..."
 
 #. p_1_0 msg_2335, 1 - Василий Иванович
 msgid "Ну и извращенец же ты, Петька."
-msgstr ""
+msgstr "Well, you are a pervert, Petka."
 
 #. p_1_0 msg_2336, 0 - Петька
 msgid "Я не вращенец, Василь Иваныч!"
-msgstr ""
+msgstr "I'm not a rottener, Vasil Ivanovich!"
 
 #. p_1_0 msg_2337, 0 - Петька
 msgid "Я же пошутил..."
-msgstr ""
+msgstr "I was joking..."
 
 #. p_1_0 msg_2338, 1 - Василий Иванович
 msgid "Я тоже! Ха-ха-ха..."
-msgstr ""
+msgstr "I too! Ha ha ha..."
 
 #. p_1_0 msg_2339, 0 - Петька
 msgid "Очень соблазнительно торчащие пятки."
@@ -11490,15 +11492,15 @@ msgstr "You can cripple a man with an empty syringe, don't you know?"
 
 #. p_1_0 msg_2353, 1 - Василий Иванович
 msgid "Можно и так..."
-msgstr ""
+msgstr "Could be so..."
 
 #. p_1_0 msg_2354, 1 - Василий Иванович
 msgid "Так сказать, ввести внутривенно..."
-msgstr ""
+msgstr "Intravenously, so to speak..."
 
 #. p_1_0 msg_2355, 0 - Петька
 msgid "Прямо в пятки?"
-msgstr ""
+msgstr "Straight to your heels?"
 
 #. p_1_0 msg_2356, 0 - Петька
 msgid "Нет!!!"
@@ -11506,11 +11508,11 @@ msgstr "No!!!"
 
 #. p_1_0 msg_2357, 0 - Петька
 msgid "Ни за что!"
-msgstr ""
+msgstr "Never!"
 
 #. p_1_0 msg_2358, 0 - Петька
 msgid "Лучше уж я стану зубным врачом..."
-msgstr ""
+msgstr "I'd rather be a dentist..."
 
 #. p_1_0 msg_2359, 0 - Петька
 msgid "Нехорошо как-то - люди старались, собирали стог, а теперь все раскидано."
@@ -11610,7 +11612,7 @@ msgstr "Nah, the can is too dirty..."
 
 #. p_1_0 msg_2384, 0 - Петька
 msgid "Неохота с собой таскать."
-msgstr ""
+msgstr "Reluctance to carry with you."
 
 #. p_1_0 msg_2385, 1 - Василий Иванович
 msgid "Мне эта банка не нужна."
@@ -11618,11 +11620,11 @@ msgstr "I don't need no can."
 
 #. p_1_0 msg_2386, 0 - Петька
 msgid "Всегда любил девчушек с волосами соломенного цвета."
-msgstr ""
+msgstr "He always loved girls with straw-colored hair."
 
 #. p_1_0 msg_2387, 0 - Петька
 msgid "Например, нашу Анку."
-msgstr ""
+msgstr "For example, our Anka."
 
 #. p_1_0 msg_2388, 0 - Петька
 msgid "Я бы с удовольствием, но как?"
@@ -11834,7 +11836,7 @@ msgstr "I'm not fighting bullets with an axe."
 
 #. p_1_0 msg_2443, 0 - Петька
 msgid "Не маленький!"
-msgstr ""
+msgstr "Not small!"
 
 #. p_1_0 msg_2464, 0 - Петька
 msgid "Вплавь здесь не перебраться - пристрелят, сволочи!"
@@ -11950,7 +11952,7 @@ msgstr "We'll get them one day!"
 
 #. p_1_0 msg_2492, 85 - Петька - КОМНАТА ПЕТЬКИ
 msgid "Ох, Василь Иваныч, что-то худо мне..."
-msgstr ""
+msgstr "Oh, Vasil Ivanovich, something is bad for me..."
 
 #. p_1_0 msg_2493, 85 - Петька - КОМНАТА ПЕТЬКИ
 msgid "Признаться, хватанул я вчера лишку - с горя-то."
@@ -11958,15 +11960,15 @@ msgstr "I guess I was a tiny bit more drunk than I should've been yesterday..."
 
 #. p_1_0 msg_2494, 85 - Петька - КОМНАТА ПЕТЬКИ
 msgid "Что вправду делать-то теперь?"
-msgstr ""
+msgstr "What to really do now?"
 
 #. p_1_0 msg_2495, 86 - ВИЧ - КОМНАТА ПЕТЬКИ
 msgid "Раскричался: \"Что делать, что делать!\""
-msgstr ""
+msgstr "Shouted: \"What to do, what to do!\""
 
 #. p_1_0 msg_2496, 86 - ВИЧ - КОМНАТА ПЕТЬКИ
 msgid "Прям, как Чернышевский, какой."
-msgstr ""
+msgstr "Straight, like Chernyshevsky, what."
 
 #. p_1_0 msg_2497, 85 - Петька - КОМНАТА ПЕТЬКИ
 msgid "Опозорены мы теперь, Василь Иваныч!"
@@ -11978,7 +11980,7 @@ msgstr "What if Lenin comes here tomorrow and asks us..."
 
 #. p_1_0 msg_2499, 85 - Петька - КОМНАТА ПЕТЬКИ
 msgid "Спросит, а где ваше знамя боевое?"
-msgstr ""
+msgstr "Asks, where is your battle banner?"
 
 #. p_1_0 msg_2500, 85 - Петька - КОМНАТА ПЕТЬКИ
 msgid "А мы чего скажем?"
@@ -12006,7 +12008,7 @@ msgstr "That's them, Pete."
 
 #. p_1_0 msg_2506, 85 - Петька - КОМНАТА ПЕТЬКИ
 msgid "Выходит, беляки шпиона прям к нам под нос заслали?"
-msgstr ""
+msgstr "It turns out that the whites sent the spy right under our noses?"
 
 #. p_1_0 msg_2507, 85 - Петька - КОМНАТА ПЕТЬКИ
 msgid "Может, в отместку им в колодец соли насыпать?"
@@ -12034,7 +12036,7 @@ msgstr "Maybe a little hair of the dog, first?"
 
 #. p_1_0 msg_2513, 85 - Петька - КОМНАТА ПЕТЬКИ
 msgid "А уж тогда мы этих гадов..."
-msgstr ""
+msgstr "And then we are these bastards..."
 
 #. p_1_0 msg_2514, 85 - Петька - КОМНАТА ПЕТЬКИ
 msgid "И белогвардейцев..."
@@ -12079,22 +12081,23 @@ msgstr "What about them?"
 #. p_1_0 msg_2524, 305 - Пасечник Трезвый
 msgid "Мышей тебе мало, скотина жирная - всех пчел у меня перетаскал!!!"
 msgstr ""
+"Mice are not enough for you, fat cattle - all the bees I have dragged!!!"
 
 #. p_1_0 msg_2525, 305 - Пасечник Трезвый
 msgid "А ну, пошел..!"
-msgstr ""
+msgstr "Well, go..!"
 
 #. p_1_0 msg_2526, 305 - Пасечник Трезвый
 msgid "Брысь!!!"
-msgstr ""
+msgstr "Bryce!!!"
 
 #. p_1_0 msg_2527, 305 - Пасечник Трезвый
 msgid "А ну, пошел прочь!"
-msgstr ""
+msgstr "Well, go away!"
 
 #. p_1_0 msg_2528, 305 - Пасечник Трезвый
 msgid "Кому говорю!!"
-msgstr ""
+msgstr "Who am I talking to!!"
 
 #. p_1_0 msg_2529, 0 - Петька
 msgid "Вот это да!"
@@ -12118,7 +12121,7 @@ msgstr "How can we get some?"
 
 #. p_1_0 msg_2534, 0 - Петька
 msgid "Залезть туда не удастся, уж очень ствол гладкий."
-msgstr ""
+msgstr "It will not be possible to climb there, the barrel is very smooth."
 
 #. p_1_0 msg_2535, 1 - Василий Иванович
 msgid "Я и сам вижу, что гладкий!"
@@ -12138,83 +12141,92 @@ msgstr "Let's go and find this something."
 
 #. p_1_0 msg_2539, 356 - Доктор Лектор
 msgid "Товарищи!"
-msgstr ""
+msgstr "Comrades!"
 
 #. p_1_0 msg_2540, 356 - Доктор Лектор
 msgid "Мир, в котором мы живем, не назовешь простым и понятным!"
-msgstr ""
+msgstr "The world in which we live cannot be called simple and understandable!"
 
 #. p_1_0 msg_2541, 356 - Доктор Лектор
 msgid "То, что человек произошел от обезьяны, сейчас знают все..."
-msgstr ""
+msgstr "Everyone now knows that man descended from a monkey..."
 
 #. p_1_0 msg_2542, 356 - Доктор Лектор
 msgid "А сложнейшие вычислительные машины!"
-msgstr ""
+msgstr "And the most complicated computers!"
 
 #. p_1_0 msg_2543, 356 - Доктор Лектор
 msgid "Син-"
-msgstr ""
+msgstr "Sin-"
 
 #. p_1_0 msg_2544, 356 - Доктор Лектор
 msgid "СИНХРО-"
-msgstr ""
+msgstr "SYNCHRO-"
 
 #. p_1_0 msg_2545, 356 - Доктор Лектор
 msgid "СИН-ХРО-ФА-ЗО-ТРО-НЫ!"
-msgstr ""
+msgstr "SIN-HRO-FA-ZO-TRO!!"
 
 #. p_1_0 msg_2546, 356 - Доктор Лектор
 msgid "Автоматические линии производства!"
-msgstr ""
+msgstr "Automatic production lines!"
 
 #. p_1_0 msg_2547, 356 - Доктор Лектор
 msgid "Ведь еще вчера их не могла себе представить даже самая богатая фантазия."
 msgstr ""
+"Indeed, even yesterday, even the richest imagination could not imagine them."
 
 #. p_1_0 msg_2548, 356 - Доктор Лектор
 msgid "Ныне же они стали продуктом исследования и труда."
-msgstr ""
+msgstr "Now they have become the product of research and labor."
 
 #. p_1_0 msg_2549, 356 - Доктор Лектор
 msgid "Овеществленной силой знания!"
-msgstr ""
+msgstr "The materialized power of knowledge!"
 
 #. p_1_0 msg_2550, 356 - Доктор Лектор
 msgid "Но выброшенные за борт корабля истории эксплуататорские классы никогда не смирятся со  своим  поражением."
 msgstr ""
+"But the exploiting classes thrown overboard the ship of history will never "
+"accept defeat."
 
 #. p_1_0 msg_2551, 356 - Доктор Лектор
 msgid "Они  предпринимали  и  будут предпринимать все более  изощренные  попытки повернуть  колесо  истории вспять..."
 msgstr ""
+"They have made and will continue to make ever more sophisticated attempts to "
+"turn the wheel of history back..."
 
 #. p_1_0 msg_2552, 356 - Доктор Лектор
 msgid "И вот, чтобы посеять раздор и смуту в душах  военно-полевого  состава,"
 msgstr ""
+"And so, in order to sow discord and confusion in the souls of the military "
+"field staff,"
 
 #. p_1_0 msg_2553, 356 - Доктор Лектор
 msgid "враг применяет весьма хитроумный  и  даже,  я  бы  сказал,  оригинальный маневр."
-msgstr ""
+msgstr "the enemy uses a very cunning and even, I would say, original maneuver."
 
 #. p_1_0 msg_2554, 356 - Доктор Лектор
 msgid "Вчера,  под  предательским  покровом ночной темноты была похищена наша святыня!"
 msgstr ""
+"Yesterday, under the treacherous cover of night darkness, our shrine was "
+"stolen!"
 
 #. p_1_0 msg_2555, 356 - Доктор Лектор
 msgid "Пропало самое драгоценное, что есть в нашей дивизии..."
-msgstr ""
+msgstr "The most precious thing in our division is missing..."
 
 #. p_1_0 msg_2556, 356 - Доктор Лектор
 msgid "Наша честь!"
-msgstr ""
+msgstr "Our honor!"
 
 #. p_1_0 msg_2557, 356 - Доктор Лектор
 msgid "Наша ГОРДОСТЬ!!!"
-msgstr ""
+msgstr "Our pride!!!"
 
 #. p_1_0 msg_2558, 356 - Доктор Лектор
 msgid "НАШЕ КРАСНОЕ ЗНАМЯ !!!!!!!"
-msgstr ""
+msgstr "OUR RED BANNER !!!!!!!"
 
 #. p_1_0 msg_2559, 356 - Доктор Лектор
 msgid "!!!!!!!!!"
@@ -12222,27 +12234,29 @@ msgstr "!!!!!!!!!"
 
 #. p_1_0 msg_2560, 356 - Доктор Лектор
 msgid "Но наша  красная  армия..."
-msgstr ""
+msgstr "But our red army..."
 
 #. p_1_0 msg_2561, 356 - Доктор Лектор
 msgid "НАШИ  СОКОЛЫ!!!"
-msgstr ""
+msgstr "OUR FALCONS !!!"
 
 #. p_1_0 msg_2562, 356 - Доктор Лектор
 msgid "Несокрушимой, каменной стеной встанут на пути коварного агрессора..."
 msgstr ""
+"They will stand in the way of the insidious aggressor with an "
+"indestructible, stone wall..."
 
 #. p_1_0 msg_2563, 356 - Доктор Лектор
 msgid "И мы не позволим!"
-msgstr ""
+msgstr "And we won't let it!"
 
 #. p_1_0 msg_2564, 356 - Доктор Лектор
 msgid "Да-да, товарищи, Н-Е  П-О-З-В-О-Л-И-М!!!"
-msgstr ""
+msgstr "Yes, comrades, N-E P-O-Z-V-O-L-I-M!!!"
 
 #. p_1_0 msg_2565, 356 - Доктор Лектор
 msgid "Чтобы происки империалистов и Антантовских прихлебателей..."
-msgstr ""
+msgstr "So that the intrigues of the imperialists and the Entente hangers-on..."
 
 #. p_1_0 msg_2566, 1 - Василий Иванович
 msgid "Привет, Фурманов."
@@ -12274,7 +12288,7 @@ msgstr "Oh, it's you, comrade Chapayev!"
 
 #. p_1_0 msg_2573, 1 - Василий Иванович
 msgid "Ты, что, Фурманов, как не свой."
-msgstr ""
+msgstr "What are you, Furmanov, if not your own."
 
 #. p_1_0 msg_2574, 1 - Василий Иванович
 msgid "Недопил иль переспал?"
@@ -12310,7 +12324,7 @@ msgstr "Me? A fugitive? Nah..."
 
 #. p_1_0 msg_2582, 384 - Матрос
 msgid "От крейсера я отстал."
-msgstr ""
+msgstr "I lagged behind the cruiser."
 
 #. p_1_0 msg_2583, 384 - Матрос
 msgid "Стоял себе на вахте, да задремал чуток."
@@ -12326,11 +12340,11 @@ msgstr "A huge-ass wave..."
 
 #. p_1_0 msg_2586, 384 - Матрос
 msgid "С двадцатиэтажный дом!"
-msgstr ""
+msgstr "With a twenty-story house!"
 
 #. p_1_0 msg_2587, 0 - Петька
 msgid "Может все-таки с двухэтажный?!!"
-msgstr ""
+msgstr "Maybe after all with a two-story?!!"
 
 #. p_1_0 msg_2589, 384 - Матрос
 msgid "Минимум - с пяти."
@@ -12338,7 +12352,7 @@ msgstr "Five, at least."
 
 #. p_1_0 msg_2590, 384 - Матрос
 msgid "Так вот, не успел я глазом моргнуть - меня за борт."
-msgstr ""
+msgstr "So, before I could blink an eye, I was overboard."
 
 #. p_1_0 msg_2591, 384 - Матрос
 msgid "А там - акулы!"
@@ -12370,11 +12384,11 @@ msgstr "Then the last one decided to flee."
 
 #. p_1_0 msg_2598, 384 - Матрос
 msgid "Я - за ней, она - от меня..."
-msgstr ""
+msgstr "I follow her, she is from me..."
 
 #. p_1_0 msg_2599, 384 - Матрос
 msgid "Я ее к берегу гоню - так она в реку."
-msgstr ""
+msgstr "I drive her to the bank - so she into the river."
 
 #. p_1_0 msg_2600, 384 - Матрос
 msgid "Хотела от меня на мелководье спрятаться."
@@ -12387,10 +12401,12 @@ msgstr "That was the end of it!"
 #. p_1_0 msg_2602, 384 - Матрос
 msgid "В общем, я  ее с того берега матом в камыши загнал, а когда сюда перебрался, смотрю - не дышит, зараза..."
 msgstr ""
+"In general, I drove her from the other bank into the reeds with obscenities, "
+"and when I got here, I look - she is not breathing, an infection..."
 
 #. p_1_0 msg_2603, 384 - Матрос
 msgid "Разрыв сердца - во как!"
-msgstr ""
+msgstr "Heartbreak - how!"
 
 #. p_1_0 msg_2604, 0 - Петька
 msgid "Значит, не дезертир, говоришь..."
@@ -12434,7 +12450,7 @@ msgstr "What about it? What do you think I've been eating all this time?"
 
 #. p_1_0 msg_2616, 385 - Ворона
 msgid "Носками!"
-msgstr ""
+msgstr "With socks!"
 
 #. p_1_0 msg_2617, 384 - Матрос
 msgid "Это ты - носками."
@@ -12442,7 +12458,7 @@ msgstr "Shut up! Socks my butt."
 
 #. p_1_0 msg_2618, 384 - Матрос
 msgid "А я супы варил."
-msgstr ""
+msgstr "And I cooked soups."
 
 #. p_1_0 msg_2619, 384 - Матрос
 msgid "Из акульих плавников!"
@@ -12459,6 +12475,7 @@ msgstr "I can't."
 #. p_1_0 msg_2622, 385 - Ворона
 msgid "Да ты не только дезертир и врун - ты еще и жадина!"
 msgstr ""
+"Yes, you are not only a deserter and a liar - you are also a greedy man!"
 
 #. p_1_0 msg_2623, 384 - Матрос
 msgid "Ух, надоела, зараза!"
@@ -12482,7 +12499,7 @@ msgstr "No idea what I can do about that!"
 
 #. p_1_0 msg_2628, 384 - Матрос
 msgid "Видите, чего творит!"
-msgstr ""
+msgstr "See what he is doing!"
 
 #. p_1_0 msg_2629, 385 - Ворона
 msgid "Скажи спасибо, что не заклевала еще!"
@@ -12494,7 +12511,7 @@ msgstr "Hey, Pete, you won't believe what just happened!"
 
 #. p_1_0 msg_2631, 1 - Василий Иванович
 msgid "Прибегаю я домой, как раз хочу газ посмотреть..."
-msgstr ""
+msgstr "I run home, I just want to see the gas..."
 
 #. p_1_0 msg_2632, 1 - Василий Иванович
 msgid "А плиты-то и нету."
@@ -12526,7 +12543,7 @@ msgstr "There - Anka's clothes."
 
 #. p_1_0 msg_2639, 1 - Василий Иванович
 msgid "Ну так бери ее, и пошли отсюда."
-msgstr ""
+msgstr "Well, take it, and let's get out of here."
 
 #. p_1_0 msg_2641, 0 - Петька
 msgid "Заходи, Анка."
@@ -12854,7 +12871,7 @@ msgstr "Say, Pete. Are you thinking what I'm thinking?"
 
 #. p_1_0 msg_2724, 0 - Петька
 msgid "Нет, куда мне до вас, Василь Иваныч."
-msgstr ""
+msgstr "No, where am I up to you, Vasil Ivanitch."
 
 #. p_1_0 msg_2725, 1 - Василий Иванович
 msgid "Правильно, Петр."
@@ -13022,15 +13039,15 @@ msgstr "Really, Vasily Ivanovich?!"
 
 #. p_1_0 msg_2769, 428 - Переодетый Петька
 msgid "И так неизвестно, на кого похож!"
-msgstr ""
+msgstr "And so it is not known who he looks like!"
 
 #. p_1_0 msg_2770, 1 - Василий Иванович
 msgid "Ха! Известно, на кого..."
-msgstr ""
+msgstr "Ha! It is known who..."
 
 #. p_1_0 msg_2771, 428 - Переодетый Петька
 msgid "Будете издеваться, вообще никуда не пойду!"
-msgstr ""
+msgstr "You will mock me, I will not go anywhere at all!"
 
 #. p_1_0 msg_2772, 1 - Василий Иванович
 msgid "Ну вот, уже лучше..."
@@ -13134,11 +13151,11 @@ msgstr "I'll take a nap now..."
 
 #. p_1_0 msg_2801, 384 - Матрос
 msgid "А вы тут на всякий случай присмотрите..."
-msgstr ""
+msgstr "And just in case you look after..."
 
 #. p_1_0 msg_2802, 0 - Петька
 msgid "Так это мы запроста!"
-msgstr ""
+msgstr "So this is us easily!"
 
 #. p_1_0 msg_2803, 0 - Петька
 msgid "Совсем другое дело."
@@ -13146,7 +13163,7 @@ msgstr "Now you're talking!"
 
 #. p_1_0 msg_2804, 0 - Петька
 msgid "Теперь осталось из него только махорку сделать."
-msgstr ""
+msgstr "Now all that remains is to make makhorka out of it."
 
 #. p_1_0 msg_2807, 0 - Петька
 msgid "Ну и дела!"
@@ -13154,7 +13171,7 @@ msgstr "Wow!"
 
 #. p_1_0 msg_2808, 0 - Петька
 msgid "С каким трудом достался нам этот маленький ключик!"
-msgstr ""
+msgstr "With what difficulty did we get this little key!"
 
 #. p_1_0 msg_2809, 0 - Петька
 msgid "Я чуть не пожертвовал самой необходимой частью своего тела."
@@ -13246,19 +13263,19 @@ msgstr "Looks fine to me."
 
 #. p_1_0 msg_2834, 1 - Василий Иванович
 msgid "Гляди-ка, Петька, какая оригинальная конструкция получилась."
-msgstr ""
+msgstr "Look, Petka, what an original design has turned out."
 
 #. p_1_0 msg_2835, 1 - Василий Иванович
 msgid "Осталось только напряжение подать на обмотку, и..."
-msgstr ""
+msgstr "It remains only to apply voltage to the winding, and..."
 
 #. p_1_0 msg_2836, 0 - Петька
 msgid "Чего подать?"
-msgstr ""
+msgstr "What to submit?"
 
 #. p_1_0 msg_2837, 1 - Василий Иванович
 msgid "Ох, и неуч-же ты у меня, Петька."
-msgstr ""
+msgstr "Oh, and you are ignorant with me, Petka."
 
 #. p_1_0 msg_2838, 0 - Петька
 msgid "Ах, это..."
@@ -13266,7 +13283,7 @@ msgstr "Oh, that..."
 
 #. p_1_0 msg_2840, 0 - Петька
 msgid "Это нам раз плюнуть..."
-msgstr ""
+msgstr "It’s just for us to spit..."
 
 #. p_1_0 msg_2842, 0 - Петька
 msgid "Василь Иваныч!"
@@ -13294,7 +13311,7 @@ msgstr "Well, at least we have some firewood now."
 
 #. p_1_0 msg_2848, 0 - Петька
 msgid "Точно! Подделка!"
-msgstr ""
+msgstr "Exactly! Fake!"
 
 #. p_1_0 msg_2850, 1 - Василий Иванович
 msgid "М-даа..."
@@ -13390,7 +13407,7 @@ msgstr "I'm not going to play cowboys here."
 
 #. p_1_0 msg_2889, 0 - Петька
 msgid "Инструкция по сборке пулемета тут вряд ли поможет..."
-msgstr ""
+msgstr "Instructions for assembling a machine gun are unlikely to help here..."
 
 #. p_1_0 msg_2892, 0 - Петька
 msgid "Чтобы сделать из этой подковы магнит, нужно подать напряжение на обмотку."
@@ -13430,7 +13447,7 @@ msgstr "Strip in the trunk"
 
 #. p_2_0 obj_3
 msgid "IБанковский чек"
-msgstr ""
+msgstr "IBank check"
 
 #. p_2_0 obj_4
 msgid "IБескозырка"
@@ -13442,7 +13459,7 @@ msgstr "IBottle neck"
 
 #. p_2_0 obj_6
 msgid "IВедро для керосина"
-msgstr ""
+msgstr "I Kerosene bucket"
 
 #. p_2_0 obj_7
 msgid "IВедро с керосином"
@@ -13454,7 +13471,7 @@ msgstr "IValve"
 
 #. p_2_0 obj_9
 msgid "IВесла для лодки"
-msgstr ""
+msgstr "I boat paddles"
 
 #. p_2_0 obj_10
 msgid "IВесло гипсовое"
@@ -13466,7 +13483,7 @@ msgstr "IFlash"
 
 #. p_2_0 obj_12
 msgid "IГолова Чапаева"
-msgstr ""
+msgstr "I Head of Chapaev"
 
 #. p_2_0 obj_13
 msgid "IГолова с Усами"
@@ -30594,15 +30611,15 @@ msgstr "NEVER!!!"
 
 #. p_2_0 msg_3651, 1 - Василий Иванович
 msgid "Нет, Петька."
-msgstr ""
+msgstr "No, Petka."
 
 #. p_2_0 msg_3652, 1 - Василий Иванович
 msgid "И зачем?"
-msgstr ""
+msgstr "And for what?"
 
 #. p_2_0 msg_3653, 1 - Василий Иванович
 msgid "Отстань, Петька."
-msgstr ""
+msgstr "Leave me alone, Petka."
 
 #. p_2_0 msg_3655, 0 - Петька
 msgid "Чек здесь не нужен."
