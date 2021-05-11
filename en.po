@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Petka1 0.0.1\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2020-12-07 22:01+0000\n"
-"PO-Revision-Date: 2021-05-08 00:25+0000\n"
+"PO-Revision-Date: 2021-05-12 17:25+0000\n"
 "Last-Translator: iplaysomegames101 <eduardodelphinodepaula@gmail.com>\n"
 "Language-Team: English <https://translations.scummvm.org/projects/petka/"
 "petka1/en/>\n"
@@ -13487,19 +13487,19 @@ msgstr "I Head of Chapaev"
 
 #. p_2_0 obj_13
 msgid "IГолова с Усами"
-msgstr ""
+msgstr "I Head with Mustache"
 
 #. p_2_0 obj_14
 msgid "IГолова в Папахе"
-msgstr ""
+msgstr "IHead in Papakha"
 
 #. p_2_0 obj_15
 msgid "IГолова в Папахе с Усами"
-msgstr ""
+msgstr "Head in Papakha with a Mustache"
 
 #. p_2_0 obj_16
 msgid "IГолова гипсовая"
-msgstr ""
+msgstr "I Head plaster"
 
 #. p_2_0 obj_17
 msgid "IДеньги"
@@ -13511,7 +13511,7 @@ msgstr "IDarts"
 
 #. p_2_0 obj_19
 msgid "IЗаклеенный бегемот"
-msgstr ""
+msgstr "I glued-on hippopotamus"
 
 #. p_2_0 obj_20
 msgid "IКвитанция"
@@ -13523,7 +13523,7 @@ msgstr "IBrick"
 
 #. p_2_0 obj_22
 msgid "IКлючи от подвала"
-msgstr ""
+msgstr "IKeys to the basement"
 
 #. p_2_0 obj_23
 msgid "IКосметичка"
@@ -13539,11 +13539,11 @@ msgstr "ISword"
 
 #. p_2_0 obj_26
 msgid "IМешок с сахаром"
-msgstr ""
+msgstr "ISack of Sugar"
 
 #. p_2_0 obj_27
 msgid "IНадутый бегемот"
-msgstr ""
+msgstr "I Inflated Hippo"
 
 #. p_2_0 obj_28
 msgid "IНос с усами"
@@ -13571,7 +13571,7 @@ msgstr "ILash"
 
 #. p_2_0 obj_34
 msgid "IПоддельная посылка"
-msgstr ""
+msgstr "Ifake package"
 
 #. p_2_0 obj_35
 msgid "IПорошок"
@@ -13587,7 +13587,7 @@ msgstr "IMachine-gun"
 
 #. p_2_0 obj_38
 msgid "IПустая посылка"
-msgstr ""
+msgstr "IEmpty package"
 
 #. p_2_0 obj_39
 msgid "IСахар"
@@ -13599,7 +13599,7 @@ msgstr "INet"
 
 #. p_2_0 obj_41
 msgid "IСдувшийся бегемот"
-msgstr ""
+msgstr "IDeflated Hippopotamus"
 
 #. p_2_0 obj_42
 msgid "IСнотворное"
@@ -13611,11 +13611,11 @@ msgstr "ISombrero"
 
 #. p_2_0 obj_44
 msgid "IСтакан с Чинзано"
-msgstr ""
+msgstr "IGlass with Chinzano"
 
 #. p_2_0 obj_45
 msgid "IСтакан со снотворным"
-msgstr ""
+msgstr "I glass with sleeping pills"
 
 #. p_2_0 obj_46
 msgid "IТреуголка"
@@ -13623,7 +13623,7 @@ msgstr "ICocked Hat"
 
 #. p_2_0 obj_47
 msgid "IФальшивый чек"
-msgstr ""
+msgstr "I Fake check"
 
 #. p_2_0 obj_48
 msgid "IФотография"
@@ -13739,7 +13739,7 @@ msgstr "Options panel - slider 4 max"
 
 #. p_2_0 obj_76
 msgid "Карта 2 - БАНК"
-msgstr ""
+msgstr "Card 2 - BANK"
 
 #. p_2_0 obj_77
 msgid "Карта 2 - ПРИХОЖАЯ БОРДЕЛЯ"
