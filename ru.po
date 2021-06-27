@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2021-06-27 12:29+0000\n"
+"PO-Revision-Date: 2021-06-29 00:25+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -7312,7 +7312,7 @@ msgstr ""
 
 #: dialog0209.txt:3
 msgid "OTHER: Hmmm... Coś w tym jest..."
-msgstr "OTHER: Гм... А почему бы и нет?..."
+msgstr "OTHER: Хм-м-м... А почему бы и нет?..."
 
 #: dialog0210.txt:1
 msgid "HERO: Na razie go nie potrzebuję."
@@ -7337,8 +7337,8 @@ msgstr "HERO: Тут нужен какой-то план..."
 #: dialog0213.txt:1
 msgid "HERO: Wiecie czym się różni krasnolud od padłego|lisa? Zapach lisa można wytrzymać."
 msgstr ""
-"HERO: Знаете, чем отличается гном от дохлой лисы?|Лиса хоть не так сильно "
-"смердит."
+"HERO: Знаете, чем отличается гном от дохлой лисы?|Вонь от лисы ещё можно "
+"вытерпеть."
 
 #: dialog0214.txt:1
 msgid "HERO: Opowiem wam dowcip: do karczmy przychodzi|umyty krasnolud..."
@@ -7351,7 +7351,7 @@ msgstr "HERO: Идёт гном по городу, видит – |мужики 
 #: dialog0216.txt:1
 msgid "HERO: Hej, zna ktoś jakiegoś krasnoluda? Założyłem|się z przyjaciółką,  że jak go wytargam za|brodę, to wyleci co najmniej sto wszy."
 msgstr ""
-"HERO: Кто-нибудь знает какого-нибудь гнома?|Я тут поспорил с подругой, что "
+"HERO: Кто-нибудь знает какого-нибудь гнома?|Я тут поспорил с подругой,|что "
 "если дёрну гнома за бороду,|оттуда вылетит не меньше сотни вшей."
 
 #: dialog0217.txt:1
@@ -7391,7 +7391,7 @@ msgstr "OTHER: Кто, ну кто мог так поступить?..."
 
 #: dialog0224.txt:1
 msgid "OTHER: Gdzie jesteś, mój kufeleczku?..."
-msgstr "OTHER: Где же ты, милая моя?..."
+msgstr "OTHER: Где же ты, кружечка моя?..."
 
 #: dialog0225.txt:1
 msgid "OTHER: Och... To nie może być prawda..."
@@ -7500,7 +7500,7 @@ msgstr ""
 
 #: dialog0230.txt:2
 msgid "OTHER: Nie ściągnę swojej maski za żadne skarby!"
-msgstr "OTHER: Маску не сниму! Хоть режьте!"
+msgstr "OTHER: Маску не сниму! Хоть режь!"
 
 #: dialog0230.txt:3
 msgid "OTHER: A chyba dość głupio wyglądałabym ubrana|i w maskę i woalkę."
@@ -7732,7 +7732,7 @@ msgstr "OTHER: Хммм..."
 
 #: dialog0241.txt:4
 msgid "OTHER: Czy aby na pewno szanowny klient|jest martwy?..."
-msgstr "OTHER: А наш уважаемый клиент и вправду мёртв?..."
+msgstr "OTHER: А наш уважаемый клиент|точно мёртв?..."
 
 #: dialog0241.txt:5
 msgid "HERO: O tak, tak, samobójca."
@@ -8077,7 +8077,7 @@ msgstr "HERO: Ты говори, у тебя неплохо получается
 
 #: dialog0246.txt:9
 msgid "OTHER: Tym razem znowu nie potrzebuję|twojej pomocy!"
-msgstr "OTHER: Мне теперь твоя помощь больше не нужна!"
+msgstr "OTHER: Мне теперь твоя помощь не нужна!"
 
 #: dialog0246.txt:10
 msgid "OTHER: Poradzę sobie sama!"
@@ -8796,7 +8796,7 @@ msgstr "HERO: Не одолжите мне свою шаль?"
 
 #: dialog0280.txt:2
 msgid "HERO: Czy ta błyskotka może go zastąpić?"
-msgstr "HERO: Я вам за неё дам|вот это украшение."
+msgstr "HERO: Я вам за неё дам|вот эту бирюльку."
 
 #: dialog0280.txt:3
 msgid "OTHER: Mijen sip nioklanc. Okors yrte|szalot?"
@@ -9588,22 +9588,24 @@ msgstr "OTHER: В общем, в Аду из-за этого|начался пл
 #: dialog0372.txt:2
 msgid "P#OTHER: Kiedy tak wybitna duszyczka wymyka się|piekielnym sidłom nigdy nie jest to mile|widziane przez zwierzchników."
 msgstr ""
-"P#OTHER: Начальство ой как не любит, когда такая|высокопоставленная душа "
-"нарушает условия адского пакта."
+"P#OTHER: Начальство ой как не любит, когда|такая высокопоставленная душа "
+"нарушает|условия адского пакта."
 
 #: dialog0373.txt:1
 msgid "OTHER: Odpowiedzialnym za cały ten ambaras był pewien|demon charakteryzujący się sporą brawurą i|odwrotnie do niej proporcjonalną sumiennością."
 msgstr ""
-"OTHER: Виновником всему этому был один демон,|у которого было столь же много "
-"гонору,|сколь мало у него было принципиальности."
+"OTHER: Весь этот конфуз случился по вине одного демона,|у которого было "
+"столь же много гонору,|сколь мало у него было принципиальности."
 
 #: dialog0373.txt:2
 msgid "P#OTHER: W związku z tym nie wahał się nawet|łamać piekielnych przepisów."
-msgstr "P#OTHER: Он бы не постеснялся даже|нарушить законы самого Ада."
+msgstr ""
+"P#OTHER: Чтобы разрулить ситуацию, демон этот|был готов даже нарушить законы "
+"Ада."
 
 #: dialog0373.txt:3
 msgid "P#OTHER: Co zresztą uczynił w tym wypadku."
-msgstr "P#OTHER: И в итоге их и нарушил."
+msgstr "P#OTHER: Собственно, так он и поступил."
 
 #: dialog0374.txt:1
 msgid "OTHER: Krótko mówiąc namówił naszego przyjaciela..."
@@ -9621,7 +9623,7 @@ msgstr ""
 
 #: dialog0375.txt:1
 msgid "OTHER: Krew spłynęła po kciuku na pergamin..."
-msgstr "OTHER: И вот, с большого пальца на пергамент капнула кровь..."
+msgstr "OTHER: И вот, с большого пальца|на пергамент капнула кровь..."
 
 #: dialog0375.txt:2
 msgid "P#OTHER: ...piekielny szpon został przybity..."
@@ -9671,7 +9673,7 @@ msgstr ""
 msgid "OTHER: Nasz drogi Galador znalazł się bowiem na zamku|tuż przed walką z niepokonanym Czarnym Rycerzem,|słynącym z siły i okrucieństwa."
 msgstr ""
 "OTHER: А наш любезный Галадор обнаружил себя в замке.|И тут он понял, что "
-"готовится к битве с непобедимым Чёрным Рыцарем,|известным своей силой и "
+"готовится к битве с непобедимым|Чёрным Рыцарем, известным своей силой|и "
 "безжалостностью."
 
 #: dialog0381.txt:1
@@ -9681,8 +9683,8 @@ msgstr "OTHER: Ну, и что ему оставалось делать?"
 #: dialog0382.txt:1
 msgid "OTHER: Zrobił to co każdy z was zrobiłby na jego miejscu,|gdyby nagle znalazł się w obcym ciele stojąc przed|dwa razy od siebie wyższym facetem."
 msgstr ""
-"OTHER: Он поступил так, как поступил бы любой из нас, если бы|оказался в "
-"чужом теле перед противником вдвое выше себя."
+"OTHER: Он поступил так, как поступил бы любой из нас,|если бы оказался в "
+"чужом теле перед противником|вдвое выше себя."
 
 #: dialog0383.txt:1
 msgid "OTHER: Uciekł."
@@ -9768,7 +9770,7 @@ msgstr "OTHER: Гробокопатель..."
 msgid "OTHER: ...z cmentarzyska koło zamku Garrahan do dzisiaj|gorąco przyjaźni się ze swoim szczurem i nazywa|go \"swoim najdroższym przyjacielem\". Podobno|nauczył go nawet mówić komplementy..."
 msgstr ""
 "OTHER: ...с кладбища близ замка Гаррахан –|он сильно сдружился со своей "
-"крысой, называет её \"лучшей подругой\".|Говорят, он даже научил её "
+"крысой, называет её|\"лучшей подругой\". Говорят, он даже научил её|"
 "комплименты другим делать..."
 
 #: dialog0395.txt:2
@@ -9915,8 +9917,8 @@ msgstr "OTHER: ...так, хватит об этом!|Знаете, что-то 
 #: dialog0414.txt:2
 msgid "P#OTHER: Jeżeli kiedyś zobaczycie mnie w karczmie|nie wahajcie się przysiąść, zwłaszcza jak|jesteście piękną blondynką."
 msgstr ""
-"P#OTHER: Если увидите меня в каком трактире, подсаживайтесь|смелее, "
-"особенно, если вы – прекрасная блондинка!"
+"P#OTHER: Если увидите меня в каком трактире, подсаживайтесь|смелее, особенно "
+"если вы – прекрасная блондинка!"
 
 #: dialog0415.txt:1
 msgid "OTHER: Jeżeli usłyszycie pieśń o mnie nie|wahajcie się przyłączyć do chóru."
@@ -10210,7 +10212,7 @@ msgstr "Рог - Дьявольского происхождения."
 
 #: invtxt.txt:54
 msgid "ułamany róg - Nadkruszony, ale podstawa się ostała."
-msgstr "Осколок рога - Обломан, но основание пока ещё цело.|В игре его нет."
+msgstr "Осколок рога - Обломан, но основание пока ещё цело."
 
 #: invtxt.txt:55
 msgid "rogi - Co róg i pół to nie jeden."
@@ -11870,8 +11872,8 @@ msgstr ""
 #: mob.lst:39003
 msgid "potrawy - Widok cudowny, rozczulający i ślinopędny, ale|nawet smoczy żołądek nie potrafi trawić|kamieni..."
 msgstr ""
-"Угощения - На вид – роскошные, богатые и аппетитные.|Но даже драконий "
-"желудок не переваривает|камни..."
+"Яства - На вид – роскошные, богатые и аппетитные.|Но даже драконий желудок "
+"не переваривает|камни..."
 
 #: mob.lst:39004
 msgid "wino i słodycze - Torcik palce lizać, a wino aż błyszczy.|Doprawdy, perfidny miraż..."
@@ -12135,11 +12137,11 @@ msgstr "Зато карта наконец-то заработала!"
 
 #: variatxt.txt:201
 msgid "A niech to, ostrze gdzieś poleciało..."
-msgstr "Вот чёрт! Лезвие куда-то отлетело..."
+msgstr "Ах, чёрт! Лезвие куда-то отлетело..."
 
 #: variatxt.txt:202
 msgid "Naostrzony jak sztylet."
-msgstr "Теперь этот кол острый как кинжал."
+msgstr "Вот и готов острый кол."
 
 #: variatxt.txt:203
 msgid "Raz wystarczy."
@@ -12183,7 +12185,8 @@ msgstr ""
 
 #: variatxt.txt:404
 msgid "Ciekawe czy kiedykolwiek zauważą,|że to fałszywe kości."
-msgstr "Мне интересно, они когда-нибудь|догадаются, что эти кости – с подвохом?"
+msgstr ""
+"Мне интересно, они когда-нибудь|догадаются, что кости у них –|с подвохом?"
 
 #: variatxt.txt:405
 msgid "To było żałosne..."
@@ -12495,7 +12498,7 @@ msgstr "Придётся решать вопрос силой."
 
 #: variatxt.txt:3303
 msgid "Macha nią jak lekką trzcinką...|Jest dla mnie zbyt szybki."
-msgstr "Он машет дубинкой, как игрушкой...|Слишком быстрый для меня."
+msgstr "Он машет дубинкой как игрушкой...|Слишком быстрый для меня."
 
 #: variatxt.txt:3304
 msgid "Grzeczny diabełek."
@@ -12564,7 +12567,7 @@ msgstr "Сразу теплее стало."
 
 #: variatxt.txt:3611
 msgid "Czasami nadgorliwość może popsuć|najlepsze plany."
-msgstr "Баловство до добра не доведет."
+msgstr "Баловство до добра не доведёт."
 
 #: variatxt.txt:3612
 msgid "Nie teraz."
