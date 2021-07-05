@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2021-07-03 12:25+0000\n"
+"PO-Revision-Date: 2021-07-06 18:25+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -2188,7 +2188,7 @@ msgstr "OTHER: Ох, принц, вы порой так пошутите,|что
 
 #: dialog0026.txt:1
 msgid "OTHER: O w mordę..."
-msgstr "OTHER: Ах ты ж…"
+msgstr "OTHER: Твою ж мать!"
 
 #: dialog0027.txt:1
 msgid "HERO: Ummm... Ja tylko na sekundkę."
@@ -4366,8 +4366,8 @@ msgstr "OTHER: По каким делам?"
 #: dialog0107.txt:4
 msgid "OTHER2: Jeśli go zaraz wyprowadzę, to będą|przyziemne, a jeśli jeszcze chwilę|tu postoi, to będą przykamienne."
 msgstr ""
-"OTHER2: Ну, сами знаете, по каким.|И лучше его вывести наружу,|а то дела тут "
-"прямо на камнях будут..."
+"OTHER2: Ну, по сами-знаете-каким.|И если я его отсюда не выведу,|то еще и по "
+"сами-увидите-каким."
 
 #: dialog0107.txt:5
 msgid "OTHER2: A ostrzegam, że niedźwiedź dzisiaj|BARDZO dużo zjadł..."
@@ -6724,7 +6724,7 @@ msgstr ""
 #: dialog0182.txt:100006
 msgid "OTHER: Był mu winien jakąś przysługę."
 msgstr ""
-"OTHER: У демона был должок перед Королём,|вот мной он за него и расплатился."
+"OTHER: У него был должок перед Королём,|вот мной он за него и расплатился."
 
 #: dialog0182.txt:100007
 msgid "HERO: Spędziłaś w zamku dwa lata?!"
@@ -9558,7 +9558,7 @@ msgstr ""
 #: dialog0369.txt:2
 msgid "P#OTHER: ...mieszkając w pobliżu pewnego nie mniej|miłego nekromanty, który zasłynął|z umiejętnego wywoływania demonów."
 msgstr ""
-"P#OTHER: ...так вышло, что рядом с ним жил один|знаменитый и довольно "
+"P#OTHER: ...так вышло, что по соседству с ним жил один|знаменитый и довольно "
 "приятный некромант.|Он был известен тем, что призывал демонов."
 
 #: dialog0370.txt:1
@@ -9826,8 +9826,8 @@ msgstr ""
 #: dialog0402.txt:3
 msgid "P#OTHER: Podobno po wyposzczeniu w Piekle książę postanowił|w najbliższym czasie się ożenić, ale..."
 msgstr ""
-"P#OTHER: Похоже, в аду ему не позволяли ходить по бабам.|В жажде женской "
-"ласки принц решил скорее жениться..."
+"P#OTHER: Похоже, в аду ему не позволяли ходить по бабам.|И он так "
+"истосковался по женской ласке,|что даже решил жениться..."
 
 #: dialog0402.txt:4
 msgid "OTHER: ...ma kłopoty z wyborem pośród dziesiątek kandydatek."
@@ -9959,7 +9959,7 @@ msgstr "P#OTHER2: Дурашка..."
 
 #: dialog0417.txt:7
 msgid "P#OTHER: Achhh... Rozumiem."
-msgstr "P#OTHER: А-а... Понял."
+msgstr "P#OTHER: А-а... Всё с тобой ясно."
 
 #: dialog0418.txt:1
 msgid "OTHER: No, ale może jeszcze będą z ciebie ludzie."
@@ -10066,7 +10066,7 @@ msgstr "Ветка - Обломок осины."
 #: invtxt.txt:21
 msgid "zaostrzony kołek - Dobry wampir to martwy wampir. Choć chyba|wampiry i tak są martwe."
 msgstr ""
-"Острый кол - Вампиру – вампирова смерть.|Хотя, технически говоря, они и так "
+"Острый кол - Вампиру – вампирова смерть.|Хотя, технически говоря,|они и так "
 "уже мёртвые."
 
 #: invtxt.txt:22
