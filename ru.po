@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2021-07-06 18:25+0000\n"
+"PO-Revision-Date: 2021-07-09 14:25+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -3710,7 +3710,9 @@ msgstr "OTHER: Спроси у торговцев.#X1"
 
 #: dialog0078.txt:100201
 msgid "OTHER: Kiedy jesteś w jego pobliżu, pamiętaj,|mój przyjacielu: festina lente."
-msgstr "OTHER: Подойди к нему поближе|и будь шустрее! Festina lente!"
+msgstr ""
+"OTHER: Поспешишь – демона насмешишь.|Так что подойди к нему|и действуй "
+"аккуратно."
 
 #: dialog0078.txt:100202
 msgid "OTHER: Gładziutkie lusterko. Oto rozwiązanie|twojego problemu."
