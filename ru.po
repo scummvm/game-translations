@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2021-07-14 22:25+0000\n"
+"PO-Revision-Date: 2021-08-04 00:25+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -3527,8 +3527,8 @@ msgstr "P#OTHER: Вот уже почти что-то припомнил..."
 #: dialog0074.txt:5
 msgid "OTHER: Nie, chłopcze, w końcu nie byłem tu już|tysiąc lat. Mam prawo zapomnieć jeden|czy drugi drobny szczegół."
 msgstr ""
-"OTHER: Хотя нет, парень.|Меня здесь тысячу лет не было.|Какие-то мелочи я "
-"мог и забыть."
+"OTHER: ...Хотя... Нет, парень.|Меня здесь тысячу лет не было.|Какие-то "
+"мелочи я мог и забыть."
 
 #: dialog0075.txt:1
 msgid "OTHER: Hm..."
@@ -4368,7 +4368,7 @@ msgstr "OTHER: По каким делам?"
 #: dialog0107.txt:4
 msgid "OTHER2: Jeśli go zaraz wyprowadzę, to będą|przyziemne, a jeśli jeszcze chwilę|tu postoi, to będą przykamienne."
 msgstr ""
-"OTHER2: Ну, по сами-знаете-каким.|И если я его отсюда не выведу,|то еще и по "
+"OTHER2: Ну, по сами-знаете-каким.|И если я его отсюда не выведу,|то ещё и по "
 "сами-увидите-каким."
 
 #: dialog0107.txt:5
