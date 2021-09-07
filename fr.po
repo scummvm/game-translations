@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
-"POT-Creation-Date: 2019-06-13 00:06+0100\n"
+"POT-Creation-Date: 2021-09-07 21:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1466,9 +1466,11 @@ msgid "Schönes Wetter heute!"
 msgstr ""
 
 #: ../../ms2/ms2_r2.c:49
-msgid ""
-"Können Sie mir sagen, von wem ich eine Eintrittskarte für den "
-"Musikwettbewerb kriegen kann?"
+msgid "Können Sie mir sagen, von wem ich eine Eintrittskarte"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:50
+msgid "für den Musikwettbewerb kriegen kann?"
 msgstr ""
 
 #: ../../ms2/ms2_r2.c:55
@@ -2016,8 +2018,11 @@ msgid "Wie groß ist mein Anteil?"
 msgstr ""
 
 #: ../../ms2/ms2_r2.c:695
-msgid ""
-"Machen Sie es immer so, daß Sie Ihre Komplizen über ein Graffitti anwerben?"
+msgid "Machen Sie es immer so, daß Sie Ihre Komplizen über"
+msgstr ""
+
+#: ../../ms2/ms2_r2.c:696
+msgid "ein Graffitti anwerben?"
 msgstr ""
 
 #: ../../ms2/ms2_r2.c:722

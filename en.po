@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
-"POT-Creation-Date: 2019-06-13 00:06+0100\n"
+"POT-Creation-Date: 2021-09-07 21:01+0100\n"
 "PO-Revision-Date: 2019-09-13 00:00+0000\n"
 "Last-Translator: Thierry Crozat <criezy@scummvm.org>\n"
 "Language-Team: none\n"
@@ -1488,10 +1488,18 @@ msgid "Schönes Wetter heute!"
 msgstr "Nice weather today!"
 
 #: ../../ms2/ms2_r2.c:49
-msgid ""
-"Können Sie mir sagen, von wem ich eine Eintrittskarte für den "
-"Musikwettbewerb kriegen kann?"
+#, fuzzy
+#| msgid ""
+#| "Können Sie mir sagen, von wem ich eine Eintrittskarte für den "
+#| "Musikwettbewerb kriegen kann?"
+msgid "Können Sie mir sagen, von wem ich eine Eintrittskarte"
 msgstr "Can you tell me who can get me a ticket for the music contest?"
+
+#: ../../ms2/ms2_r2.c:50
+#, fuzzy
+#| msgid "Ich würde gern am Musikwettbewerb teilnehmen."
+msgid "für den Musikwettbewerb kriegen kann?"
+msgstr "I would like to participate in the music competition."
 
 #: ../../ms2/ms2_r2.c:55
 msgid "Ok, hier haben Sie den Xa."
@@ -2063,9 +2071,16 @@ msgid "Wie groß ist mein Anteil?"
 msgstr "How big is my share?"
 
 #: ../../ms2/ms2_r2.c:695
-msgid ""
-"Machen Sie es immer so, daß Sie Ihre Komplizen über ein Graffitti anwerben?"
+#, fuzzy
+#| msgid ""
+#| "Machen Sie es immer so, daß Sie Ihre Komplizen über ein Graffitti "
+#| "anwerben?"
+msgid "Machen Sie es immer so, daß Sie Ihre Komplizen über"
 msgstr "Do you always use graffiti to recruit your accomplices?"
+
+#: ../../ms2/ms2_r2.c:696
+msgid "ein Graffitti anwerben?"
+msgstr ""
 
 #: ../../ms2/ms2_r2.c:722
 msgid "Hmm, Moment mal, ich frage den Boss."
