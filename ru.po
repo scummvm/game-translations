@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2021-09-23 11:26+0000\n"
+"PO-Revision-Date: 2021-09-24 18:26+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -2256,19 +2256,19 @@ msgstr "OTHER: Скорее аристократичная."
 
 #: dialog0027.txt:100102
 msgid "OTHER: Zło mnie nie fascynuje, mam inne|inspiracje."
-msgstr "OTHER: Чёрных дел мне не надо. Я больше по белым."
+msgstr "OTHER: Чёрных дел мне не надо.|Я человек честный."
 
 #: dialog0027.txt:100103
 msgid "OTHER: Małe, białe sześcianiki. To po pierwsze.|A poza tym duże białe piłeczki z brązowymi|czubeczkami. Mniam!"
 msgstr ""
-"OTHER: Мне бы кубиков белых... А, ну, и шариков тоже,|да побольше, да с "
-"коричневым наверху. М-м!"
+"OTHER: И торговля, и игра – всё у меня по-честному.|Руки ничем чёрным "
+"никогда не пятнал.|Но я и не белоручка какой – дело своё знаю."
 
 #: dialog0027.txt:100104
 msgid "OTHER: Przyznam jednak, że gdy w czasie podróży|mijaliśmy zatopiony w ciemności zamek,|to było dość interesujące."
 msgstr ""
-"OTHER: Только одна чёрная вещь мне припомнилась.|Как-то раз мы ехали мимо "
-"одного замка –|так он был весь скрыт во тьме."
+"OTHER: Только одну чёрную вещь помню.|Как-то раз мы ехали мимо одного замка "
+"–|так он был весь скрыт во тьме."
 
 #: dialog0027.txt:100105
 msgid "HERO: Zatopiony w ciemności?"
@@ -2294,7 +2294,7 @@ msgstr "P#OTHER: Серьёзно?…"
 
 #: dialog0027.txt:100110
 msgid "OTHER2: Na rany, nie gadaj tyle, tylko graj."
-msgstr "OTHER2: Да хватит уже балаболить!|Играй давай."
+msgstr "OTHER2: Да хватит уже балаболить,|честный ты наш! Играй давай."
 
 #: dialog0027.txt:100111
 msgid "OTHER2: Starasz się wymigać?"
