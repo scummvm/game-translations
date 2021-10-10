@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2021-09-24 18:26+0000\n"
+"PO-Revision-Date: 2021-10-11 01:26+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -9524,11 +9524,11 @@ msgstr ""
 
 #: dialog0365.txt:1
 msgid "OTHER: Aha..."
-msgstr "OTHER: Ха..."
+msgstr "OTHER: Ха!..."
 
 #: dialog0365.txt:2
 msgid "P#OTHER: ...zapomniałem wam powiedzieć jak ten|nicpoń miał na imię."
-msgstr "P#OTHER: ...почти забыл рассказать, как звали этого негодника."
+msgstr "P#OTHER: ...Чуть не забыл рассказать, как звали этого негодника."
 
 #: dialog0366.txt:1
 msgid "OTHER: Swoją drogą było to plebejskie imię|i nie warto go pamiętać."
@@ -9708,7 +9708,7 @@ msgstr "OTHER: И если бы я не пришёл на помощь..."
 
 #: dialog0385.txt:2
 msgid "P#OTHER: ...cała ta historia skończyłaby się|jakąś straszną tragedią."
-msgstr "P#OTHER: ..история бы могла закончиться весьма печально..."
+msgstr "P#OTHER: ...история бы могла закончиться весьма печально..."
 
 #: dialog0386.txt:1
 msgid "OTHER: Jak zwykle przeszedłem do pieśni i legendy,|co nawiasem mówiąc, staje się już nieco nużące."
@@ -9779,7 +9779,7 @@ msgid "OTHER: ...z cmentarzyska koło zamku Garrahan do dzisiaj|gorąco przyjaź
 msgstr ""
 "OTHER: ...с кладбища близ замка Гаррахан – он сильно сдружился|со своей "
 "крысой, называет её \"лучшей подругой\".|Говорят, он даже научил её "
-"комплименты другим делать..."
+"комплименты делать..."
 
 #: dialog0395.txt:2
 msgid "P#OTHER: ...choć w to już nie chce mi się wierzyć."
