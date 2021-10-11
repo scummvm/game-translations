@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2021-10-11 01:26+0000\n"
+"PO-Revision-Date: 2021-10-12 15:26+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -376,12 +376,11 @@ msgstr ""
 
 #: dialog0010.txt:6
 msgid "HERO: Demon zmienił moje ciało... To znaczy|właściwie, moja dusza..."
-msgstr ""
-"HERO: Один демон украл моё тело…|То есть… на самом деле|он украл мою душу…"
+msgstr "HERO: Один демон украл моё тело…|В смысле, душа моя, она…"
 
 #: dialog0010.txt:7
 msgid "OTHER: Na pogawędki o drobiazgach czas będzie|potem."
-msgstr "OTHER: Давай мы это всё потом обсудим, а?"
+msgstr "OTHER: Давай мы это всё потом обсудим, хорошо?"
 
 #: dialog0010.txt:8
 msgid "OTHER: A co do twoich czarodziejskich sztuczek, to|jak mówi stare przysłowie, nie chwal się|dokonaniami dnia wczorajszego..."
