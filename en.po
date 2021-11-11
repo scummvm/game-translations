@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2020-09-06 10:43+0000\n"
-"Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
+"PO-Revision-Date: 2021-11-11 22:34+0000\n"
+"Last-Translator: Ben Castricum <github@bencastricum.nl>\n"
 "Language-Team: English <https://translations.scummvm.org/projects/prince/"
 "prince/en/>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.0.4\n"
+"X-Generator: Weblate 4.4\n"
 
 #: dialog0001.txt:1
 msgid "HERO: Przeppp... raszam..."
@@ -9626,8 +9626,8 @@ msgstr ""
 #: dialog0370.txt:3
 msgid "OTHER: ...pół życia studiować u jednego|z najwybitniejszych magów świata.|Na przykład..."
 msgstr ""
-"OTHER: ... you would have have to spend half your life|studying under one of "
-"the greatest|magicians in the world.|For example ..."
+"OTHER: ... you would have to spend half your life|studying under one of the "
+"greatest|magicians in the world.|For example ..."
 
 #: dialog0371.txt:1
 msgid "OTHER: ...u mnie."
@@ -9894,7 +9894,7 @@ msgstr ""
 msgid "OTHER: \"O pomyślnym działaniu palenia wampirów|na reumatyzm i dobre samopoczucie\"."
 msgstr ""
 "OTHER: \"On the successful effects of vampire burning|on rheumatism and well-"
-"being.\""
+"being\"."
 
 #: dialog0403.txt:1
 msgid "OTHER: Pustelnik opuścił swoją chałupkę|i postanowił zamieszkać w młynie..."
@@ -11192,7 +11192,7 @@ msgstr ""
 msgid "pergamin - To chyba jakieś motto...+\"Jeśli zbyt długo patrzysz w otchłań,|otchłań zaczyna patrzeć w ciebie\"."
 msgstr ""
 "parchment - This is probably a motto...+\"If you gaze long into an abyss, "
-"the abyss also gazes into you.\""
+"the abyss also gazes into you\"."
 
 #: mob.lst:18005
 msgid "kartka - To pewnie jakaś ważna czarnoksięska uwaga,|albo zapis bluźnierczego czaru...+Nie, zaraz...+To jakaś lista...+\"Kupić mleko... Posprzątać po Zraleimchu....|Pomodlić się do potężnego Kecaja Arakeipa|jeszcze przed śniadaniem....\"+\"Załatwić dostawę bułeczek...\"+Och..."
@@ -11394,7 +11394,7 @@ msgid "strona z książki - Widzę tytuł jakiegoś rozdziału...+\"Ciepła posa
 msgstr ""
 "page from the book - I see the title of a chapter...+\"Warm job, or burning "
 "witches\".*+ Hm, I wonder if they also had the famous work:|\"How to quit "
-"burning witches in a week.\""
+"burning witches in a week\"."
 
 #: mob.lst:22006
 msgid "resztki bramy - Mam nieodparte wrażenie, że przestała spełniać|swoją pierwotną rolę.+W przypadku tego gruzowiska pojęcie wyjścia|jest naprawdę szerokie."
@@ -11832,7 +11832,7 @@ msgstr ""
 msgid "czarna świeca - Olbrzymia, gruba świeca. Jest najbliżej drzwi|z napisem \"V.I.P.\"."
 msgstr ""
 "black candle - A huge, thick candle. It is closest to the door with|the "
-"inscription \"V.I.P.\""
+"inscription \"V.I.P.\"."
 
 #: mob.lst:36005
 msgid "drzwi - \"Wirtualna sala grzechów lekkich.\""
