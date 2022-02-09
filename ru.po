@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2021-10-12 15:26+0000\n"
+"PO-Revision-Date: 2022-02-10 13:27+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -3600,7 +3600,7 @@ msgstr ""
 
 #: dialog0077.txt:6
 msgid "OTHER: Nawet jeśli była ich, to tym lepiej,|że ją stracili!"
-msgstr "OTHER: Обронил купец –|ну, так ему и надо!"
+msgstr "OTHER: Обронил – ну, так ему и надо!"
 
 #: dialog0077.txt:7
 msgid "HERO: Rysunki w tej księdze wyglądają interesująco."
@@ -4118,7 +4118,7 @@ msgstr ""
 msgid "OTHER: A teraz, po tej historii z księciem..."
 msgstr ""
 "OTHER: Да у вас ещё и с принцем была история.|Может, Его Величество "
-"отвлечётся|хоть на час, да повеселится?"
+"отвлечётся хоть на час?"
 
 #: dialog0094.txt:8
 msgid "OTHER2: I ja o tym myślę."
