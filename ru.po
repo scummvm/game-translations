@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2022-02-15 10:27+0000\n"
+"PO-Revision-Date: 2022-02-15 11:15+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -12252,7 +12252,7 @@ msgstr "Никто не отвечает. Наверное, готовят|ин�
 
 #: variatxt.txt:702
 msgid "Z małej chmury duży deszcz..."
-msgstr "Из такого облачка – и такой ливень..."
+msgstr "Надо же, как всё обернулось."
 
 #: variatxt.txt:703
 msgid "Nie chcę na to patrzeć."
