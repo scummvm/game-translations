@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2022-02-15 11:15+0000\n"
+"PO-Revision-Date: 2022-02-16 17:27+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -5409,7 +5409,7 @@ msgstr "HERO: Как именно?"
 
 #: dialog0157.txt:10
 msgid "OTHER: Pobłogosławiony?"
-msgstr "OTHER: Освятить, наверное."
+msgstr "OTHER: Может, сделать из него|святой символ?"
 
 #: dialog0157.txt:11
 msgid "OTHER: Trochę czosnku też by nie zaszkodziło.|W moich czasach był to podstawowy|straszak na wampiry."
@@ -10876,7 +10876,7 @@ msgstr "Дверь - Обычная дверь. Наверное,|ведёт в 
 
 #: mob.lst:11005
 msgid "drzwi - Drzwi do jaskini smoka."
-msgstr "Дверь - Дверь в логово дракона."
+msgstr "Дверь - Дверь в логово крокодила."
 
 #: mob.lst:11006
 msgid "zbroja - Taka zbroja to jest bardzo fajna rzecz.+Jak się człowiek wywróci, od razu służy|za trumnę."
