@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2022-02-16 17:27+0000\n"
+"PO-Revision-Date: 2022-02-21 22:27+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -25,8 +25,7 @@ msgstr "HERO: Э-э... Прос-с...стите..."
 
 #: dialog0001.txt:2
 msgid "OTHER: Nie ma mowy. Idź sobie. Nie widzisz, że|staram się ciebie ignorować?"
-msgstr ""
-"OTHER: Не прощу. Уходи отсюда!|Я уже устал делать вид, будто тебя тут нет!"
+msgstr "OTHER: Не прощу. Уходи отсюда.|Не видишь, я пытаюсь тебя игнорировать?"
 
 #: dialog0001.txt:3
 msgid "HERO: Ale ja nic..."
@@ -2907,15 +2906,15 @@ msgstr "HERO: Что?"
 
 #: dialog0053.txt:3
 msgid "OTHER: Ale już bo poprzetrącam kości!"
-msgstr "OTHER: Быстро! А то я тебе|все кости переломаю!"
+msgstr "OTHER: Быстро! А то я те ща кости переломаю!"
 
 #: dialog0054.txt:1
 msgid "OTHER: I kto tu jest skarlałą rasą..."
-msgstr "OTHER: И кто из нас тут низшая раса?"
+msgstr "OTHER: Чо, высокий до хрена?..."
 
 #: dialog0055.txt:1
 msgid "OTHER: Jazda stąd!"
-msgstr "OTHER: Пошёл вон отсюда!"
+msgstr "OTHER: Пшёл отседа вон!"
 
 #: dialog0055.txt:2
 msgid "HERO: Dobra, już znikam..."
@@ -2927,21 +2926,21 @@ msgstr "P#HERO: ...Буду искать глупее себя."
 
 #: dialog0056.txt:1
 msgid "OTHER: Głuchy czy głupi?"
-msgstr "OTHER: Ты глухой или тупой?"
+msgstr "OTHER: Ты глухой иль тупой?"
 
 #: dialog0056.txt:2
 msgid "HERO: Właściwie jak śmiesz tak się odzywać do|księcia tej krainy?"
-msgstr "HERO: Как ты смеешь так разговаривать|с принцем этого королевства?!"
+msgstr "HERO: Да как ты смеешь так разговаривать|с принцем этого королевства?!"
 
 #: dialog0056.txt:3
 msgid "OTHER: Książę? Jesteś księciem? Nie uwierzę, póki|nie dasz mi podarunku godnego księcia!"
 msgstr ""
-"OTHER: Принц? Ты – принц? Я поверю тебе,|только если ты сделаешь мне "
-"королевский подарок!"
+"OTHER: Это хто принц, ты-то?|А ну подарок тащи, и шоб королевский был!|Тады "
+"поверю!"
 
 #: dialog0056.txt:4
 msgid "P#HERO: Chwytam."
-msgstr "P#HERO: Понял."
+msgstr "P#HERO: Без вопросов."
 
 #: dialog0057.txt:1
 msgid "OTHER: Wrrr..."
@@ -6047,17 +6046,17 @@ msgstr "HERO: Как победить дракона?"
 
 #: dialog0179.txt:3
 msgid "OTHER: Zapewne chcesz wiedzieć, w jaki sposób|TY mógłbyś pokonać smoka."
-msgstr "OTHER: В смысле, хочешь знать, как|ТЕБЕ победить дракона?"
+msgstr "OTHER: Я тя понял. Хошь знать,|как ТЕБЕ победить дракона."
 
 #: dialog0179.txt:4
 msgid "OTHER: Sposób jest więcej niż prosty."
-msgstr "OTHER: Есть один очень простой способ."
+msgstr "OTHER: Это без проблем. Слушай сюда."
 
 #: dialog0179.txt:5
 msgid "OTHER: Wziąć ze sobą dziesięciu krasnoludów|silnych jak ja, pokazać im legowisko|potwora i schować się, póki walka trwa."
 msgstr ""
-"OTHER: Берёшь десять гномов, сильных как я,|приводишь их к логову дракона,|"
-"прячешься и ждёшь, пока они его забьют."
+"OTHER: Берёшь десять гномов, сильных как я,|ведёшь их к логову дракона,|"
+"прячешься и ждёшь, покуда они его забьют."
 
 #: dialog0179.txt:6
 msgid "HERO: Bardzo śmieszne."
@@ -6073,28 +6072,27 @@ msgstr "OTHER: А я ведь не шутил."
 
 #: dialog0179.txt:9
 msgid "OTHER: Człowiek kontra smok. Śmiechu warte."
-msgstr ""
-"OTHER: Это вот ты тут шутить изволишь.|Чтобы человек – да против дракона?"
+msgstr "OTHER: Это вот ты тут шутить изволишь.|Шоб человек – да против дракона?"
 
 #: dialog0179.txt:10
 msgid "OTHER: No chyba, żebyś był paladynem z Zakonu|Smokobójców. Wtedy was stu dałoby sobie|radę. Ale nie jesteś paladynem, prawda?"
 msgstr ""
-"OTHER: Хотя, если ты – паладин Ордена Драконоборцев,|сотня таких, как ты, "
-"справилась бы.|Но ты ведь не паладин, а?"
+"OTHER: Не, если ты – паладин Ордена Драконоборцев,|то сто парней таких, как "
+"ты, сдюжили бы.|Но дак ты ведь не паладин, а?"
 
 #: dialog0179.txt:11
 msgid "OTHER: I nie masz dziewięćdziesięciu dziewięciu|kumpli?"
-msgstr "OTHER: И девяноста девяти товарищей|у тебя тоже не найдётся?"
+msgstr "OTHER: А ведь те надо ещё девяносто девять парней.|Они-то где будут, а?"
 
 #: dialog0179.txt:12
 msgid "OTHER: Potrzebowałbyś cudu, żeby pokonać|choćby krowę, a co dopiero smoka."
-msgstr "OTHER: Что там дракон – я удивлюсь,|если ты корову победишь."
+msgstr "OTHER: Да шо там дракон – я охренею,|если ты корову победишь."
 
 #: dialog0179.txt:13
 msgid "OTHER: Ale nawet gdybyś był sto razy silniejszy,|to i tak twoja skóra przy smoczej to jak|papier przy kamieniu."
 msgstr ""
-"OTHER: Да и будь ты хоть в сто раз сильнее его,|твоя кожа против его шкуры –|"
-"как бумага против камня."
+"OTHER: И ты хоть в сто раз будь сильней его,|у дракона кожа – крепче камня,|"
+"твоей не чета будет."
 
 #: dialog0179.txt:14
 msgid "OTHER: Nawet i miecz tu nie pomoże."
@@ -6106,7 +6104,7 @@ msgstr "HERO: Значит, лучше вообще не пытаться?"
 
 #: dialog0179.txt:16
 msgid "OTHER: I tak doszliśmy do rozsądnych wniosków."
-msgstr "OTHER: Вот, ты сам всё и понял."
+msgstr "OTHER: Во, теперь ты сам всё и понял."
 
 #: dialog0180.txt:1
 msgid "OTHER: Zawsze wierzyłem, że i w takiej dziurze|znajdą się ludzie światli."
@@ -6127,7 +6125,7 @@ msgstr ""
 
 #: dialog0180.txt:5
 msgid "OTHER: Ale to jeszcze nie wystarczy, by wstąpić|do Gildii..."
-msgstr "OTHER: Но если вы хотите вступить|в Гильдию – этого будет мало."
+msgstr "OTHER: Но если вы хотите вступить|в Гильдию – этого будет мало..."
 
 #: dialog0180.txt:106
 msgid "$0: Potrzebny drugi kapeć?..."
@@ -6135,11 +6133,11 @@ msgstr "$0: Мне вам второй тапочек принести?..."
 
 #: dialog0180.txt:107
 msgid "$1: Gildii?"
-msgstr "$1: В Гильдию?"
+msgstr "$1: В... Гильдию?"
 
 #: dialog0180.txt:108
 msgid "$2: Kradniecie biednym i rozdajecie bogatym?!"
-msgstr "$2: Так вы крадёте у бедных и отдаёте богатым?!"
+msgstr "$2: Вы что, крадёте у бедных и отдаёте богатым?!"
 
 #: dialog0180.txt:109
 msgid "$3: Chyba należy dawać biednym, a zabierać bogatym?"
@@ -6163,7 +6161,7 @@ msgstr "$7: А вы аристократам скидки делаете?"
 
 #: dialog0180.txt:100001
 msgid "OTHER: Żarcik, żarcik, żarcik..."
-msgstr "OTHER: Опять вы со своими шуточками."
+msgstr "OTHER: Опять вы со своими шуточками..."
 
 #: dialog0180.txt:100002
 msgid "OTHER: Jesteś niewyczerpany, książę."
@@ -7132,7 +7130,7 @@ msgstr "OTHER: Чую, чую – амулет ведьмака!"
 
 #: dialog0202.txt:2
 msgid "HERO: Co takiego?"
-msgstr "HERO: В чём дело?"
+msgstr "HERO: Что случилось?"
 
 #: dialog0203.txt:1
 msgid "OTHER: Więc są jeszcze jacyś..."
