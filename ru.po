@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2022-02-21 22:27+0000\n"
+"PO-Revision-Date: 2022-02-24 07:22+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -4029,11 +4029,12 @@ msgstr "OTHER: А я столько месяцев старался,|и всё �
 #: dialog0087.txt:3
 msgid "OTHER: Może i jestem tylko z mandragory, ale wiem|co to wdzięczność."
 msgstr ""
-"OTHER: Пусть я всего лишь и из мандрагоры,|но я всегда плачу свои долги."
+"OTHER: Пусть я всего лишь и из мандрагоры,|но свою благодарность я вам "
+"обязательно выражу."
 
 #: dialog0087.txt:4
 msgid "OTHER: Pomogę ci, kiedy tylko będziesz mnie|potrzebował. Powiedzmy ...trzy razy."
-msgstr "OTHER: Поэтому я помогу вам, если что|случится. Скажем... три раза."
+msgstr "OTHER: Я помогу вам, если вдруг что случится.|Скажем, три раза."
 
 #: dialog0087.txt:5
 msgid "OTHER: Daj znać, kiedy będę potrzebny."
