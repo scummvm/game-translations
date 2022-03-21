@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2022-03-11 17:27+0000\n"
+"PO-Revision-Date: 2022-03-22 21:27+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -148,8 +148,8 @@ msgstr "HERO: Тебе, наверное, не меньше тысячи лет!
 #: dialog0001.txt:100407
 msgid "OTHER: Kiedy się rodziłem ludzie byli jeszcze cali|owłosieni, chodzili po drzewach, podpierali|się ogonami, a na banana mówili jup-jup!"
 msgstr ""
-"OTHER: Когда я родился, люди ещё были|волосатыми, прыгали по деревьям,|"
-"опирались на хвост и называли бананы «юп-юп»!"
+"OTHER: Когда я родился, люди ещё были волосатыми,|прыгали по деревьям, "
+"опирались на хвост|и называли бананы «юп-юп»!"
 
 #: dialog0001.txt:100408
 msgid "OTHER: Tak, to było jakiś czasu temu.#B0"
