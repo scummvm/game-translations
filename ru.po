@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2022-04-27 14:27+0000\n"
+"PO-Revision-Date: 2022-04-29 05:27+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -1682,7 +1682,7 @@ msgstr "$2: Вы, случаем, с демонами не знакомы?"
 
 #: dialog0023.txt:106
 msgid "$3: Ech, nic tam, porozmawiamy później."
-msgstr "$3: Да ничем. Потом поговорим."
+msgstr "$3: Всё в порядке. Потом поговорим."
 
 #: dialog0023.txt:207
 msgid "$4: Cóż... No wiesz waszmość..."
@@ -1694,7 +1694,7 @@ msgstr "$5: Я не настоящий принц."
 
 #: dialog0023.txt:209
 msgid "$6: Dowcip? Były inne?"
-msgstr "$6: В смысле – шутить?"
+msgstr "$6: Не понял. А я что-то уже подобное замышлял?"
 
 #: dialog0023.txt:100001
 msgid "OTHER: Tak, wasza wysokość."
@@ -1702,7 +1702,7 @@ msgstr "OTHER: Да, Ваше Высочество."
 
 #: dialog0023.txt:100002
 msgid "OTHER: Tuszę, iż to kolejny dowcip waszej wysokości,|nieprawdaż?#B1"
-msgstr "OTHER: Я так полагаю, Ваше Высочество|опять шутить изволит?#B1"
+msgstr "OTHER: Я так полагаю, Ваше Высочество|опять что-то замышляет?#B1"
 
 #: dialog0023.txt:100101
 msgid "OTHER: Jak to zawsze u dobrych kupców."
@@ -1888,7 +1888,7 @@ msgstr "$3: Не буду мешать. Потом ещё поговорим."
 
 #: dialog0024.txt:100001
 msgid "OTHER: Przeżyłem z jednym dwadzieścia lat.|To była moja żona."
-msgstr "OTHER: Один из них прожил со мной|лет двадцать – жена моя!"
+msgstr "OTHER: Я на демоне был женат двадцать лет."
 
 #: dialog0024.txt:100002
 msgid "OTHER: Podróżując po całym świecie widzieliśmy różne|złe rzeczy, książę, ale zawsze trzymaliśmy się|od nich z daleka."
@@ -1980,8 +1980,8 @@ msgstr ""
 #: dialog0024.txt:100202
 msgid "OTHER: Ale przecież wiesz, kosztowałeś wczoraj|mojego jaszczurzego ogona w śliwkach|i pieprzu."
 msgstr ""
-"OTHER: Помните, вон, что вчера вам приготовил?|Хвост ящерицы в сливах и "
-"перце?|Мой рецепт. Надеюсь, вам понравилось."
+"OTHER: Хотя вы и так об этом знаете. Вчера у вас|на столе был хвост ящерицы "
+"в сливах и перце.|Мой рецепт. Надеюсь, вам понравилось."
 
 #: dialog0024.txt:100203
 msgid "P#HERO: Er, kahem, jasne, zapomniałem."
@@ -2120,13 +2120,13 @@ msgstr "OTHER: Про кого? Про демонов?!"
 
 #: dialog0025.txt:100202
 msgid "OTHER: Masz zachcianki, książę..."
-msgstr "OTHER: Интересные у вас желания, принц…"
+msgstr "OTHER: Ну, и интересы у вас, принц…"
 
 #: dialog0025.txt:100203
 msgid "OTHER: Słyszałem plotki o podzielonym na dwie|części straszliwym zamczysku, ale na|szczęście to tylko plotki."
 msgstr ""
-"OTHER: Слышал я про один замок. Жуткий такой,|из двух корпусов. Но вообще, "
-"мало ли чего говорят..."
+"OTHER: Я как-то слышал про один замок.|Жуткий такой, в нем будто бы два "
+"корпуса.|Но вообще, мало ли чего говорят..."
 
 #: dialog0025.txt:100204
 msgid "OTHER: Ale sam wiesz, panie, jak to jest z plotkami."
@@ -2142,12 +2142,13 @@ msgstr ""
 #: dialog0025.txt:100206
 msgid "OTHER: Jedyny demon jakiego widziałem na własne|oczy to demon hazardu."
 msgstr ""
-"OTHER: Единственный демон, которого я видел|своими глазами — демон азартных "
-"игр."
+"OTHER: Единственный демон, которого я видел|своими глазами — азарт игры."
 
 #: dialog0025.txt:100207
 msgid "P#OTHER: Ale mnie to nie dotyczy, więc czy|mogę już wracać do gry?#F1#B0"
-msgstr "P#OTHER: Только мне он не интересен.|Можно, я вернусь к игре?#F1#B0"
+msgstr ""
+"P#OTHER: В смысле, со стороны видел, не в себе.|Можно, я вернусь к "
+"игре?#F1#B0"
 
 #: dialog0025.txt:100301
 msgid "OTHER: Twoja łaska nie zna granic, książę.#E3"
