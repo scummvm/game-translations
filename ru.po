@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2022-04-29 05:27+0000\n"
+"PO-Revision-Date: 2022-05-08 09:27+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -9522,7 +9522,7 @@ msgstr "OTHER: Наук не знал, ремеслу не учен,|и в го�
 msgid "OTHER: A przecież zawsze mógł zostać zręcznym|szulerem czy cenionym biboszem."
 msgstr ""
 "OTHER: Зато он хитрый был. Может, стал бы по жизни|в карты мухлевать, или "
-"людей дурить..."
+"людей честных дурить..."
 
 #: dialog0365.txt:1
 msgid "OTHER: Aha..."
@@ -9683,8 +9683,8 @@ msgstr ""
 msgid "OTHER: Nasz drogi Galador znalazł się bowiem na zamku|tuż przed walką z niepokonanym Czarnym Rycerzem,|słynącym z siły i okrucieństwa."
 msgstr ""
 "OTHER: А наш любезный Галадор обнаружил себя в замке.|И тут он понял, что "
-"готовится к битве с непобедимым|Чёрным Рыцарем, известным своей силой|и "
-"безжалостностью."
+"сейчас ему предстоит битва|с непобедимым|Чёрным Рыцарем,|известным своей "
+"силой и безжалостностью."
 
 #: dialog0381.txt:1
 msgid "OTHER: Cóż mógł więc zrobić?"
