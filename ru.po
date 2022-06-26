@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2022-05-23 23:27+0000\n"
+"PO-Revision-Date: 2022-06-27 20:28+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -8098,7 +8098,7 @@ msgstr "OTHER: Сама справлюсь!"
 
 #: dialog0246.txt:11
 msgid "HERO: Cóż, ponoć do trzech razy sztuka."
-msgstr "HERO: Угу, конечно. Боги любят троицу."
+msgstr "HERO: Ага, конечно-конечно. Боги любят троицу, да?"
 
 #: dialog0246.txt:12
 msgid "HERO: Posiedzisz chwilę, to zmienisz|zdanie."
