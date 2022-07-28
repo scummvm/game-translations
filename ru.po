@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2022-06-27 20:28+0000\n"
+"PO-Revision-Date: 2022-07-29 10:37+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -371,7 +371,7 @@ msgstr "P#HERO: Ну, понимаете, тут не так-то|всё и пр
 
 #: dialog0010.txt:5
 msgid "OTHER: O, zawsze wydawało mi się, że to|najprostsze pytanie na świecie."
-msgstr "OTHER: А вот я всегда думал,|что легче вопроса и быть не может!"
+msgstr "OTHER: Смотри-ка. А я думал,|что легче вопроса и быть не может."
 
 #: dialog0010.txt:6
 msgid "HERO: Demon zmienił moje ciało... To znaczy|właściwie, moja dusza..."
@@ -556,7 +556,7 @@ msgstr ""
 
 #: dialog0011.txt:12
 msgid "OTHER: Świat od razu stanie się lepszy."
-msgstr "OTHER: И сразу всё встанет на свои места."
+msgstr "OTHER: Всё сразу встанет на свои места."
 
 #: dialog0011.txt:13
 msgid "OTHER: Przy okazji: jestem Arivald z Silmaniony.|Arcymag Tajemnego Bractwa i mistrz sztuk|magicznych."
@@ -650,7 +650,7 @@ msgstr ""
 
 #: dialog0014.txt:1
 msgid "OTHER: Na robale i larwy Payehu!"
-msgstr "OTHER: Разрази меня черви Пайеху!"
+msgstr "OTHER: Разрази меня все черви Пайеху!"
 
 #: dialog0014.txt:2
 msgid "OTHER: Co tu się działo?!"
@@ -844,7 +844,7 @@ msgstr "OTHER: А я что, похож на сумасшедшего?"
 
 #: dialog0016.txt:100503
 msgid "OTHER: Czy ja wyglądam na wariata?#B2"
-msgstr "OTHER: Ну, хотя, может, чуть-чуть...#B2"
+msgstr "OTHER: Ну, хотя, может, да, чуть-чуть...#B2"
 
 #: dialog0016.txt:100601
 msgid "OTHER: Skądże znowu! To się oczywiście czasem|zdarza, ale nie mnie."
@@ -1860,7 +1860,7 @@ msgstr ""
 
 #: dialog0023.txt:100609
 msgid "HERO: Chyba usłyszałem już wystarczająco dużo...#B0"
-msgstr "HERO: Ох, батюшки.|Одна история интереснее другой...#B0"
+msgstr "HERO: Ох, батюшки.|Одна история удивительнее другой...#B0"
 
 #: dialog0024.txt:1
 msgid "HERO: Witaj, kupcze."
@@ -1898,7 +1898,7 @@ msgstr ""
 
 #: dialog0024.txt:100003
 msgid "OTHER: Ta kraina jest spokojna pod rządami|twego ojca."
-msgstr "OTHER: Ваш отец очень хорошо правит.|Тихо мы тут живём, мирно."
+msgstr "OTHER: А здесь жизнь идёт тихо, мирно...|Ваш отец очень хорошо правит."
 
 #: dialog0024.txt:100004
 msgid "OTHER: Ale nawet i tu słyszeliśmy po drodze|o starym, przeklętym zamku, w którym|od lat już nie widziano człowieka."
@@ -1980,12 +1980,12 @@ msgstr ""
 #: dialog0024.txt:100202
 msgid "OTHER: Ale przecież wiesz, kosztowałeś wczoraj|mojego jaszczurzego ogona w śliwkach|i pieprzu."
 msgstr ""
-"OTHER: Хотя вы и так об этом знаете. Вчера у вас|на столе был хвост ящерицы "
-"в сливах и перце.|Мой рецепт. Надеюсь, вам понравилось."
+"OTHER: Хотя вы и так об этом знаете.|Вчера у вас в меню был хвост ящерицы|в "
+"сливах и перце. Мой рецепт."
 
 #: dialog0024.txt:100203
 msgid "P#HERO: Er, kahem, jasne, zapomniałem."
-msgstr "P#HERO: Ну, э-э, ещё б не понравилось.|Такое не забудется."
+msgstr "P#HERO: Гм, да, точно, был.|Такое не забудется."
 
 #: dialog0024.txt:100204
 msgid "OTHER: Czyżby nie smakował?..."
@@ -2051,7 +2051,7 @@ msgstr "OTHER: Да, так вот и бросаем, день за днём."
 
 #: dialog0025.txt:100004
 msgid "OTHER: Trochę treningu przed następnym|przystankiem nie zaszkodzi.#E4#B0"
-msgstr "OTHER: Пока не ушли в дорогу, можно и потренироваться.#E4#B0"
+msgstr "OTHER: Пока не ушли в дорогу,|можно и потренироваться.#E4#B0"
 
 #: dialog0025.txt:100101
 msgid "OTHER: Szczerze mówiąc wszystkiego po ździebełku,|tyle że Vandrusowi nie chciało się jeszcze|rozpakować plecaka."
@@ -2120,7 +2120,7 @@ msgstr "OTHER: Про кого? Про демонов?!"
 
 #: dialog0025.txt:100202
 msgid "OTHER: Masz zachcianki, książę..."
-msgstr "OTHER: Ну, и интересы у вас, принц…"
+msgstr "OTHER: Ну и интересы у вас, принц…"
 
 #: dialog0025.txt:100203
 msgid "OTHER: Słyszałem plotki o podzielonym na dwie|części straszliwym zamczysku, ale na|szczęście to tylko plotki."
@@ -2946,7 +2946,7 @@ msgstr ""
 
 #: dialog0056.txt:4
 msgid "P#HERO: Chwytam."
-msgstr "P#HERO: Без вопросов."
+msgstr "P#HERO: Это можно."
 
 #: dialog0057.txt:1
 msgid "OTHER: Wrrr..."
@@ -3270,11 +3270,11 @@ msgstr "HERO: По-моему, у меня дежавю."
 
 #: dialog0065.txt:3
 msgid "P#OTHER: Kim jesteś, śmiertelniku?"
-msgstr "P#OTHER: Кто ты, смертный?"
+msgstr "P#OTHER: Кой есьмь ты, смъртвинъ?"
 
 #: dialog0065.txt:104
 msgid "$0: Jestem twoim wyznawcą, panie."
-msgstr "$0: Я – ваш верный адепт, Повелитель."
+msgstr "$0: Я... то есть, азъ есмь рабъ Твой, Повелитель."
 
 #: dialog0065.txt:105
 msgid "$1: To naprawdę b-a-r-d-z-o długa historia."
@@ -3282,7 +3282,7 @@ msgstr "$1: Тут о-о-очень долго рассказывать надо
 
 #: dialog0065.txt:106
 msgid "$2: Całe szczęście, że jeszcze ...istniejesz."
-msgstr "$2: Хорошо хоть, вы ещё здесь... Существуете..."
+msgstr "$2: Хорошо хоть, Ты ещё здесь... Существуешь..."
 
 #: dialog0065.txt:107
 msgid "$3: Porozmawiajmy o interesach."
@@ -3290,23 +3290,25 @@ msgstr "$3: Так, ладно. Ближе к делу."
 
 #: dialog0065.txt:100001
 msgid "OTHER: Wiem, przecież nie wzywałbyś mego imienia|nadaremno."
-msgstr "OTHER: Знаю. Всуе бы ты Моё имя|не помянул."
+msgstr "OTHER: Оуто се. Ибо не помянулъ бы|ты имя Мое всуе."
 
 #: dialog0065.txt:100002
 msgid "OTHER: Dlaczego od tak dawna nie widziałem moich|kapłanów?"
-msgstr "OTHER: Почему Я уже так давно|не вижу своих жрецов?"
+msgstr "OTHER: Почьто не виждалъ|жьрьцовъ своих тако долго?"
 
 #: dialog0065.txt:100003
 msgid "OTHER: Dlaczego nie czuję słodkiego zapachu krwi|ofiarnych zwierząt?"
-msgstr "OTHER: Почему не слышу сладкого запаха|крови жертвенных животных?"
+msgstr ""
+"OTHER: Почьто не могу да слышати|сластного благоуханья кръви|тварей на "
+"заклание?"
 
 #: dialog0065.txt:100004
 msgid "OTHER: Dlaczego nie słyszę pieśni sławiących|moje imię?"
-msgstr "OTHER: Почему никто не славит|имя Моё в гимнах?"
+msgstr "OTHER: Почьто никътоже не славитъ|имя Мое во псалмахъ?"
 
 #: dialog0065.txt:100005
 msgid "P#OTHER: Dlaczego tu tak pusto?"
-msgstr "P#OTHER: Почему тут так пусто?"
+msgstr "P#OTHER: Почьто никогоже нетъ, кроме ти?!"
 
 #: dialog0065.txt:100006
 msgid "HERO: Ludzie odwracają się od starych bogów,|eeee... panie...."
@@ -3330,13 +3332,13 @@ msgstr ""
 
 #: dialog0065.txt:100101
 msgid "OTHER: Nie szkodzi, teraz, kiedy okazało się, że|moi wyznawcy jeszcze żyją, mam dużo czasu."
-msgstr "OTHER: Ничего страшного. Пока живы Мои|верующие, время у Меня ещё есть."
+msgstr "OTHER: Ништо. Доколе живы Мои|верующие, имамъ много Време."
 
 #: dialog0065.txt:100102
 msgid "HERO: Nie wątpię, eeee... panie.... Ale ja|nie jestem wieczny, a ta historia..."
 msgstr ""
-"HERO: Само собой, э-э-э, Повелитель, но я ведь|когда-нибудь и сам, ну, "
-"того...|А рассказывать тут..."
+"HERO: Само собой, э-э-э, Повелитель, но я-то|времени много не имамъ...|А "
+"рассказывать тут..."
 
 #: dialog0065.txt:100103
 msgid "HERO: Cóż, trwa właściwie całe moje życie."
@@ -3348,42 +3350,44 @@ msgstr "HERO: Я потом вам расскажу.|Даю слово.#B0"
 
 #: dialog0065.txt:100201
 msgid "P#OTHER: Więc wiesz, jaki los mnie czekał..."
-msgstr "P#OTHER: Так тебе ведома Моя судьба..."
+msgstr "P#OTHER: Значи, знаеш ты за оурочище Мое..."
 
 #: dialog0065.txt:100202
 msgid "P#HERO: Wiem. Dowiedziałem się od pewnego|wędrownego mnicha."
-msgstr "P#HERO: Ну да... Ведома.|Мне один проповедник рассказал."
+msgstr "P#HERO: Ну да... э-э... знаю.|Мне один проповедник рассказал."
 
 #: dialog0065.txt:100203
 msgid "P#OTHER: Mogę robić, co tylko chcę."
-msgstr "P#OTHER: Я могу делать всё, что возжелаю."
+msgstr "P#OTHER: Могу да създать, что угодно."
 
 #: dialog0065.txt:100204
 msgid "OTHER: Jestem potężniejszy od królów, magów i kapłanów.|Jednym ruchem dłoni ujarzmiałem smoki, a gniewnym|zmarszczeniem brwi rozpędzałem armie."
 msgstr ""
-"OTHER: Я более могуч, чем короли, маги и священники!|Я могу мановением руки "
-"усмирять драконов|и разгонять армии одним сердитым взглядом."
+"OTHER: Азъ силенъ боле кралей, волхвовъ та жьрьцовъ!|Могу да смиряти "
+"драконовъ едино маханьем руки,|и да обращати воиства во прахъ|едино поглядом "
+"гневным."
 
 #: dialog0065.txt:100205
 msgid "OTHER: Potrafię zmienić gwiazdę w łabędzia,|a złoto w ogień."
-msgstr "OTHER: Я могу превратить звезду в лебедя,|а золото – в огонь."
+msgstr "OTHER: Могу да обратить звезду в лебедя,|и злато – в огънь."
 
 #: dialog0065.txt:100206
 msgid "OTHER: Ale moje istnienie zależy od was."
-msgstr "OTHER: Но Моё существование зависит|от твоего рода."
+msgstr "OTHER: Обаче, житие Мое|само зависи от тебя."
 
 #: dialog0065.txt:100207
 msgid "OTHER: Od najbardziej kruchej i niepewnej rzeczy na|świecie - ludzkiego życia."
 msgstr ""
-"OTHER: От самой хрупкой и ненадёжной вещи в мире –|от жизни рода людского!"
+"OTHER: От самой немощьнай|да неизвестънейшай вещь на света –|от живота рода "
+"чловечьего."
 
 #: dialog0065.txt:100208
 msgid "P#OTHER: Tak to już bywa: coś za coś.#B0"
-msgstr "P#OTHER: Вот так и живём.|Ничто не достаётся даром.#B0"
+msgstr "P#OTHER: Тако си житие.|Око за око.#B0"
 
 #: dialog0065.txt:100301
 msgid "OTHER: Jak to o interesach?!"
-msgstr "OTHER: К какому ещё делу?!"
+msgstr "OTHER: За какому делу?!"
 
 #: dialog0065.txt:100302
 msgid "HERO: Po kolei."
@@ -3429,7 +3433,7 @@ msgstr "HERO: ...если учесть, что никаких верующих|�
 
 #: dialog0065.txt:100311
 msgid "P#HERO: To jak? Mam nadzieję, że się dogadamy?"
-msgstr "P#HERO: Ну что, согласен? По рукам?"
+msgstr "P#HERO: Ну что, согласенъ? По рукамъ?"
 
 #: dialog0065.txt:100312
 msgid "P#P#OTHER: Ty... Ty... Ty..."
@@ -3437,11 +3441,11 @@ msgstr "P#P#OTHER: Ты... Ты... Ты..."
 
 #: dialog0065.txt:100313
 msgid "OTHER: Ty żałosny, słaby człowieczku!"
-msgstr "OTHER: Ты что о себе возомнил,|жалкий, никчёмный человечишка?"
+msgstr "OTHER: Ты что о себе возомнил,|жалкий, никчёмный человечишка?!"
 
 #: dialog0065.txt:100314
 msgid "OTHER: Ośmielasz się ze mną ...TARGOWAĆ?!"
-msgstr "OTHER: Ты со Мной смеешь... ТОРГОВАТЬСЯ?!"
+msgstr "OTHER: Ты со мной смеешь... ТОРГОВАТЬСЯ?!"
 
 #: dialog0065.txt:100315
 msgid "OTHER: A może twój nędzny rozum podpowiedział ci,|iż boga można SZANTAŻOWAĆ?"
@@ -3449,7 +3453,7 @@ msgstr "OTHER: Или ты до того ослаб головой,|что бо�
 
 #: dialog0065.txt:100316
 msgid "OTHER: Zaraz przekonasz się, na czym polega|gniew boski!"
-msgstr "OTHER: Ну, всё! Сейчас ты узнаешь,|каков он – гнев божий!"
+msgstr "OTHER: Ну, всё! Сейчас ты узнаешь,|каков он – гнев Божий!"
 
 #: dialog0065.txt:100317
 msgid "OTHER: PRZYGOTUJ SIĘ!!!"
@@ -3461,7 +3465,7 @@ msgstr "P#P#P#P#P#OTHER: Чтоб тебя... Совсем сегодня осл
 
 #: dialog0065.txt:100319
 msgid "OTHER: W porządku, umowa stoi.#X1"
-msgstr "OTHER: ...Хорошо. Я согласен. Будь по-твоему.#X1"
+msgstr "OTHER: ...Хорошо... э-э, то есть...|Добро. Съгласенъ. Как желаешь.#X1"
 
 #: dialog0066.txt:1
 msgid "HERO: Arivaldzie, ponoć w pobliżu jest jakiś|demoniczny zamek."
@@ -3584,7 +3588,7 @@ msgstr ""
 #: dialog0077.txt:1
 msgid "OTHER: Cóż...hm...tak...zajmujące. Powiem|więcej: interesujące."
 msgstr ""
-"OTHER: Ну... Хм... Да... Интересно.|Осмелюсь даже сказать – притягательно."
+"OTHER: Ну... Хм... Да... Интересно.|Осмелюсь даже сказать –|притягательно."
 
 #: dialog0077.txt:2
 msgid "OTHER: Gdzie znalazłeś tego białego kruka?"
@@ -3598,8 +3602,8 @@ msgstr ""
 #: dialog0077.txt:4
 msgid "HERO: Eeee... Nie wiem, ja tam znalazłem|to przy drodze, może któryś z kupców|kiedyś ją zgubił..."
 msgstr ""
-"HERO: Э-э... Не знаю. Я её|в канаве какой-то подобрал.|Наверное, купец "
-"обронил..."
+"HERO: Э-э... Не знаю. Я её|в канаве какой-то подобрал.|Наверное, купцы "
+"обронили..."
 
 #: dialog0077.txt:5
 msgid "OTHER: Kupców! Ha! Ci dusigrosze znają się|na magii tyle, co kura na pieprzu!"
@@ -3749,15 +3753,15 @@ msgstr "OTHER: Увы. Я бы с радостью помог тебе,|прин
 
 #: dialog0079.txt:5
 msgid "OTHER: Siedem lat temu stały się dwie|rzeczy."
-msgstr "OTHER: Семь лет назад со мной|приключились две вещи."
+msgstr "OTHER: Семь лет назад со мной|приключились три вещи."
 
 #: dialog0079.txt:6
 msgid "OTHER: Ożeniłem się, i rozbiłem jedyne|lustro."
-msgstr "OTHER: Я женился и разбил наше|единственное зеркало."
+msgstr "OTHER: Я женился, разбил своё|единственное зеркало..."
 
 #: dialog0079.txt:7
 msgid "OTHER: Już nigdy nie kupię nowego."
-msgstr "OTHER: И с тех пор так и не|нашёл, где купить новое."
+msgstr "OTHER: ...и дал клятву, что|новое никогда не куплю."
 
 #: dialog0079.txt:8
 msgid "HERO: Może znalazłbyś jakiś dobrze wypolerowany|kawałek metalu?"
@@ -3894,7 +3898,7 @@ msgstr "OTHER: С их помощью можно превратить|челов
 #: dialog0084.txt:5
 msgid "OTHER: Problem tkwi w tym, że osoba, na którą rzucamy|to zaklęcie zamienia się w zwierzę symbolizujące|odwrotność jej charakteru."
 msgstr ""
-"OTHER: Но они работают очень необычным образом.|Тот, кого заколдуют, "
+"OTHER: А вот принцип действия у них необычный.|Тот, кого заколдуют, "
 "превратится в животное,|противоположное ему по характеру."
 
 #: dialog0084.txt:6
@@ -4038,7 +4042,7 @@ msgstr "OTHER: А я столько месяцев старался,|и всё �
 #: dialog0087.txt:3
 msgid "OTHER: Może i jestem tylko z mandragory, ale wiem|co to wdzięczność."
 msgstr ""
-"OTHER: Пусть я всего лишь и из мандрагоры,|но свою благодарность я вам "
+"OTHER: Пусть я всего лишь и из|мандрагоры, но свою благодарность|я вам "
 "обязательно выражу."
 
 #: dialog0087.txt:4
@@ -4121,16 +4125,18 @@ msgstr "OTHER2: ...В общем, с тех пор с животными|в за
 #: dialog0094.txt:6
 msgid "OTHER: Słyszałem, że król kocha dobrą zabawę, a|ten miś ma tylko jedną wadę. Patrząc jak|tańczy można pęknąć ze śmiechu."
 msgstr ""
-"OTHER: Ясно. Но король ведь вроде как любит|повеселиться, да? А мой зверь "
-"всех там|до истерики рассмешит, но не более."
+"OTHER: Ясно. Но Его Величество ведь|вроде как любит зрелища, да? А мой зверь|"
+"всех там до истерики рассмешит, но не более."
 
 #: dialog0094.txt:7
 msgid "OTHER: A teraz, po tej historii z księciem..."
-msgstr "OTHER: Вам не помешает, особенно|после той истории с принцем..."
+msgstr ""
+"OTHER: Его Величеству не помешает|посмеяться, особенно после той|истории с "
+"принцем..."
 
 #: dialog0094.txt:8
 msgid "OTHER2: I ja o tym myślę."
-msgstr "OTHER2: Вот и я того же мнения."
+msgstr "OTHER2: Знаете, и я того же мнения."
 
 #: dialog0094.txt:9
 msgid "OTHER2: Dlatego chyba zrobię wyjątek."
@@ -4142,11 +4148,11 @@ msgstr "OTHER2: Только не будьте слишком навязчивы
 
 #: dialog0095.txt:1
 msgid "OTHER: Przyprowadziłem dar dla króla."
-msgstr "OTHER: У меня подарок для короля."
+msgstr "OTHER: Смотрите, кого я привёл|для Его Величества."
 
 #: dialog0095.txt:2
 msgid "OTHER2: Kiepski pomysł. Niedźwiedź mu syna|nie zastąpi."
-msgstr "OTHER2: Зря вы медведя привели.|Сына он королю не заменит."
+msgstr "OTHER2: Это вы зря.|Медведь королю сына не заменит."
 
 #: dialog0095.txt:3
 msgid "OTHER: Ale na chwilę odepchnie troski."
@@ -4155,8 +4161,8 @@ msgstr "OTHER: Ну, не заменит, так хоть позабавит."
 #: dialog0095.txt:4
 msgid "OTHER: Mój podopieczny rozweselił kiedyś nawet|meble u maga Fraeda."
 msgstr ""
-"OTHER: Мы с моим подопечным как-то раз навещали|колдуна Фрэда, так он у него "
-"дома|мебель развеселил!"
+"OTHER: Мы с моим подопечным как-то раз|навещали колдуна Фрэда, так он у него|"
+"мебель в доме развеселил!"
 
 #: dialog0095.txt:5
 msgid "OTHER: Tańczące krzesła, to niezapomniany widok,|mój dobry człowieku."
@@ -4212,8 +4218,8 @@ msgstr "OTHER: Да, победу он одержал техническую,|н
 #: dialog0096.txt:5
 msgid "OTHER: Idź tam razem z paziem, przedstawi cię|i za kilka godzin zabawisz króla."
 msgstr ""
-"OTHER: Паж отведёт вас к королю,|представит вас ему,|и через пару часов "
-"можете начинать веселье."
+"OTHER: Паж отведёт вас к королю,|представит вас ему, и через пару часов|"
+"можете начинать представление."
 
 #: dialog0096.txt:6
 msgid "OTHER2: Znakomicie."
@@ -4572,13 +4578,13 @@ msgstr "HERO: Ты зачем страницу из книги вырвал?!"
 
 #: dialog0117.txt:2
 msgid "OTHER: Księga to narzędzie, a nie cel|sam w sobie."
-msgstr "OTHER: Книга – инструмент, а не цель."
+msgstr "OTHER: Книга – не цель сама в себе.|Она лишь помогает достичь цели."
 
 #: dialog0117.txt:3
 msgid "OTHER: To prosty czar. Nie wiedziałem wcześniej,|że można skrócić drogę do Pana Słońce."
 msgstr ""
-"OTHER: Это очень простое заклинание.|Я и не знал, что можно взять и "
-"сократить|дорогу до Пана Солнце."
+"OTHER: Здесь записано очень простое|заклинание. Я и не знал, что можно взять|"
+"и вот так сократить дорогу до Пана Солнце."
 
 #: dialog0117.txt:4
 msgid "HERO: Skrócić?"
@@ -4729,8 +4735,8 @@ msgstr "P#HERO: В каком смысле – захотеть?"
 #: dialog0125.txt:100013
 msgid "OTHER: Szczerze mówiąc, nawet mi się nie chce|mówić o tym, dlaczego mi się nic nie chce."
 msgstr ""
-"OTHER: В прямом. Я просто не хочу, и всё тут.|И, честно говоря, объяснять "
-"ничего тоже не хочу."
+"OTHER: В прямом. Я просто не хочу, и всё тут.|И, честно говоря, объяснять|"
+"тоже ничего не хочу."
 
 #: dialog0125.txt:100014
 msgid "OTHER: Więc pozwól mi drzemać dalej.#E4#B0"
@@ -4965,7 +4971,7 @@ msgstr "OTHER: Опять шутить изволите, милорд?"
 
 #: dialog0135.txt:5
 msgid "OTHER: Zemsta za ten żartobliwy poemat|o tobie i Kornelii?"
-msgstr "OTHER: Всё мстите мне за ту песенку|про вас и про Корнелию?"
+msgstr "OTHER: Всё мстите мне за песенку|про вас и про Корнелию, я прав?"
 
 #: dialog0135.txt:6
 msgid "HERO: Nie, nie, to poważna sprawa."
@@ -4982,25 +4988,25 @@ msgstr ""
 
 #: dialog0135.txt:9
 msgid "OTHER: Och nie!"
-msgstr "OTHER: Ах! Боги, помилуйте!"
+msgstr "OTHER: Ах! Смилуйтесь же, боги!"
 
 #: dialog0135.txt:10
 msgid "OTHER: Jestem poetą."
-msgstr "OTHER: Но ведь я поэт!"
+msgstr "OTHER: Как быть? Ведь я – поэт!"
 
 #: dialog0135.txt:11
 msgid "OTHER: Poeta nie musi zwracać się do konkretnej osoby,|lecz może przemawiać do wyimaginowanej kochanki,|która jest jedynie wytworem jego wyobraźni."
 msgstr ""
-"OTHER: Поэту не обязательно описывать реального человека.|Он может писать и "
-"для вымышленной|возлюбленной, которую сам и придумал."
+"OTHER: Мне можно не писать живому человеку, а образ лишь|достаточно создать "
+"возлюбленной, которой в мире нет,|и строфы посвящать ей бесконечно."
 
 #: dialog0136.txt:1
 msgid "OTHER: Więc jednak to nie żart, ale smutna|rzeczywistość."
-msgstr "OTHER: А принц-то не шутил.|Всё сказал, как есть."
+msgstr "OTHER: А принц-то не шутил –|он всё сказал, как есть."
 
 #: dialog0136.txt:2
 msgid "OTHER: Mam niejasne wrażenie, że chyba|książę maczał w tym palce."
-msgstr "OTHER: Почему-то мне кажется, будто бы|он и сам в этом замешан..."
+msgstr "OTHER: И чую, будто сам он тут участник,|не на вторых ролях..."
 
 #: dialog0137.txt:1
 msgid "OTHER: Wiedziałam, że przypełzniesz, ty|mały piszczący robaczku!"
@@ -5012,7 +5018,7 @@ msgstr "OTHER: Забирай свои вещи, и пошёл вон!"
 
 #: dialog0138.txt:1
 msgid "OTHER: Ależ kochanie, nastąpiła horrendalna|pomył..."
-msgstr "OTHER: Постой, родная моя!|Ты всё не так по..."
+msgstr "OTHER: Постой, моя родная!|Позволь мне объяс..."
 
 #: dialog0138.txt:2
 msgid "OTHER2: Zawsze wiedziałam, że zadajesz się|z ladacznicami!"
@@ -5020,7 +5026,7 @@ msgstr "OTHER2: Я знала, что ты ходишь налево!"
 
 #: dialog0138.txt:3
 msgid "OTHER: Ależ kruszynko..."
-msgstr "OTHER: Дорогая..."
+msgstr "OTHER: Любимая..."
 
 #: dialog0138.txt:4
 msgid "OTHER2: Morda!..."
@@ -5036,11 +5042,11 @@ msgstr "OTHER2: Молчи и слушай!"
 
 #: dialog0138.txt:7
 msgid "OTHER: To był poemat o tobie, cukiereczku!"
-msgstr "OTHER: Это о тебе стих, дорогая!"
+msgstr "OTHER: Мой стих – он о тебе был, дорогая!"
 
 #: dialog0138.txt:8
 msgid "OTHER: Tylko o tobie..."
-msgstr "OTHER: Только о тебе..."
+msgstr "OTHER: И только о тебе..."
 
 #: dialog0139.txt:1
 msgid "OTHER: Wymówka już gotowa, cwaniaku!"
@@ -5582,7 +5588,7 @@ msgstr "HERO: Ты убьёшь дракона за меня?"
 
 #: dialog0159.txt:16
 msgid "HERO: To cudo..."
-msgstr "HERO: Просто невероятно..."
+msgstr "HERO: Поверить не мо..."
 
 #: dialog0159.txt:17
 msgid "OTHER: Spokojnie, spokojnie."
@@ -5647,7 +5653,7 @@ msgstr "OTHER: Вот так вот."
 
 #: dialog0163.txt:5
 msgid "OTHER: Chyba domyślasz się, co wtedy trzeba|zrobić..."
-msgstr "OTHER: Придумай, как его использовать, и..."
+msgstr "OTHER: Думаю, ты и сам понимаешь,|как тебе его использовать..."
 
 #: dialog0163.txt:6
 msgid "HERO: Yukkakopp?..."
@@ -5667,11 +5673,11 @@ msgstr "HERO: Да и не стоит. За тысячу лет|он не осо
 
 #: dialog0165.txt:1
 msgid "HERO: Widziałeś to śmierdzące bajoro niedaleko?"
-msgstr "HERO: Слышишь, как воняет из того болота?"
+msgstr "HERO: Видел, тут недалеко|есть вонючее болото?"
 
 #: dialog0165.txt:2
 msgid "OTHER: Zapaszek dolatuje aż tutaj."
-msgstr "OTHER: Даже сюда доходит."
+msgstr "OTHER: Не видел...|Но вонь даже отсюда слышно."
 
 #: dialog0165.txt:3
 msgid "OTHER: Być może ktoś tu przeprowadzał eksperymenty|z magicznymi środkami chemiczno-bojowymi."
@@ -6685,7 +6691,9 @@ msgstr "OTHER: Ну что ж, а теперь освободи меня."
 
 #: dialog0182.txt:2
 msgid "HERO: O nie, droga panno, tym razem nie|tak szybko."
-msgstr "HERO: Ага. Нашла дурачка.|Теперь ты от меня не уйдёшь!"
+msgstr ""
+"HERO: Ага, сейчас, только шнурки поглажу.|Нет уж! Теперь ты от меня не "
+"уйдёшь."
 
 #: dialog0182.txt:3
 msgid "HERO: Błąd można popełnić tylko raz."
@@ -7172,7 +7180,7 @@ msgstr "HERO: Я его где-то нашёл, но даже|не знаю, ч�
 
 #: dialog0205.txt:3
 msgid "HERO: Jeśli on ma dla ciebie jakieś znaczenie,|to weź go sobie."
-msgstr "HERO: Если вам он настолько нужен,|забирайте его себе."
+msgstr "HERO: Если вам он так нужен,|забирайте себе."
 
 #: dialog0205.txt:4
 msgid "OTHER: Hm."
@@ -7321,8 +7329,8 @@ msgstr "HERO: Слушай. Нам этот яд не помешает."
 #: dialog0209.txt:2
 msgid "HERO: Może damy tej kobiecie coś zastępczego,|a sami poczekamy na tego tajemniczego|dostawcę?"
 msgstr ""
-"HERO: Давай втюхаем ей что-нибудь|под видом яда, а потом выждем её продавца|"
-"и купим у него настоящий яд ?"
+"HERO: Давай втюхаем ей что-нибудь|под видом яда, а потом сами|выждем её "
+"продавца?"
 
 #: dialog0209.txt:3
 msgid "OTHER: Hmmm... Coś w tym jest..."
@@ -7365,8 +7373,8 @@ msgstr "HERO: Идёт гном по городу, видит – |мужики 
 #: dialog0216.txt:1
 msgid "HERO: Hej, zna ktoś jakiegoś krasnoluda? Założyłem|się z przyjaciółką,  że jak go wytargam za|brodę, to wyleci co najmniej sto wszy."
 msgstr ""
-"HERO: Кто-нибудь знает какого-нибудь гнома?|Я тут поспорил с подругой,|что "
-"если дёрну гнома за бороду,|оттуда вылетит не меньше сотни вшей."
+"HERO: Эй, народ, гномы среди вас есть?|Я тут поспорил с подругой,|что если "
+"дёрну гнома за бороду,|оттуда вылетит не меньше сотни вшей."
 
 #: dialog0217.txt:1
 msgid "HERO: Słyszeliście kiedy krasnolud potrafi zdjąć|majtki przez głowę?"
@@ -7378,7 +7386,7 @@ msgstr "HERO: Когда у него губы за бороду запутают
 
 #: dialog0218.txt:1
 msgid "OTHER: Masz coś przeciwko krasnoludom? Zaraz|dam ci prawdziwy powód!"
-msgstr "OTHER: Ты что-то имеешь против гномов?|Сейчас я тебе добавлю причин!"
+msgstr "OTHER: Ты что-то имеешь против гномов?|Ща я тебе добавлю причин!"
 
 #: dialog0219.txt:1
 msgid "OTHER: Nie zniosę takiej zniewagi!|Na ubitą ziemię!"
@@ -7767,7 +7775,7 @@ msgstr "OTHER: Опять, что ли?..."
 
 #: dialog0242.txt:2
 msgid "OTHER: Ech, starzeje się diabeł..."
-msgstr "OTHER: Да, дьявол уже не тот..."
+msgstr "OTHER: Э-эх... Дома должен сидеть|старый чёрт, а я тут работаю..."
 
 #: dialog0243.txt:1
 msgid "HERO: Bardzo przepraszam, czego panowie|pilnujecie?"
@@ -7815,11 +7823,11 @@ msgstr "HERO: Ха!"
 
 #: dialog0243.txt:12
 msgid "HERO: Więc jednak!"
-msgstr "HERO: Ну и ладно!"
+msgstr "HERO: Я так и знал!"
 
 #: dialog0243.txt:13
 msgid "HERO: Pilnujecie czegoś!"
-msgstr "HERO: Так и стойте тут себе!"
+msgstr "HERO: Вы что-то охраняете!"
 
 #: dialog0243.txt:14
 msgid "P#OTHER: Właśnie się zaczynam zastanawiać,|dlaczego nie masz ogona..."
@@ -8174,11 +8182,12 @@ msgstr "OTHER: Мне нужно было сказать тебе|всю пра�
 #: dialog0247.txt:16
 msgid "OTHER: Choć na takiego nie wyglądasz,|to jednak wychodzisz z kłopotów|obronną ręką."
 msgstr ""
-"OTHER: Ты всегда легко отделываешься.|Даже когда сам того и не замечаешь."
+"OTHER: Ты всегда легко выпутываешься из бед.|И, честно говоря, этим очень "
+"удивляешь."
 
 #: dialog0247.txt:17
 msgid "OTHER: Ja natomiast wciąż się w nie pakuję."
-msgstr "OTHER: А вот я всегда попадаю в неприятности."
+msgstr "OTHER: А вот меня беды настигают постоянно."
 
 #: dialog0247.txt:18
 msgid "OTHER: Byłam niesprawiedliwa i nieuprzejma.|I to się więcej nie powtórzy."
@@ -8224,8 +8233,8 @@ msgstr "OTHER: Ты должен попасть ко мне в тюрьму."
 #: dialog0248.txt:3
 msgid "OTHER: O nic nie pytaj, zaufaj mi, w końcu|mam w tym interes, żeby się stąd|wydostać."
 msgstr ""
-"OTHER: Только не задавай лишних вопросов.|Просто верь мне. У меня теперь|"
-"есть повод отсюда выбраться."
+"OTHER: Только не задавай лишних вопросов.|Просто верь мне. Ведь я и сама|"
+"хочу отсюда выбраться."
 
 #: dialog0248.txt:4
 msgid "OTHER: Idź i daj się zaaresztować."
@@ -8269,7 +8278,7 @@ msgstr ""
 
 #: dialog0250.txt:5
 msgid "OTHER: Mam nadzieję, że dasz radę go wyciągnąć."
-msgstr "OTHER: Я надеюсь, ты сможешь его вытянуть."
+msgstr "OTHER: Я надеюсь, ты сможешь его выломать."
 
 #: dialog0250.txt:6
 msgid "OTHER: To chyba bułka z masłem dla takiego|rosłego chłopca..."
@@ -8277,7 +8286,7 @@ msgstr "OTHER: Ты у нас сильный,|с тебя не станется.
 
 #: dialog0250.txt:7
 msgid "P#HERO: Wyczuwam ironię..."
-msgstr "P#HERO: Какой-то у тебя тон ироничный..."
+msgstr "P#HERO: Иронией запахло..."
 
 #: dialog0250.txt:8
 msgid "HERO: Zaraz, zaraz..."
@@ -8285,7 +8294,7 @@ msgstr "HERO: Погоди-ка..."
 
 #: dialog0250.txt:9
 msgid "HERO: Czy przypadkiem całe te twoje|przeprosiny nie były tylko po|to, żeby mnie tu ściągnąć?"
-msgstr "HERO: Так ради этого ты и извинялась?|Чтобы меня сюда затащить?"
+msgstr "HERO: Вот ради этого ты и извинялась?|Чтобы меня сюда затащить?"
 
 #: dialog0250.txt:10
 msgid "HERO: Żebym odwalił czarną robotę?"
@@ -8293,7 +8302,7 @@ msgstr "HERO: Чтобы я тут горбатился ради тебя?"
 
 #: dialog0250.txt:11
 msgid "OTHER: A co to za różnica? Lepiej|weź się za kamień. Szkoda|czasu."
-msgstr "OTHER: Да какая разница? Давай,|тяни камень. У нас мало времени."
+msgstr "OTHER: Да какая разница? Давай,|выламывай камень. У нас мало времени."
 
 #: dialog0251.txt:1
 msgid "OTHER: Hej! Raz, dwa!"
@@ -8305,7 +8314,7 @@ msgstr "OTHER: Что, без слабой женщины|никак не оси
 
 #: dialog0253.txt:1
 msgid "OTHER: Żyłki pękają?..."
-msgstr "OTHER: Утомился, бедненький?..."
+msgstr "OTHER: Пупок не надорви..."
 
 #: dialog0254.txt:1
 msgid "OTHER: To chyba nie był dobry pomysł..."
@@ -8313,7 +8322,7 @@ msgstr "OTHER: Надо было что-то другое придумать..."
 
 #: dialog0255.txt:1
 msgid "OTHER: No to sobie tu chyba posiedzę..."
-msgstr "OTHER: Я передохну..."
+msgstr "OTHER: Сидеть нам тут, не пересидеть..."
 
 #: dialog0256.txt:1
 msgid "HERO: W porządku, jesteśmy uratowani."
@@ -8432,7 +8441,7 @@ msgstr "OTHER: Полагаю, папа уже давно как|меня ище
 
 #: dialog0260.txt:9
 msgid "OTHER: Każdy rozpoznałby moją twarz bez trudu..."
-msgstr "OTHER: И все могли бы меня узнать в лицо..."
+msgstr "OTHER: Без маски меня бы кто угодно узнал в лицо..."
 
 #: dialog0260.txt:10
 msgid "OTHER: A ja chciałam mścić się sama."
@@ -8464,7 +8473,7 @@ msgstr "OTHER: Дружище..."
 
 #: dialog0261.txt:5
 msgid "HERO: Teraz to przyjacielu...."
-msgstr "HERO: Ага, теперь я дружище..."
+msgstr "HERO: Ага, теперь я \"дружище\"..."
 
 #: dialog0261.txt:6
 msgid "HERO: Ta grzesznica twierdzi, że przed przydzieleniem|do celi musi koniecznie porozmawiać z Lucyferem."
@@ -8668,11 +8677,11 @@ msgstr "HERO: Так что же, в наших бедах виноват|оди
 
 #: dialog0268.txt:2
 msgid "OTHER: Poznaję go!"
-msgstr "OTHER: Я его узнала!"
+msgstr "OTHER: Я его знаю!"
 
 #: dialog0268.txt:3
 msgid "OTHER: A my mamy więcej wspólnego niż myślałam..."
-msgstr "OTHER: А у нас с тобой больше общего,|чем я думала..."
+msgstr "OTHER: Хм... Да у нас с тобой|больше общего, чем я думала..."
 
 #: dialog0269.txt:1
 msgid "OTHER: Tak, mój panie?"
@@ -8713,8 +8722,8 @@ msgstr "OTHER2: Замшелые законы должны дать|дорогу
 #: dialog0271.txt:7
 msgid "OTHER: I za to należy ci się nagroda, a tym dwóm|idiotom jakaś specjalna kara, może małe|przypalanko, może..."
 msgstr ""
-"OTHER: За что тебе и полагается награда.|Ну а этим двум придуркам надо бы|"
-"назначить особое наказание.|Обжечь их, что ли, чутка..."
+"OTHER: За что тебе и полагается награда. Ну а этим|двум придуркам надо бы "
+"назначить особое|наказание. Поджарить их, что ли, чутка..."
 
 #: dialog0272.txt:1
 msgid "P#OTHER: Z drugiej jednak strony..."
@@ -8813,7 +8822,7 @@ msgstr "HERO: Я вам за неё дам|вот эту бирюльку."
 
 #: dialog0280.txt:3
 msgid "OTHER: Mijen sip nioklanc. Okors yrte|szalot?"
-msgstr "OTHER: Миен сип ниокланц.|Окорс юрте салот?"
+msgstr "OTHER: Миен сип ниокланц.|Окорс юрте шалот?"
 
 #: dialog0281.txt:1
 msgid "HERO: Jestem chory! Ponoć czosnek leczy|przeziębienia!"
@@ -8861,7 +8870,7 @@ msgstr "HERO: Слепая – это мягко сказано будет..."
 
 #: dialog0289.txt:1
 msgid "OTHER: Nareszcie chwila rozrywki!"
-msgstr "OTHER: Ну, наконец-то, перерыв!"
+msgstr "OTHER: Вот теперь и повеселимся!"
 
 #: dialog0290.txt:1
 msgid "OTHER: Czas się odegrać!"
@@ -9115,7 +9124,7 @@ msgstr "HERO: Но я не умею играть на инструментах!"
 
 #: dialog0311.txt:9
 msgid "OTHER: Moja wizja jest prawdziwa."
-msgstr "OTHER: Я ошибок никогда не вижу."
+msgstr "OTHER: Я увидел всё, как есть."
 
 #: dialog0311.txt:10
 msgid "OTHER: A lutnia barda jest czarodziejska."
@@ -9405,7 +9414,7 @@ msgstr "#E3#X1"
 
 #: dialog0328.txt:1
 msgid "OTHER: To ja przepraszam."
-msgstr "OTHER: Прошу прощения."
+msgstr "OTHER: Понял. Ухожу."
 
 #: dialog0329.txt:1
 msgid "HERO: Do-dobra, to było bardzo śmieszne,|a teraz wracaj."
@@ -10102,7 +10111,7 @@ msgstr "Освящённый крест - Средство против зла,|
 
 #: invtxt.txt:26
 msgid "krzyż z czosnkiem - Wzmocniony zapachowo odstraszacz Zła."
-msgstr "Крест с чесноком - Средство против зла,|усиленное запахом."
+msgstr "Крест с чесноком - Средство против зла,|усиленное лютым запахом."
 
 #: invtxt.txt:27
 msgid "Nieustraszony Zabójca Wampirów - DO DZIEŁA!"
@@ -10230,7 +10239,7 @@ msgstr "Осколок рога - Обломан, но основание пок
 
 #: invtxt.txt:55
 msgid "rogi - Co róg i pół to nie jeden."
-msgstr "Рога - Полтора рога – всё же не совсем то."
+msgstr "Рога - Уж лучше полтора рога, чем один."
 
 #: invtxt.txt:56
 msgid "woalka - Bardzo delikatna materia."
@@ -10298,7 +10307,7 @@ msgstr "Гробокопатель - Он выглядит хуже, чем я �
 
 #: mob.lst:1002
 msgid "grabarz - Brzydki i strachliwy."
-msgstr "Гробокопатель - Уродливый и пугающий."
+msgstr "Гробокопатель - Ни рожей не вышел, ни духом."
 
 #: mob.lst:1003
 msgid "łopata - Błyskotliwa dedukcja wskazuje, iż ta|łopata należy do grabarza."
@@ -10347,8 +10356,8 @@ msgstr "Могила - Очень старая могила."
 msgid "grób - Grób jakiegoś Arivalda.+\"Nigdy nie było na świecie znamienitszego maga|i lepszego przyjaciela\".+I jeszcze napis pod spodem: \"Zawsze pozostanie|w naszej pamięci - Cech Browarników\"."
 msgstr ""
 "Могила - А здесь лежит некто... Аривальд?+\"Мир ещё не видал волшебника|"
-"могущественнее и друга вернее\".+И снизу ещё приписка:|\"Вовек тебя не "
-"забудем!|– Гильдия Пивоваров\"."
+"могущественнее и друга вернее\".+И снизу приписка:|\"Вовек тебя не забудем!|–"
+" Гильдия Пивоваров\"."
 
 #: mob.lst:1013
 msgid "grób Arivalda - Ten grobowiec wygląda jakby miał z tysiąc lat."
@@ -10514,7 +10523,7 @@ msgstr ""
 msgid "gruby kupiec - Wagą, postawą i spojrzeniem wygląda|na kupieckiego przywódcę."
 msgstr ""
 "Толстый купец - С таким пузом, поведением и взглядом|создаётся ощущение, "
-"будто он заправляет тут|всеми купцами."
+"будто он заправляет тут|всем рынком."
 
 #: mob.lst:4021
 msgid "kupiec - Ależ dziwny typ urody! Pewnie dotarł do|nas z dalekiego południa."
@@ -10527,9 +10536,8 @@ msgstr "Кости - Обычные игральные кости."
 #: mob.lst:4023
 msgid "woalka - To chyba woalka trucicielki...+Widocznie to znana tutaj kobieta.+Wiadomo, że najłatwiej liść schować|w lesie..."
 msgstr ""
-"Вуаль - Наверное, это вуаль той дамы с ядом...+Чуется мне, что дама где-то "
-"здесь и живёт.+Спряталась на виду у всех,|и поди теперь пойми, на кого "
-"думать..."
+"Вуаль - Наверное, это вуаль той дамы с ядом...+Чуется мне, что она местная.+"
+"А без вуали теперь пойми, на кого думать..."
 
 #: mob.lst:4024
 msgid "tabliczka - \"Zamknięte. Badania naukowe.\""
@@ -10596,9 +10604,10 @@ msgstr ""
 #: mob.lst:5012
 msgid "bard - Zakola jak królewski dziedziniec, nos jak|pazur smoka, obślinione usta i czarny wąsik.+Teoretycznie wszystko jest przeciwko niemu,|ale coś mi mówi, że widoczna w jego oczach|pasja zaimponowała niejednej kobiecie..."
 msgstr ""
-"Бард - Волосы редеют, словно королевский двор,|нос, словно коготь дракона,|"
-"губы бантиком и чёрные усы.+Вообще, с таким, как он, никто и знаться|не "
-"должен, но чуется мне, что на его|страстный взгляд женщины так и липнут..."
+"Бард - Идельная, словно королевский двор, причёска|нос, словно коготь "
+"дракона,|губы бантиком и чёрные усы.+Вообще, с таким, как он, никто и "
+"знаться|не должен, но чуется мне, что на его|страстный взгляд женщины так и "
+"липнут..."
 
 #: mob.lst:5013
 msgid "plakat - \"Kto odnajdzie moją jedyną i ukochaną córkę|Shandrię otrzyma tyle złota, ile potrafi|unieść. Nie będę zmuszał do małżeństwa\".+\"...Zaginęła roku Kozła, zimą, i do dziś los|jest jej nieznany. Pogrążony w smutku, król|Badurrae, Rawet\".+Jest jeszcze portret, ale już mało wyraźny.|Ten plakat wisi tu chyba ładnych parę lat..."
@@ -10626,7 +10635,7 @@ msgstr "Верёвка - Поясок для бедных."
 
 #: mob.lst:5017
 msgid "kufel - Iście krasnoludzki rozmach."
-msgstr "Кружка - Поистине, гномьих размеров."
+msgstr "Кружка - Здоровенная, под стать|гномьему гонору."
 
 #: mob.lst:5018
 msgid "nieznajoma - Bardzo tajemnicza osóbka..."
@@ -10826,8 +10835,8 @@ msgstr "Руны - Хм... Интересно, может,|это какое-т�
 #: mob.lst:9008
 msgid "runy - Wiem, co to znaczy, ale nie chcę mówić na głos,|bo się znowu pojawi duch bóstwa i mogą być|kłopoty."
 msgstr ""
-"Руны - Я знаю, как они читаются, но вслух произносить|не буду. Если тот бог "
-"опять явится,|хлопот не оберёшься."
+"Руны - Я знаю, как они читаются, но вслух произносить|не буду. Если этот "
+"Цандахан опять явится,|хлопот не оберёшься."
 
 #: mob.lst:9009
 msgid "ołtarz - Przypomina tron jakiegoś wyjątkowo|wojowniczo usposobionego króla."
@@ -10876,7 +10885,7 @@ msgstr ""
 msgid "zbroja - W środku ciemno i duszno, ale za to|ni miecz, ni kop w klejnoty nie|straszny."
 msgstr ""
 "Доспехи - В них темно и душно, зато,|если наденешь, мечом тебя не порубить,|"
-"да и коленом по яйцам не дать."
+"да и коленом ниже пояса не врезать."
 
 #: mob.lst:11004
 msgid "drzwi - Wyglądają zwyczajnie. Pewnie są od jakiejś|zwyczajnej komnaty."
@@ -11168,13 +11177,13 @@ msgstr ""
 msgid "pergamin - To chyba jakieś motto...+\"Jeśli zbyt długo patrzysz w otchłań,|otchłań zaczyna patrzeć w ciebie\"."
 msgstr ""
 "Пергамент - Это, наверное, какой-то девиз...+\"Если долго вглядываться в "
-"бездну,|бездна начнет вглядываться в тебя\"."
+"бездну,|бездна начнёт вглядываться в тебя\"."
 
 #: mob.lst:18005
 msgid "kartka - To pewnie jakaś ważna czarnoksięska uwaga,|albo zapis bluźnierczego czaru...+Nie, zaraz...+To jakaś lista...+\"Kupić mleko... Posprzątać po Zraleimchu....|Pomodlić się do potężnego Kecaja Arakeipa|jeszcze przed śniadaniem....\"+\"Załatwić dostawę bułeczek...\"+Och..."
 msgstr ""
 "Листок - Наверное, тут записана какая-то важная|информация, или богохульное "
-"заклинание…+Так, стоп…+Это какой-то список…+\"Купить молока… Прибраться за "
+"заклинание…+Так, стоп…+Это список…+\"Купить молока… Прибраться за "
 "Зралеймхом…|Помолиться великому Кецаю Аракейпу перед завтраком…\"+\"Заказать "
 "доставку булочек…\"+Ох…"
 
@@ -11227,7 +11236,9 @@ msgstr ""
 
 #: mob.lst:18014
 msgid "drzwi - To chyba ślady włamania. Chyba że komuś|się bardzo spieszyło..."
-msgstr "Дверь - Либо покои взломали и обокрали,|либо кто-то очень спешил..."
+msgstr ""
+"Дверь - Либо покои взломали и обокрали,|либо кто-то очень спешил отсюда "
+"убраться..."
 
 #: mob.lst:18015
 msgid "ślady krwi - Mam dziwną pewność, że nie są to ślady|po rozlanym, czerwonym winie."
@@ -11370,9 +11381,9 @@ msgstr ""
 #: mob.lst:22005
 msgid "strona z książki - Widzę tytuł jakiegoś rozdziału...+\"Ciepła posadka, czyli palenie czarownic\".*+Hm, ciekawe czy mieli tu też słynne dzieło:|\"Jak rzucić palenie czarownic w tydzień\"."
 msgstr ""
-"Страница из книги - Гм... Тут заголовок...+\"Тёплый труд: сожжение ведьм\".*+"
-"Интересно, а была ли у них такая книга:|\"Как перестать приплетать ведьм без "
-"повода\"?"
+"Страница из книги - Гм... Тут заголовок...+\"Сожжение ведьм как способ|"
+"привнести в жизнь тепла\".*+Интересно, а была ли у них такая книга:|\"Как "
+"перестать приплетать ведьм без повода\"?"
 
 #: mob.lst:22006
 msgid "resztki bramy - Mam nieodparte wrażenie, że przestała spełniać|swoją pierwotną rolę.+W przypadku tego gruzowiska pojęcie wyjścia|jest naprawdę szerokie."
@@ -11613,8 +11624,8 @@ msgstr "Дверь - Дверь в какое-то заведение|общег
 #: mob.lst:30006
 msgid "skrzynka - Znak złotej trąbki niedwuznacznie wskazuje, że|nie mam pojęcia, do czego ta skrzynka może|służyć."
 msgstr ""
-"Ящик - На ящике изображён знак в виде|золотой трубы. Следовательно, я вообще|"
-"не понимаю, зачем нужен этот ящик."
+"Ящик - На ящике изображён знак в виде|золотой трубы. Исходя из этого, я "
+"вообще|не понимаю, зачем нужен этот ящик."
 
 #: mob.lst:30007
 msgid "drzwi - Tutaj pewnie tubylcy składają ofiary|ze zwierząt."
@@ -11665,7 +11676,7 @@ msgstr "Скамейки - На них никого нет.+А жаль."
 
 #: mob.lst:31006
 msgid "kropielnica - Wyschnięta, kamień jest tylko lekko wilgotny."
-msgstr "Чаша для воды - Ни капли воды на дне.|Камень лишь чуть влажный."
+msgstr "Чаша для омовения - Ни капли воды на дне.|Камень лишь чуть влажный."
 
 #: mob.lst:31007
 msgid "wyjście - Powrót do ulicznego zgiełku."
@@ -12296,7 +12307,7 @@ msgstr "Хм-м-м... Похоже, он меня раскусил..."
 
 #: variatxt.txt:1503
 msgid "Ta droga jest już spalona."
-msgstr "Не выйдет. Я уже пробовал."
+msgstr "Нет. Так я ничего не добьюсь."
 
 #: variatxt.txt:1504
 msgid "Brama też jest chroniona!..."
@@ -12348,7 +12359,7 @@ msgstr "Не имею ни малейшего понятия,|что тут ну
 
 #: variatxt.txt:2004
 msgid "Nie rozumiem, dlaczego miałbym|chałturzyć właśnie dla niego."
-msgstr "Я не понимаю, почему я должен|ему играть."
+msgstr "Это с какого перепугу|я должен ему играть?"
 
 #: variatxt.txt:2101
 msgid "Co za potworny smród!"
@@ -12544,7 +12555,7 @@ msgstr "Хватит уже..."
 
 #: variatxt.txt:3602
 msgid "Jakoś tak sama mi się ręka|poślizgnęła."
-msgstr "Рука чего-то соскользнула."
+msgstr "Рука чего-то не поднимается."
 
 #: variatxt.txt:3603
 msgid "Nie przy strażniku..."
