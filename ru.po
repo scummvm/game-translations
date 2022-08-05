@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2022-08-03 16:37+0000\n"
+"PO-Revision-Date: 2022-08-06 21:37+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -3358,7 +3358,7 @@ msgstr "P#HERO: Ну да... э-э... знаю.|Мне один проповед
 
 #: dialog0065.txt:100203
 msgid "P#OTHER: Mogę robić, co tylko chcę."
-msgstr "P#OTHER: Могу да създать, что угодно."
+msgstr "P#OTHER: Могу да създати, что угодно."
 
 #: dialog0065.txt:100204
 msgid "OTHER: Jestem potężniejszy od królów, magów i kapłanów.|Jednym ruchem dłoni ujarzmiałem smoki, a gniewnym|zmarszczeniem brwi rozpędzałem armie."
@@ -3369,7 +3369,7 @@ msgstr ""
 
 #: dialog0065.txt:100205
 msgid "OTHER: Potrafię zmienić gwiazdę w łabędzia,|a złoto w ogień."
-msgstr "OTHER: Могу да обратить звезду в лебедя,|и злато – в огънь."
+msgstr "OTHER: Могу да обратити звезду в лебедя,|и злато – в огънь."
 
 #: dialog0065.txt:100206
 msgid "OTHER: Ale moje istnienie zależy od was."
