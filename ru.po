@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2022-08-08 22:37+0000\n"
+"PO-Revision-Date: 2022-08-12 11:37+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -5597,11 +5597,11 @@ msgstr "OTHER: Подожди, подожди."
 
 #: dialog0159.txt:18
 msgid "OTHER: Zaraz znajdziemy się w najcudowniejszym|miejscu na świecie."
-msgstr "OTHER: Пора нам отправиться в|прекраснейшее место мира сего!"
+msgstr "OTHER: Мы пойдём вместе.|Нас ждёт самое великое чудо света!"
 
 #: dialog0159.txt:19
 msgid "OTHER: W przewspaniałej, przeogromnej Silmanionie!"
-msgstr "OTHER: Нас ждёт великая,|прекрасная Сильманиона!"
+msgstr "OTHER: Могущественнейшая|и прекраснейшая Сильманиона!"
 
 #: dialog0160.txt:1
 msgid "HERO: Co właściwie jest w Silmanionie?"
@@ -5735,7 +5735,7 @@ msgstr "OTHER: А ведь я много где побывал."
 
 #: dialog0167.txt:10
 msgid "HERO: Do Piekła?!"
-msgstr "HERO: В Ад?!"
+msgstr "HERO: В... Ад?!"
 
 #: dialog0167.txt:11
 msgid "HERO: Chyba gorzej już nie mogło być..."
@@ -5768,8 +5768,8 @@ msgstr "OTHER: Послушай старика, друг.|Я тысячу лет
 #: dialog0168.txt:6
 msgid "OTHER: Więc cuda się zdarzają, to może|i tobie się uda ukończyć grę|bez zerkania do rozwiązania."
 msgstr ""
-"OTHER: Чудеса случаются. Может, ты даже сумеешь|пройти игру, не заглядывая в "
-"прохождение."
+"OTHER: Мы с тобой живём в волшебном мире.|Тут возможно всё. Даже пройти "
+"игру,|не заглядывая в прохождение."
 
 #: dialog0168.txt:7
 msgid "OTHER: Mój drogi, porozmawiamy później."
@@ -5821,13 +5821,13 @@ msgstr ""
 
 #: dialog0171.txt:1
 msgid "HERO: Przypatrz się dobrze..."
-msgstr "HERO: Смотрите, что я вам принёс..."
+msgstr "HERO: Я тут кое-что принёс. Взгляните..."
 
 #: dialog0172.txt:1
 msgid "HERO: Jako wizjoner powinieneś wiedzieć, gdzie obecnie|znajduje się istota o takiej właśnie łusce."
 msgstr ""
-"HERO: Вы, вроде как, провидец.|Можете учуять, где обычно|водятся твари с "
-"такой чешуёй?"
+"HERO: Вы, вроде как, провидец.|Можете мне сказать, где живёт|тварь с такой "
+"чешуёй?"
 
 #: dialog0172.txt:2
 msgid "OTHER: O nie..."
@@ -5843,7 +5843,7 @@ msgstr "OTHER: Я могу многое найти, но мне надо|зна�
 
 #: dialog0172.txt:5
 msgid "OTHER: Owszem, do uzyskania wizji potrzebna jest|jakaś rzecz..."
-msgstr "OTHER: Видение так просто не придёт.|Нужно что-то такое..."
+msgstr "OTHER: Да, вещь мне будет полезна, но тут нужно..."
 
 #: dialog0172.txt:6
 msgid "OTHER: ...rzecz..."
@@ -5855,11 +5855,11 @@ msgstr "OTHER: ...как его..."
 
 #: dialog0172.txt:8
 msgid "HERO: Obiektu?"
-msgstr "HERO: Вещь?"
+msgstr "HERO: Объект?"
 
 #: dialog0172.txt:9
 msgid "OTHER: ...obiektu, ale tylko jako pomoc."
-msgstr "OTHER: ...да, вещь, чтобы она была|связана с искомым."
+msgstr "OTHER: ...нет, даже не объект.|Нужна характеристика."
 
 #: dialog0172.txt:10
 msgid "OTHER: Najpierw opowiedz mi, jak wygląda, to czego|mam szukać, a potem spróbujemy to znaleźć."
@@ -5875,12 +5875,13 @@ msgstr ""
 
 #: dialog0172.txt:12
 msgid "HERO: Myślałem, ze pustelnicy znają się na|przyrodzie?"
-msgstr "HERO: Но вы же отшельник.|Я думал, вы природу и без того знаете..."
+msgstr "HERO: Но вы же отшельник.|Я думал, вы природу и без меня знаете..."
 
 #: dialog0172.txt:13
 msgid "OTHER: Oczywiście. Ale na grzybkach, roślinkach,|korzonkach, wywarach..."
 msgstr ""
-"OTHER: Так я и знаю. Но в основном про|грибы, травки, корешки, настои..."
+"OTHER: Знаю, конечно. Но я в основном по|грибам, травкам, корешкам, "
+"настоям..."
 
 #: dialog0172.txt:14
 msgid "HERO: Wrócę, jak tylko dowiem się czegoś więcej."
@@ -6040,8 +6041,8 @@ msgstr "OTHER: Хотя я недавно и видел|во сне одного
 #: dialog0178.txt:5
 msgid "OTHER: Nad ranem zamienił się co prawda|w księżniczkę Sheilę, ale to już inna|historia."
 msgstr ""
-"OTHER: А на утро он, правда, превратился в принцессу|Шейлу, но это – совсем "
-"другая история."
+"OTHER: А потом выяснилось, что это был|не дракон, а принцесса Шейла.|Но об "
+"этом – как-нибудь в другой раз."
 
 #: dialog0178.txt:6
 msgid "HERO: Więc skup się i powiedz mi, gdzie jest|ten potwór."
