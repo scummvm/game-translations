@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2022-08-12 11:37+0000\n"
+"PO-Revision-Date: 2022-09-30 19:37+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -3418,8 +3418,7 @@ msgstr "HERO: Одна из этих вещей –|эликсир вечной 
 #: dialog0065.txt:100308
 msgid "HERO: Proponuję umowę: dam ci eliksir, a ty w zamian|za to zniweczysz działanie uroku."
 msgstr ""
-"HERO: Давай так. Я отдам тебе этот эликсир,|а ты за это снимешь с вещей "
-"проклятие."
+"HERO: Давай так. Я отдам тебе эликсир,|а ты за это снимешь с вещей проклятие."
 
 #: dialog0065.txt:100309
 msgid "HERO: Dzięki temu będziesz wieczny, i przestaniesz|być zależny od wiernych."
