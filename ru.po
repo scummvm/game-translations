@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2022-09-30 19:37+0000\n"
+"PO-Revision-Date: 2022-11-11 22:33+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -1710,7 +1710,9 @@ msgstr "OTHER: Как и у всех хороших купцов."
 
 #: dialog0023.txt:100102
 msgid "OTHER: Daniny za wysokie, rynek nasycony,|towar nie schodzi."
-msgstr "OTHER: Налоги выше крыши, рынок переполнен,|товары вообще не идут."
+msgstr ""
+"OTHER: Налоги выше крыши, рынок переполнен,|товары не продаются вообще "
+"никак.|Хоть у бедняков забирай – те и так живут плохо..."
 
 #: dialog0023.txt:100103
 msgid "OTHER: Dzień jak co dzień."
@@ -3266,7 +3268,7 @@ msgstr "OTHER: Наконец-то!..."
 
 #: dialog0065.txt:2
 msgid "HERO: Gdzieś to już dzisiaj słyszałem..."
-msgstr "HERO: По-моему, у меня дежавю."
+msgstr "HERO: По-моему, у меня дежавю..."
 
 #: dialog0065.txt:3
 msgid "P#OTHER: Kim jesteś, śmiertelniku?"
@@ -3346,7 +3348,7 @@ msgstr "HERO: Всю жизнь, фактически,|рассказывать 
 
 #: dialog0065.txt:100104
 msgid "HERO: Następnym razem, obiecuję.#B0"
-msgstr "HERO: Я потом вам расскажу.|Даю слово.#B0"
+msgstr "HERO: Я потом Тебе расскажу.|Даю слово.#B0"
 
 #: dialog0065.txt:100201
 msgid "P#OTHER: Więc wiesz, jaki los mnie czekał..."
@@ -3387,7 +3389,7 @@ msgstr "P#OTHER: Тако си житие.|Око за око.#B0"
 
 #: dialog0065.txt:100301
 msgid "OTHER: Jak to o interesach?!"
-msgstr "OTHER: За какому делу?!"
+msgstr "OTHER: Какому делу?!"
 
 #: dialog0065.txt:100302
 msgid "HERO: Po kolei."
@@ -3460,7 +3462,7 @@ msgstr "OTHER: ПРИГОТОВЬСЯ!!!"
 
 #: dialog0065.txt:100318
 msgid "P#P#P#P#P#OTHER: Kurka, coś słaby dzisiaj jestem."
-msgstr "P#P#P#P#P#OTHER: Чтоб тебя... Совсем сегодня ослаб..."
+msgstr "P#P#P#P#P#OTHER: Да твою ж налево...|Совсем сегодня ослаб..."
 
 #: dialog0065.txt:100319
 msgid "OTHER: W porządku, umowa stoi.#X1"
