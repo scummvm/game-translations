@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2022-11-11 22:33+0000\n"
+"PO-Revision-Date: 2022-11-19 18:34+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -161,7 +161,7 @@ msgstr "OTHER: А у тебя – белая, как у дохлой рыбы."
 
 #: dialog0001.txt:100502
 msgid "HERO: Nie ma powodu, żeby być nieuprzejmym."
-msgstr "HERO: Ну зачем сразу хамить?"
+msgstr "HERO: Зачем же сразу хамить?"
 
 #: dialog0001.txt:100503
 msgid "OTHER: Jest. Ty.#E2#B0"
