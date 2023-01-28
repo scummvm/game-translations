@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2023-01-19 20:34+0000\n"
+"PO-Revision-Date: 2023-01-29 01:34+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -6770,11 +6770,11 @@ msgstr ""
 
 #: dialog0182.txt:100011
 msgid "HERO: Chcesz dostać się do Piekła?"
-msgstr "HERO: И как же ты до него доберёшься?|В Ад спустишься, что ли?"
+msgstr "HERO: Что, хочешь за ним|опять спуститься в Ад?"
 
 #: dialog0182.txt:100012
 msgid "OTHER: Och wiem, wiem, to niemożliwe..."
-msgstr "OTHER: Знаю, знаю. Туда попасть не выйдет..."
+msgstr "OTHER: Да знаю я, знаю. У меня не выйдет..."
 
 #: dialog0182.txt:100013
 msgid "OTHER: Ale ja..."
@@ -6782,7 +6782,7 @@ msgstr "OTHER: Но мне..."
 
 #: dialog0182.txt:100014
 msgid "HERO: Nie, nie, źle mnie zrozumiałaś! Ja|też chcę się tam dostać!"
-msgstr "HERO: Нет, нет, ты меня не так поняла!|Мне и самому надо туда попасть!"
+msgstr "HERO: Нет, нет, ты меня не так поняла!|Я и сам хочу туда попасть!"
 
 #: dialog0182.txt:100015
 msgid "HERO: Moja dusza..."
@@ -7011,7 +7011,7 @@ msgstr "OTHER: И кого мне оттуда тебе достать?|Тара
 #: dialog0191.txt:7
 msgid "OTHER: Co jeszcze mogę dla ciebie zrobić?|Nie  rozbawiłoby cię, gdybym|wskoczyła w ogień?"
 msgstr ""
-"OTHER: Что ты ещё от меня хочешь?|Может, мне в огонь смеху ради прыгнуть?"
+"OTHER: Или мало будет?|Так, может, мне ради тебя|ещё и в огонь прыгнуть?"
 
 #: dialog0192.txt:1
 msgid "HERO: Musisz spróbować tam się wcisnąć.|Widziałem szczura."
@@ -8445,7 +8445,7 @@ msgstr "OTHER: Полагаю, папа уже давно как|меня ище
 
 #: dialog0260.txt:9
 msgid "OTHER: Każdy rozpoznałby moją twarz bez trudu..."
-msgstr "OTHER: Без маски меня бы кто угодно узнал в лицо..."
+msgstr "OTHER: Без маски меня бы|кто угодно узнал в лицо..."
 
 #: dialog0260.txt:10
 msgid "OTHER: A ja chciałam mścić się sama."
@@ -8992,11 +8992,11 @@ msgstr "HERO: А-а... Ну..."
 
 #: dialog0308.txt:1
 msgid "OTHER: ...bo jeśli złociszy jest mniej niż|pięć..."
-msgstr "OTHER: ...ведь если меньше пяти монет..."
+msgstr "OTHER: ...ведь если меньше пяти..."
 
 #: dialog0308.txt:2
 msgid "HERO: Tak właśnie jest, widzę, że przedni|z ciebie jasnowidz..."
-msgstr "HERO: Ну надо же. Так вы ясновидящий..."
+msgstr "HERO: И правда, меньше.|Так вы всё же ясновидящий..."
 
 #: dialog0308.txt:3
 msgid "OTHER: ...to nic z tego."
@@ -9128,7 +9128,7 @@ msgstr "HERO: Но я не умею играть на инструментах!"
 
 #: dialog0311.txt:9
 msgid "OTHER: Moja wizja jest prawdziwa."
-msgstr "OTHER: Я увидел всё, как есть."
+msgstr "OTHER: Я увидел всё как есть."
 
 #: dialog0311.txt:10
 msgid "OTHER: A lutnia barda jest czarodziejska."
@@ -9235,7 +9235,7 @@ msgstr "HERO: Э-э... А вы точно всё|правильно увидел
 
 #: dialog0314.txt:6
 msgid "HERO: Wcale nie jestem taki."
-msgstr "HERO: Я ведь не из этих..."
+msgstr "HERO: Я ведь не такой человек."
 
 #: dialog0314.txt:7
 msgid "OTHER: Zobaczymy, ale moje wizje zawsze się|sprawdzają..."
@@ -10081,11 +10081,11 @@ msgstr "Топор - Летающая гильотина."
 
 #: invtxt.txt:19
 msgid "gałąź - Zwykła gałąź."
-msgstr "Ветка - Обычная ветка."
+msgstr "Ветка - Обычная деревяшка."
 
 #: invtxt.txt:20
 msgid "gałąź - Kawałek osiki."
-msgstr "Ветка - Обломок осины."
+msgstr "Ветка - Осиновая ветка."
 
 #: invtxt.txt:21
 msgid "zaostrzony kołek - Dobry wampir to martwy wampir. Choć chyba|wampiry i tak są martwe."
