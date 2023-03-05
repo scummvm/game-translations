@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2023-02-24 22:34+0000\n"
+"PO-Revision-Date: 2023-03-06 01:34+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -4046,7 +4046,7 @@ msgstr "OTHER: Пусть мандрагорой рождён я и был,|но
 
 #: dialog0087.txt:4
 msgid "OTHER: Pomogę ci, kiedy tylko będziesz mnie|potrzebował. Powiedzmy ...trzy razy."
-msgstr "OTHER: Я могу многое, и предлагаю посильную помощь.|Скажем... три раза."
+msgstr "OTHER: Я могу многое, и предлагаю|посильную помощь. Скажем... три раза."
 
 #: dialog0087.txt:5
 msgid "OTHER: Daj znać, kiedy będę potrzebny."
@@ -4439,11 +4439,11 @@ msgstr "OTHER: Точно уверены?"
 
 #: dialog0109.txt:2
 msgid "OTHER: Ten demon nie wygląda zbyt przyjaźnie."
-msgstr "OTHER: Недружелюбен ваш демон."
+msgstr "OTHER: Вид у охранника недружелюбный."
 
 #: dialog0109.txt:3
 msgid "OTHER: Szczerze mówiąc, trochę się boję."
-msgstr "OTHER: От одного его вида, по правде, мне страшно."
+msgstr "OTHER: Честно признаюсь, меня этот демон|пугает до дрожи."
 
 #: dialog0110.txt:1
 msgid "HERO: Hm."
@@ -4482,7 +4482,8 @@ msgstr "OTHER: Многие заклинания надо долго учить.
 #: dialog0114.txt:4
 msgid "OTHER: Na przykład zamiana brylantów w węgiel.|Odwrotnie, banał, a tu proszę..."
 msgstr ""
-"OTHER: Например, превращение алмазов в уголь.|Вот наоборот – это банально..."
+"OTHER: Например, превращение бриллиантов|в уголь. Наоборот-то просто, а "
+"тут..."
 
 #: dialog0114.txt:5
 msgid "OTHER: Pozwolisz, że wrócę do lektury."
@@ -4532,8 +4533,8 @@ msgstr "OTHER: Есть очень простой способ.#X1"
 #: dialog0116.txt:100101
 msgid "OTHER: Prosiłem go kiedyś, by poświecił mocniej|nad krasnoludzkimi kopalniami Ghorlargu.|Bardzo niemiłe miejsce."
 msgstr ""
-"OTHER: Как-то раз я попросил его подсветить мне|Гхорларгские гномьи шахты.|"
-"Мерзкое местечко."
+"OTHER: Как-то раз я попросил его мне поярче|подсветить Гхорларгские гномьи "
+"шахты.|Мерзкое местечко."
 
 #: dialog0116.txt:100102
 msgid "OTHER: Była tam fabryka krasnoludzkiego spirytusu,|i kiedy kadź pękła, wszyscy zostali zalani."
@@ -4669,7 +4670,7 @@ msgstr "$4: Вы должны вернуть туда свет Солнца!"
 
 #: dialog0125.txt:107
 msgid "$1: Drugi? A kto był przede mną?"
-msgstr "$1: А кто был до меня?"
+msgstr "$1: Второй? А кто был до меня?"
 
 #: dialog0125.txt:108
 msgid "$2: Bardzo miło."
@@ -4760,8 +4761,8 @@ msgstr ""
 #: dialog0125.txt:100103
 msgid "OTHER: Więc wymarudził u mnie oświetlenie jaskiń,|a że miał argumenty, to się zgodziłem."
 msgstr ""
-"OTHER: Вот этот волшебник приходит ко мне,|просит: подсвети шахту, а? Я и "
-"подсветил.|У него аргументы были."
+"OTHER: Вот этот волшебник приходит ко мне,|настаивает: подсвети шахту, а?|Я "
+"и подсветил. У него аргументы были."
 
 #: dialog0125.txt:100104
 msgid "HERO: Jakie argumenty?"
