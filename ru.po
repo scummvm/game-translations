@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2023-03-06 01:34+0000\n"
+"PO-Revision-Date: 2023-04-12 21:35+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -3291,25 +3291,23 @@ msgstr "$3: Так, ладно. Ближе к делу."
 
 #: dialog0065.txt:100001
 msgid "OTHER: Wiem, przecież nie wzywałbyś mego imienia|nadaremno."
-msgstr "OTHER: Оуто се. Ибо не помянулъ бы|ты имя Мое всуе."
+msgstr "OTHER: Вемъ. Ибо не помянулъ бы|ты ими Мое всуе."
 
 #: dialog0065.txt:100002
 msgid "OTHER: Dlaczego od tak dawna nie widziałem moich|kapłanów?"
-msgstr "OTHER: Почьто не виждалъ|жьрьцовъ своих тако долго?"
+msgstr "OTHER: Отченьже уже такое долго|не вижду Моехъ духовенниковъ?"
 
 #: dialog0065.txt:100003
 msgid "OTHER: Dlaczego nie czuję słodkiego zapachu krwi|ofiarnych zwierząt?"
-msgstr ""
-"OTHER: Почьто не могу да слышати|сластного благоуханья кръви|тварей на "
-"заклание?"
+msgstr "OTHER: Отченьже давна не услышах|запаха крови тварей на заклание?"
 
 #: dialog0065.txt:100004
 msgid "OTHER: Dlaczego nie słyszę pieśni sławiących|moje imię?"
-msgstr "OTHER: Почьто никътоже не славитъ|имя Мое во псалмахъ?"
+msgstr "OTHER: Отченьже уже никто во псалмахъ|имя Мое прославляетъ?"
 
 #: dialog0065.txt:100005
 msgid "P#OTHER: Dlaczego tu tak pusto?"
-msgstr "P#OTHER: Почьто никогоже нетъ, кроме ти?!"
+msgstr "P#OTHER: Отченьже никого здесть нетъ,|разве тебе одному?!"
 
 #: dialog0065.txt:100006
 msgid "HERO: Ludzie odwracają się od starych bogów,|eeee... panie...."
@@ -3333,12 +3331,13 @@ msgstr ""
 
 #: dialog0065.txt:100101
 msgid "OTHER: Nie szkodzi, teraz, kiedy okazało się, że|moi wyznawcy jeszcze żyją, mam dużo czasu."
-msgstr "OTHER: Ништо. Доколе живы Мои|верующие, имамъ много Време."
+msgstr ""
+"OTHER: Ништо. Доколе суть Мои веровнии|в живых, времени имамъ и довольно."
 
 #: dialog0065.txt:100102
 msgid "HERO: Nie wątpię, eeee... panie.... Ale ja|nie jestem wieczny, a ta historia..."
 msgstr ""
-"HERO: Само собой, э-э-э, Повелитель, но я-то|времени много не имамъ...|А "
+"HERO: Само собой, э-э-э, Повелитель, но я-то|времени довольно не имамъ...|А "
 "рассказывать тут..."
 
 #: dialog0065.txt:100103
@@ -3351,35 +3350,35 @@ msgstr "HERO: Я потом расскажу.|Даю слово.#B0"
 
 #: dialog0065.txt:100201
 msgid "P#OTHER: Więc wiesz, jaki los mnie czekał..."
-msgstr "P#OTHER: Значи, знаеш ты за оурочище Мое..."
+msgstr "P#OTHER: Значи, ведаеши ты за оурочище Мое..."
 
 #: dialog0065.txt:100202
 msgid "P#HERO: Wiem. Dowiedziałem się od pewnego|wędrownego mnicha."
-msgstr "P#HERO: Ну да... э-э... знаю.|Мне один проповедник рассказал."
+msgstr "P#HERO: Ну да... э-э... ведаю.|Мне один проповедник рассказал."
 
 #: dialog0065.txt:100203
 msgid "P#OTHER: Mogę robić, co tylko chcę."
-msgstr "P#OTHER: Могу да създати, что угодно."
+msgstr "P#OTHER: Аз могу да създати всея, еже вольно."
 
 #: dialog0065.txt:100204
 msgid "OTHER: Jestem potężniejszy od królów, magów i kapłanów.|Jednym ruchem dłoni ujarzmiałem smoki, a gniewnym|zmarszczeniem brwi rozpędzałem armie."
 msgstr ""
-"OTHER: Азъ силенъ боле кралей, волхвовъ та жьрьцовъ!|Могу да смиряти "
-"драконовъ едино маханьем руки,|и да обращати воиства во прахъ|едино поглядом "
-"гневным."
+"OTHER: Аз больше мужеста имамъ, анеже|крали, волхвы да духовенники! Могу "
+"драконъ мигомъ|утишити рукою сконецъ, воиства же|поглядомъ гневнымъ во прахъ "
+"обращати."
 
 #: dialog0065.txt:100205
 msgid "OTHER: Potrafię zmienić gwiazdę w łabędzia,|a złoto w ogień."
-msgstr "OTHER: Могу да обратити звезду в лебедя,|и злато – в огънь."
+msgstr "OTHER: Могу и звезду лебедью сотворити,|а злато въ огнь претворити."
 
 #: dialog0065.txt:100206
 msgid "OTHER: Ale moje istnienie zależy od was."
-msgstr "OTHER: Обаче, житие Мое|само зависи от тебя."
+msgstr "OTHER: Обаче, от тебе житие Мое само зависи."
 
 #: dialog0065.txt:100207
 msgid "OTHER: Od najbardziej kruchej i niepewnej rzeczy na|świecie - ludzkiego życia."
 msgstr ""
-"OTHER: От самой немощьнай|да неизвестънейшай вещь на света –|от живота рода "
+"OTHER: Отъ самыя слабыя|и немощныя вещи на света –|отъ живота рода "
 "чловечьего."
 
 #: dialog0065.txt:100208
