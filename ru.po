@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2023-05-14 20:40+0000\n"
+"PO-Revision-Date: 2023-05-31 13:40+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -12133,7 +12133,7 @@ msgstr "Ничего не происходит..."
 
 #: variatxt.txt:101
 msgid "Czuję się trochę nieswojo, ale skoro|Arivald pozwolił..."
-msgstr "Мне как-то боязно этим заниматься,|но раз Аривальд предложил..."
+msgstr "Мне как-то боязно этим заниматься,|но раз Аривальд разрешил..."
 
 #: variatxt.txt:102
 msgid "Dobrze mieć takiego przyjaciela u boku."
@@ -12145,7 +12145,7 @@ msgstr "Фу-ух... Копали, копали,|и вот – всё вокру
 
 #: variatxt.txt:104
 msgid "Chciałem zobaczyć, co jest w pustym grobie,|a nie szukać ropy."
-msgstr "Там больше ничего нет. Что там ещё|откапывать? Нефть, что ли?"
+msgstr "И что там ещё откапывать?|Нефть, что ли?"
 
 #: variatxt.txt:105
 msgid "Lepiej nie ryzykować z takim|wojowniczym gnomem w pobliżu."
@@ -12204,8 +12204,8 @@ msgstr ""
 #: variatxt.txt:403
 msgid "Plecak to przesada, ale zajęci grą na|pewno nie zauważą braku tej ślicznej|książeczki..."
 msgstr ""
-"Взять весь рюкзак будет немного слишком,|но теперь они так увлечены, что|"
-"навряд ли заметят, как я свистну|вот эту симпатичную книжку..."
+"Взять весь рюкзак будет немного слишком,|но они навряд ли заметят, как я|"
+"свистну вот эту симпатичную книжку..."
 
 #: variatxt.txt:404
 msgid "Ciekawe czy kiedykolwiek zauważą,|że to fałszywe kości."
@@ -12522,7 +12522,7 @@ msgstr "Придётся решать вопрос силой."
 
 #: variatxt.txt:3303
 msgid "Macha nią jak lekką trzcinką...|Jest dla mnie zbyt szybki."
-msgstr "Он машет дубинкой как игрушкой...|Слишком быстрый для меня."
+msgstr "Он машет дубинкой как тростинкой...|Слишком быстрый для меня."
 
 #: variatxt.txt:3304
 msgid "Grzeczny diabełek."
@@ -12566,7 +12566,7 @@ msgstr "Нет, эта свечка не подойдёт."
 
 #: variatxt.txt:3605
 msgid "Życzymy przyjemnej podróży."
-msgstr "Счастливого пути."
+msgstr "В добрый путь. Не поминай лихом."
 
 #: variatxt.txt:3606
 msgid "Nie chciałbym spotkać strażnika...|Pewnie nie darzy mnie już sympatią."
