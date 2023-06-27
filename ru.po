@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2023-05-31 13:40+0000\n"
+"PO-Revision-Date: 2023-06-28 19:40+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -3398,7 +3398,8 @@ msgstr "HERO: В общем, скажу честно –|я тебе не пок
 
 #: dialog0065.txt:100304
 msgid "HERO: Ale jako bóstwo powinieneś mieć|ogromną moc."
-msgstr "HERO: Но ты ведь бог, значит, у тебя|есть и невероятные силы."
+msgstr ""
+"HERO: Но суть в том, что ты – бог.|А значит, у тебя есть и божественные силы."
 
 #: dialog0065.txt:100305
 msgid "HERO: Ufam, iż wiesz, jak zniszczyć klątwę."
@@ -3528,13 +3529,13 @@ msgstr "OTHER: Да-да, что-то знакомое..."
 
 #: dialog0074.txt:4
 msgid "P#OTHER: Mam to na końcu języka, ale..."
-msgstr "P#OTHER: Вот уже почти что-то припомнил..."
+msgstr "P#OTHER: Скажи мне, и я тебе скажу...|Впрочем, ты и сам не знаешь..."
 
 #: dialog0074.txt:5
 msgid "OTHER: Nie, chłopcze, w końcu nie byłem tu już|tysiąc lat. Mam prawo zapomnieć jeden|czy drugi drobny szczegół."
 msgstr ""
-"OTHER: ...Хотя... Нет, парень.|Меня здесь тысячу лет не было.|Какие-то "
-"мелочи я мог и забыть."
+"OTHER: В общем, нет, парень.|Меня здесь тысячу лет не было.|Какие-то мелочи "
+"я мог и забыть."
 
 #: dialog0075.txt:1
 msgid "OTHER: Hm..."
@@ -3563,13 +3564,13 @@ msgstr "OTHER: Он недалеко отсюда,|на юго-востоке."
 #: dialog0075.txt:7
 msgid "OTHER: Nigdy mi się nie podobało to stare zamczysko.|Nic dziwnego, że wampiry uwiły sobie w nim|urocze gniazdko."
 msgstr ""
-"OTHER: Мне эта старая дыра никогда не нравилась.|Неудивительно, что там "
-"вампиры обжились."
+"OTHER: Мне эта старая дыра никогда не нравилась.|Так, получается, вампиры "
+"себе там гнёздышко свили?|Даже и не удивлён."
 
 #: dialog0075.txt:8
 msgid "OTHER: Czy opowiadałem ci jak kiedyś poskromiłem...|A zresztą masz pewnie większe zmartwienia?"
 msgstr ""
-"OTHER: Я тебе рассказывал, как я однажды приручил...|Хотя, погоди, ты ведь "
+"OTHER: Я тебе рассказывал, как я однажды овладел...|Хотя, погоди, ты ведь "
 "куда-то спешил, нет?"
 
 #: dialog0076.txt:1
@@ -3620,11 +3621,11 @@ msgstr "OTHER: Ну что ж, принц! Ни слова больше!"
 
 #: dialog0077.txt:9
 msgid "OTHER: Zaraz biorę się za wnikliwe studia!"
-msgstr "OTHER: Пора углубляться в исследования!"
+msgstr "OTHER: Пора вашу книгу тщательно изучить!"
 
 #: dialog0077.txt:10
 msgid "OTHER: Co do zapłaty..."
-msgstr "OTHER: Но вот что бы вам взамен отдать?..."
+msgstr "OTHER: Но вот что бы вам за неё отдать?..."
 
 #: dialog0077.txt:11
 msgid "P#P#OTHER: <westchnienie>"
