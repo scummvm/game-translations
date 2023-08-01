@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2023-07-31 17:40+0000\n"
+"PO-Revision-Date: 2023-08-02 14:40+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -5841,11 +5841,11 @@ msgstr "OTHER: Я могу многое найти, но мне надо|зна�
 
 #: dialog0172.txt:5
 msgid "OTHER: Owszem, do uzyskania wizji potrzebna jest|jakaś rzecz..."
-msgstr "OTHER: И не по частям его видения приходят.|Мне нужен..."
+msgstr "OTHER: Частица может помочь.|Но в первую очередь мне нужен..."
 
 #: dialog0172.txt:6
 msgid "OTHER: ...rzecz..."
-msgstr "OTHER: ...что-то..."
+msgstr "OTHER: ...этот..."
 
 #: dialog0172.txt:7
 msgid "OTHER: ...eee..."
@@ -5853,7 +5853,7 @@ msgstr "OTHER: ...как его..."
 
 #: dialog0172.txt:8
 msgid "HERO: Obiektu?"
-msgstr "HERO: Образ?"
+msgstr "HERO: Цельный образ?"
 
 #: dialog0172.txt:9
 msgid "OTHER: ...obiektu, ale tylko jako pomoc."
@@ -5861,9 +5861,7 @@ msgstr "OTHER: ...да, он самый.|Я должен в целом пони�
 
 #: dialog0172.txt:10
 msgid "OTHER: Najpierw opowiedz mi, jak wygląda, to czego|mam szukać, a potem spróbujemy to znaleźć."
-msgstr ""
-"OTHER: Кого именно ты просишь меня найти?|Опиши мне, как выглядит хозяин "
-"этой чешуи,|и тогда я попробую."
+msgstr "OTHER: Опиши мне, как выглядит хозяин|этой чешуи, и тогда попробуем."
 
 #: dialog0172.txt:11
 msgid "OTHER: Muszę wiedzieć, czy to jaszczur, czy wąż,|czy jakaś magiczna cholera."
@@ -5887,7 +5885,7 @@ msgstr "HERO: Да-да. Я тогда сам узнаю что-нибудь|е�
 
 #: dialog0173.txt:1
 msgid "HERO: Sklep otwarty, czyżby studia nad księgą|zostały zakończone?"
-msgstr "HERO: Смотрю, магазин опять открыт.|Закончили с книгой, да?"
+msgstr "HERO: Смотрю, магазин опять открыт.|Всю книгу разобрали, да?"
 
 #: dialog0173.txt:2
 msgid "OTHER: Ech, książę, nadal masz powietrze w głowie."
@@ -6045,8 +6043,8 @@ msgstr ""
 #: dialog0178.txt:6
 msgid "HERO: Więc skup się i powiedz mi, gdzie jest|ten potwór."
 msgstr ""
-"HERO: Я точно уверен, что он существует.|Прошу вас, соберитесь с мыслями|и "
-"скажите, где я могу найти дракона."
+"HERO: Я уверен, этот – существует.|Прошу вас, соберитесь с мыслями|и "
+"скажите, где мне найти дракона."
 
 #: dialog0178.txt:7
 msgid "HERO: To sprawa życia i śmierci."
@@ -6198,8 +6196,8 @@ msgstr "OTHER: Вы доказали, принц, что наши|идеи ва�
 #: dialog0180.txt:100005
 msgid "OTHER: Teraz jeszcze musisz tylko wnieść,|jak my to nazywamy, posag, aby|zostać jednym z nas.#B1"
 msgstr ""
-"OTHER: Теперь вам остаётся лишь уплатить,|так скажем, своего рода взнос.|И "
-"вы станете одним из нас.#B1"
+"OTHER: Вам остаётся лишь преподнести,|как мы говорим, приданое.|И вы станете "
+"одним из нас.#B1"
 
 #: dialog0180.txt:100101
 msgid "OTHER: Stowarzyszenia, Gildii, nazwa nie|jest tu ważna."
@@ -6382,7 +6380,7 @@ msgstr "OTHER: А, впрочем... Хм-м..."
 #: dialog0180.txt:100504
 msgid "P#OTHER: Kiedyś otrzymaliśmy magiczną kłódkę, która nie|dość, że zabezpiecza sejf, to jeszcze sama|jest z białego złota wysadzanego brylantami."
 msgstr ""
-"P#OTHER: Как-то раз мы раздобыли волшебный замок,|который не только сейф "
+"P#OTHER: Как-то раз мы раздобыли волшебный замок,|который не только сундук "
 "запирает,|но и сделан из белого золота с бриллиантами."
 
 #: dialog0180.txt:100505
@@ -6500,7 +6498,7 @@ msgstr "OTHER: ...Это всё очень серьёзно..."
 #: dialog0180.txt:100703
 msgid "OTHER: Kiedyś otrzymaliśmy magiczną kłódkę, która nie|dość, że zabezpiecza sejf, to jeszcze sama|jest z białego złota wysadzanego brylantami."
 msgstr ""
-"OTHER: Как-то раз мы раздобыли волшебный замок,|который не только сейф "
+"OTHER: Как-то раз мы раздобыли волшебный замок,|который не только сундук "
 "запирает,|но и сделан из белого золота с бриллиантами."
 
 #: dialog0180.txt:100704
@@ -6515,7 +6513,7 @@ msgstr "OTHER: Хм..."
 
 #: dialog0180.txt:100706
 msgid "P#OTHER: Nie ukrywam, że jest taki przedmiot, którego|wszyscy pożądają."
-msgstr "P#OTHER: Но, знаете, есть ещё один предмет,|который все так хотят."
+msgstr "P#OTHER: Знаете, есть один предмет,|который все так хотят."
 
 #: dialog0180.txt:100707
 msgid "OTHER: Być może o nim słyszałeś."
