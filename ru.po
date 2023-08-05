@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2023-08-02 14:40+0000\n"
+"PO-Revision-Date: 2023-08-06 20:40+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -2835,22 +2835,22 @@ msgstr "OTHER: Я тут всего лишь проездом,|пару меся
 #: dialog0052.txt:100202
 msgid "OTHER: Niedaleko jest świątynia. Ponoć dawno temu|oddawano tam hołdy jakiemuś tajemniczemu|i dziś zapomnianemu bóstwu."
 msgstr ""
-"OTHER: Тут недалеко был один храм.|Там, говорят, раньше служили мессы|какому-"
-"то загадочному богу.|Служили, служили, да и перестали."
+"OTHER: Тут недалеко был один храм.|Там, говорят, раньше отправляли "
+"службу|какому-то загадочному богу."
 
 #: dialog0052.txt:100203
 msgid "OTHER: Świątynia od lat stoi pusta. Ten bóg nie|tylko, że utracił wyznawców, ale zginęła|nawet pamięć o nich."
 msgstr ""
-"OTHER: Культ распался, адепты разбежались,|а бога забыли напрочь и "
-"полностью.|Один только храм так и стоит."
+"OTHER: Но это давно было.|C тех пор и адепты разбежались,|и самого бога уже "
+"забыли напрочь.|А храм так и остался, пустой и покинутый."
 
 #: dialog0052.txt:100204
 msgid "OTHER: O ile świątynia w ogóle jeszcze stoi..."
-msgstr "OTHER: Если ещё не развалился..."
+msgstr "OTHER: Хотя, может, и сам он уже сгинул..."
 
 #: dialog0052.txt:100205
 msgid "HERO: Dlaczego? Był jakiś kataklizm?"
-msgstr "HERO: Не понял. Почему он|должен был развалиться?"
+msgstr "HERO: Как это – сам сгинул? Не понимаю."
 
 #: dialog0052.txt:100206
 msgid "OTHER: Każde bóstwo żyje tak długo, jak pamięta|o nim jego ostatni wyznawca. Tak|przynajmniej mówią."
@@ -3034,7 +3034,7 @@ msgstr "HERO: Ну да. Шантажист он.|Хулиган. И невос�
 
 #: dialog0060.txt:100004
 msgid "HERO: Ale jakbym był takim dużym krasnoludem|jak on, pewnie też miałbym żal do świata."
-msgstr "HERO: Да и где ж это видано, чтобы гном|вымахал с кабана размером?"
+msgstr "HERO: Да и где ж это видано, чтобы гном|до таких размеров вымахал?"
 
 #: dialog0060.txt:100005
 msgid "OTHER: Fakt, nieco wyrośnięty."
