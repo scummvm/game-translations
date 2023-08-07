@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2023-08-06 20:40+0000\n"
+"PO-Revision-Date: 2023-08-08 14:40+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -5481,7 +5481,7 @@ msgstr "OTHER: За кружечкой пива и не|замечаешь, ка
 
 #: dialog0158.txt:4
 msgid "OTHER: Lepiej powiedz, jak było?"
-msgstr "OTHER: ...Ну, рассказывай.|Где был, что видел?"
+msgstr "OTHER: ...Лучше расскажи, как оно?|Нормально всё прошло?"
 
 #: dialog0158.txt:5
 msgid "HERO: Jak tylko to sobie poukładam w głowie."
@@ -5676,7 +5676,7 @@ msgstr "HERO: Видел, тут недалеко|есть вонючее бол
 
 #: dialog0165.txt:2
 msgid "OTHER: Zapaszek dolatuje aż tutaj."
-msgstr "OTHER: Не видел...|Но вонь даже отсюда слышно."
+msgstr "OTHER: А я-то всё думаю, откуда так несёт."
 
 #: dialog0165.txt:3
 msgid "OTHER: Być może ktoś tu przeprowadzał eksperymenty|z magicznymi środkami chemiczno-bojowymi."
@@ -6737,16 +6737,16 @@ msgstr "OTHER: В Аду выяснилось,|что сцапал он меня
 msgid "OTHER: Ale ten cholerny sługus Lucyfera zamiast|odstawić mnie na miejsce, podarował mnie|wampirzemu królowi."
 msgstr ""
 "OTHER: Но этот люциферов прихвостень –|он, вместо того, чтобы вернуть меня "
-"обратно,|подарил меня Королю Вампиров."
+"обратно,|подарил меня Принцу Вампиров."
 
 #: dialog0182.txt:100006
 msgid "OTHER: Był mu winien jakąś przysługę."
 msgstr ""
-"OTHER: У него был должок перед Королём,|вот мной он за него и расплатился."
+"OTHER: У него был должок перед Принцем,|вот мной он за него и расплатился."
 
 #: dialog0182.txt:100007
 msgid "HERO: Spędziłaś w zamku dwa lata?!"
-msgstr "HERO: Так ты провела в замке два года?!"
+msgstr "HERO: И с тех пор ты сидела в замке?|Целых два года?!"
 
 #: dialog0182.txt:100008
 msgid "OTHER: Prawie."
