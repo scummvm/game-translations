@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2023-08-08 14:40+0000\n"
+"PO-Revision-Date: 2023-09-24 19:41+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -988,11 +988,11 @@ msgstr "OTHER: Итак, отшельник?#B1"
 
 #: dialog0016.txt:101201
 msgid "OTHER: E tam, to żaden zgubny nałóg."
-msgstr "OTHER: Травки – дело житейское."
+msgstr "OTHER: Да куда там. Травки – дело житейское."
 
 #: dialog0016.txt:101202
 msgid "OTHER: W każdej chwili mogę to rzucić."
-msgstr "OTHER: Я могу завязать в любой момент."
+msgstr "OTHER: Я могу завязать с ними|в любой момент."
 
 #: dialog0016.txt:101203
 msgid "OTHER: W końcu robiłem to już tysiące razy."
