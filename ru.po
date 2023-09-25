@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2023-09-24 19:41+0000\n"
+"PO-Revision-Date: 2023-09-26 12:41+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -83,17 +83,17 @@ msgstr ""
 
 #: dialog0001.txt:100004
 msgid "HERO: Placu zabaw? Ach, rozumiem. Staramy|się być dowcipni."
-msgstr "HERO: На детской площадке?!|А-а... Понял.|Это шутка была. Ха-ха."
+msgstr "HERO: На детской площадке?!|А-а... Понял.|Юморить изволите? Ха-ха."
 
 #: dialog0001.txt:100005
 msgid "OTHER: Jesteśmy dowcipni. A teraz idź już stąd.|To nie miejsce dla szaleńców.#E4#B0"
 msgstr ""
-"OTHER: Шутник нашёлся.|Прочь отсюда, кому сказал!|Здесь не место для "
-"сумасшедших.#E4#B0"
+"OTHER: Уходить ты не изволишь, вот чего.|Прочь отсюда, кому сказал!|Здесь не "
+"место для сумасшедших.#E4#B0"
 
 #: dialog0001.txt:100101
 msgid "OTHER: Wróć, którędy przyszedłeś."
-msgstr "OTHER: Откуда пришёл, туда и уходи!"
+msgstr "OTHER: Откуда пришёл, туда и уходи."
 
 #: dialog0001.txt:100102
 msgid "HERO: Ale tam..."
