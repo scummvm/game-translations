@@ -8,63 +8,66 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2020-09-02 22:47+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-10-25 15:41+0000\n"
+"Last-Translator: NorwayFun <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <https://translations.scummvm.org/projects/"
+"mission-supernova/msn/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4\n"
 
 #. I18N: Go
 #: ../../msn/msn.c:1610
 msgid "Gehe"
-msgstr ""
+msgstr "გადასვლა"
 
 #. I18N: Look
 #: ../../msn/msn.c:1612
 msgid "Schau"
-msgstr ""
+msgstr "შეხედვა"
 
 #. I18N: Take
 #: ../../msn/msn.c:1614
 msgid "Nimm"
-msgstr ""
+msgstr "აღება"
 
 #. I18N: Open
 #: ../../msn/msn.c:1616
 msgid "Öffne"
-msgstr ""
+msgstr "გახსნა"
 
 #. I18N: Close
 #: ../../msn/msn.c:1618
 msgid "Schließe"
-msgstr ""
+msgstr "დახურვა"
 
 #. I18N: Push
 #: ../../msn/msn.c:1620
 msgid "Drücke"
-msgstr ""
+msgstr "დაჭერა"
 
 #. I18N: Pull
 #: ../../msn/msn.c:1622
 msgid "Ziehe"
-msgstr ""
+msgstr "გამოწევა"
 
 #. I18N: Use
 #: ../../msn/msn.c:1624
 msgid "Benutze"
-msgstr ""
+msgstr "გამოყენება"
 
 #. I18N: Talk
 #: ../../msn/msn.c:1626
 msgid "Rede"
-msgstr ""
+msgstr "საუბარი"
 
 #. I18N: Give
 #: ../../msn/msn.c:1628
 msgid "Gib"
-msgstr ""
+msgstr "მიცემა"
 
 #. I18N: End of conversation
 #: ../../msn/msn.c:2204
