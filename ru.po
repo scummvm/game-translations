@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2023-09-26 12:41+0000\n"
+"PO-Revision-Date: 2023-10-26 21:41+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -3529,13 +3529,13 @@ msgstr "OTHER: Да-да, что-то знакомое..."
 
 #: dialog0074.txt:4
 msgid "P#OTHER: Mam to na końcu języka, ale..."
-msgstr "P#OTHER: Скажи мне, и я тебе скажу...|Впрочем, ты и сам не знаешь..."
+msgstr "P#OTHER: Вот прямо в голове вертится, но как-то..."
 
 #: dialog0074.txt:5
 msgid "OTHER: Nie, chłopcze, w końcu nie byłem tu już|tysiąc lat. Mam prawo zapomnieć jeden|czy drugi drobny szczegół."
 msgstr ""
-"OTHER: В общем, нет, парень.|Меня здесь тысячу лет не было.|Какие-то мелочи "
-"я мог и забыть."
+"OTHER: Не, парень – никак.|Сам понимаешь, меня тут тысячу лет не было.|Какие-"
+"то мелочи я вполне мог и забыть."
 
 #: dialog0075.txt:1
 msgid "OTHER: Hm..."
@@ -3565,7 +3565,7 @@ msgstr "OTHER: Он недалеко отсюда,|на юго-востоке."
 msgid "OTHER: Nigdy mi się nie podobało to stare zamczysko.|Nic dziwnego, że wampiry uwiły sobie w nim|urocze gniazdko."
 msgstr ""
 "OTHER: Мне эта старая дыра никогда не нравилась.|Так, получается, вампиры "
-"себе там гнёздышко свили?|Даже и не удивлён."
+"там гнёздышко свили?|Даже и не удивлён."
 
 #: dialog0075.txt:8
 msgid "OTHER: Czy opowiadałem ci jak kiedyś poskromiłem...|A zresztą masz pewnie większe zmartwienia?"
@@ -3589,7 +3589,7 @@ msgstr ""
 
 #: dialog0077.txt:2
 msgid "OTHER: Gdzie znalazłeś tego białego kruka?"
-msgstr "OTHER: Где же вы нашли такой раритет?"
+msgstr "OTHER: Где же вы нашли такой брильянт?"
 
 #: dialog0077.txt:3
 msgid "OTHER: Czyżby zostało coś ze starej wiedzy|przesławnej Silmaniony?"
