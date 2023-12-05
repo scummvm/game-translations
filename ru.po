@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2023-11-08 23:41+0000\n"
+"PO-Revision-Date: 2023-12-06 11:41+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -6279,11 +6279,11 @@ msgstr "OTHER: Аж слёзы со смеху брызнули!"
 
 #: dialog0180.txt:100303
 msgid "OTHER: Ty to jak coś powiesz..."
-msgstr "OTHER: Сморозите же вы порой...|Я вам поясню."
+msgstr "OTHER: Сморозите же вы порой..."
 
 #: dialog0180.txt:100304
 msgid "OTHER: Jaki to sens robić z bogacza biedaka?"
-msgstr "OTHER: К чему превращать богача в бедняка?"
+msgstr "OTHER: Зачем вообще нужно|превращать богача в бедняка?"
 
 #: dialog0180.txt:100305
 msgid "OTHER: Żeby inny biedak mógł stać się|bogaczem?"
@@ -8743,8 +8743,8 @@ msgstr ""
 #: dialog0272.txt:4
 msgid "OTHER: Jeśli nie odkręcisz tego w 5 sekund,|ja odkręcę ci łeb."
 msgstr ""
-"OTHER: В общем, так:|чтобы через пять секунд всё исправил.|Иначе я тебе рожу "
-"подправлю."
+"OTHER: В общем, слушай сюда:|либо ты всё сделаешь как было,|либо я из тебя "
+"сделаю чучело.|Даю тебе 5 секунд."
 
 #: dialog0272.txt:5
 msgid "OTHER: A potem spokojnie porozmawiamy sobie o|ŁAMANIU, KRUSZENIU I WYPALANIU."
