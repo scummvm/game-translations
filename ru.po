@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2023-12-06 11:41+0000\n"
+"PO-Revision-Date: 2023-12-24 15:41+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -863,7 +863,7 @@ msgstr ""
 
 #: dialog0016.txt:100604
 msgid "OTHER: Kiedyś miałem tam drobny spór dotyczący|kości."
-msgstr "OTHER: Я как-то там в кости играл,|и случился, так скажем, спор."
+msgstr "OTHER: Я однажды там в кости играл,|и случился, так скажем, спор."
 
 #: dialog0016.txt:100605
 msgid "OTHER: Strażnik twierdził, iż to dziwne, kiedy|czterdzieści trzy razy pod rząd wypada|szóstka."
@@ -1304,8 +1304,7 @@ msgstr "OTHER: Эх… Если бы только я мог с ними сыгр
 
 #: dialog0020.txt:100102
 msgid "OTHER: To amatorzy. Ja bym im pokazał, jak się|turla sześcianiki."
-msgstr ""
-"OTHER: Они непрофессионалы.|Уж я бы им показал, как кости надо кидать..."
+msgstr "OTHER: Они непрофессионалы.|Уж я бы им показал, как кости кидать..."
 
 #: dialog0020.txt:100103
 msgid "HERO: Jakieś małe oszustwo? As z rękawa?"
