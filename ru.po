@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2023-12-24 15:41+0000\n"
+"PO-Revision-Date: 2024-01-16 20:42+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -123,7 +123,7 @@ msgstr "OTHER: Все вы, люди, какие-то сумасшедшие."
 
 #: dialog0001.txt:100402
 msgid "OTHER: Żyjecie jakieś marne dwieście czy ile tam|lat i to źle na was działa."
-msgstr "OTHER: Живёте всего-то одну-две сотни лет,|и ничего не успеваете."
+msgstr "OTHER: Живёте всего-то лет под двести,|и ничего не успеваете."
 
 #: dialog0001.txt:100403
 msgid "OTHER: Ciągle gnacie tu i tam, spieszycie się i|nie potraficie usiedzieć nawet stu lat|w jednym miejscu."
@@ -319,11 +319,11 @@ msgstr "OTHER: Я слушаю."
 
 #: dialog0006.txt:100405
 msgid "HERO: Powiedziałem \"bez dwóch\"..."
-msgstr "HERO: Говорю, может, возьмётесь, и посмелее?"
+msgstr "HERO: Говорю, возьмётесь, может?|Чтоб посмелее?"
 
 #: dialog0006.txt:100406
 msgid "HERO: Chodziło mi o to, że bez dwóch zdań."
-msgstr "HERO: Вы попробуйте ещё раз.|Вдруг чего и выйдет?"
+msgstr "HERO: Вдруг со второго раза получится?"
 
 #: dialog0006.txt:100407
 msgid "P#OTHER: Achhh..."
@@ -496,7 +496,7 @@ msgstr ""
 
 #: dialog0010.txt:31
 msgid "OTHER: Ale zostawię ci pewną użyteczną rzecz."
-msgstr "OTHER: Возьми-ка лучше вот что. Тебе пригодится."
+msgstr "OTHER: Лучше я тебе кой-чего оставлю.|Вот, возьми – пригодится."
 
 #: dialog0011.txt:1
 msgid "OTHER: To mapa, magiczna, ale każdy może z niej|korzystać. Trochę przeleżała, więc uaktywni|się dopiero za dłuższą chwilę."
@@ -640,7 +640,7 @@ msgstr "OTHER: И даже вон тот рыцарь не смог|измени
 
 #: dialog0013.txt:100305
 msgid "OTHER: To już jest niesmaczne.|Par excellence."
-msgstr "OTHER: Ты просто невыносим.|В высшей степени."
+msgstr "OTHER: Ты просто омерзителен.|В высшей степени."
 
 #: dialog0013.txt:100306
 msgid "P#OTHER: Chyba jednak wskrzeszenie nawet tak groźnego|czarodzieja jak Arivald będzie lepsze niż|twoja obecność.#X1"
@@ -708,11 +708,11 @@ msgstr "OTHER: Я знаю как тебя наказать, жалкая тва
 
 #: dialog0014.txt:100301
 msgid "OTHER: Już od kilkuset lat nie widziałem tu|żadnego kreta."
-msgstr "OTHER: Я здесь живу уже несколько веков,|и кротов ещё ни разу не видел."
+msgstr "OTHER: Я уже много веков как|не видел тут ни одного крота."
 
 #: dialog0014.txt:100302
 msgid "OTHER: Za wyjątkiem tych, które przyrządzam|w piołunowym sosie."
-msgstr "OTHER: Были похожие твари. Я их всех|съел с полынным соусом."
+msgstr "OTHER: Всех, кто тут был, съел с полынным соусом."
 
 #: dialog0014.txt:100303
 msgid "OTHER: Więc nie sil się na kłamstwa, ty mała,|biała glisto!"
@@ -734,7 +734,7 @@ msgstr "HERO: Добрый день!"
 
 #: dialog0016.txt:102
 msgid "$0: Miłe gniazdko... Z daleka od smrodu wielkich miast..."
-msgstr "$0: Симпатично тут... Не воняет, как в городах..."
+msgstr "$0: Симпатично тут... Далеко от городского смрада..."
 
 #: dialog0016.txt:103
 msgid "$3: Skoro jest tak źle, to co tu jeszcze robisz?"
@@ -778,7 +778,7 @@ msgstr "$10: Свежего воздуха?"
 
 #: dialog0016.txt:413
 msgid "$11: Niedozwolonych środków dopingujących?"
-msgstr "$11: Запрещённых лекарственных средств?"
+msgstr "$11: Запрещённых веществ?"
 
 #: dialog0016.txt:414
 msgid "$12: Ziółek?"
@@ -787,8 +787,8 @@ msgstr "$12: Травок всяких интересных?"
 #: dialog0016.txt:100001
 msgid "OTHER: I blisko mrówek, szczypawic, komarów, szerszeni,|much, ciem, korników, glizd, larw..."
 msgstr ""
-"OTHER: Зато повсюду муравьи, двухвостки, комары,|шершни, мухи, мотыльки,|"
-"короеды, черви, личинки…"
+"OTHER: Зато близко к муравьям, двухвосткам, комарам,|шершням, мухам, "
+"мотылькам,|короедам, червям, личинкам…"
 
 #: dialog0016.txt:100002
 msgid "HERO: Dobrze już dobrze, zrozumiałem."
