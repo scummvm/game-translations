@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2024-01-16 20:42+0000\n"
+"PO-Revision-Date: 2024-02-24 00:03+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -11867,9 +11867,9 @@ msgstr ""
 #: mob.lst:37005
 msgid "fotel - Mebel dwuosobowy, ale karę odbywa się|w samotności.+Nuda, samotność, pustka... I to tylko kara za|grzechy lekkie..."
 msgstr ""
-"Кресло - Вот как хитро сделали: кресло двухместное,|но камера при этом "
-"одиночная.+Сидишь себе, скучаешь в пустоте,|никто не подсядет...|И так тут "
-"наказывают всего-то|за лёгкие грехи!"
+"Кресло - Кресло двухместное,|а камера при этом одиночная.+Сидишь себе, "
+"скучаешь в пустоте,|никто не подсядет...|И так тут наказывают всего-то|за "
+"лёгкие грехи!"
 
 #: mob.lst:37006
 msgid "węgielek - Superrozgrzany."
@@ -11881,7 +11881,7 @@ msgstr "Уголёк - Горячий."
 
 #: mob.lst:38001
 msgid "fake - Nic. Tego tutaj nie ma. Zapomnij."
-msgstr "Обман - Ничего. Там ничего нет. Забудьте."
+msgstr "Обман - Нет. Там ничего нет. Забудьте."
 
 #: mob.lst:39001
 msgid "udziec - Tłuściutki kawał mięcha."
@@ -11908,7 +11908,7 @@ msgstr ""
 #: mob.lst:39005
 msgid "owoce - Wyglądają bardzo smacznie, ale są|z polakierowanego drewna.+Chociaż banan mógłby się komuś przydać."
 msgstr ""
-"Фрукты - На вид – очень вкусные, а по факту –|сделаны из крашеного дерева.+"
+"Фрукты - На вид – очень вкусные, а на деле –|сделаны из крашеного дерева.+"
 "Хотя банан бы кому-нибудь пригодился..."
 
 #: mob.lst:40001
@@ -12153,11 +12153,11 @@ msgstr "Этот хмырь зелёный всё ещё здесь.|Лучше 
 
 #: variatxt.txt:106
 msgid "Hmm... Jeszcze nie działa."
-msgstr "Хм... Она ещё не готова к работе."
+msgstr "Хм-м... Никак не прогреется."
 
 #: variatxt.txt:107
 msgid "Ale za to przy okazji mapa zaczęła działać."
-msgstr "Зато карта наконец-то заработала!"
+msgstr "Ну, зато карта заработала – и то хорошо."
 
 #: variatxt.txt:201
 msgid "A niech to, ostrze gdzieś poleciało..."
@@ -12177,7 +12177,7 @@ msgstr "Так, первую часть работы сделали..."
 
 #: variatxt.txt:205
 msgid "Błogosławieństwo dokonane..."
-msgstr "Крест получил благословение..."
+msgstr "Благословен будь, крест."
 
 #: variatxt.txt:206
 msgid "Śmierdzi jak zaraza, nic dziwnego, że|wampiry też odstrasza."
@@ -12204,8 +12204,8 @@ msgstr ""
 #: variatxt.txt:403
 msgid "Plecak to przesada, ale zajęci grą na|pewno nie zauważą braku tej ślicznej|książeczki..."
 msgstr ""
-"Взять весь рюкзак будет немного слишком,|но они навряд ли заметят, как я|"
-"свистну вот эту симпатичную книжку..."
+"Весь рюкзак свистнуть – это уже чересчур.|Вот какую-нибудь мелочь они и не "
+"заметят.|А что это у нас тут за книжечка?"
 
 #: variatxt.txt:404
 msgid "Ciekawe czy kiedykolwiek zauważą,|że to fałszywe kości."
@@ -12214,11 +12214,11 @@ msgstr ""
 
 #: variatxt.txt:405
 msgid "To było żałosne..."
-msgstr "Это было жалкое зрелище..."
+msgstr "Совсем опозорился..."
 
 #: variatxt.txt:406
 msgid "To nie jest dobry moment."
-msgstr "Не совсем вовремя."
+msgstr "Нет, сейчас не время."
 
 #: variatxt.txt:407
 msgid "Zamknięte!"
@@ -12294,7 +12294,7 @@ msgstr "Тьфу!"
 
 #: variatxt.txt:1401
 msgid "Jest! Lustro jak złoto!"
-msgstr "Вот оно, зеркало!|Блестит как золото!"
+msgstr "Вот оно, зеркало!|Блестит как бриллиантовое!"
 
 #: variatxt.txt:1501
 msgid "Może i wygląda jak wykuty z kamienia|ale mój tyłek ma inne zdanie."
