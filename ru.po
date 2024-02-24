@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2024-02-24 00:03+0000\n"
+"PO-Revision-Date: 2024-02-25 01:42+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -7967,8 +7967,8 @@ msgstr "HERO: И он всё так быстро проделал...|Очень 
 #: dialog0244.txt:100201
 msgid "OTHER: Ale nie czuję ani strawionego robactwa,|ani zakrzepłego guana..."
 msgstr ""
-"OTHER: Вонять-то воняешь, но как-то не так.|Крысами полупереваренными не "
-"воняешь,|помётом засохшим не воняешь..."
+"OTHER: Да вот как-то не так воняешь.|Чёрт должен вонять, там, сухими "
+"чиркашами,|полупереваренными личинками..."
 
 #: dialog0244.txt:100202
 msgid "OTHER: Ani nawet zgnilizny moralnej."
@@ -8008,7 +8008,7 @@ msgstr "OTHER: Люцифер приказал охранять,|вот мы и 
 
 #: dialog0244.txt:100302
 msgid "OTHER: Szef też ma prawo odpocząć od polityki."
-msgstr "OTHER: Он ведь имеет право посидеть|и отдохнуть от политики."
+msgstr "OTHER: Он вполне имеет право посидеть|и отдохнуть от политики."
 
 #: dialog0244.txt:100303
 msgid "OTHER: Tylko ważne sprawy, powiedział."
@@ -8117,7 +8117,7 @@ msgstr ""
 
 #: dialog0247.txt:2
 msgid "OTHER: A jak myślisz, dlaczego tu jestem?"
-msgstr "OTHER: Правильно полагаешь. Сам-то как|думаешь, за что я сюда попала?"
+msgstr "OTHER: Ну, а сам-то как думаешь,|за что я сюда попала?"
 
 #: dialog0247.txt:3
 msgid "OTHER: Walczyłam jak mogłam, nawet zdołałam|kopnąć jednego w ...no wiesz..."
@@ -8141,7 +8141,7 @@ msgstr "OTHER: Очнулась я уже тут, в камере."
 
 #: dialog0247.txt:7
 msgid "P#HERO: No tak."
-msgstr "P#HERO: Вот оно как..."
+msgstr "P#HERO: Понятно."
 
 #: dialog0247.txt:8
 msgid "HERO: Mnie nie złapali, ale nawet przebranie|za diabła nie pomogło."
@@ -8497,7 +8497,7 @@ msgstr "OTHER2: Я ведь в Ад попала за таки-и-и-е|непр
 
 #: dialog0261.txt:11
 msgid "OTHER: <gulp>"
-msgstr "OTHER: Кхм."
+msgstr "OTHER: Э-кхм..."
 
 #: dialog0261.txt:12
 msgid "OTHER: Ależ proszę, proszę, żaden problem."
@@ -8509,7 +8509,7 @@ msgstr "OTHER: Люцифер будет доволен. Хе-хе-хе!"
 
 #: dialog0261.txt:14
 msgid "OTHER: Czekamy, dziecinko na ...nagrodę."
-msgstr "OTHER: Но ты пообещала, лапуля...|Так что – будем ждать."
+msgstr "OTHER: А мы, лапуля, тут подождём...|Награду за труды."
 
 #: dialog0262.txt:1
 msgid "OTHER: Przebyliśmy taki kawał drogi, a ten|stary dureń drzemie!"
@@ -8748,7 +8748,7 @@ msgstr ""
 #: dialog0272.txt:5
 msgid "OTHER: A potem spokojnie porozmawiamy sobie o|ŁAMANIU, KRUSZENIU I WYPALANIU."
 msgstr ""
-"OTHER: А потом спокойно сядем|и поговорим про|ПЕРЕЛОМЫ, СДАВЛИВАНИЯ И ОЖОГИ."
+"OTHER: А потом спокойно сядем|и обсудим, как будем|ЛОМАТЬ, ДАВИТЬ И ПАЛИТЬ."
 
 #: dialog0272.txt:6
 msgid "OTHER: I to będzie długa rozmowa."
@@ -8772,7 +8772,7 @@ msgstr "OTHER: Но кичи ирдекель ууц нем."
 
 #: dialog0275.txt:1
 msgid "HERO: Przepraszam, czy mówi pan w jakimś|normalnym języku?"
-msgstr "HERO: Изволь, купче, разумеешь ли обычной речи?"
+msgstr "HERO: Здрав будь, купче.|Может, хоть ты нормальный|язык знавешь?"
 
 #: dialog0275.txt:2
 msgid "OTHER: Kopi le soruś, nincz ideem."
@@ -8788,7 +8788,7 @@ msgstr "OTHER: Экет метуререри ту декеметере во йо
 
 #: dialog0277.txt:1
 msgid "HERO: Halo? Jaki to kraj? Gdzie ja|jestem?"
-msgstr "HERO: Да скажи же, купче,|что за край это? Где я?"
+msgstr "HERO: Да скажи же, купче,|что это за страна? Где я?"
 
 #: dialog0277.txt:2
 msgid "OTHER: Ne huijeszkedj! Bessej|yrthetyen."
@@ -8804,7 +8804,7 @@ msgstr "OTHER: Хуч мондод? Ми ез о|неветжигеш бесси
 
 #: dialog0279.txt:1
 msgid "HERO: Potrzebuję czosnku!"
-msgstr "HERO: Мне чеснок надобно!"
+msgstr "HERO: Мне чеснока надо!"
 
 #: dialog0279.txt:2
 msgid "OTHER: Newetrzegesz wolt, de mosztmar nem."
@@ -8834,7 +8834,7 @@ msgstr ""
 
 #: dialog0282.txt:1
 msgid "HERO: Oddaje szal, dziękuję za pomoc."
-msgstr "HERO: Вот, возьмите шаль вашу.|За помощь благодарен премного."
+msgstr "HERO: Вот, возьмите вашу шаль.|За помощь благодарю премного."
 
 #: dialog0282.txt:2
 msgid "OTHER: Marosthittem chodj les uji|nioklamcom."
@@ -12298,7 +12298,8 @@ msgstr "Вот оно, зеркало!|Блестит как бриллиант�
 
 #: variatxt.txt:1501
 msgid "Może i wygląda jak wykuty z kamienia|ale mój tyłek ma inne zdanie."
-msgstr "Он как будто бы вырублен из камня,|но моя задница совсем иного мнения."
+msgstr ""
+"Он как будто бы вырублен из камня,|но ягодицы у меня совсем другого мнения."
 
 #: variatxt.txt:1502
 msgid "Hmmm... Chyba zostałem przejrzany..."
@@ -12417,7 +12418,7 @@ msgstr "Карта здесь не работает..."
 #: variatxt.txt:2501
 msgid "Nigdy w życiu, nienawidzę pajęczyn, a tym|bardziej takich, które wyglądają na|magiczne."
 msgstr ""
-"Нет уж, я в паутину не полезу. Я и так-то|их не переношу, а эта, поди, ещё и "
+"Нет уж, я в паутину не полезу.|Я и так-то их не переношу,|а эта, поди, ещё и "
 "заколдованная."
 
 #: variatxt.txt:2502
@@ -12450,7 +12451,7 @@ msgstr "Нам нечем подтвердить, что нас|собралис
 
 #: variatxt.txt:2801
 msgid "Moje nowe ciało jest najwyraźniej za|szerokie w ramionach"
-msgstr "Да уж, у моего нового тела|плечи широковаты."
+msgstr "Да уж, у нового тела|плечи широковаты."
 
 #: variatxt.txt:2802
 msgid "Ups."
