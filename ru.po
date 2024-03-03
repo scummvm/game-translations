@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2024-02-28 16:42+0000\n"
+"PO-Revision-Date: 2024-03-04 07:42+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -7477,7 +7477,8 @@ msgstr "HERO: Здорово его прошибло, а?"
 
 #: dialog0228.txt:3
 msgid "HERO: A to tylko łyk trucizny zmieszanej z piwem."
-msgstr "HERO: Собственно, яд намешан в пиво.|Ему хватило и глоточка."
+msgstr ""
+"HERO: И всего-то – с одного глоточка.|Собственно, яд у меня намешан с пивом."
 
 #: dialog0228.txt:4
 msgid "OTHER: Hm."
@@ -7505,11 +7506,13 @@ msgstr "OTHER: Крыс, конечно. О-о-очень больших."
 
 #: dialog0228.txt:10
 msgid "HERO: Weź ten kufelek i postaw na dzień|na świeżym powietrzu."
-msgstr "HERO: Берёте эту кружку и выставляете|на улицу на сутки."
+msgstr ""
+"HERO: А вы эту кружку возьмите,|выставьте на улицу,|и пусть она там сутки "
+"простоит."
 
 #: dialog0228.txt:11
 msgid "HERO: Piwo wywietrzeje i po kłopocie."
-msgstr "HERO: Пиво в итоге выветрится."
+msgstr "HERO: К утру пиво выветрится."
 
 #: dialog0228.txt:12
 msgid "HERO: Zostanie sama esencja."
@@ -7526,28 +7529,27 @@ msgstr ""
 
 #: dialog0230.txt:2
 msgid "OTHER: Nie ściągnę swojej maski za żadne skarby!"
-msgstr "OTHER: Маску не сниму! Хоть режь!"
+msgstr "OTHER: Ну уж нет! На кого я буду|похожа в вуали и с маской?"
 
 #: dialog0230.txt:3
 msgid "OTHER: A chyba dość głupio wyglądałabym ubrana|i w maskę i woalkę."
-msgstr ""
-"OTHER: А если я и маску оставлю,|и вуаль надену, глупость выйдет какая-то."
+msgstr "OTHER: И иначе никак.|Маску не сниму, хоть режь."
 
 #: dialog0230.txt:4
 msgid "HERO: A propos maski..."
-msgstr "HERO: Ну, а без маски вообще никак?"
+msgstr "HERO: Да, кстати.|А маска-то..."
 
 #: dialog0230.txt:5
 msgid "OTHER: Cicho!"
-msgstr "OTHER: Никак! Всё!"
+msgstr "OTHER: А ну, цыц!..."
 
 #: dialog0230.txt:6
 msgid "OTHER: Ale zaraz..."
-msgstr "OTHER: Погоди-ка..."
+msgstr "OTHER: ...слушай, знаешь что?"
 
 #: dialog0230.txt:7
 msgid "OTHER: Masz przecież długie włosy..."
-msgstr "OTHER: У тебя ж волосы длинные..."
+msgstr "OTHER: А ведь у тебя волосы|довольно-таки длинные..."
 
 #: dialog0230.txt:8
 msgid "OTHER: Wystarczy, że podniesiesz nieco głos|i już cię nikt nie pozna..."
@@ -7561,7 +7563,7 @@ msgstr "HERO: О-ох..."
 
 #: dialog0230.txt:10
 msgid "HERO: Wiedziałem."
-msgstr "HERO: Опять мне отдуваться."
+msgstr "HERO: Ну, да. Как всегда."
 
 #: dialog0231.txt:1
 msgid "OTHER: Mmmmam czego chchchciałaśśś..."
@@ -7573,19 +7575,21 @@ msgstr "OTHER2: У меня тоже."
 
 #: dialog0232.txt:1
 msgid "OTHER: Tylllko jej nie żżżałujjjj..."
-msgstr "OTHER: И до-до-дозы не жа-жа-жалей..."
+msgstr "OTHER: То-то-только ты|по-побольше п-п-положи..."
 
 #: dialog0232.txt:2
 msgid "OTHER: Mmmała dddawka nnnie jessst w pełni|skkkuteczna..."
-msgstr "OTHER: Ма-ма-маленькая осо-со-собого|вреда не на-на-нанесёт..."
+msgstr "OTHER: А то ма-ма-маленькой дозой|ты даже и не у-у-убьёшь..."
 
 #: dialog0232.txt:3
 msgid "OTHER: ...powoduje jedynie zbliżżżżony do śśśśśmierci|letarg. Żeby zzzzabić..."
-msgstr "OTHER: Она л-л-лишь вы-вызовет|очень т-т-тяжёлую кому."
+msgstr ""
+"OTHER: а т-т-только введёшь|в т-т-тяжёлую ле-ле-летаргию,|бу-бу-будет как "
+"труп в-в-валяться."
 
 #: dialog0232.txt:4
 msgid "OTHER: Zużyj cccałą fffiolkę..."
-msgstr "OTHER: Хочешь уб-б-бить – п-п-положи|весь ф-ф-флакон."
+msgstr "OTHER: Хочешь уб-б-бить –|п-п-положи весь ф-ф-флакон."
 
 #: dialog0232.txt:5
 msgid "OTHER: Życzę szybkiego rozwodu..."
@@ -7605,7 +7609,7 @@ msgstr "HERO: Боишься?"
 
 #: dialog0233.txt:3
 msgid "OTHER: Nieważne."
-msgstr "OTHER: Нет. Уже нет."
+msgstr "OTHER: Неважно."
 
 #: dialog0233.txt:4
 msgid "OTHER: I tak musimy to zrobić."
@@ -7661,19 +7665,19 @@ msgstr "OTHER: Уважаемый грешник,|добро пожаловат�
 
 #: dialog0238.txt:2
 msgid "OTHER: Służymy miłą, sympatyczną celą|grzechów lekkich."
-msgstr "OTHER: Мы предлагаем простую и беззаботную|отработку лёгких грехов."
+msgstr "OTHER: Мы предлагаем уютные камеры|для тех, кто грешил мало."
 
 #: dialog0238.txt:3
 msgid "OTHER: Dla postaci bardziej zasłużonych mamy|komnatę grzechów ciężkich."
 msgstr ""
-"OTHER: Для персон со списком грехов побольше|у нас есть камера тяжёлых "
-"грехов."
+"OTHER: Или вы не стеснялись?|В таком случае, есть и камеры|для тяжких "
+"грешников."
 
 #: dialog0238.txt:4
 msgid "OTHER: Prawdziwa rozkosz to jednak cela dla|V.I.P.-ów, ale trzeba na nią sobie|zasłużyć."
 msgstr ""
-"OTHER: Истинное же наслаждение – в нашей V.I.P.-ложе.|Но пропуск туда нужно "
-"заслужить."
+"OTHER: Ну, а если вы особо отличились,|то мы предоставим вам истинное "
+"блаженство|в нашей V.I.P-ложе."
 
 #: dialog0238.txt:5
 msgid "OTHER: Jakimiż to uczynkami może się|szanowny grzesznik pochwalić?"
@@ -7701,15 +7705,15 @@ msgstr "OTHER: Вообще, это заслуга, а не грех.|Но, ра
 
 #: dialog0239.txt:100002
 msgid "OTHER: Sala grzechów lekkich - raz!#E0#X1"
-msgstr "OTHER: В камеру лёгких грехов – прошу!#E0#X1"
+msgstr "OTHER: Камера простительных грехов|на одного!#E0#X1"
 
 #: dialog0239.txt:100101
 msgid "OTHER: Głupota to grzech ciężki..."
-msgstr "OTHER: Глупость – тяжёлый грех..."
+msgstr "OTHER: Глупость – тяжкий грех..."
 
 #: dialog0239.txt:100102
 msgid "OTHER: Sala czeka!#E1#X2"
-msgstr "OTHER: В камеру тяжёлых грехов!#E1#X2"
+msgstr "OTHER: Камера вас ждёт!#E1#X2"
 
 #: dialog0239.txt:100201
 msgid "OTHER: Cudownie!"
@@ -7725,7 +7729,7 @@ msgstr "OTHER: Поистине, эссенция греха!"
 
 #: dialog0239.txt:100204
 msgid "OTHER: Specjalna sala dla V.I.P.-ów!#E2#X3"
-msgstr "OTHER: Добро пожаловать в нашу|специальную V.I.P.-ложу!#E2#X3"
+msgstr "OTHER: Специальная V.I.P.-ложа!#E2#X3"
 
 #: dialog0239.txt:100301
 msgid "OTHER: Ależ oczywiście, mamy przez|sobą całą wieczność."
@@ -7741,7 +7745,7 @@ msgstr "HERO: Может, ещё раз попробуем?"
 
 #: dialog0240.txt:2
 msgid "OTHER: Do czego to doszliśmy a propos grzechów?"
-msgstr "OTHER: Так что у нас там по грехам?"
+msgstr "OTHER: Так... что у нас там по грехам?"
 
 #: dialog0241.txt:1
 msgid "OTHER: Co za licho?..."
@@ -7773,7 +7777,7 @@ msgstr "OTHER: Значит, я неправильно|классифициро�
 
 #: dialog0241.txt:8
 msgid "OTHER: Bardzo przepraszam, mam nadzieję,|że to się więcej nie powtórzy."
-msgstr "OTHER: Сто раз извиняюсь.|Надеюсь, больше такого не будет."
+msgstr "OTHER: Премного извиняюсь.|Надеюсь, больше такого не будет."
 
 #: dialog0242.txt:1
 msgid "OTHER: No i znowu!..."
@@ -11811,13 +11815,13 @@ msgstr "Чёрт - Он распределяет грешников."
 msgid "biała świeca - Mała, krótka świeca; stoi najbliżej drzwi do|sali z napisem \"Grzechy lekkie\"."
 msgstr ""
 "Белая свеча - Маленькая, короткая свечка.|Стоит напротив двери, отмеченной "
-"как|\"Лёгкие грехи\"."
+"как|\"Простительные грехи\"."
 
 #: mob.lst:36003
 msgid "czerwona świeca - Średniej wielkości świeca, stoi blisko drzwi|z napisem \"Grzechy ciężkie\"."
 msgstr ""
 "Красная свеча - Свеча средних размеров.|Стоит напротив двери, отмеченной как|"
-"\"Тяжёлые грехи\"."
+"\"Тяжкие грехи\"."
 
 #: mob.lst:36004
 msgid "czarna świeca - Olbrzymia, gruba świeca. Jest najbliżej drzwi|z napisem \"V.I.P.\"."
@@ -11827,7 +11831,7 @@ msgstr ""
 
 #: mob.lst:36005
 msgid "drzwi - \"Wirtualna sala grzechów lekkich.\""
-msgstr "Дверь - \"Виртуальный зал лёгких грехов\""
+msgstr "Дверь - \"Виртуальный зал|простительных грехов\""
 
 #: mob.lst:36006
 msgid "drzwi - \"Wirtualna sala tylko dla V.I.P.-ów.\"+Jest jeszcze dopisek: \"Wersja beta.\""
@@ -11837,7 +11841,7 @@ msgstr ""
 
 #: mob.lst:36007
 msgid "drzwi - \"Wirtualna sala grzechów ciężkich.\""
-msgstr "Дверь - \"Виртуальный зал тяжёлых грехов\""
+msgstr "Дверь - \"Виртуальный зал тяжких грехов\""
 
 #: mob.lst:36008
 msgid "wyjście - Zejście w głąb korytarzy Piekła."
@@ -11877,9 +11881,9 @@ msgstr ""
 #: mob.lst:37005
 msgid "fotel - Mebel dwuosobowy, ale karę odbywa się|w samotności.+Nuda, samotność, pustka... I to tylko kara za|grzechy lekkie..."
 msgstr ""
-"Кресло - Кресло двухместное,|а камера при этом одиночная.+Сидишь себе, "
-"скучаешь в пустоте,|никто не подсядет...|И так тут наказывают всего-то|за "
-"лёгкие грехи!"
+"Кресло - Кресло двухместное,|а сидеть тут предлагают одному.+Скука, "
+"одиночество, пустота...|И вот так тут карают за какие-то|простительные "
+"грешки..."
 
 #: mob.lst:37006
 msgid "węgielek - Superrozgrzany."
@@ -11945,13 +11949,13 @@ msgstr "Кипящая смола - Джакузи для чертей..."
 
 #: mob.lst:40006
 msgid "wiadro - Wrrr... Jak wyobrażę to sobie w działaniu..."
-msgstr "Ведро - Бр-р-р... И думать не хочу,|как они его используют."
+msgstr "Ведро - Бр-р-р... И думать не хочу,|как они его используют..."
 
 #: mob.lst:40007
 msgid "probówki - Mają bardzo fantazyjne kształty, ale|nie wiem, do czego mogłyby służyć.+I nawet nie chcę wiedzieć."
 msgstr ""
-"Пробирки - Они все очень интересной формы.|Не знаю, как их тут используют.+И "
-"знать не желаю."
+"Пробирки - Они все очень интересной формы.|Но не знаю, зачем они тут нужны.+"
+"И знать не желаю."
 
 #: mob.lst:40008
 msgid "klepsydra - Odmierzała czas oprawcom."
@@ -12143,7 +12147,7 @@ msgstr "Ничего не происходит..."
 
 #: variatxt.txt:101
 msgid "Czuję się trochę nieswojo, ale skoro|Arivald pozwolił..."
-msgstr "Мне как-то боязно этим заниматься,|но раз Аривальд разрешил..."
+msgstr "Мне как-то боязно этим заниматься,|но, раз уж Аривальд разрешил..."
 
 #: variatxt.txt:102
 msgid "Dobrze mieć takiego przyjaciela u boku."
@@ -12214,8 +12218,8 @@ msgstr ""
 #: variatxt.txt:403
 msgid "Plecak to przesada, ale zajęci grą na|pewno nie zauważą braku tej ślicznej|książeczki..."
 msgstr ""
-"Весь рюкзак свистнуть – это уже чересчур.|Вот какую-нибудь мелочь они и не "
-"заметят.|А что это у нас тут за книжечка?"
+"Весь рюкзак свистнуть – это уже чересчур.|Вот какой-нибудь мелочи они и не "
+"хватятся.|А что это у нас тут за книжечка?"
 
 #: variatxt.txt:404
 msgid "Ciekawe czy kiedykolwiek zauważą,|że to fałszywe kości."
