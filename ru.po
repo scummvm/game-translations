@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2024-05-15 02:50+0000\n"
+"PO-Revision-Date: 2024-06-01 17:43+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -3716,7 +3716,7 @@ msgstr ""
 msgid "OTHER: Stary trick z lustrem byłby pomocny,|ale przeciw takiemu demonowi pomogłoby|tylko idealnie gładkie lustro."
 msgstr ""
 "OTHER: Тебе поможет старый трюк с зеркалом.|Но против такого демона нужно|"
-"абсолютно гладкое зеркало."
+"абсолютно ровное и чистое зеркало."
 
 #: dialog0078.txt:100105
 msgid "OTHER: Zapytaj barmana.#X1"
@@ -3724,13 +3724,11 @@ msgstr "OTHER: Спроси у торговцев.#X1"
 
 #: dialog0078.txt:100201
 msgid "OTHER: Kiedy jesteś w jego pobliżu, pamiętaj,|mój przyjacielu: festina lente."
-msgstr ""
-"OTHER: Подойди к нему поближе,|а дальше действуй слаженно.|Поспешишь – "
-"чертей насмешишь."
+msgstr "OTHER: Тише едешь – дальше будешь.|Помни об этом. Подойди поближе..."
 
 #: dialog0078.txt:100202
 msgid "OTHER: Gładziutkie lusterko. Oto rozwiązanie|twojego problemu."
-msgstr "OTHER: Для победы тебе нужно только одно.|Зеркало. Абсолютно гладкое."
+msgstr "OTHER: ...и приготовь зеркало.|Ровное и чистое.|Оно тебе понадобится."
 
 #: dialog0078.txt:100203
 msgid "OTHER: Zapytaj barmana.#X1"
@@ -3738,7 +3736,8 @@ msgstr "OTHER: Иди, спроси корчмаря.#X1"
 
 #: dialog0079.txt:1
 msgid "HERO: Arivald coś wspomniał, że możesz mieć|jakieś idealnie gładkie lustro?..."
-msgstr "HERO: Аривальд говорил, у тебя есть|абсолютно гладкое зеркало..."
+msgstr ""
+"HERO: Аривальд говорил, у тебя есть|абсолютно ровное и чистое зеркало?.."
 
 #: dialog0079.txt:2
 msgid "OTHER: Mistrz Arivald? Dostojny czarodziej?"
@@ -3829,8 +3828,8 @@ msgstr "HERO: Там где-то долен быть выступ..."
 #: dialog0081.txt:4
 msgid "OTHER: To czar zamiany w zwierzę. Pospolita|magia."
 msgstr ""
-"OTHER: Да нет, в принципе, ничего такого.|С помощью этих чар можно|"
-"превратить человека в животное."
+"OTHER: Да нет, это обычные чары.|С их помощью можно|превратить человека в "
+"животное."
 
 #: dialog0081.txt:5
 msgid "OTHER: Problem tkwi w tym, że osoba, na którą rzucamy|to zaklęcie zamienia się w zwierzę symbolizujące|odwrotność jej charakteru."
@@ -3890,7 +3889,7 @@ msgstr ""
 
 #: dialog0084.txt:3
 msgid "HERO: Wiedziałem, że gdzieś tkwi jakiś|haczyk."
-msgstr "HERO: Вот как знал – этот колдун|мне свинью подложил."
+msgstr "HERO: Вот же негодяй, чего подсунул..."
 
 #: dialog0084.txt:4
 msgid "OTHER: To czar zamiany w zwierzę."
