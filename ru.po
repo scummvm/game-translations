@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2024-06-22 16:43+0000\n"
+"PO-Revision-Date: 2024-06-26 00:43+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -8742,8 +8742,7 @@ msgstr "P#OTHER: Но, с другой стороны..."
 #: dialog0272.txt:2
 msgid "P#OTHER: ...nie można tolerować narobionych|przez ciebie kłopotów."
 msgstr ""
-"P#OTHER: ...из-за тебя всё пошло наперекосяк,|и закрыть глаза я на такое не "
-"могу."
+"P#OTHER: ...дел ты наворотил порядочно,|и закрыть глаза я на такое не могу."
 
 #: dialog0272.txt:3
 msgid "OTHER: I tego, że do Piekła dostali się|zwykli śmiertelnicy, a ten na górze|znowu mnie upokarza."
@@ -8784,7 +8783,7 @@ msgstr "OTHER: Но кичи ирдекель ууц нем."
 
 #: dialog0275.txt:1
 msgid "HERO: Przepraszam, czy mówi pan w jakimś|normalnym języku?"
-msgstr "HERO: Здрав будь, купче.|Может, хоть ты нормальный|язык знавешь?"
+msgstr "HERO: Здравы будьте, купец.|Может, хоть вы нормальный|язык знаете?"
 
 #: dialog0275.txt:2
 msgid "OTHER: Kopi le soruś, nincz ideem."
@@ -8800,7 +8799,7 @@ msgstr "OTHER: Экет метуререри ту декеметере во йо
 
 #: dialog0277.txt:1
 msgid "HERO: Halo? Jaki to kraj? Gdzie ja|jestem?"
-msgstr "HERO: Да скажи же, купче,|что это за страна? Где я?"
+msgstr "HERO: Да скажите же мне, где я?|Что это за страна?"
 
 #: dialog0277.txt:2
 msgid "OTHER: Ne huijeszkedj! Bessej|yrthetyen."
@@ -8808,7 +8807,7 @@ msgstr "OTHER: Нэ уиешкеч! Бессей иртхетьен."
 
 #: dialog0278.txt:1
 msgid "HERO: Czy sprzedaje pan może czosnek?"
-msgstr "HERO: А у вас чеснока не будет?"
+msgstr "HERO: А есть ли у вас чеснок?"
 
 #: dialog0278.txt:2
 msgid "OTHER: Chodj mondod? Mi jez o newetrzigesz|bessied."
@@ -8824,11 +8823,11 @@ msgstr "OTHER: Неветжегеш вульт, де моштмар нем."
 
 #: dialog0280.txt:1
 msgid "HERO: Potrzebuję na chwilę pani szala..."
-msgstr "HERO: Не одолжите ли мне свою шаль?"
+msgstr "HERO: Извините, можно у вас|шаль одолжить?"
 
 #: dialog0280.txt:2
 msgid "HERO: Czy ta błyskotka może go zastąpić?"
-msgstr "HERO: Дам вам бирюльку эту в залог."
+msgstr "HERO: Вот, бирюльку вам в залог дам..."
 
 #: dialog0280.txt:3
 msgid "OTHER: Mijen sip nioklanc. Okors yrte|szalot?"
@@ -8846,11 +8845,11 @@ msgstr ""
 
 #: dialog0282.txt:1
 msgid "HERO: Oddaje szal, dziękuję za pomoc."
-msgstr "HERO: Вот, возьмите вашу шаль.|За помощь благодарю премного."
+msgstr "HERO: Вот, возьмите вашу шаль.|И благодарю за помощь."
 
 #: dialog0282.txt:2
 msgid "OTHER: Marosthittem chodj les uji|nioklamcom."
-msgstr "OTHER: Маростхиттем хуч ле уйи|ниокламком."
+msgstr "OTHER: Маростхиттем хуч лес уйи|ниокламком."
 
 #: dialog0283.txt:1
 msgid "HERO: Pewnie nic nie rozumiesz z tego, co|mówię, ty tępy osiłku."
@@ -8865,7 +8864,7 @@ msgstr ""
 #: dialog0285.txt:1
 msgid "HERO: Ha, ha! Mogę do ciebie gadać co chcę,|a ty i tak mi nic nie zrobisz."
 msgstr ""
-"HERO: Хе-хе-хе! А я буду говорить, что хочу.|А ты мне ничего и не сделаешь!"
+"HERO: Хе-хе-хе! А я буду говорить, что хочу,|а ты мне ничего и не сделаешь."
 
 #: dialog0286.txt:1
 msgid "HERO: Arivaldzie! Już czas! Już czas!|Zabierz mnie stąd!"
