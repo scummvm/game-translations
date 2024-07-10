@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2024-06-26 00:43+0000\n"
+"PO-Revision-Date: 2024-07-11 20:43+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -5453,7 +5453,7 @@ msgstr "OTHER: Знаю, знаю. Его тут больше не|выращи�
 msgid "OTHER: Chciałem zamówić wieprzowinę duszoną|z czosnkiem, ale barman tylko|bezradnie rozłożył ręce."
 msgstr ""
 "OTHER: Я вот хотел заказать свинину под чесноком,|а корчмарь только руками "
-"развёл..."
+"развёл."
 
 #: dialog0157.txt:16
 msgid "OTHER: Myślałem jednak o pewnym rozwiązaniu..."
