@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2024-08-27 20:43+0000\n"
+"PO-Revision-Date: 2024-09-14 09:43+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -12332,7 +12332,7 @@ msgstr "Ха!"
 
 #: variatxt.txt:1507
 msgid "On chyba wyczuwa ruch, a nie obraz."
-msgstr "Наверное, он реагирует на|движение, а не на объекты."
+msgstr "Наверное, он реагирует на|движение, а не на присутствие."
 
 #: variatxt.txt:1508
 msgid "Schodzimy na dół."
