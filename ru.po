@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2024-09-16 02:43+0000\n"
+"PO-Revision-Date: 2024-09-30 17:13+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4\n"
+"X-Generator: Weblate 5.7.2\n"
 
 #: dialog0001.txt:1
 msgid "HERO: Przeppp... raszam..."
@@ -6138,12 +6138,11 @@ msgstr "OTHER: Рад, что вы узнали наш знак, принц."
 #: dialog0180.txt:4
 msgid "OTHER: Przedni wybór, chyba nie ma nic bardziej|symbolicznego niż okradzenie żebraka."
 msgstr ""
-"OTHER: Мы не зря такой знак выбрали.|Что может быть символичнее,|чем "
-"обокрасть попрошайку?"
+"OTHER: В самом деле, что может быть символичнее,|чем обокрасть попрошайку?"
 
 #: dialog0180.txt:5
 msgid "OTHER: Ale to jeszcze nie wystarczy, by wstąpić|do Gildii..."
-msgstr "OTHER: Но если вы хотите вступить|в Гильдию – этого будет мало..."
+msgstr "OTHER: Но, если вы хотите вступить|в Гильдию – этого будет мало..."
 
 #: dialog0180.txt:106
 msgid "$0: Potrzebny drugi kapeć?..."
