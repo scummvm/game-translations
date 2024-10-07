@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2020-09-02 22:47+0100\n"
-"PO-Revision-Date: 2024-10-07 13:56+0000\n"
+"PO-Revision-Date: 2024-10-07 14:41+0000\n"
 "Last-Translator: Hoseok Seo <ddinghoya@gmail.com>\n"
 "Language-Team: Korean <https://translations.scummvm.org/projects/"
 "mission-supernova/msn/ko/>\n"
@@ -1403,7 +1403,7 @@ msgstr ""
 
 #: ../../msn/msn_r2.c:208
 msgid "Wollen Sie, daß ich Sie raußschmeiße?"
-msgstr ""
+msgstr "내가 당신을 쫓아내길 바라나요?"
 
 #: ../../msn/msn_r2.c:216 ../../msn/msn_r2.c:274
 msgid "Hhius otgfh Dgfdrkjlh Fokj gf."
