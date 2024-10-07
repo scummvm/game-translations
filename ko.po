@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2020-09-02 22:47+0100\n"
-"PO-Revision-Date: 2024-10-03 04:03+0000\n"
+"PO-Revision-Date: 2024-10-07 13:56+0000\n"
 "Last-Translator: Hoseok Seo <ddinghoya@gmail.com>\n"
 "Language-Team: Korean <https://translations.scummvm.org/projects/"
 "mission-supernova/msn/ko/>\n"
@@ -170,178 +170,178 @@ msgstr "F3    프로그램 정보"
 #. I18N: Text Speed
 #: ../../msn/msn.c:3169
 msgid "F4    Textgeschwindigkeit"
-msgstr ""
+msgstr "F4    대사 속도"
 
 #. I18N: Load / Save
 #: ../../msn/msn.c:3171
 msgid "F5    Laden / Speichern"
-msgstr ""
+msgstr "F5    불러오기 / 저장"
 
 #. I18N: Skip intro
 #: ../../msn/msn.c:3173
 msgid "ESC   Vorspann überspringen"
-msgstr ""
+msgstr "ESC   인트로 건너뛰기"
 
 #. I18N: Exit program
 #: ../../msn/msn.c:3175
 msgid "Alt-X Programm abbrechen"
-msgstr ""
+msgstr "Alt-X 프로그램 나가기"
 
 #. I18N: Text Speed
 #: ../../msn/msn.c:3219
 msgid "Textgeschwindigkeit:"
-msgstr ""
+msgstr "대사 속도:"
 
 #. I18N: Leave game?
 #: ../../msn/msn.c:3267
 msgid "Spiel abbrechen?"
-msgstr ""
+msgstr "게임에서 나가겠습니까?"
 
 #: ../../msn/msn.c:3270
 msgid "Ja"
-msgstr ""
+msgstr "예"
 
 #: ../../msn/msn.c:3271
 msgid "Nein"
-msgstr ""
+msgstr "아니오"
 
 #. I18N: You already carry this.
 #: ../../msn/msn.c:3341
 msgid "Das trägst du doch bei dir."
-msgstr ""
+msgstr "당신은 이미 이것을 가지고 있습니다."
 
 #. I18N: You're already there.
 #: ../../msn/msn.c:3344
 msgid "Du bist doch schon da."
-msgstr ""
+msgstr "당신은 이미 거기에 있습니다."
 
 #. I18N: This is closed
 #: ../../msn/msn.c:3347 ../../msn/msn_r1.c:683
 msgid "Das ist geschlossen."
-msgstr ""
+msgstr "닫혔습니다."
 
 #. I18N: You already have that
 #: ../../msn/msn.c:3357
 msgid "Das hast du doch schon."
-msgstr ""
+msgstr "당신은 이미 그것을 가지고 있습니다."
 
 #. I18N: You do not need that.
 #: ../../msn/msn.c:3360
 msgid "Das brauchst du nicht."
-msgstr ""
+msgstr "그럴 필요는 없습니다."
 
 #. I18N: You can't take that.
 #: ../../msn/msn.c:3363
 msgid "Das kannst du nicht nehmen."
-msgstr ""
+msgstr "그건 가져갈 수 없습니다."
 
 #. I18N: This can't be opened
 #: ../../msn/msn.c:3370
 msgid "Das läßt sich nicht öffnen."
-msgstr ""
+msgstr "열 수 없습니다."
 
 #. I18N: This is already opened.
 #: ../../msn/msn.c:3373
 msgid "Das ist schon offen."
-msgstr ""
+msgstr "이미 열려 있습니다."
 
 #. I18N: This is locked.
 #: ../../msn/msn.c:3376
 msgid "Das ist verschlossen."
-msgstr ""
+msgstr "잠겨있습니다."
 
 #. I18N: This can't be closed.
 #: ../../msn/msn.c:3393
 msgid "Das läßt sich nicht schließen."
-msgstr ""
+msgstr "닫을 수 없습니다."
 
 #. I18N: This is already closed.
 #: ../../msn/msn.c:3396 ../../msn/msn_r1.c:829
 msgid "Das ist schon geschlossen."
-msgstr ""
+msgstr "이미 닫혀있습니다."
 
 #. I18N: Better keep it!
 #: ../../msn/msn.c:3412
 msgid "Behalt es lieber!"
-msgstr ""
+msgstr "보관하는 것이 좋습니다!"
 
 #. I18N: This is not possible.
 #: ../../msn/msn.c:3418
 msgid "Das geht nicht."
-msgstr ""
+msgstr "작동하지 않습니다."
 
 #: ../../msn/msn_mod.c:573
 msgid "^(C) 1994 Thomas und Steffen Dingel#"
-msgstr ""
+msgstr "^(C) 1994년 토마스와 스테펜 딩겔#"
 
 #: ../../msn/msn_mod.c:574
 msgid "Story und Grafik:^ Thomas Dingel#"
-msgstr ""
+msgstr "스토리 및 그래픽:^ 토마스 딩겔#"
 
 #: ../../msn/msn_mod.c:575
 msgid "Programmierung:^ Steffen Dingel#"
-msgstr ""
+msgstr "프로그래밍:^ 슈테펜 딩겔#"
 
 #: ../../msn/msn_mod.c:576
 msgid "Musik:^ Bernd Hoffmann#"
-msgstr ""
+msgstr "음악:^ 베른트 호프만#"
 
 #: ../../msn/msn_mod.c:577
 msgid "Getestet von ...#"
-msgstr ""
+msgstr "테스트 대상: ...#"
 
 #: ../../msn/msn_mod.c:587
 msgid "^             E#N#D#E ...########"
-msgstr ""
+msgstr "^             #끝# ...########"
 
 #: ../../msn/msn_mod.c:588
 msgid "#       ... des ersten Teils!########"
-msgstr ""
+msgstr "#       ... 첫 번째 파트!########"
 
 #: ../../msn/msn_mod.c:590
 msgid "^Aber:#"
-msgstr ""
+msgstr "^그러나:#"
 
 #: ../../msn/msn_mod.c:591
 msgid "Das Abenteuer geht weiter, ...##"
-msgstr ""
+msgstr "모험은 계속되고, ...##"
 
 #: ../../msn/msn_mod.c:592
 msgid "... wenn Sie sich für 30,- DM registrieren lassen!##"
-msgstr ""
+msgstr "... 30을 선택하는 경우,- DM을 등록해 주세요!##"
 
 #: ../../msn/msn_mod.c:593
 msgid "(Falls Sie das nicht schon längst getan haben.)##"
-msgstr ""
+msgstr "(아직 수행하지 않은 경우.)##"
 
 #: ../../msn/msn_mod.c:594
 msgid "In^ Teil 2 - Der Doppelgänger^ erwarten Sie:##"
-msgstr ""
+msgstr "In^ 파트 2 - 도플갱어^가 당신을 기다립니다:##"
 
 #: ../../msn/msn_mod.c:595
 msgid "Knifflige Puzzles,##"
-msgstr ""
+msgstr "까다로운 퍼즐,##"
 
 #: ../../msn/msn_mod.c:596
 msgid "noch mehr Grafik und Sound,##"
-msgstr ""
+msgstr "더욱 다양한 그래픽과 사운드,##"
 
 #: ../../msn/msn_mod.c:597
 msgid "ein perfekt geplanter Museumseinbruch,##"
-msgstr ""
+msgstr "완벽하게 계획된 박물관 침입,##"
 
 #: ../../msn/msn_mod.c:598
 msgid "das Virtual-Reality-Spiel \"Indiana Joe\"##"
-msgstr ""
+msgstr "가상현실게임 \"인디아나조\"##"
 
 #: ../../msn/msn_mod.c:599
 msgid "und vieles mehr!##"
-msgstr ""
+msgstr "그리고 훨씬 더 많은 것들!##"
 
 #. I18N: There's nothing special about it
 #: ../../msn/msn_r0.c:26
 msgid "Es ist nichts Besonderes daran."
-msgstr ""
+msgstr "그것에 대해 특별한 것은 없습니다."
 
 #. I18N: You first have to take it
 #: ../../msn/msn_r0.c:28 ../../msn/msn_r0.c:230
