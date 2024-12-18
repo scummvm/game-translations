@@ -1668,8 +1668,8 @@ msgstr ""
 
 #: ../../msn/msn_r2.c:747
 msgid ""
-"Halt, jetzt weiß ich es. Sie sind von der Konkurrenz,|von \"Georgefilm Games"
-"\" und wollen mich verunsichern."
+"Halt, jetzt weiß ich es. Sie sind von der Konkurrenz,|von \"Georgefilm "
+"Games\" und wollen mich verunsichern."
 msgstr ""
 
 #: ../../msn/msn_r2.c:748

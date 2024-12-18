@@ -1705,8 +1705,8 @@ msgstr "Yes, this is definitely strange."
 
 #: ../../msn/msn_r2.c:747
 msgid ""
-"Halt, jetzt weiß ich es. Sie sind von der Konkurrenz,|von \"Georgefilm Games"
-"\" und wollen mich verunsichern."
+"Halt, jetzt weiß ich es. Sie sind von der Konkurrenz,|von \"Georgefilm "
+"Games\" und wollen mich verunsichern."
 msgstr ""
 "Wait, now I understand! You are from the competition,|\"Georgefilm Games\", "
 "and want to unnerve me."

@@ -525,8 +525,8 @@ msgstr ""
 msgid ""
 "Moment mal, es ist ein Lesezeichen drin,|auf dem \"Zweiundvierzig\" steht."
 msgstr ""
-"Aspetta un attimo, c'è un segnalibro all'interno|con scritto \"Quaranta-due"
-"\"."
+"Aspetta un attimo, c'è un segnalibro all'interno|con scritto \"Quaranta-"
+"due\"."
 
 #: ../../msn/msn_r0.c:507
 msgid "Du hättest besser vorher|den Stecker rausgezogen."
@@ -1356,8 +1356,8 @@ msgid ""
 "Komisch! Auf einmal kannst du|das Schild lesen! Darauf steht:|\"Treffpunkt "
 "Galactica\"."
 msgstr ""
-"Curioso! Adesso riesci a leggere l'insegna!|Dice \"Punto di Ritrovo Galactica"
-"\"."
+"Curioso! Adesso riesci a leggere l'insegna!|Dice \"Punto di Ritrovo "
+"Galactica\"."
 
 #: ../../msn/msn_r2.c:92
 msgid "Darauf steht:|\"Treffpunkt Galactica\"."
@@ -1506,8 +1506,8 @@ msgid ""
 "Komisch! Auf einmal kannst du|das Schild lesen! Darauf steht:|\"Zutritt nur "
 "für Personal\"."
 msgstr ""
-"Che strano!|Ora riesci a leggere il cartello! Dice:|\"Riservato al Personale"
-"\"."
+"Che strano!|Ora riesci a leggere il cartello! Dice:|\"Riservato al "
+"Personale\"."
 
 #: ../../msn/msn_r2.c:361
 msgid ""
@@ -1715,8 +1715,8 @@ msgstr "Sì, è decisamente strano."
 
 #: ../../msn/msn_r2.c:747
 msgid ""
-"Halt, jetzt weiß ich es. Sie sind von der Konkurrenz,|von \"Georgefilm Games"
-"\" und wollen mich verunsichern."
+"Halt, jetzt weiß ich es. Sie sind von der Konkurrenz,|von \"Georgefilm "
+"Games\" und wollen mich verunsichern."
 msgstr ""
 "Ah, ho capito! Sei della concorrenza,|la \"Georgefilm Games\", e vuoi farmi "
 "innervosire."
