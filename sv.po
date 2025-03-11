@@ -8,69 +8,72 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2021-09-07 21:01+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-03-11 15:44+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <https://translations.scummvm.org/projects/"
+"mission-supernova/ms2/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.2\n"
 
 #: ../../ms2/ms2.c:1641
 msgid "Gehe"
-msgstr ""
+msgstr "Gå"
 
 #: ../../ms2/ms2.c:1641
 msgid "Schau"
-msgstr ""
+msgstr "Titta"
 
 #: ../../ms2/ms2.c:1641
 msgid "Nimm"
-msgstr ""
+msgstr "Ta"
 
 #: ../../ms2/ms2.c:1641
 msgid "Öffne"
-msgstr ""
+msgstr "Öppna"
 
 #: ../../ms2/ms2.c:1641
 msgid "Schließe"
-msgstr ""
+msgstr "Lås"
 
 #: ../../ms2/ms2.c:1642
 msgid "Drücke"
-msgstr ""
+msgstr "Tryck på"
 
 #: ../../ms2/ms2.c:1642
 msgid "Ziehe"
-msgstr ""
+msgstr "Dra"
 
 #: ../../ms2/ms2.c:1642
 msgid "Benutze"
-msgstr ""
+msgstr "Använd"
 
 #: ../../ms2/ms2.c:1642
 msgid "Rede"
-msgstr ""
+msgstr "Tal"
 
 #: ../../ms2/ms2.c:1642
 msgid "Gib"
-msgstr ""
+msgstr "Ge"
 
 #: ../../ms2/ms2.c:2199
 msgid "Gespräch beenden"
-msgstr ""
+msgstr "Avsluta samtal"
 
 #: ../../ms2/ms2.c:2333
 msgid "Gehe zu "
-msgstr ""
+msgstr "Gå till "
 
 #: ../../ms2/ms2.c:2333
 msgid "Schau "
-msgstr ""
+msgstr "Titta "
 
 #: ../../ms2/ms2.c:2333
 msgid "Nimm "
-msgstr ""
+msgstr "Ta "
 
 #: ../../ms2/ms2.c:2333
 msgid "Öffne "
@@ -1194,7 +1197,7 @@ msgstr ""
 
 #: ../../ms2/ms2_r1.c:780
 msgid "Taschenmesser"
-msgstr ""
+msgstr "Fickkniv"
 
 #: ../../ms2/ms2_r1.c:780
 msgid "Hey, da ist sogar eine Säge dran."
