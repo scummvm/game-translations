@@ -8,808 +8,823 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2020-09-02 22:47+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-03-12 09:18+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <https://translations.scummvm.org/projects/"
+"mission-supernova/msn/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.2\n"
 
 #. I18N: Go
 #: ../../msn/msn.c:1610
 msgid "Gehe"
-msgstr ""
+msgstr "Gå"
 
 #. I18N: Look
 #: ../../msn/msn.c:1612
 msgid "Schau"
-msgstr ""
+msgstr "Titta"
 
 #. I18N: Take
 #: ../../msn/msn.c:1614
 msgid "Nimm"
-msgstr ""
+msgstr "Ta"
 
 #. I18N: Open
 #: ../../msn/msn.c:1616
 msgid "Öffne"
-msgstr ""
+msgstr "Öppna"
 
 #. I18N: Close
 #: ../../msn/msn.c:1618
 msgid "Schließe"
-msgstr ""
+msgstr "Lås"
 
 #. I18N: Push
 #: ../../msn/msn.c:1620
 msgid "Drücke"
-msgstr ""
+msgstr "Tryck på"
 
 #. I18N: Pull
 #: ../../msn/msn.c:1622
 msgid "Ziehe"
-msgstr ""
+msgstr "Dra"
 
 #. I18N: Use
 #: ../../msn/msn.c:1624
 msgid "Benutze"
-msgstr ""
+msgstr "Använd"
 
 #. I18N: Talk
 #: ../../msn/msn.c:1626
 msgid "Rede"
-msgstr ""
+msgstr "Tal"
 
 #. I18N: Give
 #: ../../msn/msn.c:1628
 msgid "Gib"
-msgstr ""
+msgstr "Ge"
 
 #. I18N: End of conversation
 #: ../../msn/msn.c:2204
 msgid "Gespräch beenden"
-msgstr ""
+msgstr "Avsluta samtal"
 
 #. I18N: Go to
 #: ../../msn/msn.c:2334
 msgid "Gehe zu "
-msgstr ""
+msgstr "Gå till "
 
 #. I18N: Look at
 #: ../../msn/msn.c:2336
 msgid "Schau "
-msgstr ""
+msgstr "Titta "
 
 #. I18N: Take
 #: ../../msn/msn.c:2338
 msgid "Nimm "
-msgstr ""
+msgstr "Ta "
 
 #. I18N: Open
 #: ../../msn/msn.c:2340
 msgid "Öffne "
-msgstr ""
+msgstr "Öppna "
 
 #. I18N: Close
 #: ../../msn/msn.c:2342
 msgid "Schließe "
-msgstr ""
+msgstr "Lås "
 
 #. I18N: Push
 #: ../../msn/msn.c:2344
 msgid "Drücke "
-msgstr ""
+msgstr "Tryck på "
 
 #. I18N: Pull
 #: ../../msn/msn.c:2346
 msgid "Ziehe "
-msgstr ""
+msgstr "Dragning "
 
 #. I18N: Use
 #: ../../msn/msn.c:2348
 msgid "Benutze "
-msgstr ""
+msgstr "Användning "
 
 #. I18N: Talk to
 #: ../../msn/msn.c:2350
 msgid "Rede mit "
-msgstr ""
+msgstr "Prata med "
 
 #. I18N: Give
 #: ../../msn/msn.c:2352
 msgid "Gib "
-msgstr ""
+msgstr "Ge "
 
 #: ../../msn/msn.c:2368
 msgid " an "
-msgstr ""
+msgstr " på "
 
 #: ../../msn/msn.c:2371
 msgid " mit "
-msgstr ""
+msgstr " med "
 
 #. I18N: Load
 #: ../../msn/msn.c:2880
 msgid "Laden"
-msgstr ""
+msgstr "Lådor"
 
 #. I18N: Save
 #: ../../msn/msn.c:2883
 msgid "Speichern"
-msgstr ""
+msgstr "Spara"
 
 #. I18N: Back
 #: ../../msn/msn.c:2886
 msgid "Zurück"
-msgstr ""
+msgstr "Gå tillbaka"
 
 #. I18N: Restart
 #: ../../msn/msn.c:2889
 msgid "Neustart"
-msgstr ""
+msgstr "Omstart"
 
 #. I18N: Help
 #: ../../msn/msn.c:3163
 msgid "F1    Hilfe"
-msgstr ""
+msgstr "F1 Hjälp"
 
 #. I18N: Instructions
 #: ../../msn/msn.c:3165
 msgid "F2    Anleitung"
-msgstr ""
+msgstr "F2 Instruktioner"
 
 #. I18N: Program information
 #: ../../msn/msn.c:3167
 msgid "F3    Programminformationen"
-msgstr ""
+msgstr "F3 Programinformation"
 
 #. I18N: Text Speed
 #: ../../msn/msn.c:3169
 msgid "F4    Textgeschwindigkeit"
-msgstr ""
+msgstr "F4 Texthastighet"
 
 #. I18N: Load / Save
 #: ../../msn/msn.c:3171
 msgid "F5    Laden / Speichern"
-msgstr ""
+msgstr "F5 Ladda / Spara"
 
 #. I18N: Skip intro
 #: ../../msn/msn.c:3173
 msgid "ESC   Vorspann überspringen"
-msgstr ""
+msgstr "ESC Hoppa över förtexter"
 
 #. I18N: Exit program
 #: ../../msn/msn.c:3175
 msgid "Alt-X Programm abbrechen"
-msgstr ""
+msgstr "Avbryt Alt-X-program"
 
 #. I18N: Text Speed
 #: ../../msn/msn.c:3219
 msgid "Textgeschwindigkeit:"
-msgstr ""
+msgstr "Texthastighet:"
 
 #. I18N: Leave game?
 #: ../../msn/msn.c:3267
 msgid "Spiel abbrechen?"
-msgstr ""
+msgstr "Ställde du in matchen?"
 
 #: ../../msn/msn.c:3270
 msgid "Ja"
-msgstr ""
+msgstr "Ja"
 
 #: ../../msn/msn.c:3271
 msgid "Nein"
-msgstr ""
+msgstr "Nej"
 
 #. I18N: You already carry this.
 #: ../../msn/msn.c:3341
 msgid "Das trägst du doch bei dir."
-msgstr ""
+msgstr "Det är vad du bär med dig."
 
 #. I18N: You're already there.
 #: ../../msn/msn.c:3344
 msgid "Du bist doch schon da."
-msgstr ""
+msgstr "Du är redan där."
 
 #. I18N: This is closed
 #: ../../msn/msn.c:3347 ../../msn/msn_r1.c:683
 msgid "Das ist geschlossen."
-msgstr ""
+msgstr "Det här är stängt."
 
 #. I18N: You already have that
 #: ../../msn/msn.c:3357
 msgid "Das hast du doch schon."
-msgstr ""
+msgstr "Det har du redan."
 
 #. I18N: You do not need that.
 #: ../../msn/msn.c:3360
 msgid "Das brauchst du nicht."
-msgstr ""
+msgstr "Du behöver inte det."
 
 #. I18N: You can't take that.
 #: ../../msn/msn.c:3363
 msgid "Das kannst du nicht nehmen."
-msgstr ""
+msgstr "Det kan du inte ta emot."
 
 #. I18N: This can't be opened
 #: ../../msn/msn.c:3370
 msgid "Das läßt sich nicht öffnen."
-msgstr ""
+msgstr "Den går inte att öppna."
 
 #. I18N: This is already opened.
 #: ../../msn/msn.c:3373
 msgid "Das ist schon offen."
-msgstr ""
+msgstr "Den är redan öppen."
 
 #. I18N: This is locked.
 #: ../../msn/msn.c:3376
 msgid "Das ist verschlossen."
-msgstr ""
+msgstr "Den här är låst."
 
 #. I18N: This can't be closed.
 #: ../../msn/msn.c:3393
 msgid "Das läßt sich nicht schließen."
-msgstr ""
+msgstr "Detta går inte att dra någon slutsats av."
 
 #. I18N: This is already closed.
 #: ../../msn/msn.c:3396 ../../msn/msn_r1.c:829
 msgid "Das ist schon geschlossen."
-msgstr ""
+msgstr "Detta är redan avslutat."
 
 #. I18N: Better keep it!
 #: ../../msn/msn.c:3412
 msgid "Behalt es lieber!"
-msgstr ""
+msgstr "Det är bäst att du behåller den!"
 
 #. I18N: This is not possible.
 #: ../../msn/msn.c:3418
 msgid "Das geht nicht."
-msgstr ""
+msgstr "Det är inte möjligt."
 
 #: ../../msn/msn_mod.c:573
 msgid "^(C) 1994 Thomas und Steffen Dingel#"
-msgstr ""
+msgstr "^(C) 1994 Thomas och Steffen Dingel#"
 
 #: ../../msn/msn_mod.c:574
 msgid "Story und Grafik:^ Thomas Dingel#"
-msgstr ""
+msgstr "Story och grafik:^ Thomas Dingel#"
 
 #: ../../msn/msn_mod.c:575
 msgid "Programmierung:^ Steffen Dingel#"
-msgstr ""
+msgstr "Programmering:^ Steffen Dingel#"
 
 #: ../../msn/msn_mod.c:576
 msgid "Musik:^ Bernd Hoffmann#"
-msgstr ""
+msgstr "Musik:^ Bernd Hoffmann#"
 
 #: ../../msn/msn_mod.c:577
 msgid "Getestet von ...#"
-msgstr ""
+msgstr "Testad av ...#"
 
 #: ../../msn/msn_mod.c:587
 msgid "^             E#N#D#E ...########"
-msgstr ""
+msgstr "^ E#N#D#E ...########"
 
 #: ../../msn/msn_mod.c:588
 msgid "#       ... des ersten Teils!########"
-msgstr ""
+msgstr "... av den första delen!########"
 
 #: ../../msn/msn_mod.c:590
 msgid "^Aber:#"
-msgstr ""
+msgstr "^Men:#"
 
 #: ../../msn/msn_mod.c:591
 msgid "Das Abenteuer geht weiter, ...##"
-msgstr ""
+msgstr "Äventyret fortsätter, ...##"
 
 #: ../../msn/msn_mod.c:592
 msgid "... wenn Sie sich für 30,- DM registrieren lassen!##"
-msgstr ""
+msgstr "... om du registrerar dig för 30,- DM!##"
 
 #: ../../msn/msn_mod.c:593
 msgid "(Falls Sie das nicht schon längst getan haben.)##"
-msgstr ""
+msgstr "(Om du inte redan har gjort det.)##"
 
 #: ../../msn/msn_mod.c:594
 msgid "In^ Teil 2 - Der Doppelgänger^ erwarten Sie:##"
-msgstr ""
+msgstr "I^ Part 2 - The Doppelganger^ kan du förvänta dig:##"
 
 #: ../../msn/msn_mod.c:595
 msgid "Knifflige Puzzles,##"
-msgstr ""
+msgstr "Knepiga pussel,##"
 
 #: ../../msn/msn_mod.c:596
 msgid "noch mehr Grafik und Sound,##"
-msgstr ""
+msgstr "ännu mer grafik och ljud, ##"
 
 #: ../../msn/msn_mod.c:597
 msgid "ein perfekt geplanter Museumseinbruch,##"
-msgstr ""
+msgstr "ett perfekt planerat inbrott i ett museum"
 
 #: ../../msn/msn_mod.c:598
 msgid "das Virtual-Reality-Spiel \"Indiana Joe\"##"
-msgstr ""
+msgstr "virtual reality-spelet \"Indiana Joe\" ##"
 
 #: ../../msn/msn_mod.c:599
 msgid "und vieles mehr!##"
-msgstr ""
+msgstr "och mycket mer!##"
 
 #. I18N: There's nothing special about it
 #: ../../msn/msn_r0.c:26
 msgid "Es ist nichts Besonderes daran."
-msgstr ""
+msgstr "Det är inget speciellt med det."
 
 #. I18N: You first have to take it
 #: ../../msn/msn_r0.c:28 ../../msn/msn_r0.c:230
 msgid "Das mußt du erst nehmen."
-msgstr ""
+msgstr "Du måste ta det först."
 
 #. I18N: Hello
 #: ../../msn/msn_r0.c:33
 msgid "Hallo!"
-msgstr ""
+msgstr "Hallå!"
 
 #. I18N: Good day!
 #: ../../msn/msn_r0.c:35
 msgid "Guten Tag!"
-msgstr ""
+msgstr "Hallå!"
 
 #. I18N: It's me, Horst Hummel
 #: ../../msn/msn_r0.c:37
 msgid "Ich bin's, Horst Hummel."
-msgstr ""
+msgstr "Det är jag, Horst Hummel."
 
 #: ../../msn/msn_r0.c:127
 #, c-format
 msgid "%d Xa"
-msgstr ""
+msgstr "%d Xa"
 
 #: ../../msn/msn_r0.c:147
 msgid "Ok."
-msgstr ""
+msgstr "Okej."
 
 #: ../../msn/msn_r0.c:166
 msgid "Irgendwie ist ein Raumhelm|beim Essen unpraktisch."
-msgstr ""
+msgstr "På något sätt är en rymdhjälm opraktisk när man äter."
 
 #: ../../msn/msn_r0.c:182 ../../msn/msn_r0.c:192
 msgid "Schmeckt ganz gut."
-msgstr ""
+msgstr "Smakar ganska bra."
 
 #: ../../msn/msn_r0.c:194
 msgid "Da war irgendetwas drin,|aber jetzt hast du es|mit runtergeschluckt."
-msgstr ""
+msgstr "Det fanns något där inne, men nu har du svalt det."
 
 #: ../../msn/msn_r0.c:202
 msgid "Du hast es doch schon geöffnet."
-msgstr ""
+msgstr "Du har redan öppnat den."
 
 #: ../../msn/msn_r0.c:206
 msgid "In dem Ei ist eine Tablette|in einer Plastikhülle."
-msgstr ""
+msgstr "Inuti ägget finns en surfplatta i ett plasthölje."
 
 #: ../../msn/msn_r0.c:214
 msgid "Du ißt die Tablette und merkst,|daß sich irgendetwas verändert hat."
-msgstr ""
+msgstr "Du äter tabletten och inser att något har förändrats."
 
 #: ../../msn/msn_r0.c:224
 msgid ""
 "Komisch! Auf einmal kannst du die Schrift lesen!|Darauf steht:\"Wenn Sie "
 "diese Schrift jetzt|lesen können, hat die Tablette gewirkt.\""
 msgstr ""
+"Det var ju roligt! Plötsligt kan du läsa texten! Det står: \"Om du kan läsa "
+"den här texten nu, har tabletten fungerat.\""
 
 #: ../../msn/msn_r0.c:232
 msgid "Sie ist leer."
-msgstr ""
+msgstr "Den är tom."
 
 #: ../../msn/msn_r0.c:235
 msgid "Du findest 10 Buckazoids und eine Keycard."
-msgstr ""
+msgstr "Du hittar 10 Buckazoids och ett nyckelkort."
 
 #: ../../msn/msn_r0.c:242
 msgid "Es ist eine Art elektronische Zeitung."
-msgstr ""
+msgstr "Det är en slags elektronisk tidning."
 
 #: ../../msn/msn_r0.c:245
 msgid "Halt, hier ist ein interessanter Artikel."
-msgstr ""
+msgstr "Vänta, här är en intressant artikel."
 
 #: ../../msn/msn_r0.c:268
 msgid "Hmm, irgendwie komme|ich mir verarscht vor."
-msgstr ""
+msgstr "På något sätt känns det som om jag blir lurad."
 
 #: ../../msn/msn_r0.c:273
 msgid "Es ist die Keycard des Commanders."
-msgstr ""
+msgstr "Det är befälhavarens nyckelkort."
 
 #: ../../msn/msn_r0.c:277
 msgid ""
 "Es ist eine Uhr mit extra|lautem Wecker. Sie hat einen|Knopf zum Verstellen "
 "der Alarmzeit.|Uhrzeit: %s   Alarmzeit: %s"
 msgstr ""
+"Det är en klocka med ett extra högt alarm. Den har en knapp för att justera "
+"alarmtiden.|Tid: %s Alarmtid: %s"
 
 #: ../../msn/msn_r0.c:291
 msgid "Neue Alarmzeit (hh:mm) :"
-msgstr ""
+msgstr "Ny larmtid (hh:mm) :"
 
 #: ../../msn/msn_r0.c:332 ../../msn/msn_r1.c:486 ../../msn/msn_r1.c:595
 msgid "Leitung mit Lüsterklemme"
-msgstr ""
+msgstr "Kabel med glansplint"
 
 #: ../../msn/msn_r0.c:344
 msgid "Kabelrolle mit Lüsterklemme"
-msgstr ""
+msgstr "Kabelvinda med glansplint"
 
 #: ../../msn/msn_r0.c:355 ../../msn/msn_r1.c:495 ../../msn/msn_r1.c:604
 msgid "Womit denn?"
-msgstr ""
+msgstr "Med vad?"
 
 #: ../../msn/msn_r0.c:366 ../../msn/msn_r1.c:499 ../../msn/msn_r1.c:608
 #: ../../msn/msn_r1_r.c:115
 msgid "langes Kabel mit Stecker"
-msgstr ""
+msgstr "lång kabel med kontakt"
 
 #: ../../msn/msn_r0.c:381 ../../msn/msn_r0.c:418 ../../msn/msn_r0.c:454
 msgid "Die Luft hier ist atembar,|du ziehst den Anzug aus."
-msgstr ""
+msgstr "Luften här andas, du tar av dig din kostym."
 
 #: ../../msn/msn_r0.c:387 ../../msn/msn_r0.c:424 ../../msn/msn_r0.c:460
 msgid "Hier drinnen brauchst du deinen Anzug nicht."
-msgstr ""
+msgstr "Du behöver inte din kostym här inne."
 
 #: ../../msn/msn_r0.c:395
 msgid "Du mußt erst den Helm abnehmen."
-msgstr ""
+msgstr "Du måste ta av dig hjälmen först."
 
 #: ../../msn/msn_r0.c:397
 msgid "Du mußt erst den Versorgungsteil abnehmen."
-msgstr ""
+msgstr "Du måste först ta bort försörjningssektionen."
 
 #: ../../msn/msn_r0.c:401
 msgid "Du ziehst den Raumanzug aus."
-msgstr ""
+msgstr "Du tar av dig rymddräkten."
 
 #: ../../msn/msn_r0.c:407
 msgid "Du ziehst den Raumanzug an."
-msgstr ""
+msgstr "Du tar på dig rymddräkten."
 
 #: ../../msn/msn_r0.c:431
 msgid "Den Helm hättest du|besser angelassen!"
-msgstr ""
+msgstr "Du skulle ha behållit hjälmen på!"
 
 #: ../../msn/msn_r0.c:433
 msgid "Du ziehst den Helm ab."
-msgstr ""
+msgstr "Du tar av dig hjälmen."
 
 #: ../../msn/msn_r0.c:441
 msgid "Du ziehst den Helm auf."
-msgstr ""
+msgstr "Du tar på dig hjälmen."
 
 #: ../../msn/msn_r0.c:443 ../../msn/msn_r0.c:479
 msgid "Du mußt erst den Anzug anziehen."
-msgstr ""
+msgstr "Du måste ta på dig dräkten först."
 
 #: ../../msn/msn_r0.c:467
 msgid "Den Versorgungsteil hättest du|besser nicht abgenommen!"
-msgstr ""
+msgstr "Det är bäst att du inte har tagit bort försörjningsdelen!"
 
 #: ../../msn/msn_r0.c:469
 msgid "Du nimmst den Versorgungsteil ab."
-msgstr ""
+msgstr "Du tar bort leveransdelen."
 
 #: ../../msn/msn_r0.c:477
 msgid "Du ziehst den Versorgungsteil an."
-msgstr ""
+msgstr "Du tar på dig leveransdelen."
 
 #: ../../msn/msn_r0.c:489
 msgid "Die Leitung ist hier unnütz."
-msgstr ""
+msgstr "Linjen är värdelös här."
 
 #: ../../msn/msn_r0.c:492
 msgid ""
 "Stark, das ist ja die Fortsetzung zum \"Anhalter\":|\"Das Restaurant am Ende "
 "des Universums\"."
 msgstr ""
+"Toppen, det är uppföljaren till \"Liftarens guide\": \"Restaurangen vid "
+"universums ände\"."
 
 #: ../../msn/msn_r0.c:495
 msgid ""
 "Moment mal, es ist ein Lesezeichen drin,|auf dem \"Zweiundvierzig\" steht."
-msgstr ""
+msgstr "Vänta lite, det finns ett bokmärke inuti där det står \"Fyrtiotvå\"."
 
 #: ../../msn/msn_r0.c:507
 msgid "Du hättest besser vorher|den Stecker rausgezogen."
-msgstr ""
+msgstr "Du borde ha dragit ur kontakten i förväg."
 
 #: ../../msn/msn_r0.c:567
 msgid "Deine Armbanduhr piepst,|die Alarmzeit ist erreicht."
-msgstr ""
+msgstr "Din klocka piper; larmtiden har uppnåtts."
 
 #: ../../msn/msn_r0.c:803 ../../msn/msn_r1_r.c:117
 msgid "Keycard"
-msgstr ""
+msgstr "Nyckelkort"
 
 #: ../../msn/msn_r0.c:803
 msgid "Die Keycard für deine Schränke."
-msgstr ""
+msgstr "Nyckelkortet till dina skåp."
 
 #: ../../msn/msn_r0.c:805
 msgid "Taschenmesser"
-msgstr ""
+msgstr "Fickkniv"
 
 #: ../../msn/msn_r0.c:805
 msgid "Es ist nicht mehr das schärfste."
-msgstr ""
+msgstr "Den är inte längre den vassaste."
 
 #: ../../msn/msn_r0.c:807 ../../msn/msn_r3.c:1527
 msgid "Armbanduhr"
-msgstr ""
+msgstr "Armbandsur"
 
 #: ../../msn/msn_r0.c:808 ../../msn/msn_r1_r.c:199
 msgid "Discman"
-msgstr ""
+msgstr "Discman"
 
 #: ../../msn/msn_r0.c:808 ../../msn/msn_r1_r.c:199
 msgid "Es ist eine \"Mad Monkeys\"-CD darin."
-msgstr ""
+msgstr "Det finns en CD med \"Mad Monkeys\" inuti."
 
 #: ../../msn/msn_r1.c:58
 msgid ""
 "In der Küche warst du schon|oft genug, im Moment hast|du keinen Appetit."
-msgstr ""
+msgstr "Du har varit i köket tillräckligt ofta, du har ingen aptit just nu."
 
 #. I18N: FORTYTWO
 #: ../../msn/msn_r1.c:91
 msgid "ZWEIUNDVIERZIG"
-msgstr ""
+msgstr "TJUGOFYRA"
 
 #. I18N: Destination reached
 #: ../../msn/msn_r1.c:104
 msgid "Flugziel erreicht"
-msgstr ""
+msgstr "Uppnådd flygdestination"
 
 #. I18N: Energy depleted
 #: ../../msn/msn_r1.c:110
 msgid "Energie erschöpft"
-msgstr ""
+msgstr "Energi uttömd"
 
 #. I18N: Artificial coma interrupted
 #: ../../msn/msn_r1.c:112
 msgid "Tiefschlafprozess abgebrochen"
-msgstr ""
+msgstr "Processen för djup sömn avbruten"
 
 #: ../../msn/msn_r1.c:120 ../../msn/msn_r1.c:156
 msgid "Bitte legen Sie sich in die angezeigte Schlafkammer."
-msgstr ""
+msgstr "Vänligen lägg dig i den angivna sovkammaren."
 
 #: ../../msn/msn_r1.c:125
 msgid "Bitte Passwort eingeben:"
-msgstr ""
+msgstr "Vänligen ange ditt lösenord:"
 
 #: ../../msn/msn_r1.c:135 ../../msn/msn_r3.c:1171
 msgid "Falsches Passwort"
-msgstr ""
+msgstr "Felaktigt lösenord"
 
 #: ../../msn/msn_r1.c:141
 msgid "Schlafdauer in Tagen:"
-msgstr ""
+msgstr "Sömnens längd i dagar:"
 
 #: ../../msn/msn_r1.c:172
 msgid ""
 "Es würde wenig bringen,|sich in eine Schlafkammer zu legen,|die nicht "
 "eingeschaltet ist."
-msgstr ""
+msgstr "Det är inte bra att lägga sig i ett sovrum som inte är påslaget."
 
 #: ../../msn/msn_r1.c:174
 msgid "Dazu mußt du erst den Raumanzug ausziehen."
-msgstr ""
+msgstr "För att göra detta måste du först ta av dig din rymddräkt."
 
 #: ../../msn/msn_r1.c:248 ../../msn/msn_s.c:210
 msgid "Was war das?"
-msgstr ""
+msgstr "Vad var det där?"
 
 #: ../../msn/msn_r1.c:266
 msgid "Achtung"
-msgstr ""
+msgstr "Uppmärksamhet"
 
 #: ../../msn/msn_r1.c:289
 msgid ""
 "Du wachst mit brummendem Schädel auf|und merkst, daß du nur geträumt hast."
-msgstr ""
+msgstr "Du vaknar upp med ett surrande huvud och inser att du bara har drömt."
 
 #: ../../msn/msn_r1.c:292
 msgid ""
 "Beim Aufprall des Raumschiffs|mußt du mit dem Kopf aufgeschlagen|und "
 "bewußtlos geworden sein."
 msgstr ""
+"Du måste ha slagit i huvudet när du träffade rymdskeppet och blivit "
+"medvetslös."
 
 #: ../../msn/msn_r1.c:295
 msgid "Was steht dir jetzt wohl wirklich bevor?"
-msgstr ""
+msgstr "Vad står du egentligen inför nu?"
 
 #: ../../msn/msn_r1.c:307
 msgid "Geschwindigkeit: "
-msgstr ""
+msgstr "Hastighet: "
 
 #: ../../msn/msn_r1.c:308
 msgid "8000 hpm"
-msgstr ""
+msgstr "8000 hpm"
 
 #: ../../msn/msn_r1.c:309
 msgid "0 hpm"
-msgstr ""
+msgstr "0 hpm"
 
 #: ../../msn/msn_r1.c:310
 msgid "Ziel: Arsano 3"
-msgstr ""
+msgstr "Destination: Arsano 3"
 
 #: ../../msn/msn_r1.c:311
 msgid "Entfernung: "
-msgstr ""
+msgstr "Avstånd: "
 
 #: ../../msn/msn_r1.c:318
 msgid " Lichtjahre"
-msgstr ""
+msgstr " Ljusår"
 
 #: ../../msn/msn_r1.c:319
 msgid "Dauer der Reise bei momentaner Geschwindigkeit:"
-msgstr ""
+msgstr "Färdens längd vid aktuell hastighet:"
 
 #: ../../msn/msn_r1.c:321
 msgid " Tage"
-msgstr ""
+msgstr " Dagar"
 
 #: ../../msn/msn_r1.c:330
 msgid ""
 "Vergiß nicht, du bist nur der|Schiffskoch und hast keine Ahnung,|wie man ein "
 "Raumschiff fliegt."
 msgstr ""
+"Glöm inte att du bara är skeppets kock och inte har en aning om hur man "
+"flyger ett rymdskepp."
 
 #: ../../msn/msn_r1.c:344
 msgid "Achtung: Triebwerke funktionsunfähig"
-msgstr ""
+msgstr "Observera: Motorerna är ur funktion"
 
 #: ../../msn/msn_r1.c:357
 msgid "Energievorrat erschöpft"
-msgstr ""
+msgstr "Energiförsörjning uttömd"
 
 #: ../../msn/msn_r1.c:358
 msgid "Notstromversorgung aktiv"
-msgstr ""
+msgstr "Nödströmsförsörjning aktiv"
 
 #: ../../msn/msn_r1.c:447
 msgid "Zu niedriger Luftdruck soll ungesund sein."
-msgstr ""
+msgstr "Lufttryck som är för lågt anses vara ohälsosamt."
 
 #: ../../msn/msn_r1.c:454
 msgid "Er zeigt Null an."
-msgstr ""
+msgstr "Den visar noll."
 
 #: ../../msn/msn_r1.c:455
 msgid "Er zeigt Normaldruck an."
-msgstr ""
+msgstr "Den visar normalt tryck."
 
 #: ../../msn/msn_r1.c:464
 msgid "Ein Stück Schrott."
-msgstr ""
+msgstr "En bit metallskrot."
 
 #: ../../msn/msn_r1.c:476
 msgid "Du mußt erst hingehen."
-msgstr ""
+msgstr "Du måste gå dit först."
 
 #: ../../msn/msn_r1.c:480 ../../msn/msn_r1.c:639 ../../msn/msn_r1.c:728
 msgid "Das Kabel ist im Weg."
-msgstr ""
+msgstr "Kabeln är i vägen."
 
 #: ../../msn/msn_r1.c:483 ../../msn/msn_r1.c:642 ../../msn/msn_r1.c:698
 msgid "Das Kabel ist schon ganz|richtig an dieser Stelle."
-msgstr ""
+msgstr "Kabeln är redan helt korrekt vid den här tidpunkten."
 
 #: ../../msn/msn_r1.c:519
 msgid "Die Leitung ist zu kurz."
-msgstr ""
+msgstr "Kabeln är för kort."
 
 #: ../../msn/msn_r1.c:567
 msgid "Es ist nicht spitz genug."
-msgstr ""
+msgstr "Den är inte tillräckligt skarp."
 
 #: ../../msn/msn_r1.c:570
 msgid "Du wirst aus den Anzeigen nicht schlau."
-msgstr ""
+msgstr "Du kan inte få huvud eller svans av annonserna."
 
 #: ../../msn/msn_r1.c:572
 msgid "Laß lieber die Finger davon!"
-msgstr ""
+msgstr "Håll dina händer borta från den!"
 
 #: ../../msn/msn_r1.c:591
 msgid "An dem Kabel ist doch gar kein Stecker."
-msgstr ""
+msgstr "Det finns ingen kontakt på kabeln."
 
 #: ../../msn/msn_r1.c:635
 msgid "Du solltest die Luke vielleicht erst öffnen."
-msgstr ""
+msgstr "Du kanske vill öppna luckan först."
 
 #: ../../msn/msn_r1.c:668
 msgid "Das Seil ist im Weg."
-msgstr ""
+msgstr "Repet är i vägen."
 
 #: ../../msn/msn_r1.c:685
 msgid "Das geht nicht.|Die Luke ist mindestens|5 Meter über dem Boden."
-msgstr ""
+msgstr "Luckan sitter minst 5 meter över marken."
 
 #: ../../msn/msn_r1.c:694
 msgid "Keycard des Commanders"
-msgstr ""
+msgstr "Befälhavarens nyckelkort"
 
 #: ../../msn/msn_r1.c:766
 msgid "Was nützt dir der Anschluß|ohne eine Stromquelle?!"
-msgstr ""
+msgstr "Vad är anslutningen till för nytta utan en strömkälla?!"
 
 #: ../../msn/msn_r1.c:770
 msgid "Die Spannung ist auf Null abgesunken."
-msgstr ""
+msgstr "Spänningen har sjunkit till noll."
 
 #: ../../msn/msn_r1.c:771
 msgid "Es zeigt volle Spannung an."
-msgstr ""
+msgstr "Den indikerar full spänning."
 
 #: ../../msn/msn_r1.c:782
 msgid "Du mußt die Luke erst öffnen."
-msgstr ""
+msgstr "Du måste öppna luckan först."
 
 #: ../../msn/msn_r1.c:801
 msgid "Das Seil ist hier schon ganz richtig."
-msgstr ""
+msgstr "Repet är helt rätt här."
 
 #: ../../msn/msn_r1.c:806
 msgid "Das Kabel ist zu kurz."
-msgstr ""
+msgstr "Kabeln är för kort."
 
 #: ../../msn/msn_r1.c:913
 msgid "Du hast die Platte schon aufgelegt."
-msgstr ""
+msgstr "Du har redan satt på skivan."
 
 #: ../../msn/msn_r1.c:925
 msgid "Es ist doch gar keine Platte aufgelegt."
-msgstr ""
+msgstr "Det finns ingen skiva på den."
 
 #: ../../msn/msn_r1.c:960
 msgid "Die Platte scheint einen Sprung zu haben."
-msgstr ""
+msgstr "Skivan verkar ha en spricka."
 
 #: ../../msn/msn_r1.c:981
 msgid "Schneid doch besser ein|längeres Stück Kabel ab!"
-msgstr ""
+msgstr "Det är bättre att klippa av en längre kabel!"
 
 #: ../../msn/msn_r1.c:1003
 msgid "Leitung mit Stecker"
-msgstr ""
+msgstr "Kabel med stickpropp"
 
 #: ../../msn/msn_r1.c:1008 ../../msn/msn_r3.c:75
 msgid "Das ist befestigt."
-msgstr ""
+msgstr "Detta är åtgärdat."
 
 #: ../../msn/msn_r1.c:1084
 msgid "Du hast jetzt besseres zu tun."
-msgstr ""
+msgstr "Du har bättre saker att göra nu."
 
 #: ../../msn/msn_r1.c:1086
 msgid "Wenn du unbedingt aufs Klo|willst, spiel doch Larry 1."
-msgstr ""
+msgstr "Om du verkligen vill gå på toa, spela Larry 1."
 
 #: ../../msn/msn_r1.c:1097
 msgid "Was?! Keiner im Cockpit!|Die sind wohl verrückt!"
-msgstr ""
+msgstr "Va? Ingen i cockpit! De måste vara galna!"
 
 #: ../../msn/msn_r1.c:1105
 msgid "Komisch, es ist nur|noch ein Raumanzug da."
-msgstr ""
+msgstr "Lustigt, det finns bara en rymddräkt kvar."
 
 #: ../../msn/msn_r1.c:1113
 msgid ""
 "Was ist denn das für ein Chaos?|Und außerdem fehlt das Notraumschiff!|Jetzt "
 "wird mir einiges klar.|Die anderen sind geflüchtet,|und ich habe es verpennt."
 msgstr ""
+"Vad är det här för kaos? Och nödrymdskeppet saknas! Nu inser jag några "
+"saker. De andra har flytt och jag har missat det."
 
 #: ../../msn/msn_r1_r.c:16 ../../msn/msn_r1_r.c:17 ../../msn/msn_r1_r.c:18
 #: ../../msn/msn_r1_r.c:19 ../../msn/msn_r1_r.c:20 ../../msn/msn_r1_r.c:21
@@ -821,7 +836,7 @@ msgstr ""
 #: ../../msn/msn_r1_r.c:165 ../../msn/msn_r1_r.c:201 ../../msn/msn_r1_r.c:219
 #: ../../msn/msn_r1_r.c:245 ../../msn/msn_r1_r.c:279
 msgid "Luke"
-msgstr ""
+msgstr "Luke"
 
 #: ../../msn/msn_r1_r.c:23 ../../msn/msn_r1_r.c:67 ../../msn/msn_r1_r.c:68
 #: ../../msn/msn_r1_r.c:103 ../../msn/msn_r1_r.c:239 ../../msn/msn_r2.c:1256
@@ -829,15 +844,15 @@ msgstr ""
 #: ../../msn/msn_r2.c:1296 ../../msn/msn_r3.c:1479 ../../msn/msn_r3.c:1677
 #: ../../msn/msn_r3.c:1678
 msgid "Knopf"
-msgstr ""
+msgstr "Knapp"
 
 #: ../../msn/msn_r1_r.c:23
 msgid "Er gehört zu der großen Luke."
-msgstr ""
+msgstr "Den hör till den stora luckan."
 
 #: ../../msn/msn_r1_r.c:24 ../../msn/msn_r1_r.c:37 ../../msn/msn_r1_r.c:130
 msgid "Leiter"
-msgstr ""
+msgstr "Chef"
 
 #: ../../msn/msn_r1_r.c:25 ../../msn/msn_r1_r.c:47 ../../msn/msn_r1_r.c:57
 #: ../../msn/msn_r1_r.c:92 ../../msn/msn_r1_r.c:293 ../../msn/msn_r2.c:1221
@@ -851,19 +866,19 @@ msgstr ""
 #: ../../msn/msn_r3.c:1579 ../../msn/msn_r3.c:1594 ../../msn/msn_r3.c:1608
 #: ../../msn/msn_r3.c:1679 ../../msn/msn_r3.c:1695
 msgid "Ausgang"
-msgstr ""
+msgstr "Utgång"
 
 #: ../../msn/msn_r1_r.c:31
 msgid "Sie führt ins Cockpit."
-msgstr ""
+msgstr "Den leder in i cockpit."
 
 #: ../../msn/msn_r1_r.c:32
 msgid "Sie führt zur Küche."
-msgstr ""
+msgstr "Den leder till köket."
 
 #: ../../msn/msn_r1_r.c:34
 msgid "Sie führt zu den Tiefschlafkammern."
-msgstr ""
+msgstr "Den leder till den djupa sömnens kammare."
 
 #: ../../msn/msn_r1_r.c:36 ../../msn/msn_r1_r.c:123 ../../msn/msn_r1_r.c:151
 #: ../../msn/msn_r1_r.c:166 ../../msn/msn_r1_r.c:179 ../../msn/msn_r1_r.c:180
@@ -873,7 +888,7 @@ msgstr ""
 #: ../../msn/msn_r1_r.c:280 ../../msn/msn_r2.c:1252 ../../msn/msn_r2.c:1298
 #: ../../msn/msn_r3.c:1696
 msgid "Schlitz"
-msgstr ""
+msgstr "Slot"
 
 #: ../../msn/msn_r1_r.c:36 ../../msn/msn_r1_r.c:123 ../../msn/msn_r1_r.c:151
 #: ../../msn/msn_r1_r.c:166 ../../msn/msn_r1_r.c:179 ../../msn/msn_r1_r.c:180
@@ -882,220 +897,226 @@ msgstr ""
 #: ../../msn/msn_r1_r.c:257 ../../msn/msn_r1_r.c:258 ../../msn/msn_r1_r.c:259
 #: ../../msn/msn_r1_r.c:280
 msgid "Es ist ein Keycard-Leser."
-msgstr ""
+msgstr "Det är en nyckelkortsläsare."
 
 #: ../../msn/msn_r1_r.c:38 ../../msn/msn_r3.c:1595
 msgid "Gang"
-msgstr ""
+msgstr "Utrustning"
 
 #: ../../msn/msn_r1_r.c:44 ../../msn/msn_r1_r.c:45
 msgid "Dies ist eine der Tiefschlafkammern."
-msgstr ""
+msgstr "Detta är en av de djupa sömnkamrarna."
 
 #: ../../msn/msn_r1_r.c:46 ../../msn/msn_r3.c:1622 ../../msn/msn_r3.c:1634
 #: ../../msn/msn_r3.c:1645 ../../msn/msn_r3.c:1657 ../../msn/msn_r3.c:1668
 msgid "Computer"
-msgstr ""
+msgstr "Dator"
 
 #: ../../msn/msn_r1_r.c:53 ../../msn/msn_r2.c:1302
 msgid "Instrumente"
-msgstr ""
+msgstr "Instrument"
 
 #: ../../msn/msn_r1_r.c:53
 msgid "Hmm, sieht ziemlich kompliziert aus."
-msgstr ""
+msgstr "Hmm, ser ganska komplicerat ut."
 
 #: ../../msn/msn_r1_r.c:55 ../../msn/msn_r1_r.c:56 ../../msn/msn_r1_r.c:105
 msgid "Monitor"
-msgstr ""
+msgstr "Övervaka"
 
 #: ../../msn/msn_r1_r.c:56
 msgid "Dieser Monitor sagt dir nichts."
-msgstr ""
+msgstr "Den här monitorn säger dig ingenting."
 
 #: ../../msn/msn_r1_r.c:63
 msgid "Das ist eine Luke !!!"
-msgstr ""
+msgstr "Detta är en lucka !!!"
 
 #: ../../msn/msn_r1_r.c:65
 msgid "Dies ist eine Luke !!!"
-msgstr ""
+msgstr "Detta är en lucka !!!"
 
 #: ../../msn/msn_r1_r.c:69
 msgid "Helm"
-msgstr ""
+msgstr "Hjälm"
 
 #: ../../msn/msn_r1_r.c:69
 msgid "Es ist der Helm zum Raumanzug."
-msgstr ""
+msgstr "Det är hjälmen till rymddräkten."
 
 #: ../../msn/msn_r1_r.c:70
 msgid "Raumanzug"
-msgstr ""
+msgstr "Rymddräkt"
 
 #: ../../msn/msn_r1_r.c:70
 msgid "Der einzige Raumanzug, den die|anderen hiergelassen haben ..."
-msgstr ""
+msgstr "Den enda rymddräkt som de andra lämnade kvar här..."
 
 #: ../../msn/msn_r1_r.c:72
 msgid "Versorgung"
-msgstr ""
+msgstr "Leverans"
 
 #: ../../msn/msn_r1_r.c:72
 msgid "Es ist der Versorgungsteil zum Raumanzug."
-msgstr ""
+msgstr "Det är försörjningssektionen för rymddräkten."
 
 #: ../../msn/msn_r1_r.c:74
 msgid "Druckmesser"
-msgstr ""
+msgstr "Tryckmätare"
 
 #: ../../msn/msn_r1_r.c:81 ../../msn/msn_r1_r.c:84
 msgid "Schrott"
-msgstr ""
+msgstr "Skrot"
 
 #: ../../msn/msn_r1_r.c:81
 msgid ""
 "Da ist eine Lüsterklemme dran, die|noch ganz brauchbar aussieht.|Ich nehme "
 "sie mit."
 msgstr ""
+"Det finns en ljuskroneklämma på den som fortfarande ser ganska användbar ut."
 
 #: ../../msn/msn_r1_r.c:83
 msgid "Lüsterklemme"
-msgstr ""
+msgstr "Luster terminal"
 
 #: ../../msn/msn_r1_r.c:84
 msgid ""
 "Junge, Junge! Die Explosion hat ein|ganz schönes Durcheinander angerichtet."
-msgstr ""
+msgstr "Oj, oj, oj! Explosionen har orsakat en hel del oreda."
 
 #: ../../msn/msn_r1_r.c:86
 msgid "Reaktor"
-msgstr ""
+msgstr "Reaktor"
 
 #: ../../msn/msn_r1_r.c:86
 msgid "Das war einmal der Reaktor."
-msgstr ""
+msgstr "Det här var tidigare reaktorn."
 
 #: ../../msn/msn_r1_r.c:87
 msgid "Düse"
-msgstr ""
+msgstr "Munstycke"
 
 #: ../../msn/msn_r1_r.c:88
 msgid "blauer Kürbis"
-msgstr ""
+msgstr "blå pumpa"
 
 #: ../../msn/msn_r1_r.c:88
 msgid "Keine Ahnung, was das ist."
-msgstr ""
+msgstr "Ingen aning om vad det är."
 
 #: ../../msn/msn_r1_r.c:90
 msgid "Landefähre"
-msgstr ""
+msgstr "Landning av färja"
 
 #: ../../msn/msn_r1_r.c:90
 msgid "Sie war eigentlich für Bodenuntersuchungen|auf Arsano 3 gedacht."
-msgstr ""
+msgstr "Den var egentligen avsedd för jordanalyser på Arsano 3."
 
 #: ../../msn/msn_r1_r.c:93 ../../msn/msn_r1_r.c:120
 msgid "Sie führt nach draußen."
-msgstr ""
+msgstr "Den leder ut."
 
 #: ../../msn/msn_r1_r.c:95
 msgid "Generator"
-msgstr ""
+msgstr "Generator"
 
 #: ../../msn/msn_r1_r.c:95
 msgid "Er versorgt das Raumschiff mit Strom."
-msgstr ""
+msgstr "Den förser rymdskeppet med ström."
 
 #: ../../msn/msn_r1_r.c:102 ../../msn/msn_r1_r.c:154 ../../msn/msn_r1_r.c:169
 #: ../../msn/msn_r1_r.c:205 ../../msn/msn_r1_r.c:223 ../../msn/msn_r1_r.c:249
 #: ../../msn/msn_r1_r.c:283 ../../msn/msn_r3.c:1486
 msgid "Steckdose"
-msgstr ""
+msgstr "Uttag"
 
 #: ../../msn/msn_r1_r.c:103
 msgid ""
 "Es ist ein Sicherheitsknopf.|Er kann nur mit einem spitzen|Gegenstand "
 "gedrückt werden."
 msgstr ""
+"Det är en säkerhetsknapp som endast kan tryckas in med ett spetsigt föremål."
 
 #: ../../msn/msn_r1_r.c:106 ../../msn/msn_r2.c:1300
 msgid "Tastatur"
-msgstr ""
+msgstr "Tangentbord"
 
 #: ../../msn/msn_r1_r.c:116
 msgid "leere Kabelrolle"
-msgstr ""
+msgstr "töm kabelvinda"
 
 #: ../../msn/msn_r1_r.c:117
 msgid ""
 "Hey, das ist die Keycard des Commanders!|Er muß sie bei dem überstürzten|"
 "Aufbruch verloren haben."
 msgstr ""
+"Det är befälhavarens nyckelkort! Han måste ha tappat det under den hastiga "
+"avfärden."
 
 #: ../../msn/msn_r1_r.c:119 ../../msn/msn_r1_r.c:137 ../../msn/msn_r1_r.c:188
 #: ../../msn/msn_r2.c:1212
 msgid "Seil"
-msgstr ""
+msgstr "Rep"
 
 #: ../../msn/msn_r1_r.c:124
 msgid "Klappe"
-msgstr ""
+msgstr "Klaff"
 
 #: ../../msn/msn_r1_r.c:125 ../../msn/msn_r1_r.c:128 ../../msn/msn_r1_r.c:242
 #: ../../msn/msn_r1_r.c:243 ../../msn/msn_r3.c:1485
 msgid "Leitung"
-msgstr ""
+msgstr "Förvaltning"
 
 #: ../../msn/msn_r1_r.c:126
 msgid "Spannungmessgerät"
-msgstr ""
+msgstr "Voltmeter"
 
 #: ../../msn/msn_r1_r.c:127
 msgid "Klemme"
-msgstr ""
+msgstr "Klämma"
 
 #: ../../msn/msn_r1_r.c:128
 msgid "Sie führt vom Generator zum Spannungmessgerät."
-msgstr ""
+msgstr "Den leds från generatorn till voltmätaren."
 
 #: ../../msn/msn_r1_r.c:143 ../../msn/msn_r1_r.c:212 ../../msn/msn_r1_r.c:213
 #: ../../msn/msn_r1_r.c:214 ../../msn/msn_r1_r.c:217 ../../msn/msn_r3.c:1599
 #: ../../msn/msn_r3.c:1614 ../../msn/msn_r3.c:1636 ../../msn/msn_r3.c:1646
 #: ../../msn/msn_r3.c:1647
 msgid "Bild"
-msgstr ""
+msgstr "Bild"
 
 #: ../../msn/msn_r1_r.c:143
 msgid "Manche Leute haben schon|einen komischen Geschmack."
-msgstr ""
+msgstr "Vissa människor har konstig smak."
 
 #: ../../msn/msn_r1_r.c:145
 msgid "Zeichengeräte"
-msgstr ""
+msgstr "Ritningsinstrument"
 
 #: ../../msn/msn_r1_r.c:146
 msgid ""
 "Auf dem Zettel sind lauter|unverständliche Skizzen und Berechnungen.|"
 "(Jedenfalls für dich unverständlich.)"
 msgstr ""
+"Papperet är fullt av obegripliga skisser och beräkningar (åtminstone "
+"obegripliga för dig)"
 
 #: ../../msn/msn_r1_r.c:148 ../../msn/msn_r1_r.c:215 ../../msn/msn_r1_r.c:233
 #: ../../msn/msn_r1_r.c:276
 msgid "Magnete"
-msgstr ""
+msgstr "Magneter"
 
 #: ../../msn/msn_r1_r.c:148 ../../msn/msn_r1_r.c:215 ../../msn/msn_r1_r.c:233
 #: ../../msn/msn_r1_r.c:276
 msgid "Damit werden Sachen auf|dem Tisch festgehalten."
-msgstr ""
+msgstr "Denna används för att hålla saker på bordet."
 
 #: ../../msn/msn_r1_r.c:152 ../../msn/msn_r1_r.c:167 ../../msn/msn_r1_r.c:190
 #: ../../msn/msn_r1_r.c:203 ../../msn/msn_r1_r.c:221 ../../msn/msn_r1_r.c:247
 #: ../../msn/msn_r1_r.c:260 ../../msn/msn_r1_r.c:281
 msgid "Schrank"
-msgstr ""
+msgstr "Skåp"
 
 #: ../../msn/msn_r1_r.c:153 ../../msn/msn_r1_r.c:168 ../../msn/msn_r1_r.c:183
 #: ../../msn/msn_r1_r.c:186 ../../msn/msn_r1_r.c:195 ../../msn/msn_r1_r.c:204
@@ -1103,906 +1124,930 @@ msgstr ""
 #: ../../msn/msn_r1_r.c:264 ../../msn/msn_r1_r.c:267 ../../msn/msn_r1_r.c:282
 #: ../../msn/msn_r2.c:1299
 msgid "Fach"
-msgstr ""
+msgstr "Ämne"
 
 #: ../../msn/msn_r1_r.c:155 ../../msn/msn_r1_r.c:170 ../../msn/msn_r1_r.c:206
 #: ../../msn/msn_r1_r.c:224 ../../msn/msn_r1_r.c:250 ../../msn/msn_r1_r.c:278
 #: ../../msn/msn_r2.c:1254
 msgid "Toilette"
-msgstr ""
+msgstr "Toalett"
 
 #: ../../msn/msn_r1_r.c:161 ../../msn/msn_r1_r.c:176 ../../msn/msn_r2.c:1283
 msgid "Schachspiel"
-msgstr ""
+msgstr "Schackspel"
 
 #: ../../msn/msn_r1_r.c:161
 msgid "Es macht wohl Spaß, an|der Decke Schach zu spielen."
-msgstr ""
+msgstr "Det måste vara kul att spela schack i taket."
 
 #: ../../msn/msn_r1_r.c:163
 msgid "Tennisschläger"
-msgstr ""
+msgstr "Tennisracket"
 
 #: ../../msn/msn_r1_r.c:163
 msgid "Fliegt Boris Becker auch mit?"
-msgstr ""
+msgstr "Är Boris Becker också flygande?"
 
 #: ../../msn/msn_r1_r.c:164
 msgid "Tennisball"
-msgstr ""
+msgstr "Tennisboll"
 
 #: ../../msn/msn_r1_r.c:164 ../../msn/msn_r1_r.c:213
 msgid "Toll!"
-msgstr ""
+msgstr "Jättebra!"
 
 #: ../../msn/msn_r1_r.c:176
 msgid "Dein Magnetschachspiel. Schach war|schon immer deine Leidenschaft."
-msgstr ""
+msgstr "Ditt magnetiska schackspel. Schack har alltid varit din passion."
 
 #: ../../msn/msn_r1_r.c:178
 msgid "Bett"
-msgstr ""
+msgstr "Säng"
 
 #: ../../msn/msn_r1_r.c:178
 msgid "Das ist dein Bett. Toll, nicht wahr?"
-msgstr ""
+msgstr "Det här är din säng. Visst är den fin?"
 
 #: ../../msn/msn_r1_r.c:183 ../../msn/msn_r1_r.c:186 ../../msn/msn_r1_r.c:195
 msgid "Das ist eins deiner drei Fächer."
-msgstr ""
+msgstr "Det här är ett av dina tre ämnen."
 
 #: ../../msn/msn_r1_r.c:185
 msgid "Alben"
-msgstr ""
+msgstr "Album"
 
 #: ../../msn/msn_r1_r.c:185
 msgid "Deine Briefmarkensammlung."
-msgstr ""
+msgstr "Din frimärkssamling."
 
 #: ../../msn/msn_r1_r.c:188
 msgid "Es ist ungefähr 10 m lang und 4 cm dick."
-msgstr ""
+msgstr "Den är cirka 10 meter lång och 4 cm tjock."
 
 #: ../../msn/msn_r1_r.c:190
 msgid "Das ist dein Schrank."
-msgstr ""
+msgstr "Det här är din garderob."
 
 #: ../../msn/msn_r1_r.c:191 ../../msn/msn_r1_r.c:274 ../../msn/msn_r1_r.c:275
 msgid "Krimskram"
-msgstr ""
+msgstr "Krim-grejer"
 
 #: ../../msn/msn_r1_r.c:191 ../../msn/msn_r1_r.c:274 ../../msn/msn_r1_r.c:275
 msgid "Es ist nichts brauchbares dabei."
-msgstr ""
+msgstr "Det finns inget användbart."
 
 #: ../../msn/msn_r1_r.c:192 ../../msn/msn_r1_r.c:273
 msgid "Kleider"
-msgstr ""
+msgstr "Kläder"
 
 #: ../../msn/msn_r1_r.c:192
 msgid "Es sind Standard-Weltraum-Klamotten."
-msgstr ""
+msgstr "De är vanliga rymdutrustningar."
 
 #: ../../msn/msn_r1_r.c:193 ../../msn/msn_r1_r.c:269 ../../msn/msn_r1_r.c:271
 msgid "Unterwäsche"
-msgstr ""
+msgstr "Underkläder"
 
 #: ../../msn/msn_r1_r.c:194
 msgid "Strümpfe"
-msgstr ""
+msgstr "Strumpor"
 
 #: ../../msn/msn_r1_r.c:197 ../../msn/msn_r1_r.c:268
 msgid "Buch"
-msgstr ""
+msgstr "Bokar"
 
 #: ../../msn/msn_r1_r.c:197
 msgid "Es ist|\"Per Anhalter durch die Galaxis\"|von Douglas Adams."
-msgstr ""
+msgstr "Det är \"Liftarens guide till galaxen\" av Douglas Adams."
 
 #: ../../msn/msn_r1_r.c:212
 msgid "Herb!"
-msgstr ""
+msgstr "Tart!"
 
 #: ../../msn/msn_r1_r.c:214
 msgid "Genial!"
-msgstr ""
+msgstr "Genialiskt!"
 
 #: ../../msn/msn_r1_r.c:217
 msgid "Es scheint noch nicht fertig zu sein."
-msgstr ""
+msgstr "Det verkar inte vara färdigt än."
 
 #: ../../msn/msn_r1_r.c:218
 msgid "Stift"
-msgstr ""
+msgstr "Penna"
 
 #: ../../msn/msn_r1_r.c:218
 msgid "Ein Kugelschreiber."
-msgstr ""
+msgstr "En biro."
 
 #: ../../msn/msn_r1_r.c:230 ../../msn/msn_r1_r.c:231
 msgid "Poster"
-msgstr ""
+msgstr "Affisch"
 
 #: ../../msn/msn_r1_r.c:230
 msgid "Ein Poster von \"Big Boss\"."
-msgstr ""
+msgstr "En affisch av \"Big Boss\"."
 
 #: ../../msn/msn_r1_r.c:231
 msgid "Ein Poster von \"Rock Desaster\"."
-msgstr ""
+msgstr "En affisch av \"Rock Disaster\"."
 
 #: ../../msn/msn_r1_r.c:232
 msgid "Box"
-msgstr ""
+msgstr "Låda"
 
 #: ../../msn/msn_r1_r.c:235
 msgid "Schallplatte"
-msgstr ""
+msgstr "Skiva"
 
 #: ../../msn/msn_r1_r.c:235
 msgid "Die Platte ist von \"Big Boss\"."
-msgstr ""
+msgstr "Skivan är från \"Big Boss\"."
 
 #: ../../msn/msn_r1_r.c:237
 msgid "Schallplattenständer"
-msgstr ""
+msgstr "Skivstativ"
 
 #: ../../msn/msn_r1_r.c:237
 msgid "Du hast jetzt keine Zeit, in|der Plattensammlung rumzustöbern."
-msgstr ""
+msgstr "Du har inte tid att rota igenom din skivsamling nu."
 
 #: ../../msn/msn_r1_r.c:240
 msgid "Plattenspieler"
-msgstr ""
+msgstr "Skivspelare"
 
 #: ../../msn/msn_r1_r.c:240
 msgid "Sieht aus, als käme|er aus dem Museum."
-msgstr ""
+msgstr "Det ser ut som om det kommer från ett museum."
 
 #: ../../msn/msn_r1_r.c:244
 msgid "Stecker"
-msgstr ""
+msgstr "Plug"
 
 #: ../../msn/msn_r1_r.c:261
 msgid "Pistole"
-msgstr ""
+msgstr "Pistol"
 
 #: ../../msn/msn_r1_r.c:261
 msgid "Es ist keine Munition drin."
-msgstr ""
+msgstr "Det finns ingen ammunition i den."
 
 #: ../../msn/msn_r1_r.c:263
 msgid "Bücher"
-msgstr ""
+msgstr "Böcker"
 
 #: ../../msn/msn_r1_r.c:263
 msgid "Lauter wissenschaftliche Bücher."
-msgstr ""
+msgstr "Massor av vetenskapliga böcker."
 
 #: ../../msn/msn_r1_r.c:265
 msgid "Kabelrolle"
-msgstr ""
+msgstr "Kabelvinda"
 
 #: ../../msn/msn_r1_r.c:265
 msgid "Da sind mindestens zwanzig Meter drauf."
-msgstr ""
+msgstr "Det finns minst tjugo meter på den."
 
 #: ../../msn/msn_r1_r.c:269 ../../msn/msn_r1_r.c:271
 msgid "Ich habe keine Lust, in|der Unterwäsche des|Commanders rumzuwühlen."
-msgstr ""
+msgstr "Jag känner inte för att gräva i befälhavarens underkläder."
 
 #: ../../msn/msn_r1_r.c:284
 msgid "Ordner"
-msgstr ""
+msgstr "Mapp"
 
 #: ../../msn/msn_r1_r.c:284
 msgid ""
 "Darauf steht \"Dienstanweisungen|zur Mission Supernova\".|Es steht nichts "
 "wichtiges drin."
-msgstr ""
+msgstr "Det står \"Dienstanweisungen|zur Mission Supernova\"."
 
 #: ../../msn/msn_r1_r.c:291
 msgid "Klo"
-msgstr ""
+msgstr "Toalett"
 
 #: ../../msn/msn_r1_r.c:291
 msgid "Ein Klo mit Saugmechanismus."
-msgstr ""
+msgstr "En loo med sugmekanism."
 
 #: ../../msn/msn_r1_r.c:292
 msgid "Dusche"
-msgstr ""
+msgstr "Dusch"
 
 #: ../../msn/msn_r2.c:57
 msgid "Die Raumschiffe sind alle verschlossen."
-msgstr ""
+msgstr "Alla rymdskepp är låsta."
 
 #: ../../msn/msn_r2.c:64 ../../msn/msn_r2.c:1098
 msgid "Unsinn!"
-msgstr ""
+msgstr "Nonsens!"
 
 #: ../../msn/msn_r2.c:91
 msgid ""
 "Komisch! Auf einmal kannst du|das Schild lesen! Darauf steht:|\"Treffpunkt "
 "Galactica\"."
 msgstr ""
+"Lustigt! Plötsligt kan du läsa skylten! Det står: \"Mötesplats Galactica\"."
 
 #: ../../msn/msn_r2.c:92
 msgid "Darauf steht:|\"Treffpunkt Galactica\"."
-msgstr ""
+msgstr "Det står: \"Mötesplats Galactica\"."
 
 #: ../../msn/msn_r2.c:144
 msgid "Wieso das denn nicht?"
-msgstr ""
+msgstr "Varför inte?"
 
 #: ../../msn/msn_r2.c:145 ../../msn/msn_r2.c:154 ../../msn/msn_r2.c:1082
 msgid "Wo bin ich hier?"
-msgstr ""
+msgstr "Var är jag här?"
 
 #: ../../msn/msn_r2.c:146 ../../msn/msn_r2.c:183
 msgid "Wo soll ich die Schuhe ablegen?"
-msgstr ""
+msgstr "Var ska jag ställa mina skor?"
 
 #: ../../msn/msn_r2.c:147
 msgid "Schwachsinn! Ich gehe jetzt nach oben!"
-msgstr ""
+msgstr "Skräp! Jag går upp på övervåningen nu!"
 
 #: ../../msn/msn_r2.c:155
 msgid "Schönes Wetter heute, nicht wahr?"
-msgstr ""
+msgstr "Visst är det fint väder idag?"
 
 #: ../../msn/msn_r2.c:156
 msgid "Würden Sie mich bitte durchlassen."
-msgstr ""
+msgstr "Kan du vara snäll och släppa igenom mig."
 
 #: ../../msn/msn_r2.c:157
 msgid "Hey Alter, laß mich durch!"
-msgstr ""
+msgstr "Släpp fram mig, grabben!"
 
 #: ../../msn/msn_r2.c:164
 msgid "Was haben Sie gesagt?"
-msgstr ""
+msgstr "Vad sa du?"
 
 #: ../../msn/msn_r2.c:165
 msgid "Sprechen Sie bitte etwas deutlicher!"
-msgstr ""
+msgstr "Tala tydligare, är du snäll!"
 
 #: ../../msn/msn_r2.c:174
 msgid "Durch deinen Helm kannst|du nicht sprechen."
-msgstr ""
+msgstr "Du kan inte prata genom din hjälm."
 
 #: ../../msn/msn_r2.c:189 ../../msn/msn_r2.c:251
 msgid "Was, das wissen Sie nicht?"
-msgstr ""
+msgstr "Vad, vet du inte det?"
 
 #: ../../msn/msn_r2.c:190 ../../msn/msn_r2.c:252
 msgid "Sie befinden sich im Restaurant|\"Treffpunkt Galactica\"."
-msgstr ""
+msgstr "Du befinner dig i restaurangen \"Mötesplats Galactica\"."
 
 #: ../../msn/msn_r2.c:191 ../../msn/msn_r2.c:253
 msgid ""
 "Wir sind bei den interessantesten|Ereignissen in der Galaxis|immer zur "
 "Stelle."
-msgstr ""
+msgstr "Vi är alltid på plats för de mest intressanta händelserna i galaxen."
 
 #: ../../msn/msn_r2.c:194
 msgid "Wenn Sie meinen."
-msgstr ""
+msgstr "Om du tycker det."
 
 #: ../../msn/msn_r2.c:199 ../../msn/msn_r2.c:256
 msgid "In der Toilette gibt es|Schließfächer für Schuhe."
-msgstr ""
+msgstr "Det finns skåp för skor på toaletten."
 
 #: ../../msn/msn_r2.c:204
 msgid ""
 "Wenn Sie das Lokal betreten|wollen, müssen Sie erst|ihre Schuhe ausziehen."
-msgstr ""
+msgstr "Om du vill komma in i restaurangen måste du först ta av dig skorna."
 
 #: ../../msn/msn_r2.c:208
 msgid "Wollen Sie, daß ich Sie raußschmeiße?"
-msgstr ""
+msgstr "Vill du att jag ska kasta ut dig?"
 
 #: ../../msn/msn_r2.c:216 ../../msn/msn_r2.c:274
 msgid "Hhius otgfh Dgfdrkjlh Fokj gf."
-msgstr ""
+msgstr "Hhius otgfh Dgfdrkjlh Fokj gf."
 
 #: ../../msn/msn_r2.c:230 ../../msn/msn_s.c:289
 msgid "Halt!"
-msgstr ""
+msgstr "Sluta!"
 
 #: ../../msn/msn_r2.c:232
 msgid "Uhwdejkt!"
-msgstr ""
+msgstr "Uhwdejkt!"
 
 #: ../../msn/msn_r2.c:241
 msgid "Sie müssen erst ihre Schuhe ausziehen, Sie Trottel!"
-msgstr ""
+msgstr "Du måste ta av dig skorna först, din idiot!"
 
 #: ../../msn/msn_r2.c:243
 msgid ""
 "Was fällt ihnen ein!|Sie können doch ein Lokal|nicht mit Schuhen betreten!"
-msgstr ""
+msgstr "Du kan inte gå in på en pub med skor på dig!"
 
 #: ../../msn/msn_r2.c:249
 msgid "Fragen Sie nicht so doof!"
-msgstr ""
+msgstr "Ställ inte så dumma frågor!"
 
 #: ../../msn/msn_r2.c:262
 msgid "Das würde ich an ihrer|Stelle nicht versuchen!"
-msgstr ""
+msgstr "Jag skulle inte prova det om jag var du!"
 
 #: ../../msn/msn_r2.c:300
 msgid "Du ziehst deine Schuhe|aus und legst sie in|eins der Schließfächer."
-msgstr ""
+msgstr "Du tar av dig skorna och lägger dem i ett av skåpen."
 
 #: ../../msn/msn_r2.c:307
 msgid "Du ziehst deine Schuhe wieder an."
-msgstr ""
+msgstr "Du tar på dig skorna igen."
 
 #: ../../msn/msn_r2.c:311
 msgid ""
 "Du durchsuchst die Klos nach|anderen brauchbaren Sachen,|findest aber nichts."
 msgstr ""
+"Du söker igenom toaletterna efter andra användbara saker, men hittar "
+"ingenting."
 
 #: ../../msn/msn_r2.c:316
 msgid "Bevor du aufs Klo gehst,|solltest du besser deinen|Raumanzug ausziehen."
-msgstr ""
+msgstr "Innan du går på toa är det bäst att du tar av dig rymddräkten."
 
 #: ../../msn/msn_r2.c:319
 msgid "Du gehst seit sieben Jahren das|erste Mal wieder aufs Klo!"
-msgstr ""
+msgstr "Du går på toaletten för första gången på sju år!"
 
 #: ../../msn/msn_r2.c:322
 msgid ""
 "In einem der Schließfächer,|die sich auch im Raum befinden,|findest du "
 "einige Münzen."
-msgstr ""
+msgstr "Du hittar några mynt i ett av skåpen i rummet."
 
 #: ../../msn/msn_r2.c:332
 msgid "Mach doch zuerst das Fach leer!"
-msgstr ""
+msgstr "Varför tömmer du inte facket först!"
 
 #: ../../msn/msn_r2.c:340
 msgid "Münze"
-msgstr ""
+msgstr "Mynt"
 
 #: ../../msn/msn_r2.c:353
 msgid ""
 "Komisch! Auf einmal kannst du|das Schild lesen! Darauf steht:|\"Zutritt nur "
 "für Personal\"."
 msgstr ""
+"Lustigt! Plötsligt kan man läsa skylten! Det står: \"Tillträde endast för "
+"personal\"."
 
 #: ../../msn/msn_r2.c:361
 msgid ""
 "Komisch! Auf einmal kannst|du das Schild lesen!|Darauf steht:\"Toilette\"."
-msgstr ""
+msgstr "Det var roligt! Plötsligt kan man läsa skylten! Det står: \"Toalett\"."
 
 #: ../../msn/msn_r2.c:362
 msgid "Darauf steht:|\"Toilette\"."
-msgstr ""
+msgstr "Det står: \"Toalett\"."
 
 #: ../../msn/msn_r2.c:372
 msgid "Du ziehst den Raumanzug wieder an."
-msgstr ""
+msgstr "Du tar på dig rymddräkten igen."
 
 #: ../../msn/msn_r2.c:382 ../../msn/msn_r3.c:487 ../../msn/msn_r3.c:539
 msgid "Nicht so gewalttätig!"
-msgstr ""
+msgstr "Inte så våldsamt!"
 
 #: ../../msn/msn_r2.c:603
 msgid ""
 "Du hast das komische Gefühl,|daß draußen etwas passiert,|und eilst zum "
 "Restaurant."
 msgstr ""
+"Du har en underlig känsla av att något händer utanför och skyndar dig till "
+"restaurangen."
 
 #: ../../msn/msn_r2.c:617
 msgid "Da! Die Supernova!"
-msgstr ""
+msgstr "Där! Supernovan!"
 
 #: ../../msn/msn_r2.c:630
 msgid "Zwei Minuten später ..."
-msgstr ""
+msgstr "Två minuter senare..."
 
 #: ../../msn/msn_r2.c:638
 msgid "Hey, was machen Sie in meinem Raumschiff?!"
-msgstr ""
+msgstr "Hej, vad gör du i mitt rymdskepp?!"
 
 #: ../../msn/msn_r2.c:641
 msgid "Geben Sie mir sofort meine Brieftasche wieder!"
-msgstr ""
+msgstr "Ge mig tillbaka min plånbok omedelbart!"
 
 #: ../../msn/msn_r2.c:644
 msgid "Versuchen Sie das ja nicht nochmal!"
-msgstr ""
+msgstr "Försök inte med det igen!"
 
 #: ../../msn/msn_r2.c:647
 msgid "Und jetzt raus mit Ihnen!"
-msgstr ""
+msgstr "Och nu ut med dig!"
 
 #: ../../msn/msn_r2.c:660
 msgid "Zehn Minuten später ..."
-msgstr ""
+msgstr "Tio minuter senare..."
 
 #: ../../msn/msn_r2.c:690
 msgid "Könnten Sie mir ein Gericht empfehlen?"
-msgstr ""
+msgstr "Kan du rekommendera en maträtt?"
 
 #: ../../msn/msn_r2.c:691
 msgid "Wie lange dauert es denn noch bis zur Supernova?"
-msgstr ""
+msgstr "Hur lång tid är det kvar till supernovan?"
 
 #: ../../msn/msn_r2.c:692
 msgid "Sie kommen mir irgendwie bekannt vor."
-msgstr ""
+msgstr "De ser på något sätt bekanta ut för mig."
 
 #: ../../msn/msn_r2.c:704
 msgid "Hey, Witzkeks, laß die Brieftasche da liegen!"
-msgstr ""
+msgstr "Hallå, lustigkurre, lämna plånboken där!"
 
 #: ../../msn/msn_r2.c:708
 msgid "Das ist nicht deine."
-msgstr ""
+msgstr "Den här är inte din."
 
 #: ../../msn/msn_r2.c:713
 msgid "Roger ist im Moment nicht ansprechbar."
-msgstr ""
+msgstr "Roger är inte tillgänglig för tillfället."
 
 #: ../../msn/msn_r2.c:718
 msgid "Bestellen Sie lieber nichts!"
-msgstr ""
+msgstr "Bäst att inte beställa något!"
 
 #: ../../msn/msn_r2.c:719
 msgid ""
 "Ich habe vor zwei Stunden mein Essen|bestellt und immer noch nichts bekommen."
 msgstr ""
+"Jag beställde min mat för två timmar sedan och har fortfarande inte fått "
+"något."
 
 #: ../../msn/msn_r2.c:721
 msgid "Noch mindestens zwei Stunden."
-msgstr ""
+msgstr "Minst två timmar till."
 
 #: ../../msn/msn_r2.c:722
 msgid ""
 "Haben Sie keine Idee, womit wir uns|bis dahin die Zeit vertreiben können?"
-msgstr ""
+msgstr "Har du några idéer om hur vi kan fördriva tiden fram till dess?"
 
 #: ../../msn/msn_r2.c:723
 msgid ""
 "Hmm ... im Moment fällt mir nichts ein, aber vielleicht|hat der Spieler des "
 "Adventures ja eine Idee."
 msgstr ""
+"Hmm ... jag kan inte komma på något just nu, men kanske äventyrets spelare "
+"har en idé."
 
 #: ../../msn/msn_r2.c:725
 msgid "Nein, Sie müssen sich irren.|Ich kenne Sie jedenfalls nicht."
-msgstr ""
+msgstr "Nej, du måste ha fel. Jag känner dig verkligen inte."
 
 #: ../../msn/msn_r2.c:726
 msgid "Aber ihre Kleidung habe ich irgendwo schon mal gesehen."
-msgstr ""
+msgstr "Men jag har sett hennes kläder någonstans tidigare."
 
 #: ../../msn/msn_r2.c:727
 msgid "Ja? Komisch."
-msgstr ""
+msgstr "Ja? Det är roligt."
 
 #: ../../msn/msn_r2.c:728
 msgid "Jetzt weiß ich's. Sie sind Roger W. !"
-msgstr ""
+msgstr "Nu vet jag. Du är Roger W.!"
 
 #: ../../msn/msn_r2.c:729
 msgid "Pssst, nicht so laut, sonst will|gleich jeder ein Autogramm von mir."
-msgstr ""
+msgstr "Shh, inte så högt, annars vill alla ha min autograf."
 
 #: ../../msn/msn_r2.c:730
 msgid ""
 "Ich habe extra eine Maske auf, damit|ich nicht von jedem angelabert werde."
-msgstr ""
+msgstr "Jag bär en mask så att ingen pratar med mig."
 
 #: ../../msn/msn_r2.c:731
 msgid "Äh ... ach so."
-msgstr ""
+msgstr "Eh... jag förstår."
 
 #: ../../msn/msn_r2.c:732
 msgid "Wann kommt denn das nächste SQ-Abenteuer raus?"
-msgstr ""
+msgstr "När kommer nästa SQ-äventyr ut?"
 
 #: ../../msn/msn_r2.c:733
 msgid "SQ 127 müßte in einem Monat erscheinen."
-msgstr ""
+msgstr "SQ 127 bör dyka upp om en månad."
 
 #: ../../msn/msn_r2.c:734
 msgid "Was, Teil 127 ??"
-msgstr ""
+msgstr "Vadå, del 127?"
 
 #: ../../msn/msn_r2.c:735
 msgid "Bei uns ist gerade Teil 8 erschienen."
-msgstr ""
+msgstr "Del 8 har just publicerats."
 
 #: ../../msn/msn_r2.c:736
 msgid "Hmm ... von welchem Planeten sind Sie denn?"
-msgstr ""
+msgstr "Hmm... vilken planet är du från?"
 
 #: ../../msn/msn_r2.c:737
 msgid "Von der Erde."
-msgstr ""
+msgstr "Från jorden."
 
 #: ../../msn/msn_r2.c:738
 msgid "Erde? Nie gehört."
-msgstr ""
+msgstr "Jorden? Aldrig hört talas om den."
 
 #: ../../msn/msn_r2.c:739
 msgid ""
 "Wahrscheinlich irgendein Kaff, wo Neuerungen|erst hundert Jahre später "
 "hingelangen."
-msgstr ""
+msgstr "Förmodligen någon avkrok där innovationer anländer hundra år senare."
 
 #: ../../msn/msn_r2.c:740
 msgid "Äh ... kann sein."
-msgstr ""
+msgstr "Eh... ...skulle kunna vara det."
 
 #: ../../msn/msn_r2.c:741
 msgid "Aber eins müssen Sie mir erklären!"
-msgstr ""
+msgstr "Men du måste förklara en sak för mig!"
 
 #: ../../msn/msn_r2.c:742
 msgid ""
 "Wieso sehen Sie mir so verdammt ähnlich, wenn|Sie nicht von Xenon stammen, "
 "wie ich?"
-msgstr ""
+msgstr "Varför är du så jäkla lik mig om du inte är från Xenon, som jag?"
 
 #: ../../msn/msn_r2.c:743
 msgid ""
 "Keine Ahnung. Bis jetzt dachte ich immer, Sie wären ein|von Programmierern "
 "auf der Erde erfundenes Computersprite."
 msgstr ""
+"Jag har ingen aning. Hittills har jag alltid trott att du var en datorsprite "
+"som uppfanns av programmerare på jorden."
 
 #: ../../msn/msn_r2.c:744
 msgid "Was? Lachhaft!"
-msgstr ""
+msgstr "Skrattretande!"
 
 #: ../../msn/msn_r2.c:745
 msgid "Wie erklären Sie sich dann,|daß ich ihnen gegenübersitze?"
-msgstr ""
+msgstr "Hur förklarar du då att jag sitter mittemot dig?"
 
 #: ../../msn/msn_r2.c:746
 msgid "Ja, das ist in der Tat seltsam."
-msgstr ""
+msgstr "Ja, det är verkligen konstigt."
 
 #: ../../msn/msn_r2.c:747
 msgid ""
 "Halt, jetzt weiß ich es. Sie sind von der Konkurrenz,|von \"Georgefilm "
 "Games\" und wollen mich verunsichern."
 msgstr ""
+"Vänta, nu vet jag. De är från tävlingen, från \"Georgefilm Games\", och de "
+"försöker göra mig orolig."
 
 #: ../../msn/msn_r2.c:748
 msgid "Nein, ich bin nur ein Ahnungsloser Koch von der Erde."
-msgstr ""
+msgstr "Nej, jag är bara en aningslös kock från jorden."
 
 #: ../../msn/msn_r2.c:749
 msgid ""
 "Na gut, ich glaube Ihnen. Lassen wir jetzt|dieses Thema, langsam wird es mir "
 "zu bunt!"
 msgstr ""
+"Okej, jag tror dig. Låt oss lämna det här ämnet, det börjar bli för "
+"färgstarkt för mig!"
 
 #: ../../msn/msn_r2.c:761
 msgid "Eine Partie Schach! Das ist eine gute Idee."
-msgstr ""
+msgstr "Ett parti schack! Det är en bra idé."
 
 #: ../../msn/msn_r2.c:762
 msgid "Schach? Was ist das denn?"
-msgstr ""
+msgstr "Schack? Vad är det för något?"
 
 #: ../../msn/msn_r2.c:763
 msgid "Schach ist ein interessantes Spiel.|Ich werde es Ihnen erklären."
-msgstr ""
+msgstr "Schack är ett intressant spel och jag kommer att förklara det för dig."
 
 #: ../../msn/msn_r2.c:769
 msgid "Knapp zwei Stunden später ..."
-msgstr ""
+msgstr "Knappt två timmar senare..."
 
 #: ../../msn/msn_r2.c:787
 msgid "Roger W. steht kurz vor dem Schachmatt|und grübelt nach einem Ausweg."
-msgstr ""
+msgstr "Roger W. är på gränsen till schack matt och funderar på en utväg."
 
 #: ../../msn/msn_r2.c:831
 msgid "Darf ich hier Platz nehmen?"
-msgstr ""
+msgstr "Får jag slå mig ner här?"
 
 #: ../../msn/msn_r2.c:832
 msgid "Klar!"
-msgstr ""
+msgstr "Självklart!"
 
 #: ../../msn/msn_r2.c:892
 msgid "Du tippst auf den Tasten herum,|aber es passiert nichts."
-msgstr ""
+msgstr "Du trycker på knapparna, men ingenting händer."
 
 #: ../../msn/msn_r2.c:917
 msgid "Ach, Ihnen gehört die. Ich habe sie eben im Sand gefunden."
-msgstr ""
+msgstr "Åh, den är din. Jag hittade den bara i sanden."
 
 #: ../../msn/msn_r2.c:918
 msgid "Nein, tut mir leid."
-msgstr ""
+msgstr "Nej, jag är ledsen."
 
 #: ../../msn/msn_r2.c:924
 msgid "Nein, danke. Ich bleibe lieber hier."
-msgstr ""
+msgstr "Nej, tack. Jag stannar hellre här. Jag stannar hellre här."
 
 #: ../../msn/msn_r2.c:925
 msgid "Ja, das wäre gut."
-msgstr ""
+msgstr "Ja, det skulle vara bra."
 
 #: ../../msn/msn_r2.c:931
 msgid "Zur Erde."
-msgstr ""
+msgstr "Till jorden."
 
 #: ../../msn/msn_r2.c:932
 msgid "Zum Präsident der Galaxis."
-msgstr ""
+msgstr "Galaxens president."
 
 #: ../../msn/msn_r2.c:933
 msgid "Nach Xenon."
-msgstr ""
+msgstr "Efter Xenon."
 
 #: ../../msn/msn_r2.c:934
 msgid "Mir egal, setzen Sie mich irgendwo ab!"
-msgstr ""
+msgstr "Jag bryr mig inte, släpp av mig nånstans bara!"
 
 #: ../../msn/msn_r2.c:940
 msgid "Ich habe gerade Ihre Brieftasche gefunden!"
-msgstr ""
+msgstr "Jag har precis hittat din plånbok!"
 
 #: ../../msn/msn_r2.c:941
 msgid "Sie lag da drüben hinter einem Felsen."
-msgstr ""
+msgstr "Hon låg där borta bakom en sten."
 
 #: ../../msn/msn_r2.c:942
 msgid "Ich wollte nur wissen, ob Sie die Brieftasche wiederhaben."
-msgstr ""
+msgstr "Jag ville bara veta om du har fått tillbaka plånboken."
 
 #: ../../msn/msn_r2.c:959
 msgid "Was wollen Sie denn schon wieder?"
-msgstr ""
+msgstr "Vad vill du nu igen?"
 
 #: ../../msn/msn_r2.c:961
 msgid "Nein."
-msgstr ""
+msgstr "Nej, det gör jag inte."
 
 #: ../../msn/msn_r2.c:965
 msgid ""
 "Haben Sie zufällig meine Brieftasche gesehen?|Ich muß Sie irgendwo verloren "
 "haben."
-msgstr ""
+msgstr "Har du möjligen sett min plånbok? Jag måste ha tappat den."
 
 #: ../../msn/msn_r2.c:966
 msgid ""
 "Ohne die Brieftasche kann ich nicht|starten, weil meine Keycard darin ist."
 msgstr ""
+"Jag kan inte starta utan min plånbok eftersom den innehåller mitt nyckelkort."
 
 #: ../../msn/msn_r2.c:975
 msgid "Oh! Vielen Dank."
-msgstr ""
+msgstr "Tack så mycket."
 
 #: ../../msn/msn_r2.c:976
 msgid "Wo ist denn Ihr Raumschiff?|Soll ich Sie ein Stück mitnehmen?"
-msgstr ""
+msgstr "Var är ditt rymdskepp? Ska jag ge dig lift?"
 
 #: ../../msn/msn_r2.c:979
 msgid "Wo wollen Sie denn hin?"
-msgstr ""
+msgstr "Vart vill du åka?"
 
 #: ../../msn/msn_r2.c:981
 msgid "Ok, steigen Sie ein!"
-msgstr ""
+msgstr "Okej, hoppa in!"
 
 #: ../../msn/msn_r2.c:983
 msgid "Wie Sie wollen."
-msgstr ""
+msgstr "Som du vill."
 
 #: ../../msn/msn_r2.c:1030
 msgid "Huch, du lebst ja noch!"
-msgstr ""
+msgstr "Oj, du lever fortfarande!"
 
 #: ../../msn/msn_r2.c:1057
 msgid ""
 "Das würde ich jetzt nicht tun, schließlich|steht Roger W. neben seinem "
 "Schiff."
 msgstr ""
+"Jag skulle inte göra det nu, Roger W. står ju trots allt bredvid sitt fartyg."
 
 #: ../../msn/msn_r2.c:1069
 msgid "Alle Raumschiffe haben|den Planeten verlassen."
-msgstr ""
+msgstr "Alla rymdskepp har lämnat planeten."
 
 #: ../../msn/msn_r2.c:1071
 msgid "Alle Raumschiffe haben den Planeten|verlassen, bis auf eins ..."
-msgstr ""
+msgstr "Alla rymdskepp har lämnat planeten, utom ett..."
 
 #: ../../msn/msn_r2.c:1083
 msgid "Was wollen Sie von mir?"
-msgstr ""
+msgstr "Vad vill du ha av mig?"
 
 #: ../../msn/msn_r2.c:1084
 msgid "Hilfe!!"
-msgstr ""
+msgstr "Hjälp!"
 
 #: ../../msn/msn_r2.c:1085
 msgid "Warum sprechen Sie meine Sprache?"
-msgstr ""
+msgstr "Varför talar du mitt språk?"
 
 #: ../../msn/msn_r2.c:1091
 msgid "Ja, ich bin einverstanden."
-msgstr ""
+msgstr "Ja, det håller jag med om."
 
 #: ../../msn/msn_r2.c:1092
 msgid "Nein, lieber bleibe ich hier, als mit Ihnen zu fliegen."
-msgstr ""
+msgstr "Nej, jag stannar hellre här än flyger med dig."
 
 #: ../../msn/msn_r2.c:1141
 msgid "Ich glaube, er wacht auf."
-msgstr ""
+msgstr "Jag tror att han håller på att vakna."
 
 #: ../../msn/msn_r2.c:1143
 msgid "Ja, sieht so aus."
-msgstr ""
+msgstr "Ja, det ser så ut."
 
 #: ../../msn/msn_r2.c:1148
 msgid "Sie befinden sich im Raumschiff \"Dexxa\"."
-msgstr ""
+msgstr "Du befinner dig i rymdskeppet \"Dexxa\"."
 
 #: ../../msn/msn_r2.c:1149
 msgid ""
 "Wir kommen vom Planeten Axacuss und|sind aus dem gleichen Grund hier wie "
 "Sie,|nämlich zur Erforschung der Supernova."
 msgstr ""
+"Vi kommer från planeten Axacuss och är här av samma anledning som ni, "
+"nämligen för att utforska supernovan."
 
 #: ../../msn/msn_r2.c:1151
 msgid "Sie können beruhigt sein, wir wollen Ihnen nur helfen."
-msgstr ""
+msgstr "Du kan vara säker på att vi bara vill hjälpa dig."
 
 #: ../../msn/msn_r2.c:1152
 msgid "Und wieso hat der Typ im Raumanzug|eben auf mich geschossen?"
-msgstr ""
+msgstr "Och varför sköt killen i rymddräkten på mig?"
 
 #: ../../msn/msn_r2.c:1153
 msgid "Das war eine Schreckreaktion."
-msgstr ""
+msgstr "Det var en chockartad reaktion."
 
 #: ../../msn/msn_r2.c:1154
 msgid ""
 "Schließlich ist es für uns das erste Mal,|daß wir auf eine fremde "
 "Intelligenz treffen."
-msgstr ""
+msgstr "Det här är trots allt första gången vi möter en främmande intelligens."
 
 #: ../../msn/msn_r2.c:1155
 msgid "Wie wir festgestellt haben, ist|Ihr Raumschiff völlig zerstört."
-msgstr ""
+msgstr "Som vi har upptäckt är ert rymdskepp totalförstört."
 
 #: ../../msn/msn_r2.c:1156
 msgid "Wahrscheinlich können Sie nicht|mehr auf ihren Heimatplaneten zurück."
-msgstr ""
+msgstr "Du kommer förmodligen inte att kunna återvända till din hemplanet."
 
 #: ../../msn/msn_r2.c:1157
 msgid "Wir bieten Ihnen an, Sie|mit nach Axacuss zu nehmen."
-msgstr ""
+msgstr "Vi erbjuder oss att ta dig till Axacuss."
 
 #: ../../msn/msn_r2.c:1160 ../../msn/msn_r2.c:1169
 msgid "Sind Sie sich da wirklich sicher?"
-msgstr ""
+msgstr "Är du verkligen säker på det?"
 
 #: ../../msn/msn_r2.c:1161 ../../msn/msn_r2.c:1170
 msgid "Wenn ich es mir genau überlege,|fliege ich doch lieber mit."
-msgstr ""
+msgstr "Vid närmare eftertanke flyger jag hellre med dig."
 
 #: ../../msn/msn_r2.c:1163
 msgid ""
 "Gut, wir nehmen Sie unter der|Bedingung mit, daß wir Sie jetzt|sofort in "
 "Tiefschlaf versetzen dürfen."
 msgstr ""
+"Okej, vi tar dig med oss på villkor att vi kan försätta dig i djup sömn nu."
 
 #: ../../msn/msn_r2.c:1164
 msgid "Diese Art des Reisens ist Ihnen|ja scheinbar nicht unbekannt."
-msgstr ""
+msgstr "Den här typen av resor är uppenbarligen inte okända för dig."
 
 #: ../../msn/msn_r2.c:1165
 msgid ""
 "Sie werden in vier Jahren nach der|Landung der \"Dexxa\" wieder aufgeweckt."
-msgstr ""
+msgstr "De kommer att väckas till liv fyra år efter landningen av \"Dexxa\"."
 
 #: ../../msn/msn_r2.c:1166
 msgid "Sind Sie damit einverstanden?"
-msgstr ""
+msgstr "Håller du med om detta?"
 
 #: ../../msn/msn_r2.c:1172
 msgid "Gut, haben Sie noch irgendwelche Fragen?"
-msgstr ""
+msgstr "Okej, har du några fler frågor?"
 
 #: ../../msn/msn_r2.c:1174
 msgid "Keine Panik!"
-msgstr ""
+msgstr "Få inte panik!"
 
 #: ../../msn/msn_r2.c:1175
 msgid "Wir tun Ihnen nichts."
-msgstr ""
+msgstr "Vi ska inte göra dig illa."
 
 #: ../../msn/msn_r2.c:1177
 msgid "Wir sprechen nicht ihre Sprache,|sondern Sie sprechen unsere."
-msgstr ""
+msgstr "Vi talar inte deras språk, de talar vårt."
 
 #: ../../msn/msn_r2.c:1178
 msgid ""
 "Nach einer Gehirnanalyse konnten|wir Ihr Gehirn an unsere Sprache anpassen."
 msgstr ""
+"Efter att ha analyserat din hjärna kunde vi anpassa din hjärna till vårt "
+"språk."
 
 #: ../../msn/msn_r2.c:1179
 msgid "Was? Sie haben in mein Gehirn eingegriffen?"
-msgstr ""
+msgstr "Vadå, störde du min hjärna?"
 
 #: ../../msn/msn_r2.c:1180
 msgid "Keine Angst, wir haben sonst nichts verändert."
-msgstr ""
+msgstr "Oroa dig inte, vi har inte ändrat något annat."
 
 #: ../../msn/msn_r2.c:1181
 msgid "Ohne diesen Eingriff wären|Sie verloren gewesen."
-msgstr ""
+msgstr "Utan denna insats skulle du ha varit förlorad."
 
 #: ../../msn/msn_r2.c:1186
 msgid "Ich habe keine weiteren Fragen mehr."
-msgstr ""
+msgstr "Jag har inga fler frågor."
 
 #: ../../msn/msn_r2.c:1187
 msgid "Gut, dann versetzen wir Sie jetzt in Tiefschlaf."
-msgstr ""
+msgstr "Bra, då ska vi försätta dig i djup sömn nu."
 
 #: ../../msn/msn_r2.c:1188
 msgid "Gute Nacht!"
-msgstr ""
+msgstr "God natt!"
 
 #: ../../msn/msn_r2.c:1213 ../../msn/msn_r2.c:1214
 msgid "Stein"
-msgstr ""
+msgstr "Sten"
 
 #: ../../msn/msn_r2.c:1215
 msgid "Loch"
-msgstr ""
+msgstr "Hål"
 
 #: ../../msn/msn_r2.c:1215
 msgid "Es scheint eine Höhle zu sein."
-msgstr ""
+msgstr "Det ser ut att vara en grotta."
 
 #: ../../msn/msn_r2.c:1221
 msgid "Hier bist du gerade hergekommen."
-msgstr ""
+msgstr "Du har precis kommit hit."
 
 #: ../../msn/msn_r2.c:1229 ../../msn/msn_r2.c:1310 ../../msn/msn_r2.c:1319
 msgid "Höhle"
-msgstr ""
+msgstr "Grotta"
 
 #: ../../msn/msn_r2.c:1230 ../../msn/msn_r2.c:1243 ../../msn/msn_r2.c:1257
 #: ../../msn/msn_r3.c:1687
 msgid "Schild"
-msgstr ""
+msgstr "Sköld"
 
 #: ../../msn/msn_r2.c:1230 ../../msn/msn_r2.c:1243 ../../msn/msn_r2.c:1257
 msgid "Diese Schrift kannst du nicht lesen."
-msgstr ""
+msgstr "Du kan inte läsa den här skriften."
 
 #: ../../msn/msn_r2.c:1231
 msgid "Eingang"
-msgstr ""
+msgstr "Ingång"
 
 #: ../../msn/msn_r2.c:1232 ../../msn/msn_r2.c:1318
 msgid "Stern"
-msgstr ""
+msgstr "Stjärna"
 
 #: ../../msn/msn_r2.c:1233 ../../msn/msn_r2.c:1234 ../../msn/msn_r2.c:1309
 msgid "Raumschiff"
-msgstr ""
+msgstr "Rymdskepp"
 
 #: ../../msn/msn_r2.c:1240
 msgid "Portier"
-msgstr ""
+msgstr "Porter"
 
 #: ../../msn/msn_r2.c:1240
 msgid "Du siehst doch selbst, wie er aussieht."
-msgstr ""
+msgstr "Du kan själv se hur han ser ut."
 
 #: ../../msn/msn_r2.c:1242 ../../msn/msn_r3.c:1480 ../../msn/msn_r3.c:1545
 #: ../../msn/msn_r3.c:1560 ../../msn/msn_r3.c:1569 ../../msn/msn_r3.c:1580
@@ -2012,836 +2057,846 @@ msgstr ""
 #: ../../msn/msn_r3.c:1644 ../../msn/msn_r3.c:1656 ../../msn/msn_r3.c:1667
 #: ../../msn/msn_r3.c:1688
 msgid "Tür"
-msgstr ""
+msgstr "Dörr"
 
 #: ../../msn/msn_r2.c:1245
 msgid "Kaugummi"
-msgstr ""
+msgstr "Tuggummi"
 
 #: ../../msn/msn_r2.c:1246
 msgid "Gummibärchen"
-msgstr ""
+msgstr "Gummibjörnar"
 
 #: ../../msn/msn_r2.c:1247
 msgid "Schokokugel"
-msgstr ""
+msgstr "Chokladboll"
 
 #: ../../msn/msn_r2.c:1248
 msgid "Überraschungsei"
-msgstr ""
+msgstr "Överraskningsägg"
 
 #: ../../msn/msn_r2.c:1249
 msgid "Lakritz"
-msgstr ""
+msgstr "Lakrits"
 
 #: ../../msn/msn_r2.c:1250
 msgid "Tablette"
-msgstr ""
+msgstr "Tablett"
 
 #: ../../msn/msn_r2.c:1250
 msgid ""
 "Die Plastikhülle zeigt einen|Mund mit einer Sprechblase. Was|darin steht, "
 "kannst du nicht lesen."
 msgstr ""
+"Plasthöljet visar en mun med en pratbubbla. Du kan inte läsa vad som står."
 
 #: ../../msn/msn_r2.c:1253
 msgid "Automat"
-msgstr ""
+msgstr "Automatisk maskin"
 
 #: ../../msn/msn_r2.c:1253
 msgid "Sieht aus wie ein Kaugummiautomat."
-msgstr ""
+msgstr "Ser ut som en tuggummimaskin."
 
 #: ../../msn/msn_r2.c:1254
 msgid "Die Toiletten sind denen|auf der Erde sehr ähnlich."
-msgstr ""
+msgstr "Toaletterna är mycket lika de som finns på jorden."
 
 #: ../../msn/msn_r2.c:1258 ../../msn/msn_r2.c:1269
 msgid "Treppe"
-msgstr ""
+msgstr "Trappa"
 
 #: ../../msn/msn_r2.c:1260
 msgid "Münzen"
-msgstr ""
+msgstr "Mynt"
 
 #: ../../msn/msn_r2.c:1260
 msgid "Es sind seltsame|Köpfe darauf abgebildet."
-msgstr ""
+msgstr "Det finns märkliga huvuden avbildade på den."
 
 #: ../../msn/msn_r2.c:1262
 msgid "Tablettenhülle"
-msgstr ""
+msgstr "Fodral för surfplatta"
 
 #: ../../msn/msn_r2.c:1262
 msgid ""
 "Darauf steht:\"Wenn Sie diese|Schrift jetzt lesen können,|hat die Tablette "
 "gewirkt.\""
 msgstr ""
+"Det står: \"Om du kan läsa det här typsnittet nu, så har tabletten fungerat."
+"\""
 
 #: ../../msn/msn_r2.c:1270
 msgid "Stuhl"
-msgstr ""
+msgstr "Ordförande"
 
 #: ../../msn/msn_r2.c:1271
 msgid "Schuhe"
-msgstr ""
+msgstr "Skor"
 
 #: ../../msn/msn_r2.c:1271
 msgid "Wie ist der denn mit|Schuhen hier reingekommen?"
-msgstr ""
+msgstr "Hur kom han in här med skorna?"
 
 #: ../../msn/msn_r2.c:1278
 msgid "Froschgesicht"
-msgstr ""
+msgstr "Grodansikte"
 
 #: ../../msn/msn_r2.c:1279
 msgid "Gekritzel"
-msgstr ""
+msgstr "Skribbla"
 
 #: ../../msn/msn_r2.c:1279
 msgid "\"Mr Spock was here\""
-msgstr ""
+msgstr "\"Mr Spock var här\""
 
 #: ../../msn/msn_r2.c:1280
 msgid "Brieftasche"
-msgstr ""
+msgstr "Plånbok"
 
 #: ../../msn/msn_r2.c:1281
 msgid "Speisekarte"
-msgstr ""
+msgstr "Meny"
 
 #: ../../msn/msn_r2.c:1281
 msgid "\"Heute empfehlen wir:|Fonua Opra mit Ulk.\""
-msgstr ""
+msgstr "\"I dag rekommenderar vi: Fonua Opra med Ulk.\""
 
 #: ../../msn/msn_r2.c:1282
 msgid "Tasse"
-msgstr ""
+msgstr "Mugg"
 
 #: ../../msn/msn_r2.c:1282
 msgid "Sie enthält eine grünliche Flüssigkeit."
-msgstr ""
+msgstr "Den innehåller en grönaktig vätska."
 
 #: ../../msn/msn_r2.c:1284
 msgid "10-Buckazoid-Schein"
-msgstr ""
+msgstr "10 Buckazoid anmärkning"
 
 #: ../../msn/msn_r2.c:1284
 msgid "Nicht gerade sehr viel Geld."
-msgstr ""
+msgstr "Det är inte direkt mycket pengar."
 
 #: ../../msn/msn_r2.c:1286 ../../msn/msn_r2.c:1297
 msgid "Keycard von Roger"
-msgstr ""
+msgstr "Nyckelkort från Roger"
 
 #: ../../msn/msn_r2.c:1301
 msgid "Anzeige"
-msgstr ""
+msgstr "Display"
 
 #: ../../msn/msn_r2.c:1301 ../../msn/msn_r2.c:1302
 msgid "Hmm, seltsame Anzeigen."
-msgstr ""
+msgstr "Hmm, konstiga annonser."
 
 #: ../../msn/msn_r2.c:1308
 msgid "Roger W."
-msgstr ""
+msgstr "Roger W."
 
 #: ../../msn/msn_r2.c:1317
 msgid "Ufo"
-msgstr ""
+msgstr "UFO"
 
 #: ../../msn/msn_r2.c:1317
 msgid "Der Eingang scheint offen zu sein."
-msgstr ""
+msgstr "Ingången verkar vara öppen."
 
 #: ../../msn/msn_r3.c:27
 msgid "Du drückst den Knopf,|aber nichts passiert."
-msgstr ""
+msgstr "Du trycker på knappen, men ingenting händer."
 
 #: ../../msn/msn_r3.c:88
 msgid "Bei deinem Fluchtversuch hat|dich der Roboter erschossen."
-msgstr ""
+msgstr "Roboten sköt dig när du försökte fly."
 
 #: ../../msn/msn_r3.c:91
 msgid "Du ißt etwas, aber|es schmeckt scheußlich."
-msgstr ""
+msgstr "Du äter något, men det smakar hemskt."
 
 #: ../../msn/msn_r3.c:171
 msgid "Du wachst auf und findest dich in|einem geschlossenen Raum wieder."
-msgstr ""
+msgstr "Du vaknar och befinner dig i ett slutet rum."
 
 #: ../../msn/msn_r3.c:230
 msgid "Äh ... nein, mein Name ist Müller."
-msgstr ""
+msgstr "Er... nej, mitt namn är Müller."
 
 #: ../../msn/msn_r3.c:231
 msgid "Oh, ich habe mich im Gang vertan."
-msgstr ""
+msgstr "Åh, jag gjorde ett misstag i korridoren."
 
 #: ../../msn/msn_r3.c:237
 msgid "Würden Sie mich bitte zum Fahrstuhl lassen?"
-msgstr ""
+msgstr "Kan jag få använda hissen?"
 
 #: ../../msn/msn_r3.c:238
 msgid "Ich gehe wieder."
-msgstr ""
+msgstr "Jag ska gå igen."
 
 #: ../../msn/msn_r3.c:243
 msgid "Dann gehe ich eben wieder."
-msgstr ""
+msgstr "Då får jag väl göra det igen."
 
 #: ../../msn/msn_r3.c:244
 msgid "Ach, halten Sie's Maul, ich gehe trotzdem!"
-msgstr ""
+msgstr "Håll käften, jag ska ändå gå!"
 
 #: ../../msn/msn_r3.c:245 ../../msn/msn_r3.c:246
 msgid "Wenn Sie mich durchlassen gebe ich Ihnen %d Xa."
-msgstr ""
+msgstr "Om du släpper igenom mig ger jag dig %d Xa."
 
 #: ../../msn/msn_r3.c:258
 msgid "Sie schon wieder?"
-msgstr ""
+msgstr "Du igen?"
 
 #: ../../msn/msn_r3.c:264
 msgid "Halt! Sie sind doch dieser Hummel.|Bleiben Sie sofort stehen!"
-msgstr ""
+msgstr "Stanna! Du är den där humlan! Stanna där!"
 
 #: ../../msn/msn_r3.c:266
 msgid "Sehr witzig!"
-msgstr ""
+msgstr "Mycket roligt!"
 
 #: ../../msn/msn_r3.c:269
 msgid "Kann auch sein, auf jeden Fall|sind Sie der Nicht-Axacussaner."
-msgstr ""
+msgstr "Kanske, men i vilket fall som helst är det du som är icke-Axacussan."
 
 #: ../../msn/msn_r3.c:273
 msgid "Nein!"
-msgstr ""
+msgstr "Nej! Nej!"
 
 #: ../../msn/msn_r3.c:310
 msgid "Das müßte schon ein bißchen mehr sein."
-msgstr ""
+msgstr "Det skulle behöva vara lite mer."
 
 #: ../../msn/msn_r3.c:324
 msgid "Ok, dann machen Sie daß Sie wegkommen!"
-msgstr ""
+msgstr "Okej, se då till att komma iväg!"
 
 #: ../../msn/msn_r3.c:430
 msgid "Der Axacussaner hat dich erwischt."
-msgstr ""
+msgstr "Axacussan har dig."
 
 #: ../../msn/msn_r3.c:547
 msgid ""
 "Diese Tür würde ich lieber|nicht öffnen. Nach dem Schild zu|urteilen, ist "
 "jemand in dem Raum."
 msgstr ""
+"Jag vill helst inte öppna den här dörren. Av skylten att döma är det någon i "
+"rummet."
 
 #: ../../msn/msn_r3.c:642
 msgid "Du stellst dich hinter die Säule."
-msgstr ""
+msgstr "Du står bakom pelaren."
 
 #: ../../msn/msn_r3.c:656
 msgid "Hmm, er scheint kaputt zu sein."
-msgstr ""
+msgstr "Hmm, det verkar vara trasigt."
 
 #: ../../msn/msn_r3.c:696
 msgid "Welche Zahlenkombination willst|du eingeben?"
-msgstr ""
+msgstr "Vilken kombination av siffror vill du ange?"
 
 #: ../../msn/msn_r3.c:708
 msgid ""
 "Hmm, das haut nicht ganz hin,|aber irgendwie muß die Zahl|mit dem Code "
 "zusammenhängen."
 msgstr ""
+"Hmm, det fungerar inte riktigt, men på något sätt måste numret vara "
+"relaterat till koden."
 
 #: ../../msn/msn_r3.c:710
 msgid "Das war die falsche Kombination."
-msgstr ""
+msgstr "Det var fel kombination."
 
 #: ../../msn/msn_r3.c:748
 msgid "Streng geheim"
-msgstr ""
+msgstr "Topphemlig"
 
 #: ../../msn/msn_r3.c:749
 msgid "418-98"
-msgstr ""
+msgstr "418-98"
 
 #: ../../msn/msn_r3.c:750
 msgid "Sehr geehrter Dr. Hansi,"
-msgstr ""
+msgstr "Kära dr Hansi,"
 
 #: ../../msn/msn_r3.c:751
 msgid "Ich muß Ihren Roboterexperten ein Lob aussprechen. Die"
-msgstr ""
+msgstr "Jag måste berömma era robotexperter. De"
 
 #: ../../msn/msn_r3.c:752
 msgid "Imitation von Horst Hummel ist perfekt gelungen, wie ich"
-msgstr ""
+msgstr "Imitation av Horst Hummel har lyckats perfekt, som jag"
 
 #: ../../msn/msn_r3.c:753
 msgid "heute bei der Übertragung des Interviews feststellen"
-msgstr ""
+msgstr "idag under sändningen av intervjun"
 
 #: ../../msn/msn_r3.c:754
 msgid "konnte. Dem Aufschwung Ihrer Firma durch die Werbe-"
-msgstr ""
+msgstr "kunde. Uppsvinget för ditt företag genom reklam"
 
 #: ../../msn/msn_r3.c:755
 msgid "kampagne mit dem falschen Horst Hummel dürfte ja jetzt"
-msgstr ""
+msgstr "kampanj med den falska Horst Hummel bör nu vara"
 
 #: ../../msn/msn_r3.c:756
 msgid "nichts mehr im Wege stehen."
-msgstr ""
+msgstr "inget mer står i vägen."
 
 #: ../../msn/msn_r3.c:757
 msgid "PS: Herzlichen zum Geburtstag!"
-msgstr ""
+msgstr "PS: Grattis på födelsedagen!"
 
 #: ../../msn/msn_r3.c:758
 msgid "Hochachtungsvoll"
-msgstr ""
+msgstr "Med vänlig hälsning"
 
 #: ../../msn/msn_r3.c:759
 msgid "Commander Sumoti"
-msgstr ""
+msgstr "Kommendörkapten Sumoti"
 
 #: ../../msn/msn_r3.c:766
 msgid "Nicht zu fassen!"
-msgstr ""
+msgstr "Otroligt!"
 
 #: ../../msn/msn_r3.c:838
 msgid "Hey, hinter dem Bild ist Geld|versteckt. Ich nehme es mit."
-msgstr ""
+msgstr "Det finns pengar gömda bakom bilden. Jag tar dem med mig."
 
 #: ../../msn/msn_r3.c:1047
 msgid "DR. ALAB HANSI"
-msgstr ""
+msgstr "DR. ALAB HANSI"
 
 #: ../../msn/msn_r3.c:1047
 msgid "ALAB HANSI"
-msgstr ""
+msgstr "ALAB HANSI"
 
 #: ../../msn/msn_r3.c:1048
 msgid "SAVAL LUN"
-msgstr ""
+msgstr "SAVAL LUN"
 
 #: ../../msn/msn_r3.c:1048 ../../msn/msn_r3.c:1050
 msgid "x"
-msgstr ""
+msgstr "x"
 
 #: ../../msn/msn_r3.c:1049
 msgid "PROF. DR. UGNUL TSCHABB"
-msgstr ""
+msgstr "PROF. DR. UGNUL TSCHABB"
 
 #: ../../msn/msn_r3.c:1049
 msgid "UGNUL TSCHABB"
-msgstr ""
+msgstr "UGNUL TSCHABB"
 
 #: ../../msn/msn_r3.c:1050
 msgid "ALGA HURZ LI"
-msgstr ""
+msgstr "ALGA HURZ LI"
 
 #: ../../msn/msn_r3.c:1054
 msgid "Alab Hansi"
-msgstr ""
+msgstr "Alab Hansi"
 
 #: ../../msn/msn_r3.c:1054
 msgid "Saval Lun"
-msgstr ""
+msgstr "Saval Lun"
 
 #: ../../msn/msn_r3.c:1054
 msgid "Ugnul Tschabb"
-msgstr ""
+msgstr "Ugnul Chabb"
 
 #: ../../msn/msn_r3.c:1054
 msgid "Alga Hurz Li"
-msgstr ""
+msgstr "Alga Hurz Li"
 
 #: ../../msn/msn_r3.c:1060
 msgid "Guten Tag, hier ist Horst Hummel."
-msgstr ""
+msgstr "Hej, det här är Horst Hummel."
 
 #: ../../msn/msn_r3.c:1062
 msgid "Es ist sehr wichtig."
-msgstr ""
+msgstr "Det är mycket viktigt."
 
 #: ../../msn/msn_r3.c:1068
 msgid "Vom Mars."
-msgstr ""
+msgstr "Från Mars."
 
 #: ../../msn/msn_r3.c:1069
 msgid "Vom Klo."
-msgstr ""
+msgstr "Från toaletten."
 
 #: ../../msn/msn_r3.c:1070
 msgid "Das werde ich kaum erzählen."
-msgstr ""
+msgstr "Det tänker jag knappast säga."
 
 #: ../../msn/msn_r3.c:1079
 msgid "1 Büromanager"
-msgstr ""
+msgstr "1 kontorschef"
 
 #: ../../msn/msn_r3.c:1080
 msgid "2 Telomat"
-msgstr ""
+msgstr "2 Telomat"
 
 #: ../../msn/msn_r3.c:1081
 msgid "3 ProText"
-msgstr ""
+msgstr "3 ProText"
 
 #: ../../msn/msn_r3.c:1082
 msgid "4 Calculata"
-msgstr ""
+msgstr "4 Calculata"
 
 #: ../../msn/msn_r3.c:1083
 msgid "Bitte wählen"
-msgstr ""
+msgstr "Var god välj"
 
 #: ../../msn/msn_r3.c:1091
 msgid "Geben Sie den gewünschten Namen ein:"
-msgstr ""
+msgstr "Ange önskat namn:"
 
 #: ../../msn/msn_r3.c:1092
 msgid "(Vor- und Nachname)"
-msgstr ""
+msgstr "(för- och efternamn)"
 
 #: ../../msn/msn_r3.c:1106
 msgid "Name unbekannt"
-msgstr ""
+msgstr "Namn okänt"
 
 #: ../../msn/msn_r3.c:1112
 msgid "Verbindung unmöglich"
-msgstr ""
+msgstr "Anslutning omöjlig"
 
 #: ../../msn/msn_r3.c:1116
 msgid "Verbindung wird hergestellt"
-msgstr ""
+msgstr "Anslutningen är upprättad"
 
 #. I18N: Here the %s is a name
 #: ../../msn/msn_r3.c:1121
 #, c-format
 msgid "%s am Apparat."
-msgstr ""
+msgstr "%s på telefonen."
 
 #: ../../msn/msn_r3.c:1127
 #, c-format
 msgid "Hier ist %s. Können Sie mal gerade kommen?"
-msgstr ""
+msgstr "Det här är %s. Kan du komma rakt hit?"
 
 #: ../../msn/msn_r3.c:1134
 msgid "Huch, Sie hören sich aber|nicht gut an. Ich komme sofort."
-msgstr ""
+msgstr "Oj, du låter inte så bra. Jag kommer strax."
 
 #: ../../msn/msn_r3.c:1145
 msgid "Horst Hummel! Von wo rufen Sie an?"
-msgstr ""
+msgstr "Horst Hummel! Varifrån ringer du?"
 
 #: ../../msn/msn_r3.c:1151
 msgid "Hmm, keine Antwort."
-msgstr ""
+msgstr "Hmm, inget svar."
 
 #: ../../msn/msn_r3.c:1164
 msgid "Passwort:"
-msgstr ""
+msgstr "Lösenord:"
 
 #: ../../msn/msn_r3.c:1215
 msgid "Was war das für ein Geräusch?"
-msgstr ""
+msgstr "Vad var det för oljud?"
 
 #: ../../msn/msn_r3.c:1217 ../../msn/msn_s.c:312
 msgid "Ich werde mal nachsehen."
-msgstr ""
+msgstr "Jag ska ta en titt."
 
 #: ../../msn/msn_r3.c:1305
 msgid "Jetzt verschwinden Sie endlich!"
-msgstr ""
+msgstr "Nu kan du äntligen gå vilse!"
 
 #: ../../msn/msn_r3.c:1306
 msgid "Huch, ich habe mich vertan."
-msgstr ""
+msgstr "Oj, jag gjorde ett misstag."
 
 #: ../../msn/msn_r3.c:1368
 msgid ""
 "Nachdem du zwei Stunden im|Dschungel herumgeirrt bist,|findest du ein "
 "Gebäude."
-msgstr ""
+msgstr "Efter att ha vandrat runt i djungeln i två timmar hittar du en byggnad."
 
 #: ../../msn/msn_r3.c:1481
 msgid "Tablett"
-msgstr ""
+msgstr "Surfplatta"
 
 #: ../../msn/msn_r3.c:1481
 msgid "Es ist irgendein Fraß und|etwas zu Trinken darauf."
-msgstr ""
+msgstr "Det finns lite mat och något att dricka på den."
 
 #: ../../msn/msn_r3.c:1483
 msgid "Stange"
-msgstr ""
+msgstr "Bar"
 
 #: ../../msn/msn_r3.c:1483
 msgid "Es scheint eine Lampe zu sein."
-msgstr ""
+msgstr "Det ser ut att vara en lampa."
 
 #: ../../msn/msn_r3.c:1484
 msgid "Augen"
-msgstr ""
+msgstr "Ögon"
 
 #: ../../msn/msn_r3.c:1484
 msgid "Es ist nur ein Bild."
-msgstr ""
+msgstr "Det är bara en bild."
 
 #: ../../msn/msn_r3.c:1486
 msgid "Sieht etwas anders aus als auf der Erde."
-msgstr ""
+msgstr "Ser lite annorlunda ut än på jorden."
 
 #: ../../msn/msn_r3.c:1488
 msgid "Metallblock"
-msgstr ""
+msgstr "Metallblock"
 
 #: ../../msn/msn_r3.c:1488
 msgid "Er ist ziemlich schwer."
-msgstr ""
+msgstr "Den är ganska tung."
 
 #: ../../msn/msn_r3.c:1490
 msgid "Roboter"
-msgstr ""
+msgstr "Robot"
 
 #: ../../msn/msn_r3.c:1490
 msgid "Den hast du erledigt."
-msgstr ""
+msgstr "Du har gjort det."
 
 #: ../../msn/msn_r3.c:1491 ../../msn/msn_r3.c:1528
 msgid "Tisch"
-msgstr ""
+msgstr "Tabell"
 
 #: ../../msn/msn_r3.c:1491
 msgid "Ein kleiner Metalltisch."
-msgstr ""
+msgstr "Ett litet metallbord."
 
 #: ../../msn/msn_r3.c:1524
 msgid "Zellentür"
-msgstr ""
+msgstr "Celldörr"
 
 #: ../../msn/msn_r3.c:1524
 msgid "Hier warst du eingesperrt."
-msgstr ""
+msgstr "Du var inlåst här."
 
 #: ../../msn/msn_r3.c:1526
 msgid "Laptop"
-msgstr ""
+msgstr "Bärbar dator"
 
 #: ../../msn/msn_r3.c:1576 ../../msn/msn_r3.c:1577
 msgid "Säule"
-msgstr ""
+msgstr "Kolumn"
 
 #: ../../msn/msn_r3.c:1580
 msgid "Auf einem Schild an der Tür steht \"Dr. Alab Hansi\"."
-msgstr ""
+msgstr "På en skylt på dörren står det \"Dr Alab Hansi\"."
 
 #: ../../msn/msn_r3.c:1582
 msgid "Auf einem Schild an der Tür steht \"Saval Lun\"."
-msgstr ""
+msgstr "På dörren finns en skylt med texten \"Saval Lun\"."
 
 #: ../../msn/msn_r3.c:1584
 msgid "Auf einem Schild an der Tür steht \"Prof. Dr. Ugnul Tschabb\"."
-msgstr ""
+msgstr "På dörren finns en skylt med texten \"Prof Dr Ugnul Tschabb\"."
 
 #: ../../msn/msn_r3.c:1586
 msgid "Auf einem Schild an der Tür steht \"Alga Hurz Li\"."
-msgstr ""
+msgstr "På dörren finns en skylt med texten \"Alga Hurz Li\"."
 
 #: ../../msn/msn_r3.c:1597 ../../msn/msn_r3.c:1613
 msgid "Axacussaner"
-msgstr ""
+msgstr "Axacussans"
 
 #: ../../msn/msn_r3.c:1597
 msgid "Du müßtest ihn irgendwie ablenken."
-msgstr ""
+msgstr "Du måste distrahera honom på nåt sätt."
 
 #: ../../msn/msn_r3.c:1599
 msgid "Komisches Bild."
-msgstr ""
+msgstr "Rolig bild."
 
 #: ../../msn/msn_r3.c:1600
 msgid "Karte"
-msgstr ""
+msgstr "Karta"
 
 #: ../../msn/msn_r3.c:1600
 msgid "Darauf steht: \"Generalkarte\"."
-msgstr ""
+msgstr "Det står: \"Allmän karta\"."
 
 #: ../../msn/msn_r3.c:1612
 msgid "Lampe"
-msgstr ""
+msgstr "Lampa"
 
 #: ../../msn/msn_r3.c:1614
 msgid "Seltsam!"
-msgstr ""
+msgstr "Konstigt!"
 
 #: ../../msn/msn_r3.c:1623 ../../msn/msn_r3.c:1670
 msgid "Geld"
-msgstr ""
+msgstr "Pengar"
 
 #: ../../msn/msn_r3.c:1623
 msgid "Es sind 500 Xa."
-msgstr ""
+msgstr "Det finns 500 Xa."
 
 #: ../../msn/msn_r3.c:1624
 msgid "Schließfach"
-msgstr ""
+msgstr "Skåp"
 
 #: ../../msn/msn_r3.c:1624
 msgid "Es hat ein elektronisches Zahlenschloß."
-msgstr ""
+msgstr "Den har ett elektroniskt kombinationslås."
 
 #: ../../msn/msn_r3.c:1626
 msgid "Brief"
-msgstr ""
+msgstr "Brev"
 
 #: ../../msn/msn_r3.c:1635
 msgid "Würfel"
-msgstr ""
+msgstr "Kub"
 
 #: ../../msn/msn_r3.c:1635
 msgid "Sonderbar!"
-msgstr ""
+msgstr "Konstigt!"
 
 #: ../../msn/msn_r3.c:1636
 msgid "Affenstark!"
-msgstr ""
+msgstr "Apa stark!"
 
 #: ../../msn/msn_r3.c:1637
 msgid "Komisches Ding"
-msgstr ""
+msgstr "Rolig sak"
 
 #: ../../msn/msn_r3.c:1637
 msgid "Wundersam!"
-msgstr ""
+msgstr "Underbart!"
 
 #: ../../msn/msn_r3.c:1646 ../../msn/msn_r3.c:1647
 msgid "Es ist ein Axacussanerkopf auf dem Bild."
-msgstr ""
+msgstr "Det finns ett axacussanerhuvud på bilden."
 
 #: ../../msn/msn_r3.c:1648 ../../msn/msn_r3.c:1659
 msgid "Pflanze"
-msgstr ""
+msgstr "Anläggning"
 
 #: ../../msn/msn_r3.c:1658
 msgid "Figur"
-msgstr ""
+msgstr "Figur"
 
 #: ../../msn/msn_r3.c:1658
 msgid "Stark!"
-msgstr ""
+msgstr "Stark!"
 
 #: ../../msn/msn_r3.c:1659
 msgid "Sie ist den Pflanzen auf der Erde sehr ähnlich."
-msgstr ""
+msgstr "Den är mycket lik växter på jorden."
 
 #: ../../msn/msn_r3.c:1668
 msgid "Er funktioniert nicht."
-msgstr ""
+msgstr "Det fungerar inte."
 
 #: ../../msn/msn_r3.c:1669
 msgid "Graffiti"
-msgstr ""
+msgstr "Graffiti"
 
 #: ../../msn/msn_r3.c:1669
 msgid "Seltsamer Büroschmuck!"
-msgstr ""
+msgstr "Märkliga kontorssmycken!"
 
 #: ../../msn/msn_r3.c:1670
 msgid "Es sind 350 Xa."
-msgstr ""
+msgstr "Det finns 350 Xa."
 
 #: ../../msn/msn_r3.c:1680
 msgid "Dschungel"
-msgstr ""
+msgstr "Djungel"
 
 #: ../../msn/msn_r3.c:1680
 msgid "Lauter Bäume."
-msgstr ""
+msgstr "Massor av träd."
 
 #: ../../msn/msn_s.c:84
 msgid "Teil 1:"
-msgstr ""
+msgstr "Del 1:"
 
 #: ../../msn/msn_s.c:85
 msgid "Das Schicksal"
-msgstr ""
+msgstr "Ödet"
 
 #: ../../msn/msn_s.c:86
 msgid "des Horst Hummel"
-msgstr ""
+msgstr "av Horst Hummel"
 
 #: ../../msn/msn_s.c:131
 msgid "Viertausend"
-msgstr ""
+msgstr "Fyra tusen"
 
 #: ../../msn/msn_s.c:131
 msgid "Fünftausend"
-msgstr ""
+msgstr "Fem tusen"
 
 #: ../../msn/msn_s.c:131
 msgid "Sechstausend"
-msgstr ""
+msgstr "Sex tusen"
 
 #: ../../msn/msn_s.c:131
 msgid "Siebentausend"
-msgstr ""
+msgstr "Sju tusen"
 
 #: ../../msn/msn_s.c:144
 msgid "Zwei Tage nach dem Start|im Cockpit der \"Supernova\" ..."
-msgstr ""
+msgstr "Två dagar efter uppskjutningen i cockpit på \"Supernova\" ..."
 
 #: ../../msn/msn_s.c:153
 msgid "Entferung von der Sonne: 1 500 000 km.|Gehen Sie auf 8000 hpm, Captain!"
-msgstr ""
+msgstr "Avstånd från solen: 1 500 000 km. Gå till 8000 hpm, kapten!"
 
 #: ../../msn/msn_s.c:168
 msgid "Geschwindigkeit:"
-msgstr ""
+msgstr "Hastighet:"
 
 #: ../../msn/msn_s.c:169
 msgid "Zweitausend hpm"
-msgstr ""
+msgstr "Tvåtusen hpm"
 
 #: ../../msn/msn_s.c:172
 msgid "Dreitausend"
-msgstr ""
+msgstr "Tre tusen"
 
 #: ../../msn/msn_s.c:189
 msgid "Achttau..."
-msgstr ""
+msgstr "Achttau..."
 
 #: ../../msn/msn_s.c:214
 msgid "Keine Ahnung, Sir."
-msgstr ""
+msgstr "Ingen aning, sir."
 
 #: ../../msn/msn_s.c:215
 msgid "Ingenieur an Commander, bitte kommen!"
-msgstr ""
+msgstr "Maskinist till befälhavare, kom in!"
 
 #: ../../msn/msn_s.c:221
 msgid "Was ist los?"
-msgstr ""
+msgstr "Vad är det som händer?"
 
 #: ../../msn/msn_s.c:222
 msgid ""
 "Wir haben einen Druckabfall im Hauptantriebssystem, Sir.|Einen Moment, ich "
 "schaue sofort nach, woran es liegt."
 msgstr ""
+"Vi har en tryckförlust i huvudframdrivningssystemet, sir. Ett ögonblick, jag "
+"ska se vad det är."
 
 #: ../../msn/msn_s.c:224
 msgid ""
 "Scheiße, der Ionenantrieb ist explodiert!|Die Teile sind über den ganzen|"
 "Maschinenraum verstreut."
-msgstr ""
+msgstr "Jondriften har exploderat! Delarna är utspridda över hela maskinrummet."
 
 #: ../../msn/msn_s.c:225
 msgid ""
 "Ach, du meine Güte!|Gibt es irgendeine Möglichkeit,|den Schaden schnell zu "
 "beheben?"
-msgstr ""
+msgstr "Herregud, finns det något sätt att snabbt reparera skadan?"
 
 #: ../../msn/msn_s.c:226
 msgid "Nein, Sir. Es sieht schlecht aus."
-msgstr ""
+msgstr "Nej, sir, det ser illa ut."
 
 #: ../../msn/msn_s.c:230
 msgid "Hmm, die Erde zu alarmieren, würde zu lange dauern."
-msgstr ""
+msgstr "Att larma jorden skulle ta för lång tid."
 
 #: ../../msn/msn_s.c:231
 msgid "Ich darf kein Risiko eingehen.|Captain, geben Sie sofort Alarm!"
-msgstr ""
+msgstr "Jag kan inte ta några risker. Kapten, slå larm omedelbart!"
 
 #: ../../msn/msn_s.c:232 ../../msn/msn_s.c:264
 msgid "Ok, Sir."
-msgstr ""
+msgstr "Okej, sir."
 
 #: ../../msn/msn_s.c:255
 msgid ""
 "Commander an alle! Achtung, Achtung!|Begeben Sie sich sofort zum "
 "Notraumschiff!"
 msgstr ""
+"Befälhavare till alla! Lystring, lystring! Gå till nödrymdskeppet omedelbart!"
 
 #: ../../msn/msn_s.c:256
 msgid "Ich wiederhole:|Begeben Sie sich sofort zum Notraumschiff!"
-msgstr ""
+msgstr "Jag upprepar: Ta er till nödrymdskeppet omedelbart!"
 
 #: ../../msn/msn_s.c:263
 msgid ""
 "Captain, bereiten Sie alles für den Start vor!|Wir müssen zurück zur Erde!"
-msgstr ""
+msgstr "Kapten, förbered allt för uppskjutning! Vi måste tillbaka till jorden!"
 
 #: ../../msn/msn_s.c:277
 msgid "Eine Stunde später ..."
-msgstr ""
+msgstr "En timme senare..."
 
 #: ../../msn/msn_s.c:284
 msgid "Die Besatzung hat die \"Supernova\" verlassen."
-msgstr ""
+msgstr "Besättningen har lämnat \"Supernova\"."
 
 #: ../../msn/msn_s.c:285
 msgid ""
 "Das Schiff wird zwar in acht Jahren sein Ziel|erreichen, allerdings ohne "
 "Mannschaft."
-msgstr ""
+msgstr "Fartyget kommer att nå sin destination om åtta år, men utan besättning."
 
 #: ../../msn/msn_s.c:286
 msgid "Das ist das klägliche Ende|der Mission Supernova."
-msgstr ""
+msgstr "Det här är det eländiga slutet på Mission Supernova."
 
 #: ../../msn/msn_s.c:287
 msgid "Sie können jetzt ihren Computer ausschalten."
-msgstr ""
+msgstr "Du kan nu stänga av din dator."
 
 #: ../../msn/msn_s.c:290
 msgid "Warten Sie!"
-msgstr ""
+msgstr "Vänta, vänta!"
 
 #: ../../msn/msn_s.c:291
 msgid "Es regt sich etwas im Schiff."
-msgstr ""
+msgstr "Det är något som rör sig i skeppet."
 
 #: ../../msn/msn_s.c:307
 msgid "Uuuuaaaahhhhh"
-msgstr ""
+msgstr "Uuuuaaaahhhhhh"
 
 #: ../../msn/msn_s.c:309
 msgid "Huch, ich bin ja gefesselt!|Wo bin ich?"
-msgstr ""
+msgstr "Oj, jag är upptagen! Var är jag?"
 
 #: ../../msn/msn_s.c:310
 msgid ""
 "Ach so, das sind ja die Sicherheitsgurte.|Ich arbeite ja jetzt in diesem "
 "Raumschiff hier."
-msgstr ""
+msgstr "Det är säkerhetsbältena. Jag jobbar i rymdskeppet här nu."
 
 #: ../../msn/msn_s.c:311
 msgid ""
 "Was? Schon zwei Uhr! Wieso|hat mich denn noch keiner|aus dem Bett "
 "geschmissen?"
-msgstr ""
+msgstr "Vad? Klockan är redan två! Varför har ingen kastat ut mig ur sängen än?"
 
 #: ../../msn/msn_s.c:314
 msgid "Autsch!"
-msgstr ""
+msgstr "Ouch!"
 
 #: ../../msn/msn_s.c:315
 msgid "Scheißetagenbett!"
-msgstr ""
+msgstr "Jävla våningssäng!"
 
 #: ../../msn/msn_s.c:317
 msgid "Erst mal den Lichtschalter finden."
-msgstr ""
+msgstr "Leta först upp strömbrytaren."
 
 #: ../../msn/msn_s.c:318
 msgid "Hmm, gar nicht so einfach|bei Schwerelosigkeit."
-msgstr ""
+msgstr "Det är inte så lätt med tyngdlöshet."
 
 #: ../../msn/msn_s.c:320
 msgid "Ah, hier ist er."
-msgstr ""
+msgstr "Ah, här är han."
