@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2020-09-02 22:47+0100\n"
-"PO-Revision-Date: 2025-03-12 09:18+0000\n"
+"PO-Revision-Date: 2025-03-12 23:31+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://translations.scummvm.org/projects/"
 "mission-supernova/msn/sv/>\n"
@@ -107,12 +107,12 @@ msgstr "Tryck på "
 #. I18N: Pull
 #: ../../msn/msn.c:2346
 msgid "Ziehe "
-msgstr "Dragning "
+msgstr "Dra "
 
 #. I18N: Use
 #: ../../msn/msn.c:2348
 msgid "Benutze "
-msgstr "Användning "
+msgstr "Använd "
 
 #. I18N: Talk to
 #: ../../msn/msn.c:2350
@@ -356,7 +356,7 @@ msgstr "Hallå!"
 #. I18N: Good day!
 #: ../../msn/msn_r0.c:35
 msgid "Guten Tag!"
-msgstr "Hallå!"
+msgstr "God dag!"
 
 #. I18N: It's me, Horst Hummel
 #: ../../msn/msn_r0.c:37
@@ -2264,7 +2264,7 @@ msgstr "Kanske, men i vilket fall som helst är det du som är icke-Axacussan."
 
 #: ../../msn/msn_r3.c:273
 msgid "Nein!"
-msgstr "Nej! Nej!"
+msgstr "Nej!"
 
 #: ../../msn/msn_r3.c:310
 msgid "Das müßte schon ein bißchen mehr sein."
@@ -2641,7 +2641,7 @@ msgstr "Det finns 500 Xa."
 
 #: ../../msn/msn_r3.c:1624
 msgid "Schließfach"
-msgstr "Skåp"
+msgstr "Bankfack"
 
 #: ../../msn/msn_r3.c:1624
 msgid "Es hat ein elektronisches Zahlenschloß."
@@ -2657,7 +2657,7 @@ msgstr "Kub"
 
 #: ../../msn/msn_r3.c:1635
 msgid "Sonderbar!"
-msgstr "Konstigt!"
+msgstr "Underligt!"
 
 #: ../../msn/msn_r3.c:1636
 msgid "Affenstark!"
