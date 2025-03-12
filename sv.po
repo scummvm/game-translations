@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mission Supernova Part 2 1.0\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2021-09-07 21:01+0100\n"
-"PO-Revision-Date: 2025-03-11 15:44+0000\n"
+"PO-Revision-Date: 2025-03-12 23:31+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://translations.scummvm.org/projects/"
 "mission-supernova/ms2/sv/>\n"
@@ -77,340 +77,343 @@ msgstr "Ta "
 
 #: ../../ms2/ms2.c:2333
 msgid "Öffne "
-msgstr ""
+msgstr "Öppna "
 
 #: ../../ms2/ms2.c:2333
 msgid "Schließe "
-msgstr ""
+msgstr "Lås "
 
 #: ../../ms2/ms2.c:2334
 msgid "Drücke "
-msgstr ""
+msgstr "Tryck på "
 
 #: ../../ms2/ms2.c:2334
 msgid "Ziehe "
-msgstr ""
+msgstr "Dra "
 
 #: ../../ms2/ms2.c:2334
 msgid "Benutze "
-msgstr ""
+msgstr "Använd "
 
 #: ../../ms2/ms2.c:2334
 msgid "Rede mit "
-msgstr ""
+msgstr "Prata med "
 
 #: ../../ms2/ms2.c:2334
 msgid "Gib "
-msgstr ""
+msgstr "Ge "
 
 #: ../../ms2/ms2.c:2344
 msgid " an "
-msgstr ""
+msgstr " på "
 
 #: ../../ms2/ms2.c:2345
 msgid " mit "
-msgstr ""
+msgstr " med "
 
 #: ../../ms2/ms2.c:2903
 msgid "Laden"
-msgstr ""
+msgstr "Lådor"
 
 #: ../../ms2/ms2.c:2905
 msgid "Speichern"
-msgstr ""
+msgstr "Spara"
 
 #: ../../ms2/ms2.c:2907
 msgid "Zurück"
-msgstr ""
+msgstr "Gå tillbaka"
 
 #: ../../ms2/ms2.c:2909
 msgid "Neustart"
-msgstr ""
+msgstr "Omstart"
 
 #: ../../ms2/ms2.c:3002
 msgid "Schreibfehler"
-msgstr ""
+msgstr "Felaktig stavning"
 
 #: ../../ms2/ms2.c:3243
 msgid "Textgeschwindigkeit:"
-msgstr ""
+msgstr "Texthastighet:"
 
 #: ../../ms2/ms2.c:3292
 msgid "Spiel abbrechen?"
-msgstr ""
+msgstr "Ställde du in matchen?"
 
 #: ../../ms2/ms2.c:3295
 msgid "Ja"
-msgstr ""
+msgstr "Ja"
 
 #: ../../ms2/ms2.c:3296
 msgid "Nein"
-msgstr ""
+msgstr "Nej"
 
 #: ../../ms2/ms2.c:3368
 msgid "Das trägst du doch bei dir."
-msgstr ""
+msgstr "Det är vad du bär med dig."
 
 #: ../../ms2/ms2.c:3370
 msgid "Du bist doch schon da."
-msgstr ""
+msgstr "Du är redan där."
 
 #: ../../ms2/ms2.c:3373
 msgid "Das ist geschlossen."
-msgstr ""
+msgstr "Det här är stängt."
 
 #: ../../ms2/ms2.c:3383
 msgid "Das hast du doch schon."
-msgstr ""
+msgstr "Det har du redan."
 
 #: ../../ms2/ms2.c:3385
 msgid "Das brauchst du nicht."
-msgstr ""
+msgstr "Du behöver inte det."
 
 #: ../../ms2/ms2.c:3387
 msgid "Das kannst du nicht nehmen."
-msgstr ""
+msgstr "Det kan du inte ta emot."
 
 #: ../../ms2/ms2.c:3393
 msgid "Das läßt sich nicht öffnen."
-msgstr ""
+msgstr "Den går inte att öppna."
 
 #: ../../ms2/ms2.c:3395 ../../ms2/ms2_pyra.c:646
 msgid "Das ist schon offen."
-msgstr ""
+msgstr "Den är redan öppen."
 
 #: ../../ms2/ms2.c:3397
 msgid "Das ist verschlossen."
-msgstr ""
+msgstr "Den här är låst."
 
 #: ../../ms2/ms2.c:3413
 msgid "Das läßt sich nicht schließen."
-msgstr ""
+msgstr "Detta går inte att dra någon slutsats av."
 
 #: ../../ms2/ms2.c:3415 ../../ms2/ms2_pyra.c:671
 msgid "Das ist schon geschlossen."
-msgstr ""
+msgstr "Detta är redan avslutat."
 
 #: ../../ms2/ms2.c:3430
 msgid "Behalt es lieber!"
-msgstr ""
+msgstr "Det är bäst att du behåller den!"
 
 #: ../../ms2/ms2.c:3434
 msgid "Das geht nicht."
-msgstr ""
+msgstr "Det är inte möjligt."
 
 #: ../../ms2/ms2_mod.c:533
 msgid "^(C) 1994 Thomas und Steffen Dingel#"
-msgstr ""
+msgstr "^(C) 1994 Thomas och Steffen Dingel#"
 
 #: ../../ms2/ms2_mod.c:534
 msgid "Story und Grafik:^ Thomas Dingel#"
-msgstr ""
+msgstr "Story och grafik:^ Thomas Dingel#"
 
 #: ../../ms2/ms2_mod.c:535
 msgid "Programmierung:^ Steffen Dingel#"
-msgstr ""
+msgstr "Programmering:^ Steffen Dingel#"
 
 #: ../../ms2/ms2_mod.c:536
 msgid "Musik:^ Bernd Hoffmann#"
-msgstr ""
+msgstr "Musik:^ Bernd Hoffmann#"
 
 #: ../../ms2/ms2_mod.c:537
 msgid "Getestet von ...#"
-msgstr ""
+msgstr "Testad av ...#"
 
 #: ../../ms2/ms2_mod.c:548
 msgid "^Das war's.#"
-msgstr ""
+msgstr "^Det var allt.#"
 
 #: ../../ms2/ms2_mod.c:549
 msgid "^Schluß!#"
-msgstr ""
+msgstr "^Slut!#"
 
 #: ../../ms2/ms2_mod.c:550
 msgid "^Ende!#"
-msgstr ""
+msgstr "^Slut!#"
 
 #: ../../ms2/ms2_mod.c:551
 msgid "^Aus!#"
-msgstr ""
+msgstr "^Av!#"
 
 #: ../../ms2/ms2_mod.c:552
 msgid "^Tschüß!#"
-msgstr ""
+msgstr "^Hej då!#"
 
 #: ../../ms2/ms2_mod.c:603
 msgid "Oh!"
-msgstr ""
+msgstr "Åh!"
 
 #: ../../ms2/ms2_mod.c:605
 msgid "Nicht schlecht!"
-msgstr ""
+msgstr "Inte illa!"
 
 #: ../../ms2/ms2_mod.c:607
 msgid "Supersound!"
-msgstr ""
+msgstr "Superljud!"
 
 #: ../../ms2/ms2_mod.c:609
 msgid "Klasse!"
-msgstr ""
+msgstr "Världsklass!"
 
 #: ../../ms2/ms2_mod.c:611
 msgid "Nicht zu fassen!"
-msgstr ""
+msgstr "Otroligt!"
 
 #: ../../ms2/ms2_mod.c:613
 msgid "Super, ey!"
-msgstr ""
+msgstr "Bra, ey!"
 
 #: ../../ms2/ms2_mod.c:615
 msgid "Fantastisch!"
-msgstr ""
+msgstr "Fantastiskt!"
 
 #: ../../ms2/ms2_mod.c:617
 msgid "Umwerfend!"
-msgstr ""
+msgstr "Maffigt!"
 
 #: ../../ms2/ms2_mod.c:619
 msgid "Genial!"
-msgstr ""
+msgstr "Genialiskt!"
 
 #: ../../ms2/ms2_mod.c:621
 msgid "Spitze!"
-msgstr ""
+msgstr "Topp!"
 
 #: ../../ms2/ms2_mod.c:623
 msgid "Jawoll!"
-msgstr ""
+msgstr "Ja, verkligen!"
 
 #: ../../ms2/ms2_mod.c:625
 msgid "Hervorragend!"
-msgstr ""
+msgstr "Enastående!"
 
 #: ../../ms2/ms2_mod.c:627
 msgid "Ultragut!"
-msgstr ""
+msgstr "Jättebra!"
 
 #: ../../ms2/ms2_mod.c:629
 msgid "Megacool!"
-msgstr ""
+msgstr "Megacool!"
 
 #: ../../ms2/ms2_mod.c:631
 msgid "Yeah!"
-msgstr ""
+msgstr "Ja!"
 
 #: ../../ms2/ms2_mus.c:60
 msgid "Ein Wächter betritt den Raum.|Du wirst verhaftet."
-msgstr ""
+msgstr "En vakt kommer in i rummet och du blir arresterad."
 
 #: ../../ms2/ms2_mus.c:73
 msgid "Die nächsten paar Jahre|verbringst du im Knast."
-msgstr ""
+msgstr "Du kommer att tillbringa de närmaste åren i fängelse."
 
 #: ../../ms2/ms2_mus.c:145
 msgid "Es wird Alarm ausgelöst."
-msgstr ""
+msgstr "Ett larm utlöses."
 
 #: ../../ms2/ms2_mus.c:200
 msgid "Du hörst Schritte."
-msgstr ""
+msgstr "Du hör fotsteg."
 
 #: ../../ms2/ms2_mus.c:232
 msgid "Um das Schloss zu öffnen,|brauchst du einige Zeit."
-msgstr ""
+msgstr "Du kommer att behöva lite tid för att öppna låset."
 
 #: ../../ms2/ms2_mus.c:238
 msgid "Du gerätst in Panik|und ziehst die Keycard|aus der Tür."
-msgstr ""
+msgstr "Du får panik och drar ut nyckelkortet genom dörren."
 
 #: ../../ms2/ms2_mus.c:316
 msgid "Du hast deinen Auftrag|noch nicht ausgeführt."
-msgstr ""
+msgstr "Du har inte slutfört din beställning|noch."
 
 #: ../../ms2/ms2_mus.c:322
 msgid "Es gelingt dir, zu fliehen."
-msgstr ""
+msgstr "Du lyckas fly."
 
 #: ../../ms2/ms2_mus.c:330
 msgid ""
 "Obwohl du die Alarmanlage noch|nicht ausgeschaltet hast,|entscheidest du "
 "dich, zu fliehen."
 msgstr ""
+"Trots att du ännu inte har stängt av larmsystemet bestämmer du dig för att "
+"fly."
 
 #: ../../ms2/ms2_mus.c:337
 msgid ""
 "Du entledigst dich der Einbruchswerkzeuge|und nimmst ein Taxi zum "
 "Kulturpalast."
-msgstr ""
+msgstr "Du gör dig av med inbrottsverktygen och tar en taxi till Kulturpalast."
 
 #: ../../ms2/ms2_mus.c:376 ../../ms2/ms2_mus.c:532 ../../ms2/ms2_mus.c:631
 msgid "Diese Tür brauchst|du nicht zu öffnen."
-msgstr ""
+msgstr "Du behöver inte öppna den här dörren."
 
 #: ../../ms2/ms2_mus.c:394
 msgid "Uff, es hat geklappt!"
-msgstr ""
+msgstr "Puh, det fungerade!"
 
 #: ../../ms2/ms2_mus.c:407
 msgid "Zurück im Quartier der Gangster ..."
-msgstr ""
+msgstr "Tillbaka i gangstrarnas kvarter..."
 
 #: ../../ms2/ms2_mus.c:417
 msgid "Das lief ja wie am Schnürchen!"
-msgstr ""
+msgstr "Det gick som en klocka!"
 
 #: ../../ms2/ms2_mus.c:418
 msgid "Hier, dein Anteil von 30000 Xa."
-msgstr ""
+msgstr "Här, din andel av 30000 Xa."
 
 #: ../../ms2/ms2_mus.c:425
 msgid "Wo ist denn der Saurierkopf?"
-msgstr ""
+msgstr "Var är dinosauriehuvudet?"
 
 #: ../../ms2/ms2_mus.c:426
 msgid "Dazu hatte ich keine Zeit mehr."
-msgstr ""
+msgstr "Jag hade inte tid med det."
 
 #: ../../ms2/ms2_mus.c:427
 msgid "Was? Du spinnst wohl!|Dann kriegst du auch deinen|Anteil nicht. Raus!"
 msgstr ""
+"Vad? Du måste vara galen! Då får du inte din andel heller. Försvinn härifrån!"
 
 #: ../../ms2/ms2_mus.c:703
 msgid "Der Sauger ist schon dort."
-msgstr ""
+msgstr "Dammsugaren finns redan där."
 
 #: ../../ms2/ms2_mus.c:707
 msgid "Du heftest den Sauger an die Wand|und hälst dich daran fest."
-msgstr ""
+msgstr "Du fäster sugkoppen på väggen och håller fast i den."
 
 #: ../../ms2/ms2_mus.c:718
 msgid "Du stellst dich auf den|Boden nimmst den Sauger|wieder von der Wand"
-msgstr ""
+msgstr "Du står på golvet och tar ner dammsugaren från väggen"
 
 #: ../../ms2/ms2_mus.c:722
 msgid "Die Alarmanlage ist|schon ausgeschaltet."
-msgstr ""
+msgstr "Larmsystemet är redan avstängt."
 
 #: ../../ms2/ms2_mus.c:725
 msgid "Um die Anlage abzuschalten,|brauchst du einige Zeit."
-msgstr ""
+msgstr "Du kommer att behöva lite tid för att stänga av systemet."
 
 #: ../../ms2/ms2_mus.c:729
 msgid "Die Alarmanlage ist jetzt ausgeschaltet."
-msgstr ""
+msgstr "Larmsystemet är nu avstängt."
 
 #: ../../ms2/ms2_mus.c:746 ../../ms2/ms2_mus.c:875
 msgid "Saurier"
-msgstr ""
+msgstr "Dinosaurie"
 
 #: ../../ms2/ms2_mus.c:746
 msgid "Du hast jetzt besseres zu tun,|als das Ding anzuschauen."
-msgstr ""
+msgstr "Du har bättre saker att göra än att titta på den där saken."
 
 #: ../../ms2/ms2_mus.c:747 ../../ms2/ms2_pyra.c:1010 ../../ms2/ms2_r1.c:805
 #: ../../ms2/ms2_r1.c:816 ../../ms2/ms2_r2.c:1203 ../../ms2/ms2_r2.c:1214
 msgid "Eingang"
-msgstr ""
+msgstr "Ingång"
 
 #: ../../ms2/ms2_mus.c:748 ../../ms2/ms2_mus.c:756 ../../ms2/ms2_mus.c:757
 #: ../../ms2/ms2_mus.c:765 ../../ms2/ms2_mus.c:766 ../../ms2/ms2_mus.c:774
@@ -433,23 +436,23 @@ msgstr ""
 #: ../../ms2/ms2_pyra.c:1309 ../../ms2/ms2_r2.c:1225 ../../ms2/ms2_r2.c:1226
 #: ../../ms2/ms2_r2.c:1235 ../../ms2/ms2_r2.c:1236 ../../ms2/ms2_r2.c:1247
 msgid "Tür"
-msgstr ""
+msgstr "Dörr"
 
 #: ../../ms2/ms2_mus.c:749
 msgid "Strasse zum Stadtzentrum"
-msgstr ""
+msgstr "Väg till stadens centrum"
 
 #: ../../ms2/ms2_mus.c:793
 msgid "Kamera"
-msgstr ""
+msgstr "Kamera"
 
 #: ../../ms2/ms2_mus.c:793
 msgid "Hoffentlich bemerkt dich niemand."
-msgstr ""
+msgstr "Förhoppningsvis kommer ingen att lägga märke till dig."
 
 #: ../../ms2/ms2_mus.c:856
 msgid "Haupteingang"
-msgstr ""
+msgstr "Huvudentré"
 
 #: ../../ms2/ms2_mus.c:873 ../../ms2/ms2_mus.c:874 ../../ms2/ms2_mus.c:885
 #: ../../ms2/ms2_mus.c:893 ../../ms2/ms2_pyra.c:1046 ../../ms2/ms2_pyra.c:1054
@@ -458,196 +461,201 @@ msgstr ""
 #: ../../ms2/ms2_pyra.c:1230 ../../ms2/ms2_pyra.c:1238
 #: ../../ms2/ms2_pyra.c:1246
 msgid "Gang"
-msgstr ""
+msgstr "Utrustning"
 
 #: ../../ms2/ms2_mus.c:875
 msgid "Ziemlich groß."
-msgstr ""
+msgstr "Ganska stor."
 
 #: ../../ms2/ms2_mus.c:876 ../../ms2/ms2_r1.c:787
 msgid "Saurierkopf"
-msgstr ""
+msgstr "Dinosauriehuvud"
 
 #: ../../ms2/ms2_mus.c:876
 msgid "Dies ist der Kopf,|den du suchst."
-msgstr ""
+msgstr "Det här är huvudet du letar efter."
 
 #: ../../ms2/ms2_mus.c:975
 msgid "Alarmanlage"
-msgstr ""
+msgstr "Larmsystem"
 
 #: ../../ms2/ms2_mus.c:976 ../../ms2/ms2_r1.c:783
 msgid "Sauger"
-msgstr ""
+msgstr "Sugkopp"
 
 #: ../../ms2/ms2_mus.c:977
 msgid "Wand"
-msgstr ""
+msgstr "Vägg"
 
 #: ../../ms2/ms2_pyra.c:26 ../../ms2/ms2_pyra.c:1255 ../../ms2/ms2_pyra.c:1256
 #: ../../ms2/ms2_pyra.c:1274 ../../ms2/ms2_pyra.c:1284
 msgid "Loch"
-msgstr ""
+msgstr "Hål"
 
 #: ../../ms2/ms2_pyra.c:27
 msgid "Buchstabe"
-msgstr ""
+msgstr "Bokstav"
 
 #: ../../ms2/ms2_pyra.c:28
 msgid "Sie ist sehr massiv."
-msgstr ""
+msgstr "Den är mycket solid."
 
 #: ../../ms2/ms2_pyra.c:29
 msgid "Hmm, X und Y, irgendwo|habe ich die Buchstaben|schon gesehen."
-msgstr ""
+msgstr "X och Y, nånstans. Jag har redan sett bokstäverna."
 
 #: ../../ms2/ms2_pyra.c:34
 msgid "Deine Zeit ist um, Fremder!"
-msgstr ""
+msgstr "Din tid är ute, främling!"
 
 #: ../../ms2/ms2_pyra.c:76
 msgid "Du hast das Seil|doch schon festgebunden."
-msgstr ""
+msgstr "Du har redan knutit repet hårt."
 
 #: ../../ms2/ms2_pyra.c:80
 msgid "Das würde wenig bringen."
-msgstr ""
+msgstr "Det skulle inte vara till någon större nytta."
 
 #: ../../ms2/ms2_pyra.c:126
 msgid "Sonnenstich, oder was?"
-msgstr ""
+msgstr "Solsting, eller vad?"
 
 #: ../../ms2/ms2_pyra.c:385
 msgid "Du merkst, daß der Boden|unter dir nachgibt, und|springst zur Seite."
 msgstr ""
+"Du inser att marken under dig håller på att ge vika och hoppar åt sidan."
 
 #: ../../ms2/ms2_pyra.c:537
 msgid "Puzzleteil"
-msgstr ""
+msgstr "Pusselbit"
 
 #: ../../ms2/ms2_pyra.c:570
 msgid "Neben diesem Stein|ist kein freies Feld."
-msgstr ""
+msgstr "Det finns inget ledigt utrymme bredvid denna sten."
 
 #: ../../ms2/ms2_pyra.c:683
 msgid "Du spielst gerade ein|Adventure, kein Rollenspiel!"
-msgstr ""
+msgstr "Du spelar ett äventyrsspel, inte ett rollspel!"
 
 #: ../../ms2/ms2_pyra.c:699 ../../ms2/ms2_pyra.c:800
 msgid "Du kannst das Seil|nirgends befestigen."
-msgstr ""
+msgstr "Du kan inte fästa repet nånstans."
 
 #: ../../ms2/ms2_pyra.c:705 ../../ms2/ms2_pyra.c:784
 msgid "Es paßt nicht|zwischen die Steine."
-msgstr ""
+msgstr "Den passar inte in mellan stenarna."
 
 #: ../../ms2/ms2_pyra.c:710 ../../ms2/ms2_pyra.c:741 ../../ms2/ms2_pyra.c:840
 msgid "Das ist doch|oben festgebunden!"
-msgstr ""
+msgstr "Den är fastbunden!"
 
 #: ../../ms2/ms2_pyra.c:715
 msgid "Hey, das ist|mindestens 10 Meter tief!"
-msgstr ""
+msgstr "Det är minst tio meter djupt!"
 
 #: ../../ms2/ms2_pyra.c:731
 msgid "In dem Schlitz|ist nichts mehr."
-msgstr ""
+msgstr "Det finns inget kvar i luckan."
 
 #: ../../ms2/ms2_pyra.c:765
 msgid "Das ist mindestens 5 Meter tief!"
-msgstr ""
+msgstr "Det är minst 5 meter djupt!"
 
 #: ../../ms2/ms2_pyra.c:900
 msgid ""
 "Du versuchst, den Sarg zu|öffnen, aber der Deckel bewegt|sich keinen "
 "Millimeter."
-msgstr ""
+msgstr "Du försöker öppna kistan, men locket rör sig inte en tum."
 
 #: ../../ms2/ms2_pyra.c:913 ../../ms2/ms2_pyra.c:923
 msgid "Du hast die Kugel schon gedrückt."
-msgstr ""
+msgstr "Du har redan tryckt på bollen."
 
 #: ../../ms2/ms2_pyra.c:944
 msgid "Die Kugel bewegt sich ein Stück."
-msgstr ""
+msgstr "Bollen rör sig en aning."
 
 #: ../../ms2/ms2_pyra.c:961
 msgid "Das Auge ist schon offen."
-msgstr ""
+msgstr "Ögat är redan öppet."
 
 #: ../../ms2/ms2_pyra.c:965
 msgid "Herzlichen Glückwunsch!"
-msgstr ""
+msgstr "Gratulerar!"
 
 #: ../../ms2/ms2_pyra.c:966
 msgid "Sie haben das Spiel gelöst|und gewinnen 400 Xa!"
-msgstr ""
+msgstr "Du har löst spelet och vinner 400 Xa!"
 
 #: ../../ms2/ms2_pyra.c:967
 msgid "Vielen Dank für die Benutzung eines|VIRTUAL-REALITY-SYSTEMS-Produkts!"
-msgstr ""
+msgstr "Tack för att du använder a|VIRTUAL-REALITY-SYSTEMS produkt!"
 
 #: ../../ms2/ms2_pyra.c:991
 msgid "N"
-msgstr ""
+msgstr "N"
 
 #: ../../ms2/ms2_pyra.c:991
 msgid "O"
-msgstr ""
+msgstr "O"
 
 #: ../../ms2/ms2_pyra.c:991
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: ../../ms2/ms2_pyra.c:991
 msgid "W"
-msgstr ""
+msgstr "W"
 
 #: ../../ms2/ms2_pyra.c:1008 ../../ms2/ms2_pyra.c:1200
 #: ../../ms2/ms2_pyra.c:1254 ../../ms2/ms2_pyra.c:1262
 #: ../../ms2/ms2_pyra.c:1273 ../../ms2/ms2_pyra.c:1283
 msgid "Seil"
-msgstr ""
+msgstr "Rep"
 
 #: ../../ms2/ms2_pyra.c:1009 ../../ms2/ms2_pyra.c:1043 ../../ms2/ms2_r1.c:850
 #: ../../ms2/ms2_r2.c:1223 ../../ms2/ms2_r2.c:1224 ../../ms2/ms2_r2.c:1233
 #: ../../ms2/ms2_r2.c:1234
 msgid "Schild"
-msgstr ""
+msgstr "Sköld"
 
 #: ../../ms2/ms2_pyra.c:1009
 msgid ""
 "Darauf steht:|\"Willst du finden das|richtige Loch, so wage|dich in die "
 "Pyramide!\"."
-msgstr ""
+msgstr "Det står: \"Om du vill hitta rätt hål, våga dig in i pyramiden!\"."
 
 #: ../../ms2/ms2_pyra.c:1010
 msgid "Es ist eine kleine Öffnung."
-msgstr ""
+msgstr "Det är en liten öppning."
 
 #: ../../ms2/ms2_pyra.c:1011
 msgid "Pyramide"
-msgstr ""
+msgstr "Pyramid"
 
 #: ../../ms2/ms2_pyra.c:1011
 msgid ""
 "Komisch! Was soll eine Pyramide|bei den Axacussanern? Deine|eigenen Gedanken "
 "scheinen|den Spielverlauf zu beeinflussen."
 msgstr ""
+"Märkligt! Vad är en pyramid till för med Axacussans? Dina egna tankar verkar "
+"påverka spelets gång."
 
 #: ../../ms2/ms2_pyra.c:1012
 msgid "Sonne"
-msgstr ""
+msgstr "Solen"
 
 #: ../../ms2/ms2_pyra.c:1012
 msgid "Schön!"
-msgstr ""
+msgstr "Vackert!"
 
 #: ../../ms2/ms2_pyra.c:1043
 msgid ""
 "\"Hallo Fremder, wenn du diesen|Raum betreten hast, bleibt|dir nur noch eine "
 "Stunde Zeit,|um deine Aufgabe zu erfüllen!\""
 msgstr ""
+"\"Hej främling, när du väl har kommit in i det här rummet har du bara en "
+"timme på dig att utföra din uppgift!\""
 
 #: ../../ms2/ms2_pyra.c:1044 ../../ms2/ms2_pyra.c:1052
 #: ../../ms2/ms2_pyra.c:1060 ../../ms2/ms2_pyra.c:1068
@@ -664,7 +672,7 @@ msgstr ""
 #: ../../ms2/ms2_pyra.c:1270 ../../ms2/ms2_pyra.c:1281
 #: ../../ms2/ms2_pyra.c:1291
 msgid "rechte Seite"
-msgstr ""
+msgstr "höger sida"
 
 #: ../../ms2/ms2_pyra.c:1045 ../../ms2/ms2_pyra.c:1053
 #: ../../ms2/ms2_pyra.c:1061 ../../ms2/ms2_pyra.c:1069
@@ -681,519 +689,526 @@ msgstr ""
 #: ../../ms2/ms2_pyra.c:1271 ../../ms2/ms2_pyra.c:1282
 #: ../../ms2/ms2_pyra.c:1292
 msgid "linke Seite"
-msgstr ""
+msgstr "vänster sida"
 
 #: ../../ms2/ms2_pyra.c:1071
 msgid "Knopf"
-msgstr ""
+msgstr "Knapp"
 
 #: ../../ms2/ms2_pyra.c:1143 ../../ms2/ms2_pyra.c:1151
 #: ../../ms2/ms2_pyra.c:1159 ../../ms2/ms2_pyra.c:1167
 msgid "Schrift"
-msgstr ""
+msgstr "Typsnitt"
 
 #: ../../ms2/ms2_pyra.c:1175 ../../ms2/ms2_pyra.c:1184
 msgid "Tomate"
-msgstr ""
+msgstr "Tomat"
 
 #: ../../ms2/ms2_pyra.c:1175 ../../ms2/ms2_pyra.c:1184
 msgid "Komisch!"
-msgstr ""
+msgstr "Komiskt!"
 
 #: ../../ms2/ms2_pyra.c:1183 ../../ms2/ms2_pyra.c:1272
 msgid "Messer"
-msgstr ""
+msgstr "Kniv"
 
 #: ../../ms2/ms2_pyra.c:1183
 msgid "Es ist ein relativ stabiles Messer."
-msgstr ""
+msgstr "Det är en relativt robust kniv."
 
 #: ../../ms2/ms2_pyra.c:1192 ../../ms2/ms2_pyra.c:1203
 #: ../../ms2/ms2_pyra.c:1214
 msgid "Monster"
-msgstr ""
+msgstr "Monster"
 
 #: ../../ms2/ms2_pyra.c:1192
 msgid "Sieht gefährlich aus!"
-msgstr ""
+msgstr "Det ser farligt ut!"
 
 #: ../../ms2/ms2_pyra.c:1200
 msgid "Es ist dick und|ungefähr 15 Meter lang."
-msgstr ""
+msgstr "Den är tjock och cirka 15 meter lång."
 
 #: ../../ms2/ms2_pyra.c:1201 ../../ms2/ms2_pyra.c:1212
 msgid "Augen"
-msgstr ""
+msgstr "Ögon"
 
 #: ../../ms2/ms2_pyra.c:1202 ../../ms2/ms2_pyra.c:1213
 #: ../../ms2/ms2_pyra.c:1336
 msgid "Mund"
-msgstr ""
+msgstr "Munnen"
 
 #: ../../ms2/ms2_pyra.c:1203 ../../ms2/ms2_pyra.c:1214
 msgid "Es ist nur eine Statue."
-msgstr ""
+msgstr "Det är bara en staty."
 
 #: ../../ms2/ms2_pyra.c:1211 ../../ms2/ms2_pyra.c:1263
 msgid "Zettel"
-msgstr ""
+msgstr "Papperslappar"
 
 #: ../../ms2/ms2_pyra.c:1211
 msgid "Darauf steht:|\"Wenn du fast am Ziel|bist, tu folgendes:|Sauf!\""
-msgstr ""
+msgstr "Det står:|\"När du nästan är framme, gör följande:|Drick!\""
 
 #: ../../ms2/ms2_pyra.c:1255
 msgid "Es ist ca. 10 Meter tief."
-msgstr ""
+msgstr "Den är cirka 10 meter djup."
 
 #: ../../ms2/ms2_pyra.c:1256
 msgid "Oben siehst du helles Licht."
-msgstr ""
+msgstr "Ovanför dig ser du starkt ljus."
 
 #: ../../ms2/ms2_pyra.c:1263
 msgid ""
 "Darauf steht:|\"Ruhe eine Minute im Raum|zwischen den Monstern,|und du wirst "
 "belohnt!\""
 msgstr ""
+"Det står: \"Vila i rummet i en minut mellan monstren och du kommer att bli "
+"belönad!\""
 
 #: ../../ms2/ms2_pyra.c:1264 ../../ms2/ms2_r1.c:844 ../../ms2/ms2_r1.c:845
 #: ../../ms2/ms2_r2.c:1243
 msgid "Schlitz"
-msgstr ""
+msgstr "Slot"
 
 #: ../../ms2/ms2_pyra.c:1264
 msgid "Du kommst mit den|Händen nicht rein."
-msgstr ""
+msgstr "Du kan inte ta dig in med dina händer."
 
 #: ../../ms2/ms2_pyra.c:1274
 msgid "Es ist ca. 5 Meter tief."
-msgstr ""
+msgstr "Den är cirka 5 meter djup."
 
 #: ../../ms2/ms2_pyra.c:1275
 msgid "Steine"
-msgstr ""
+msgstr "Stenar"
 
 #: ../../ms2/ms2_pyra.c:1285
 msgid "Platte"
-msgstr ""
+msgstr "Disk"
 
 #: ../../ms2/ms2_pyra.c:1315 ../../ms2/ms2_pyra.c:1323
 msgid "Sarg"
-msgstr ""
+msgstr "Kista"
 
 #: ../../ms2/ms2_pyra.c:1316 ../../ms2/ms2_pyra.c:1322
 #: ../../ms2/ms2_pyra.c:1333 ../../ms2/ms2_r1.c:833 ../../ms2/ms2_r1.c:840
 #: ../../ms2/ms2_r1.c:857 ../../ms2/ms2_r2.c:1215 ../../ms2/ms2_r2.c:1248
 msgid "Ausgang"
-msgstr ""
+msgstr "Utgång"
 
 #: ../../ms2/ms2_pyra.c:1323
 msgid "Unheimlich!"
-msgstr ""
+msgstr "Läskigt!"
 
 #: ../../ms2/ms2_pyra.c:1324 ../../ms2/ms2_r1.c:865
 msgid "Zahnbürste"
-msgstr ""
+msgstr "Tandborste"
 
 #: ../../ms2/ms2_pyra.c:1324 ../../ms2/ms2_pyra.c:1325
 msgid "Die Sache mit der|Artus GmbH scheint dir zu|Kopf gestiegen zu sein."
-msgstr ""
+msgstr "Saken med Artus GmbH verkar ha gått dig till huvudet."
 
 #: ../../ms2/ms2_pyra.c:1325
 msgid "Zahnpastatube"
-msgstr ""
+msgstr "Tandkrämstub"
 
 #: ../../ms2/ms2_pyra.c:1326 ../../ms2/ms2_pyra.c:1327
 msgid "Kugel"
-msgstr ""
+msgstr "Boll"
 
 #: ../../ms2/ms2_pyra.c:1326 ../../ms2/ms2_pyra.c:1327
 msgid "Hmm, die Kugel sieht lose aus."
-msgstr ""
+msgstr "Bollen ser lös ut."
 
 #: ../../ms2/ms2_pyra.c:1334 ../../ms2/ms2_pyra.c:1335
 msgid "Auge"
-msgstr ""
+msgstr "Öga"
 
 #: ../../ms2/ms2_pyra.c:1334 ../../ms2/ms2_pyra.c:1335
 msgid "Irgendwas stimmt damit nicht."
-msgstr ""
+msgstr "Det är något fel på den."
 
 #: ../../ms2/ms2_r1.c:11
 msgid "Es ist nichts Besonderes daran."
-msgstr ""
+msgstr "Det är inget speciellt med det."
 
 #: ../../ms2/ms2_r1.c:12
 msgid "Sieht nach Metall aus."
-msgstr ""
+msgstr "Ser ut som metall."
 
 #: ../../ms2/ms2_r1.c:83
 msgid "Ein Taxi kommt angerauscht,|du steigst ein."
-msgstr ""
+msgstr "En taxi kommer dundrande och du kliver in."
 
 #: ../../ms2/ms2_r1.c:90
 msgid "Du drückst auf den Knopf, aber nichts passiert"
-msgstr ""
+msgstr "Du trycker på knappen, men ingenting händer"
 
 #: ../../ms2/ms2_r1.c:94
 msgid "Es ist leer."
-msgstr ""
+msgstr "Den är tom."
 
 #: ../../ms2/ms2_r1.c:97
 msgid "Du findest ein kleines Gerät,|einen Ausweis und einen Xa."
-msgstr ""
+msgstr "Du hittar en liten apparat, ett ID-kort och en Xa."
 
 #: ../../ms2/ms2_r1.c:109
 msgid "Du heftest den|Magnet an die Stange."
-msgstr ""
+msgstr "Sätt fast magneten på stången."
 
 #: ../../ms2/ms2_r1.c:110
 msgid "Stange mit Magnet"
-msgstr ""
+msgstr "Stång med magnet"
 
 #: ../../ms2/ms2_r1.c:111
 msgid "Raffiniert!"
-msgstr ""
+msgstr "Raffinerat!"
 
 #: ../../ms2/ms2_r1.c:118
 msgid "Du mußt das|Gerät erst kaufen."
-msgstr ""
+msgstr "Du måste köpa enheten först."
 
 #: ../../ms2/ms2_r1.c:127
 msgid "Du legst den Chip|in das Gerät ein."
-msgstr ""
+msgstr "Du sätter in chipet i enheten."
 
 #: ../../ms2/ms2_r1.c:137
 msgid "Du überspielst die CD|auf den Musikchip."
-msgstr ""
+msgstr "Du överför CD-skivan till musikchipet."
 
 #: ../../ms2/ms2_r1.c:141
 msgid ""
 "Ohne einen eingelegten|Musikchip kannst du auf dem|Gerät nichts aufnehmen."
-msgstr ""
+msgstr "Utan ett isatt musikchip kan du inte spela in något på enheten."
 
 #: ../../ms2/ms2_r1.c:152
 msgid "Du nimmst den Chip|aus dem Gerät."
-msgstr ""
+msgstr "Ta bort chipet från enheten."
 
 #: ../../ms2/ms2_r1.c:157
 msgid "Es ist kein Chip eingelegt."
-msgstr ""
+msgstr "Inget chip är isatt."
 
 #: ../../ms2/ms2_r1.c:162
 msgid "Wozu? Du hast sowieso nur die eine CD."
-msgstr ""
+msgstr "Vad är det för mening med det? Du har ju ändå bara en CD."
 
 #: ../../ms2/ms2_r1.c:166
 msgid "Die \"Mad Monkeys\"-CD. Du hast|sie schon tausendmal gehört."
-msgstr ""
+msgstr "CD:n \"Mad Monkeys\". Du har hört den tusen gånger."
 
 #: ../../ms2/ms2_r1.c:183
 msgid "Du hörst nichts.|Der Chip ist unbespielt."
-msgstr ""
+msgstr "Du hör ingenting. Chipet är ospelat."
 
 #: ../../ms2/ms2_r1.c:185
 msgid "Du hörst dir den Anfang|der überspielten CD an."
-msgstr ""
+msgstr "Du lyssnar på början av den överdubblade CD-skivan."
 
 #: ../../ms2/ms2_r1.c:187
 msgid "Es ist kein Chip einglegt."
-msgstr ""
+msgstr "Inget chip är isatt."
 
 #: ../../ms2/ms2_r1.c:193
 msgid "Du trinkst etwas von den Zeug, danach|fühlst du dich leicht beschwipst."
-msgstr ""
+msgstr "Du dricker lite av grejerna, efteråt känner du dig lite berusad."
 
 #: ../../ms2/ms2_r1.c:224
 #, c-format
 msgid "%d Xa"
-msgstr ""
+msgstr "%d Xa"
 
 #: ../../ms2/ms2_r1.c:242
 msgid ""
 "Als du ebenfalls aussteigst haben|die anderen Passagiere das|Fluggelände "
 "bereits verlassen."
 msgstr ""
+"När du kliver av planet har de andra passagerarna redan lämnat flygplatsen."
 
 #: ../../ms2/ms2_r1.c:285 ../../ms2/ms2_r1.c:809
 msgid "Flughafen"
-msgstr ""
+msgstr "Flygplats"
 
 #: ../../ms2/ms2_r1.c:286
 msgid "Stadtzentrum"
-msgstr ""
+msgstr "Stadens centrum"
 
 #: ../../ms2/ms2_r1.c:287 ../../ms2/ms2_r2.c:1204
 msgid "Kulturpalast"
-msgstr ""
+msgstr "Kulturpalatset"
 
 #: ../../ms2/ms2_r1.c:288
 msgid "Erde"
-msgstr ""
+msgstr "Jorden"
 
 #: ../../ms2/ms2_r1.c:289
 msgid "Privatwohnung"
-msgstr ""
+msgstr "Privat lägenhet"
 
 #: ../../ms2/ms2_r1.c:290 ../../ms2/ms2_r1.c:295
 msgid "(Taxi verlassen)"
-msgstr ""
+msgstr "(lämna taxi)"
 
 #: ../../ms2/ms2_r1.c:294
 msgid "(Bezahlen)"
-msgstr ""
+msgstr "(Betala)"
 
 #: ../../ms2/ms2_r1.c:337
 msgid "Adresse:|                              "
-msgstr ""
+msgstr "Adress:|                              "
 
 #: ../../ms2/ms2_r1.c:356
 msgid ""
 "Fuddeln gilt nicht!|Zu diesem Zeitpunkt kannst du diese|Adresse noch gar "
 "nicht kennen!"
 msgstr ""
+"Vid den här tidpunkten kan du inte ens känna till den här adressen ännu!"
 
 #: ../../ms2/ms2_r1.c:378
 msgid "Du hast nicht|mehr genug Geld."
-msgstr ""
+msgstr "Du har inte tillräckligt med pengar."
 
 #: ../../ms2/ms2_r1.c:389
 msgid "Du merkst, daß das Taxi stark beschleunigt."
-msgstr ""
+msgstr "Du märker att taxin accelererar snabbt."
 
 #: ../../ms2/ms2_r1.c:398
 msgid "Fünf Minuten später ..."
-msgstr ""
+msgstr "Fem minuter senare..."
 
 #: ../../ms2/ms2_r1.c:433
 msgid "Du hast doch schon eine Stange"
-msgstr ""
+msgstr "Du har redan en bar"
 
 #: ../../ms2/ms2_r1.c:436
 msgid "Du sägst eine der Stangen ab."
-msgstr ""
+msgstr "Såga av en av stavarna."
 
 #: ../../ms2/ms2_r1.c:444
 msgid "Du betrittst das einzige|offene Geschäft, das|du finden kannst."
-msgstr ""
+msgstr "Du går in i den enda öppna butiken du kan hitta."
 
 #: ../../ms2/ms2_r1.c:507
 msgid "Die Kabine ist besetzt."
-msgstr ""
+msgstr "Kabinen är upptagen."
 
 #: ../../ms2/ms2_r1.c:524
 msgid "He, nimm erstmal das Geld|aus dem Rückgabeschlitz!"
-msgstr ""
+msgstr "Ta ut pengarna ur returfacket först!"
 
 #: ../../ms2/ms2_r1.c:526
 msgid "Du hast doch schon bezahlt."
-msgstr ""
+msgstr "Du har redan betalat."
 
 #: ../../ms2/ms2_r1.c:528
 msgid "Du hast nicht mehr genug Geld."
-msgstr ""
+msgstr "Du har inte längre tillräckligt med pengar."
 
 #: ../../ms2/ms2_r1.c:531
 msgid "Du wirfst 10 Xa in den Schlitz."
-msgstr ""
+msgstr "Du kastar in 10 Xa i slitsen."
 
 #: ../../ms2/ms2_r1.c:566
 msgid "Dir wird schwarz vor Augen."
-msgstr ""
+msgstr "Dina ögon blir svarta."
 
 #: ../../ms2/ms2_r1.c:582
 msgid "Du ruhst dich eine Weile aus."
-msgstr ""
+msgstr "Du vilar en stund."
 
 #: ../../ms2/ms2_r1.c:598
 msgid ""
 "An der Wand steht:|\"Ich kenne eine tolle Geheimschrift:|A=Z, B=Y, C=X ...|"
 "0=0, 1=9, 2=8 ...\""
 msgstr ""
+"På väggen står det:|\"Jag kan ett fantastiskt chiffer:|A=Z, B=Y, C=X ...|"
+"0=0, 1=9, 2=8 ...\""
 
 #: ../../ms2/ms2_r1.c:657
 msgid "Ok, ich nehme es."
-msgstr ""
+msgstr "Okej, jag tar det."
 
 #: ../../ms2/ms2_r1.c:658
 msgid "Nein danke, das ist mir zu teuer."
-msgstr ""
+msgstr "Nej tack, det är för dyrt för mig."
 
 #: ../../ms2/ms2_r1.c:662
 msgid "Ich würde gern etwas kaufen."
-msgstr ""
+msgstr "Jag skulle vilja köpa något."
 
 #: ../../ms2/ms2_r1.c:663
 msgid "Ich bin's, Horst Hummel."
-msgstr ""
+msgstr "Det är jag, Horst Hummel."
 
 #: ../../ms2/ms2_r1.c:664
 msgid "Haben Sie auch einen Musikchip für das Gerät?"
-msgstr ""
+msgstr "Har du också ett musikchip för enheten?"
 
 #: ../../ms2/ms2_r1.c:668
 msgid "Eine tolle Maske, nicht wahr?"
-msgstr ""
+msgstr "Visst är det en bra mask?"
 
 #: ../../ms2/ms2_r1.c:668
 msgid "Komisch, daß sie schon drei Jahre da steht."
-msgstr ""
+msgstr "Det är lustigt att den har stått där i tre år."
 
 #: ../../ms2/ms2_r1.c:669
 msgid "Ein starker Trunk. Zieht ganz schön rein."
-msgstr ""
+msgstr "En stark dryck. Dra in ganska snyggt."
 
 #: ../../ms2/ms2_r1.c:670
 msgid "Ein Abspiel- und Aufnahmegerät für die neuen Musikchips."
-msgstr ""
+msgstr "En uppspelnings- och inspelningsenhet för de nya musikchipsen."
 
 #: ../../ms2/ms2_r1.c:671
 msgid "Eine ARTUS-Zahnbürste. Der letzte Schrei."
-msgstr ""
+msgstr "En ARTUS-tandborste. Det senaste på modet."
 
 #: ../../ms2/ms2_r1.c:671
 msgid "Verkaufe ich massenhaft, die Dinger."
-msgstr ""
+msgstr "Jag säljer dem en masse."
 
 #: ../../ms2/ms2_r1.c:672
 msgid "Das sind echte Raritäten. Bücher in gebundener Form."
-msgstr ""
+msgstr "Det här är riktiga rariteter. Böcker i inbunden form."
 
 #: ../../ms2/ms2_r1.c:673
 msgid "Die Encyclopedia Axacussana."
-msgstr ""
+msgstr "Encyklopedin Axacussana."
 
 #: ../../ms2/ms2_r1.c:673
 msgid "Das größte erhältliche Lexikon auf 30 Speicherchips."
-msgstr ""
+msgstr "Den största encyklopedin tillgänglig på 30 minneskretsar."
 
 #: ../../ms2/ms2_r1.c:673
 msgid "Über 400 Trilliarden Stichwörter."
-msgstr ""
+msgstr "Över 400 biljoner sökord."
 
 #: ../../ms2/ms2_r1.c:674
 msgid "Die ist nicht zu verkaufen."
-msgstr ""
+msgstr "Den är inte till salu."
 
 #: ../../ms2/ms2_r1.c:675
 msgid "So eine habe ich meinem Enkel zum Geburtstag geschenkt."
-msgstr ""
+msgstr "Jag gav en av dessa till mitt barnbarn på hans födelsedag."
 
 #: ../../ms2/ms2_r1.c:675
 msgid "Er war begeistert von dem Ding."
-msgstr ""
+msgstr "Han var mycket nöjd med saken."
 
 #: ../../ms2/ms2_r1.c:676
 msgid "Der stammt aus einem bekannten Computerspiel."
-msgstr ""
+msgstr "Det kommer från ett välkänt dataspel."
 
 #: ../../ms2/ms2_r1.c:677
 msgid "Robust, handlich und stromsparend."
-msgstr ""
+msgstr "Robust, praktisk och energibesparande."
 
 #: ../../ms2/ms2_r1.c:678 ../../ms2/ms2_r1.c:679 ../../ms2/ms2_r1.c:680
 #: ../../ms2/ms2_r1.c:681
 msgid "Irgendein lasches Gesöff."
-msgstr ""
+msgstr "Nån sorts laxerad smörja."
 
 #: ../../ms2/ms2_r1.c:682
 msgid "Das sind Protestaufkleber gegen die hohen Taxigebühren."
-msgstr ""
+msgstr "Det här är protestdekaler mot de höga taxiresorna."
 
 #: ../../ms2/ms2_r1.c:683
 msgid "Das ist Geschirr aus der neuen Umbina-Kollektion."
-msgstr ""
+msgstr "Det här är porslin från den nya Umbina-kollektionen."
 
 #: ../../ms2/ms2_r1.c:683
 msgid "Häßlich, nicht wahr?"
-msgstr ""
+msgstr "Visst är det fult?"
 
 #: ../../ms2/ms2_r1.c:683
 msgid "Aber verkaufen tut sich das Zeug gut."
-msgstr ""
+msgstr "Men grejerna säljer bra."
 
 #: ../../ms2/ms2_r1.c:699
 #, c-format
 msgid "Das kostet %d Xa."
-msgstr ""
+msgstr "Detta kostar %d Xa."
 
 #: ../../ms2/ms2_r1.c:726
 msgid "Schauen Sie sich ruhig um!"
-msgstr ""
+msgstr "Ta en titt runt omkring!"
 
 #: ../../ms2/ms2_r1.c:728
 msgid "Unsinn!"
-msgstr ""
+msgstr "Nonsens!"
 
 #: ../../ms2/ms2_r1.c:730
 msgid "Tut mir leid, die sind|schon alle ausverkauft."
-msgstr ""
+msgstr "Tyvärr, de är redan slutsålda."
 
 #: ../../ms2/ms2_r1.c:743
 msgid "Guten Abend."
-msgstr ""
+msgstr "God kväll."
 
 #: ../../ms2/ms2_r1.c:744
 msgid "Hallo."
-msgstr ""
+msgstr "Hallå."
 
 #: ../../ms2/ms2_r1.c:754
 msgid "Huch, Sie haben mich aber erschreckt!"
-msgstr ""
+msgstr "Oj, du skrämde mig!"
 
 #: ../../ms2/ms2_r1.c:755
 msgid "Wieso?"
-msgstr ""
+msgstr "Varför då?"
 
 #: ../../ms2/ms2_r1.c:756
 msgid "Ihre Verkleidung ist wirklich täuschend echt."
-msgstr ""
+msgstr "Hennes förklädnad är verkligen bedrägligt äkta."
 
 #: ../../ms2/ms2_r1.c:757
 msgid "Welche Verkleidung?"
-msgstr ""
+msgstr "Vilken panel?"
 
 #: ../../ms2/ms2_r1.c:758
 msgid "Na, tun Sie nicht so!"
-msgstr ""
+msgstr "Låtsas inte om det!"
 
 #: ../../ms2/ms2_r1.c:759
 msgid ""
 "Sie haben sich verkleidet wie der Außerirdische,|dieser Horst Hummel, oder "
 "wie er heißt."
 msgstr ""
+"De klädde ut sig till utomjordingen, Horst Hummel, eller vad han nu heter."
 
 #: ../../ms2/ms2_r1.c:760 ../../ms2/ms2_r2.c:419
 msgid "Ich BIN Horst Hummel!"
-msgstr ""
+msgstr "JAG ÄR Horst Hummel!"
 
 #: ../../ms2/ms2_r1.c:761
 msgid "Geben Sie's auf!"
-msgstr ""
+msgstr "Ge mig en applåd!"
 
 #: ../../ms2/ms2_r1.c:762
 msgid "An Ihrer Gestik merkt man, daß Sie|ein verkleideter Axacussaner sind."
-msgstr ""
+msgstr "Man kan se på dina gester att du är en Axacussan i förklädnad."
 
 #: ../../ms2/ms2_r1.c:763
 msgid "Der echte Hummel bewegt sich|anders, irgendwie ruckartig."
-msgstr ""
+msgstr "Den riktiga Hummel rör sig på olika sätt, på något sätt ryckigt."
 
 #: ../../ms2/ms2_r1.c:764
 msgid "Weil er ein Roboter ist! ICH bin der Echte!"
-msgstr ""
+msgstr "För att han är en robot! Jag är den riktiga!"
 
 #: ../../ms2/ms2_r1.c:765 ../../ms2/ms2_r2.c:56
 msgid "Ach, Sie spinnen ja!"
-msgstr ""
+msgstr "Åh, du är galen!"
 
 #: ../../ms2/ms2_r1.c:766
 msgid "Sie Trottel!!!"
-msgstr ""
+msgstr "Din idiot!!!"
 
 #: ../../ms2/ms2_r1.c:767
 msgid "Seien Sie still, oder ich werfe Sie raus!"
-msgstr ""
+msgstr "Håll käften, annars kastar jag ut dig!"
 
 #: ../../ms2/ms2_r1.c:780
 msgid "Taschenmesser"
@@ -1201,1502 +1216,1573 @@ msgstr "Fickkniv"
 
 #: ../../ms2/ms2_r1.c:780
 msgid "Hey, da ist sogar eine Säge dran."
-msgstr ""
+msgstr "Det finns till och med en såg på den."
 
 #: ../../ms2/ms2_r1.c:781
 msgid "20 Xa"
-msgstr ""
+msgstr "20 Xa"
 
 #: ../../ms2/ms2_r1.c:782
 msgid "Discman"
-msgstr ""
+msgstr "Discman"
 
 #: ../../ms2/ms2_r1.c:782
 msgid "Da ist noch die \"Mad Monkeys\"-CD drin."
-msgstr ""
+msgstr "CD:n \"Mad Monkeys\" är kvar där inne."
 
 #: ../../ms2/ms2_r1.c:783
 msgid "Mit dem Ding sollst du dich|an der Wand festhalten."
-msgstr ""
+msgstr "Du borde använda den här saken för att hålla fast vid väggen."
 
 #: ../../ms2/ms2_r1.c:785
 msgid "Spezialkeycard"
-msgstr ""
+msgstr "Särskilt nyckelkort"
 
 #: ../../ms2/ms2_r1.c:785
 msgid "Damit sollst du die|Türen knacken können."
-msgstr ""
+msgstr "Du borde kunna knäcka dörrarna med den."
 
 #: ../../ms2/ms2_r1.c:786
 msgid "Alarmknacker"
-msgstr ""
+msgstr "Larm smällare"
 
 #: ../../ms2/ms2_r1.c:786
 msgid "Ein kleines Gerät, um|die Alarmanlage auszuschalten."
-msgstr ""
+msgstr "En liten enhet för att stänga av larmsystemet."
 
 #: ../../ms2/ms2_r1.c:788
 msgid "Karte"
-msgstr ""
+msgstr "Karta"
 
 #: ../../ms2/ms2_r1.c:795
 msgid "Raumschiff"
-msgstr ""
+msgstr "Rymdskepp"
 
 #: ../../ms2/ms2_r1.c:795
 msgid "Damit bist du hierhergekommen."
-msgstr ""
+msgstr "Det var så du hamnade här."
 
 #: ../../ms2/ms2_r1.c:796
 msgid "Fahrzeuge"
-msgstr ""
+msgstr "Fordon"
 
 #: ../../ms2/ms2_r1.c:796
 msgid "Du kannst von hier aus nicht erkennen,|was das für Fahrzeuge sind."
-msgstr ""
+msgstr "Det går inte att se härifrån vad det är för typ av fordon."
 
 #: ../../ms2/ms2_r1.c:803 ../../ms2/ms2_r1.c:804
 msgid "Fahrzeug"
-msgstr ""
+msgstr "Fordon"
 
 #: ../../ms2/ms2_r1.c:803 ../../ms2/ms2_r1.c:804
 msgid "Es scheint ein Taxi zu sein."
-msgstr ""
+msgstr "Det ser ut att vara en taxi."
 
 #: ../../ms2/ms2_r1.c:805
 msgid "Komisch, er ist verschlossen."
-msgstr ""
+msgstr "Lustigt, den är låst."
 
 #: ../../ms2/ms2_r1.c:806
 msgid "Portemonnaie"
-msgstr ""
+msgstr "Plånbok"
 
 #: ../../ms2/ms2_r1.c:806
 msgid "Das muß ein Axacussaner|hier verloren haben."
-msgstr ""
+msgstr "En Axacussaner|hier måste ha tappat den."
 
 #: ../../ms2/ms2_r1.c:807
 msgid "Gerät"
-msgstr ""
+msgstr "Enhet"
 
 #: ../../ms2/ms2_r1.c:807
 msgid "Auf dem Gerät steht: \"Taxi-Call\".|Es ist ein kleiner Knopf daran."
-msgstr ""
+msgstr "Apparaten är märkt \"Taxi-Call\" och har en liten knapp på sig."
 
 #: ../../ms2/ms2_r1.c:808
 msgid "Ausweis"
-msgstr ""
+msgstr "ID-kort"
 
 #: ../../ms2/ms2_r1.c:808
 msgid "Auf dem Ausweis steht:|  Berta Tschell|  Axacuss City|  115AY2,96A,32"
-msgstr ""
+msgstr "På ID-kortet står det: Berta Tschell, Axacuss City, 115AY2,96A,32"
 
 #: ../../ms2/ms2_r1.c:817
 msgid "Treppe"
-msgstr ""
+msgstr "Trappa"
 
 #: ../../ms2/ms2_r1.c:817
 msgid "Sie führt zu den Geschäften."
-msgstr ""
+msgstr "Den leder till butikerna."
 
 #: ../../ms2/ms2_r1.c:818
 msgid "Geschäftsstraße im Hintergrund"
-msgstr ""
+msgstr "Shoppinggata i bakgrunden"
 
 #: ../../ms2/ms2_r1.c:818
 msgid "Die Straße scheint kein Ende zu haben."
-msgstr ""
+msgstr "Vägen verkar inte ha något slut."
 
 #: ../../ms2/ms2_r1.c:819 ../../ms2/ms2_r1.c:820
 msgid "Stange"
-msgstr ""
+msgstr "Bar"
 
 #: ../../ms2/ms2_r1.c:821
 msgid "Pfosten"
-msgstr ""
+msgstr "Post"
 
 #: ../../ms2/ms2_r1.c:822
 msgid "Geländer"
-msgstr ""
+msgstr "Räcken"
 
 #: ../../ms2/ms2_r1.c:829
 msgid "Plakat"
-msgstr ""
+msgstr "Affisch"
 
 #: ../../ms2/ms2_r1.c:829
 msgid ""
 "Musik Pur - Der Musikwettbewerb!|Heute im Kulturpalast|Hauptpreis:|"
 "Fernsehauftritt mit Horst Hummel|Sponsored by Artus GmbH"
 msgstr ""
+"Musik Pur - Der Musikwettbewerb!|Idag på Kulturpalast|Huvudpris:|"
+"Televisionsframträdande med Horst Hummel|Sponsrat av Artus GmbH"
 
 #: ../../ms2/ms2_r1.c:830 ../../ms2/ms2_r1.c:831
 msgid "Kabine"
-msgstr ""
+msgstr "Stuga"
 
 #: ../../ms2/ms2_r1.c:830
 msgid "Sie ist frei!"
-msgstr ""
+msgstr "Hon är fri!"
 
 #: ../../ms2/ms2_r1.c:831
 msgid "Sie ist besetzt."
-msgstr ""
+msgstr "Den är ockuperad."
 
 #: ../../ms2/ms2_r1.c:832
 msgid "Füße"
-msgstr ""
+msgstr "Fötter"
 
 #: ../../ms2/ms2_r1.c:832
 msgid "Komisch, die|Füße scheinen|erstarrt zu sein."
-msgstr ""
+msgstr "Lustigt, fötterna verkar sitta fast."
 
 #: ../../ms2/ms2_r1.c:841
 msgid "Haube"
-msgstr ""
+msgstr "Motorhuv"
 
 #: ../../ms2/ms2_r1.c:841
 msgid "Sieht aus wie beim Frisör."
-msgstr ""
+msgstr "Det ser ut som en frisörsalong."
 
 #: ../../ms2/ms2_r1.c:842
 msgid "400 Xa"
-msgstr ""
+msgstr "400 Xa"
 
 #: ../../ms2/ms2_r1.c:843
 msgid "10 Xa"
-msgstr ""
+msgstr "10 Xa"
 
 #: ../../ms2/ms2_r1.c:844
 msgid "Darüber steht:|\"Geldeinwurf: 10 Xa\"."
-msgstr ""
+msgstr "Ovanför står det skrivet: \"Sätt in pengar: 10 Xa\"."
 
 #: ../../ms2/ms2_r1.c:845
 msgid "Darüber steht:|\"Gewinnausgabe / Geldrückgabe\"."
-msgstr ""
+msgstr "Ovanför detta står det:|\"Winnings issue / money returned\"."
 
 #: ../../ms2/ms2_r1.c:846 ../../ms2/ms2_r2.c:1264
 msgid "Stuhl"
-msgstr ""
+msgstr "Ordförande"
 
 #: ../../ms2/ms2_r1.c:846
 msgid "Etwas Entspannung könntest du jetzt gebrauchen."
-msgstr ""
+msgstr "Du skulle behöva lite avkoppling just nu."
 
 #: ../../ms2/ms2_r1.c:847 ../../ms2/ms2_r1.c:848
 msgid "Gekritzel"
-msgstr ""
+msgstr "Skribbla"
 
 #: ../../ms2/ms2_r1.c:849 ../../ms2/ms2_r1.c:873
 msgid "Gesicht"
-msgstr ""
+msgstr "Ansikte"
 
 #: ../../ms2/ms2_r1.c:849
 msgid "Nicht zu fassen! Die|Wände sind genauso beschmutzt|wie auf der Erde."
-msgstr ""
+msgstr "Otroligt! Väggarna är lika smutsiga som på jorden."
 
 #: ../../ms2/ms2_r1.c:858
 msgid "Bücher"
-msgstr ""
+msgstr "Böcker"
 
 #: ../../ms2/ms2_r1.c:859
 msgid "Lexikon"
-msgstr ""
+msgstr "Lexikon"
 
 #: ../../ms2/ms2_r1.c:860
 msgid "Pflanze"
-msgstr ""
+msgstr "Anläggning"
 
 #: ../../ms2/ms2_r1.c:861
 msgid "Maske"
-msgstr ""
+msgstr "Mask"
 
 #: ../../ms2/ms2_r1.c:862
 msgid "Schlange"
-msgstr ""
+msgstr "Orm"
 
 #: ../../ms2/ms2_r1.c:863
 msgid "Becher"
-msgstr ""
+msgstr "Bägare"
 
 #: ../../ms2/ms2_r1.c:864
 msgid "Joystick"
-msgstr ""
+msgstr "Joystick"
 
 #: ../../ms2/ms2_r1.c:865
 msgid "Eine normale Zahnbürste,|es steht nur \"Artus\" darauf."
-msgstr ""
+msgstr "En vanlig tandborste, det står bara \"Artus\" på den."
 
 #: ../../ms2/ms2_r1.c:866
 msgid "Musikgerät"
-msgstr ""
+msgstr "Musikanläggning"
 
 #: ../../ms2/ms2_r1.c:866
 msgid ""
 "Ein Gerät zum Abspielen und|Aufnehmen von Musikchips.|Es ist ein Mikrofon "
 "daran."
 msgstr ""
+"En enhet för att spela och spela in musikchips. Den har en mikrofon på sig."
 
 #: ../../ms2/ms2_r1.c:867 ../../ms2/ms2_r1.c:868 ../../ms2/ms2_r1.c:869
 #: ../../ms2/ms2_r1.c:870 ../../ms2/ms2_r1.c:871
 msgid "Flasche"
-msgstr ""
+msgstr "Flaska"
 
 #: ../../ms2/ms2_r1.c:867
 msgid "Auf dem Etikett steht:|\"Enthält 10% Hyperalkohol\"."
-msgstr ""
+msgstr "På etiketten står det: \"Innehåller 10% hyperalkohol\"."
 
 #: ../../ms2/ms2_r1.c:872
 msgid "Kiste"
-msgstr ""
+msgstr "Lådan"
 
 #: ../../ms2/ms2_r1.c:874
 msgid "Verkäufer"
-msgstr ""
+msgstr "Säljare"
 
 #: ../../ms2/ms2_r2.c:36
 msgid "Was? Dafür wollen Sie die Karte haben?"
-msgstr ""
+msgstr "Vill du ha kortet för det?"
 
 #: ../../ms2/ms2_r2.c:37
 msgid "Sie sind wohl nicht ganz über|die aktuellen Preise informiert!"
-msgstr ""
+msgstr "Du är förmodligen inte fullt informerad om de aktuella priserna!"
 
 #: ../../ms2/ms2_r2.c:47
 msgid "Ich bin's, Horst Hummel!"
-msgstr ""
+msgstr "Det är jag, Horst Hummel!"
 
 #: ../../ms2/ms2_r2.c:48
 msgid "Schönes Wetter heute!"
-msgstr ""
+msgstr "Vackert väder idag!"
 
 #: ../../ms2/ms2_r2.c:49
 msgid "Können Sie mir sagen, von wem ich eine Eintrittskarte"
-msgstr ""
+msgstr "Kan du säga mig vem jag kan få en biljett från"
 
 #: ../../ms2/ms2_r2.c:50
 msgid "für den Musikwettbewerb kriegen kann?"
-msgstr ""
+msgstr "för musiktävlingen?"
 
 #: ../../ms2/ms2_r2.c:55
 msgid "Ok, hier haben Sie den Xa."
-msgstr ""
+msgstr "Ok, här har du Xa."
 
 #: ../../ms2/ms2_r2.c:60
 msgid "Ich biete Ihnen 500 Xa."
-msgstr ""
+msgstr "Jag erbjuder dig 500 Xa."
 
 #: ../../ms2/ms2_r2.c:61
 msgid "Ich biete Ihnen 1000 Xa."
-msgstr ""
+msgstr "Jag erbjuder dig 1000 Xa."
 
 #: ../../ms2/ms2_r2.c:62
 msgid "Ich biete Ihnen 5000 Xa."
-msgstr ""
+msgstr "Jag erbjuder dig 5000 Xa."
 
 #: ../../ms2/ms2_r2.c:63
 msgid "Ich biete Ihnen 10000 Xa."
-msgstr ""
+msgstr "Jag erbjuder dig 10000 Xa."
 
 #: ../../ms2/ms2_r2.c:72
 msgid "Vielen Dank für Ihren Kauf!"
-msgstr ""
+msgstr "Tack för ditt köp!"
 
 #: ../../ms2/ms2_r2.c:77
 msgid "Was bieten Sie mir|denn nun für die Karte?"
-msgstr ""
+msgstr "Vad erbjuder du mig för kortet?"
 
 #: ../../ms2/ms2_r2.c:81
 msgid "Hallo, Sie!"
-msgstr ""
+msgstr "Hallå där!"
 
 #: ../../ms2/ms2_r2.c:83 ../../ms2/ms2_r2.c:719
 msgid "Was wollen Sie?"
-msgstr ""
+msgstr "Vad är det du vill?"
 
 #: ../../ms2/ms2_r2.c:87
 msgid "Wer sind Sie?"
-msgstr ""
+msgstr "Vem är du?"
 
 #: ../../ms2/ms2_r2.c:88
 msgid "Horst Hummel!"
-msgstr ""
+msgstr "Horst Hummel!"
 
 #: ../../ms2/ms2_r2.c:89
 msgid "Kenne ich nicht."
-msgstr ""
+msgstr "Jag känner inte till det."
 
 #: ../../ms2/ms2_r2.c:90
 msgid "Was, Sie kennen den berühmten Horst Hummel nicht?"
-msgstr ""
+msgstr "Känner du inte till den berömde Horst Hummel?"
 
 #: ../../ms2/ms2_r2.c:91
 msgid "Ich bin doch der, der immer im Fernsehen zu sehen ist."
-msgstr ""
+msgstr "Jag är den som alltid är på teven."
 
 #: ../../ms2/ms2_r2.c:92
 msgid "Ich kenne Sie wirklich nicht."
-msgstr ""
+msgstr "Jag känner dig verkligen inte."
 
 #: ../../ms2/ms2_r2.c:93
 msgid "Komisch."
-msgstr ""
+msgstr "Konstigt."
 
 #: ../../ms2/ms2_r2.c:95 ../../ms2/ms2_r2.c:1155
 msgid "Aha."
-msgstr ""
+msgstr "Jag förstår."
 
 #: ../../ms2/ms2_r2.c:97
 msgid "Ja, kann ich."
-msgstr ""
+msgstr "Ja, det kan jag."
 
 #: ../../ms2/ms2_r2.c:98
 msgid "Von wem denn?"
-msgstr ""
+msgstr "Från vem?"
 
 #: ../../ms2/ms2_r2.c:99
 msgid "Diese Information kostet einen Xa."
-msgstr ""
+msgstr "Denna information kostar en Xa."
 
 #: ../../ms2/ms2_r2.c:104
 msgid "Wie Sie meinen."
-msgstr ""
+msgstr "Vad du än säger."
 
 #: ../../ms2/ms2_r2.c:110
 msgid "Sie können die Karte von MIR bekommen!"
-msgstr ""
+msgstr "Du kan få kortet från MIG!"
 
 #: ../../ms2/ms2_r2.c:111
 msgid "Aber nur eine Teilnahmekarte,|keine Eintrittskarte."
-msgstr ""
+msgstr "Men bara en deltagarbiljett, inte en entrébiljett."
 
 #: ../../ms2/ms2_r2.c:112
 msgid "Was wollen Sie dafür haben?"
-msgstr ""
+msgstr "Vad vill du ha i gengäld?"
 
 #: ../../ms2/ms2_r2.c:113
 msgid "Machen Sie ein Angebot!"
-msgstr ""
+msgstr "Ge oss ett erbjudande!"
 
 #: ../../ms2/ms2_r2.c:133
 msgid "Das ist ein gutes Angebot!"
-msgstr ""
+msgstr "Det är ett bra erbjudande!"
 
 #: ../../ms2/ms2_r2.c:135
 msgid "Dafür gebe ich Ihnen meine|letzte Teilnahmekarte!"
-msgstr ""
+msgstr "För detta ger jag dig mitt sista deltagarkort!"
 
 #: ../../ms2/ms2_r2.c:140
 msgid "(Dieser Trottel!)"
-msgstr ""
+msgstr "(Den idioten!)"
 
 #: ../../ms2/ms2_r2.c:190
 msgid "Ich würde gern beim Musikwettbewerb zuschauen."
-msgstr ""
+msgstr "Jag skulle gärna vilja se musiktävlingen."
 
 #: ../../ms2/ms2_r2.c:191
 msgid "Ich würde gern am Musikwettbewerb teilnehmen."
-msgstr ""
+msgstr "Jag skulle vilja delta i musiktävlingen."
 
 #: ../../ms2/ms2_r2.c:192
 msgid "Wieviel Uhr haben wir?"
-msgstr ""
+msgstr "Hur lång tid har vi på oss?"
 
 #: ../../ms2/ms2_r2.c:196 ../../ms2/ms2_r2.c:749
 msgid "Ja."
-msgstr ""
+msgstr "Ja."
 
 #: ../../ms2/ms2_r2.c:197 ../../ms2/ms2_r2.c:379 ../../ms2/ms2_r2.c:391
 #: ../../ms2/ms2_r2.c:697
 msgid "Nein."
-msgstr ""
+msgstr "Nej, det gör jag inte."
 
 #: ../../ms2/ms2_r2.c:201
 msgid "Hallo, Leute!"
-msgstr ""
+msgstr "Hej, gott folk!"
 
 #: ../../ms2/ms2_r2.c:202
 msgid "Hi, Fans!"
-msgstr ""
+msgstr "Hej, fans!"
 
 #: ../../ms2/ms2_r2.c:203
 msgid "Gute Nacht!"
-msgstr ""
+msgstr "God natt!"
 
 #: ../../ms2/ms2_r2.c:207
 msgid "Äh, wie geht es euch?"
-msgstr ""
+msgstr "Hur mår du?"
 
 #: ../../ms2/ms2_r2.c:208
 msgid "Schönes Wetter heute."
-msgstr ""
+msgstr "Fint väder idag."
 
 #: ../../ms2/ms2_r2.c:212
 msgid "Hmm ..."
-msgstr ""
+msgstr "Hmm..."
 
 #: ../../ms2/ms2_r2.c:213
 msgid "Tja ..."
-msgstr ""
+msgstr "Nåväl..."
 
 #: ../../ms2/ms2_r2.c:214
 msgid "Also ..."
-msgstr ""
+msgstr "Så..."
 
 #: ../../ms2/ms2_r2.c:218
 msgid "Ok, los gehts!"
-msgstr ""
+msgstr "Okej, nu kör vi!"
 
 #: ../../ms2/ms2_r2.c:219
 msgid "Ich klimper mal was auf dem Keyboard hier."
-msgstr ""
+msgstr "Jag ska slå på något på tangentbordet här."
 
 #: ../../ms2/ms2_r2.c:234
 msgid "Halt, sie sind doch schon drangewesen!"
-msgstr ""
+msgstr "Vänta, de har redan haft sin tur!"
 
 #: ../../ms2/ms2_r2.c:240
 msgid "He, Sie! Haben Sie|eine Eintrittskarte?"
-msgstr ""
+msgstr "Hallå, du där! Har du en biljett?"
 
 #: ../../ms2/ms2_r2.c:244
 msgid "Ja natürlich, hier ist meine Teilnahmekarte."
-msgstr ""
+msgstr "Ja, naturligtvis, här är mitt inträdeskort."
 
 #: ../../ms2/ms2_r2.c:245
 msgid ""
 "Sie sind Teilnehmer! Fragen|Sie bitte an der Kasse nach,|wann Sie auftreten "
 "können."
-msgstr ""
+msgstr "Du är en deltagare! Fråga i kassan när du kan uppträda."
 
 #: ../../ms2/ms2_r2.c:247
 msgid "Äh, nein."
-msgstr ""
+msgstr "Eh, nej."
 
 #: ../../ms2/ms2_r2.c:252
 msgid "He, wo ist Ihr Musikchip?"
-msgstr ""
+msgstr "Var är ditt musikchip?"
 
 #: ../../ms2/ms2_r2.c:267
 msgid "Laber nicht!"
-msgstr ""
+msgstr "Prata inte!"
 
 #: ../../ms2/ms2_r2.c:270
 msgid "Fang an!"
-msgstr ""
+msgstr "Kom igång!"
 
 #: ../../ms2/ms2_r2.c:273
 msgid "Einen Moment, ich muß erstmal überlegen, was ich|euch spiele."
-msgstr ""
+msgstr "Ett ögonblick bara, jag måste tänka på vad jag ska spela först."
 
 #: ../../ms2/ms2_r2.c:275
 msgid "Anfangen!!!"
-msgstr ""
+msgstr "Kom igång!!!"
 
 #: ../../ms2/ms2_r2.c:278
 msgid "Nun denn ..."
-msgstr ""
+msgstr "Ja, då så..."
 
 #: ../../ms2/ms2_r2.c:279
 msgid "Raus!"
-msgstr ""
+msgstr "Ut!"
 
 #: ../../ms2/ms2_r2.c:291 ../../ms2/ms2_r2.c:306
 msgid "Buh!"
-msgstr ""
+msgstr "Boo!"
 
 #: ../../ms2/ms2_r2.c:298
 msgid "Aufhören!"
-msgstr ""
+msgstr "Sluta!"
 
 #: ../../ms2/ms2_r2.c:309
 msgid "Hilfe!"
-msgstr ""
+msgstr "Hjälp!"
 
 #: ../../ms2/ms2_r2.c:312
 msgid "Ich verziehe mich lieber."
-msgstr ""
+msgstr "Det är bäst att jag går härifrån."
 
 #: ../../ms2/ms2_r2.c:317
 msgid "Mist, auf dem Chip war|gar keine Musik drauf."
-msgstr ""
+msgstr "Fan, det fanns ingen musik på chipet."
 
 #: ../../ms2/ms2_r2.c:319
 msgid "Das ging ja voll daneben!"
-msgstr ""
+msgstr "Det gick helt fel!"
 
 #: ../../ms2/ms2_r2.c:327
 msgid "Du näherst dich der Bühne,|aber dir wird mulmig zumute."
-msgstr ""
+msgstr "Du närmar dig scenen, men känner dig illamående."
 
 #: ../../ms2/ms2_r2.c:330
 msgid ""
 "Du traust dich nicht, vor|so vielen Menschen aufzutreten|und kehrst wieder "
 "um."
-msgstr ""
+msgstr "Du vågar inte uppträda inför så många människor och vända tillbaka."
 
 #: ../../ms2/ms2_r2.c:347
 msgid "Oh, Sie sind Teilnehmer!|Dann sind Sie aber spät dran."
-msgstr ""
+msgstr "Åh, du är en deltagare, då är du sen."
 
 #: ../../ms2/ms2_r2.c:348
 msgid "Spielen Sie die Musik live?"
-msgstr ""
+msgstr "Spelar du musiken live?"
 
 #: ../../ms2/ms2_r2.c:351
 msgid ""
 "Dann geben Sie bitte Ihren Musikchip ab!|Er wird bei Ihrem Auftritt "
 "abgespielt."
 msgstr ""
+"Lämna sedan in ditt musikchip så kommer det att spelas under ditt "
+"framträdande."
 
 #: ../../ms2/ms2_r2.c:357
 msgid ""
 "Oh, Sie sind sofort an der Reihe!|Beeilen Sie sich! Der Bühneneingang|ist "
 "hinter dem Haupteingang rechts."
 msgstr ""
+"Det är din tur nu! Skynda dig! Sceningången är bakom huvudentrén till höger."
 
 #: ../../ms2/ms2_r2.c:367
 msgid "Habe ich noch einen zweiten Versuch?"
-msgstr ""
+msgstr "Får jag en andra chans?"
 
 #: ../../ms2/ms2_r2.c:368
 msgid "Nein!"
-msgstr ""
+msgstr "Nej!"
 
 #: ../../ms2/ms2_r2.c:378
 msgid "Haben Sie schon eine Eintrittskarte?"
-msgstr ""
+msgstr "Har du redan en biljett?"
 
 #: ../../ms2/ms2_r2.c:380
 msgid "Tut mir leid, die Karten|sind schon alle ausverkauft."
-msgstr ""
+msgstr "Tyvärr, biljetterna är redan slutsålda."
 
 #: ../../ms2/ms2_r2.c:381
 msgid "Mist!"
-msgstr ""
+msgstr "Skit också!"
 
 #: ../../ms2/ms2_r2.c:383
 msgid "Haben Sie schon eine Teilnahmekarte?"
-msgstr ""
+msgstr "Har du redan ett inpasseringskort?"
 
 #: ../../ms2/ms2_r2.c:386
 msgid "Ja, hier ist sie."
-msgstr ""
+msgstr "Ja, här är det."
 
 #: ../../ms2/ms2_r2.c:392
 msgid "Tut mir leid, die Teilnahmekarten|sind schon alle ausverkauft."
-msgstr ""
+msgstr "Tyvärr, biljetterna är redan slutsålda."
 
 #: ../../ms2/ms2_r2.c:393
 msgid "Scheiße!"
-msgstr ""
+msgstr "Skit också!"
 
 #: ../../ms2/ms2_r2.c:396
 msgid "Das kann ich Ihnen|leider nicht sagen."
-msgstr ""
+msgstr "Tyvärr kan jag inte säga det."
 
 #: ../../ms2/ms2_r2.c:401
 msgid "Wo ist denn nun Ihr Musikchip?"
-msgstr ""
+msgstr "Var är ditt musikchip?"
 
 #: ../../ms2/ms2_r2.c:403
 msgid "Jetzt beeilen Sie sich doch!"
-msgstr ""
+msgstr "Skynda dig nu!"
 
 #: ../../ms2/ms2_r2.c:416
 msgid ""
 "Huch, Sie sind hier bei einem Musik-,|nicht bei einem Imitationswettbewerb"
-msgstr ""
+msgstr "Oj, du är på en musiktävling, inte en imitationstävling"
 
 #: ../../ms2/ms2_r2.c:417
 msgid "Imitationswettbewerb?|Ich will niemanden imitieren."
-msgstr ""
+msgstr "Imitationstävling? Jag vill inte imitera någon."
 
 #: ../../ms2/ms2_r2.c:418
 msgid "Guter Witz, wieso sehen Sie|dann aus wie Horst Hummel?"
-msgstr ""
+msgstr "Bra skämt, varför ser du ut som Horst Hummel?"
 
 #: ../../ms2/ms2_r2.c:420
 msgid ""
 "Na, nun hören Sie auf! So perfekt ist|ihre Verkleidung auch wieder nicht."
-msgstr ""
+msgstr "Sluta nu! Din förklädnad är inte så perfekt."
 
 #: ../../ms2/ms2_r2.c:421
 msgid ""
 "Ich werde Ihnen beweisen, daß ich Horst Hummel bin,|indem ich diesen "
 "Wettbewerb hier gewinne."
 msgstr ""
+"Jag ska bevisa för dig att jag är Horst Hummel genom att vinna den här "
+"tävlingen."
 
 #: ../../ms2/ms2_r2.c:422
 msgid "Dann kann ich in dieser verdammten Fernsehshow|auftreten."
-msgstr ""
+msgstr "Då kan jag vara med i den där jäkla TV-showen."
 
 #: ../../ms2/ms2_r2.c:447
 msgid ""
 "Du hampelst ein bißchen zu|der Musik vom Chip herum.|Die Leute sind "
 "begeistert!"
-msgstr ""
+msgstr "Du rör dig lite till musiken från chippet och folk är glada!"
 
 #: ../../ms2/ms2_r2.c:484
 msgid "Guten Abend. Diesmal haben wir|einen besonderen Gast bei uns."
 msgstr ""
+"God afton, mina damer och herrar. Den här gången har vi en speciell gäst med "
+"oss."
 
 #: ../../ms2/ms2_r2.c:485
 msgid ""
 "Es ist der Gewinner des gestrigen|Musikwettbewerbs im Kulturpalast,|der dort "
 "vor allem durch seine|Verkleidung aufgefallen war."
 msgstr ""
+"Det är vinnaren av gårdagens musiktävling på Kulturpalast, som väckte "
+"uppmärksamhet främst på grund av sin förklädnad."
 
 #: ../../ms2/ms2_r2.c:489
 msgid "Sie haben das Wort!"
-msgstr ""
+msgstr "Du har golvet!"
 
 #: ../../ms2/ms2_r2.c:490
 msgid "Nun ja, meine erste Frage lautet: ..."
-msgstr ""
+msgstr "Min första fråga är: ..."
 
 #: ../../ms2/ms2_r2.c:491
 msgid ""
 "Warum haben Sie sich sofort nach|Ihrer Landung entschlossen, für|die Artus-"
 "GmbH zu arbeiten?"
 msgstr ""
+"Varför bestämde du dig för att arbeta för Artus-GmbH så snart du hade landat?"
 
 #: ../../ms2/ms2_r2.c:492
 msgid ""
 "Es war meine freie Entscheidung.|Die Artus-GmbH hat mir einfach gefallen."
-msgstr ""
+msgstr "Det var mitt fria beslut - jag gillade helt enkelt Artus-GmbH."
 
 #: ../../ms2/ms2_r2.c:493
 msgid ""
 "Wieso betonen Sie, daß es|Ihre freie Entscheidung war?|Haben Sie Angst, daß "
 "man Ihnen|nicht glaubt?"
 msgstr ""
+"Varför betonar du att det var ditt fria beslut? Är du rädd att du inte ska "
+"bli trodd?"
 
 #: ../../ms2/ms2_r2.c:494
 msgid "Also, ich muß doch sehr bitten!|Was soll diese unsinnige Frage?"
-msgstr ""
+msgstr "Så, snälla, vad är det för meningslös fråga?"
 
 #: ../../ms2/ms2_r2.c:495
 msgid ""
 "Ich finde die Frage wichtig.|Nun, Herr Hummel, was haben|Sie dazu zu sagen?"
-msgstr ""
+msgstr "Jag tycker att frågan är viktig. Nu, mr Hummel, vad har ni att säga?"
 
 #: ../../ms2/ms2_r2.c:505
 msgid "Auf solch eine Frage brauche|ich nicht zu antworten!"
-msgstr ""
+msgstr "Jag behöver inte svara på en sådan fråga!"
 
 #: ../../ms2/ms2_r2.c:506
 msgid "Gut, dann etwas anderes ..."
-msgstr ""
+msgstr "Nåväl, då är det något annat..."
 
 #: ../../ms2/ms2_r2.c:507
 msgid ""
 "Sie sind von Beruf Koch.|Wie hieß das Restaurant,|in dem Sie auf der Erde|"
 "gearbeitet haben?"
 msgstr ""
+"Du är kock till yrket. Vad hette restaurangen där du arbetade på jorden?"
 
 #: ../../ms2/ms2_r2.c:508
 msgid "Hmm, daß weiß ich nicht mehr."
-msgstr ""
+msgstr "Det minns jag inte."
 
 #: ../../ms2/ms2_r2.c:509
 msgid ""
 "Sie wollen mir doch nicht weismachen,|daß Sie den Namen vergessen haben!"
-msgstr ""
+msgstr "Du menar väl inte att du har glömt namnet!"
 
 #: ../../ms2/ms2_r2.c:510
 msgid "Schließlich haben Sie|zehn Jahre dort gearbeitet!"
-msgstr ""
+msgstr "Du arbetade ju trots allt där i tio år!"
 
 #: ../../ms2/ms2_r2.c:511
 msgid "Woher wollen Sie das wissen?"
-msgstr ""
+msgstr "Hur vet du det?"
 
 #: ../../ms2/ms2_r2.c:512
 msgid "Nun, ich komme von der Erde,|im Gegensatz zu Ihnen!"
-msgstr ""
+msgstr "Jag kommer från jorden, till skillnad från dig!"
 
 #: ../../ms2/ms2_r2.c:522
 msgid "Langsam gehen Sie zu weit!"
-msgstr ""
+msgstr "Du går för långt!"
 
 #: ../../ms2/ms2_r2.c:523
 msgid ""
 "Sie sind ein Roboter!|Das merkt man schon an|Ihrer dummen Antwort!|Sie sind "
 "nicht optimal|programmiert!"
 msgstr ""
+"Du är en robot! Jag kan se det på ditt dumma svar! Du är inte optimalt "
+"programmerad!"
 
 #: ../../ms2/ms2_r2.c:533
 msgid ""
 "Wenn Sie jetzt nicht mit Ihren|Beleidigungen aufhören, muß ich|Ihnen das "
 "Mikrofon abschalten!"
 msgstr ""
+"Om du inte slutar med dina förolämpningar nu, måste jag stänga av din "
+"mikrofon!"
 
 #: ../../ms2/ms2_r2.c:534
 msgid "Ich bin der echte Horst Hummel,|und hier ist der Beweis!"
-msgstr ""
+msgstr "Jag är den riktige Horst Hummel, och här är beviset!"
 
 #: ../../ms2/ms2_r2.c:558
 msgid ""
 "Am nächsten Morgen sind alle|Zeitungen voll mit deiner spektakulären|"
 "Enthüllung des Schwindels."
 msgstr ""
+"Nästa morgon är alla tidningar fulla av ditt spektakulära avslöjande av "
+"bluffen."
 
 #: ../../ms2/ms2_r2.c:561
 msgid ""
 "Die Manager der Artus-GmbH und Commander|Sumoti wurden sofort verhaftet."
-msgstr ""
+msgstr "Cheferna för Artus-GmbH och Commander|Sumoti greps omedelbart."
 
 #: ../../ms2/ms2_r2.c:564
 msgid ""
 "Nach dem Streß der letzten Tage,|entscheidest du dich, auf die|Erde "
 "zurückzukehren."
 msgstr ""
+"Efter de senaste dagarnas stress bestämmer du dig för att återvända till "
+"jorden."
 
 #: ../../ms2/ms2_r2.c:567
 msgid "Während du dich vor Interviews|kaum noch retten kannst, ..."
-msgstr ""
+msgstr "Även om du knappast kan rädda dig själv från intervjuer, ..."
 
 #: ../../ms2/ms2_r2.c:570
 msgid ""
 "... arbeiten die Axacussanischen|Techniker an einem Raumschiff,|das dich zur "
 "Erde zurückbringen soll."
 msgstr ""
+"... axacussans tekniker arbetar på ett rymdskepp som ska ta dig tillbaka "
+"till jorden."
 
 #: ../../ms2/ms2_r2.c:573
 msgid "Eine Woche später ist der|Tag des Starts gekommen."
-msgstr ""
+msgstr "En vecka senare är dagen för lanseringen här."
 
 #: ../../ms2/ms2_r2.c:603
 msgid ""
 "Zum dritten Mal in deinem|Leben verbringst du eine lange|Zeit im Tiefschlaf."
-msgstr ""
+msgstr "För tredje gången i ditt liv tillbringar du en lång tid i djup sömn."
 
 #: ../../ms2/ms2_r2.c:606
 msgid "Zehn Jahre später ..."
-msgstr ""
+msgstr "Tio år senare..."
 
 #: ../../ms2/ms2_r2.c:609
 msgid ""
 "Du wachst auf und beginnst,|dich schwach an deine|Erlebnisse zu erinnern."
-msgstr ""
+msgstr "Du vaknar upp och börjar svagt minnas dina upplevelser."
 
 #: ../../ms2/ms2_r2.c:612
 msgid "Um dich herum ist alles dunkel."
-msgstr ""
+msgstr "Allt omkring dig är mörkt."
 
 #: ../../ms2/ms2_r2.c:670 ../../ms2/ms2_r2.c:900
 #, c-format
 msgid "Sie zeigt %d an."
-msgstr ""
+msgstr "Den visar %d."
 
 #: ../../ms2/ms2_r2.c:680
 msgid "Ich interessiere mich für den Job, bei dem man über Nacht"
-msgstr ""
+msgstr "Jag är intresserad av ett jobb där du kan arbeta över natten"
 
 #: ../../ms2/ms2_r2.c:681
 msgid "reich werden kann."
-msgstr ""
+msgstr "kan bli rika."
 
 #: ../../ms2/ms2_r2.c:682
 msgid "Ich verkaufe frische Tomaten."
-msgstr ""
+msgstr "Jag säljer färska tomater."
 
 #: ../../ms2/ms2_r2.c:683
 msgid "Ich bin der Klempner. Ich soll hier ein Rohr reparieren."
-msgstr ""
+msgstr "Jag är rörmokaren. Jag är här för att reparera ett rör."
 
 #: ../../ms2/ms2_r2.c:688
 msgid "Ja, hört sich gut an."
-msgstr ""
+msgstr "Ja, det låter bra."
 
 #: ../../ms2/ms2_r2.c:689
 msgid "Krumme Geschäfte? Für wen halten Sie mich? Auf Wiedersehen!"
-msgstr ""
+msgstr "Ohederliga affärer? Vem tror du att jag är? Adjö!"
 
 #: ../../ms2/ms2_r2.c:693
 msgid "Äh - könnten Sie mir das Ganze nochmal erklären?"
-msgstr ""
+msgstr "Kan du förklara det hela för mig igen?"
 
 #: ../../ms2/ms2_r2.c:694
 msgid "Wie groß ist mein Anteil?"
-msgstr ""
+msgstr "Hur stor är min andel?"
 
 #: ../../ms2/ms2_r2.c:695
 msgid "Machen Sie es immer so, daß Sie Ihre Komplizen über"
 msgstr ""
+"Gör det alltid på ett sådant sätt att du informerar dina medbrottslingar om"
 
 #: ../../ms2/ms2_r2.c:696
 msgid "ein Graffitti anwerben?"
-msgstr ""
+msgstr "rekrytera en graffitikonstnär?"
 
 #: ../../ms2/ms2_r2.c:722
 msgid "Hmm, Moment mal, ich frage den Boss."
-msgstr ""
+msgstr "Vänta lite, jag ska fråga chefen."
 
 #: ../../ms2/ms2_r2.c:728
 msgid "Kurze Zeit später ..."
-msgstr ""
+msgstr "En kort tid senare..."
 
 #: ../../ms2/ms2_r2.c:736
 msgid "Ok, der Boss will dich sprechen."
-msgstr ""
+msgstr "Okej, chefen vill prata med dig."
 
 #: ../../ms2/ms2_r2.c:742
 msgid "Du betrittst die Wohnung und|wirst zu einem Tisch geführt."
-msgstr ""
+msgstr "Du kommer in i lägenheten och leds till ett bord."
 
 #: ../../ms2/ms2_r2.c:748
 msgid "Hmm, du willst dir also|etwas Geld verdienen?"
-msgstr ""
+msgstr "Hmm, så du vill tjäna lite pengar?"
 
 #: ../../ms2/ms2_r2.c:750
 msgid "Nun ja, wir planen|einen nächtlichen Besuch|eines bekannten Museums."
-msgstr ""
+msgstr "Vi planerar ett nattligt besök på ett välkänt museum."
 
 #: ../../ms2/ms2_r2.c:751
 msgid "Wie sieht's aus, bist du interessiert?"
-msgstr ""
+msgstr "Vad sägs om det, är du intresserad?"
 
 #: ../../ms2/ms2_r2.c:754
 msgid "Halt, warte!"
-msgstr ""
+msgstr "Stopp, vänta!"
 
 #: ../../ms2/ms2_r2.c:755
 msgid "Überleg's dir, es springen|30000 Xa für dich raus!"
-msgstr ""
+msgstr "Tänk på det, det finns 30000 Xa för dig!"
 
 #: ../../ms2/ms2_r2.c:756
 msgid "30000?! Ok, ich mache mit."
-msgstr ""
+msgstr "30000?! Okej, jag ska vara med."
 
 #: ../../ms2/ms2_r2.c:758
 msgid "Gut, dann zu den Einzelheiten."
-msgstr ""
+msgstr "Okej, låt oss gå in på detaljerna."
 
 #: ../../ms2/ms2_r2.c:759
 msgid "Bei dem Museum handelt es|sich um das Orzeng-Museum."
-msgstr ""
+msgstr "Museet heter Orzeng Museum."
 
 #: ../../ms2/ms2_r2.c:760
 msgid "Es enthält die wertvollsten|Dinosaurierfunde von ganz Axacuss."
-msgstr ""
+msgstr "Den innehåller de mest värdefulla|dinosauriefynden från hela Axacuss."
 
 #: ../../ms2/ms2_r2.c:761
 msgid "Wir haben es auf das Sodo-Skelett|abgesehen. Es ist weltberühmt."
-msgstr ""
+msgstr "Vi har den på Sodo-skelettet. Det är världsberömt."
 
 #: ../../ms2/ms2_r2.c:762
 msgid "Alle bekannten Paläontologen haben|sich schon damit beschäftigt."
-msgstr ""
+msgstr "Alla kända paleontologer har redan hanterat det."
 
 #: ../../ms2/ms2_r2.c:763
 msgid ""
 "Der Grund dafür ist, daß es allen|bis jetzt bekannten Erkenntnissen|Über die "
 "Evolution widerspricht."
 msgstr ""
+"Anledningen till detta är att det strider mot all känd kunskap om "
+"evolutionen."
 
 #: ../../ms2/ms2_r2.c:764
 msgid ""
 "Irgendein verrückter Forscher|bietet uns 200.000 Xa,|wenn wir ihm das Ding "
 "beschaffen."
-msgstr ""
+msgstr "En galen forskare erbjuder oss 200.000 Xa om vi ger honom saken."
 
 #: ../../ms2/ms2_r2.c:765
 msgid "So, jetzt zu deiner Aufgabe:"
-msgstr ""
+msgstr "Så, nu till din uppgift:"
 
 #: ../../ms2/ms2_r2.c:767
 msgid "Du dringst durch den Nebeneingang|in das Gebäude ein."
-msgstr ""
+msgstr "Du kommer in i byggnaden genom sidoingången."
 
 #: ../../ms2/ms2_r2.c:768
 msgid ""
 "Dort schaltest du die Alarmanlage aus,|durch die das Sodo-Skelett gesichert "
 "wird."
-msgstr ""
+msgstr "Där stänger du av larmsystemet som säkrar Sodo-skelettet."
 
 #: ../../ms2/ms2_r2.c:769
 msgid "Wir betreten einen anderen Gebäudeteil|und holen uns das Gerippe."
-msgstr ""
+msgstr "Vi går in i en annan del av byggnaden och får skelettet."
 
 #: ../../ms2/ms2_r2.c:770
 msgid "Deine Aufgabe ist nicht leicht.|Schau dir diesen Plan an."
-msgstr ""
+msgstr "Din uppgift är inte lätt. Ta en titt på den här planen."
 
 #: ../../ms2/ms2_r2.c:775
 msgid ""
 "Unten siehst du die kleine Abstellkammer,|durch die du in die "
 "Austellungsräume kommst."
 msgstr ""
+"Nedan ser du det lilla förrådet genom vilket du kommer in i "
+"utställningsrummen."
 
 #: ../../ms2/ms2_r2.c:776
 msgid "Bei der mit Y gekennzeichneten|Stelle ist die Alarmanlage."
-msgstr ""
+msgstr "Larmsystemet befinner sig på den position som är markerad med Y."
 
 #: ../../ms2/ms2_r2.c:777
 msgid ""
 "Bei dem X steht ein großer Dinosaurier|mit einem wertvollen Schädel.|Den "
 "Schädel nimmst du mit."
 msgstr ""
+"Vid X finns en stor dinosaurie|med en värdefull skalle|du tar skallen med "
+"dig."
 
 #: ../../ms2/ms2_r2.c:778
 msgid "Nun zu den Problemen:"
-msgstr ""
+msgstr "Nu till problemen:"
 
 #: ../../ms2/ms2_r2.c:779
 msgid "Die weiß gekennzeichneten|Türen sind verschlossen."
-msgstr ""
+msgstr "De vita märkta dörrarna är låsta."
 
 #: ../../ms2/ms2_r2.c:780
 msgid ""
 "Sie müssen mit einer Spezialkeycard geöffnet|werden, was jedoch einige Zeit "
 "dauert."
-msgstr ""
+msgstr "Du måste öppna med ett speciellt nyckelkort, men det tar lite tid."
 
 #: ../../ms2/ms2_r2.c:781
 msgid ""
 "Außerdem gibt es in den auf der Karte|farbigen Räumen einen Druck-Alarm."
-msgstr ""
+msgstr "Det finns också ett trycklarm i de färgade rummen på kartan."
 
 #: ../../ms2/ms2_r2.c:782
 msgid ""
 "Du darfst dich dort nicht länger|als 16 bzw. 8 Sekunden aufhalten,|sonst "
 "wird Alarm ausgelöst."
 msgstr ""
+"Du får inte stanna där längre än 16 eller 8 sekunder, annars utlöses larmet."
 
 #: ../../ms2/ms2_r2.c:783
 msgid "Im Raum oben rechts ist|eine Kamera installiert."
-msgstr ""
+msgstr "En kamera är installerad i rummet längst upp till höger."
 
 #: ../../ms2/ms2_r2.c:784
 msgid ""
 "Diese wird jedoch nur von|der 21. bis zur 40. Sekunde|einer Minute überwacht."
 msgstr ""
+"Detta övervakas dock endast från den 21:a till den 40:e sekunden av en minut."
 
 #: ../../ms2/ms2_r2.c:785
 msgid "Das größte Problem ist der Wächter."
-msgstr ""
+msgstr "Det största problemet är vakten."
 
 #: ../../ms2/ms2_r2.c:786
 msgid ""
 "Er braucht für seine Runde genau|eine Minute, ist also ungefähr|zehn "
 "Sekunden in einem Raum."
 msgstr ""
+"Han behöver exakt en minut för sin runda, så han är i ett rum i ungefär tio "
+"sekunder."
 
 #: ../../ms2/ms2_r2.c:787
 msgid ""
 "Du müßtest seine Schritte hören können,|wenn du in der Abstellkammer bist|"
 "und der Wächter dort vorbeikommt."
 msgstr ""
+"Du bör kunna höra hans fotsteg när du är i förrådsrummet och vakten går "
+"förbi."
 
 #: ../../ms2/ms2_r2.c:788
 msgid ""
 "Wenn du es bis zur Alarmanlage|geschafft hast, hängst du dich|mit dem Sauger "
 "an die Wand,|damit du keinen Druck-Alarm auslöst."
 msgstr ""
+"När du har tagit dig fram till larmsystemet hänger du upp dig på väggen med "
+"dammsugaren så att du inte utlöser trycklarmet."
 
 #: ../../ms2/ms2_r2.c:789
 msgid "Die Alarmanlage schaltest du|mit einem speziellen Gerät aus."
-msgstr ""
+msgstr "Du stänger av larmsystemet med en speciell anordning."
 
 #: ../../ms2/ms2_r2.c:790
 msgid ""
 "Wenn du das geschafft hast, nichts|wie raus! Aber keine Panik,|du darfst "
 "keinen Alarm auslösen."
 msgstr ""
+"När du har gjort det, finns det inget som hindrar dig från att gå ut! Men få "
+"inte panik, du får inte sätta igång larmet."
 
 #: ../../ms2/ms2_r2.c:795
 msgid "So, noch irgendwelche Fragen?"
-msgstr ""
+msgstr "Så, några fler frågor?"
 
 #: ../../ms2/ms2_r2.c:801
 msgid "Also gut."
-msgstr ""
+msgstr "Okej då."
 
 #: ../../ms2/ms2_r2.c:803
 msgid "Du bekommst 30000 Xa."
-msgstr ""
+msgstr "Du får 30000 Xa."
 
 #: ../../ms2/ms2_r2.c:805
 msgid "Ja, die Methode hat sich bewährt."
-msgstr ""
+msgstr "Ja, metoden har visat sitt värde."
 
 #: ../../ms2/ms2_r2.c:808
 msgid "Hast du sonst noch Fragen?"
-msgstr ""
+msgstr "Har du några andra frågor?"
 
 #: ../../ms2/ms2_r2.c:811
 msgid "Nachdem wir alles geklärt|haben, kann es ja losgehen!"
-msgstr ""
+msgstr "Nu när vi har ordnat upp allt är vi redo att köra igång!"
 
 #: ../../ms2/ms2_r2.c:816
 msgid "Zur vereinbarten Zeit ..."
-msgstr ""
+msgstr "Vid den överenskomna tidpunkten ..."
 
 #: ../../ms2/ms2_r2.c:834
 msgid ""
 "Du stehst vor dem Orzeng Museum,|während die Gangster schon in einen|anderen "
 "Gebäuderteil eingedrungen sind."
 msgstr ""
+"Du står framför Orzeng-museet medan gangstrarna redan har tagit sig in i en "
+"annan del av byggnaden."
 
 #: ../../ms2/ms2_r2.c:837
 msgid ""
 "Wichtiger Hinweis:|Hier ist die letzte Möglichkeit,|vor dem Einbruch "
 "abzuspeichern."
 msgstr ""
+"Viktigt att notera: Detta är sista chansen att spara innan du bryter dig in."
 
 #: ../../ms2/ms2_r2.c:840
 msgid "Wenn Sie das Museum betreten haben,|können Sie nicht mehr speichern!"
-msgstr ""
+msgstr "När du väl har kommit in i museet kan du inte längre spara!"
 
 #: ../../ms2/ms2_r2.c:848
 msgid "Stecken Sie sich Ihre|Tomaten an den Hut!"
-msgstr ""
+msgstr "Sätt dina tomater på din hatt!"
 
 #: ../../ms2/ms2_r2.c:855
 msgid "Das kann ja jeder sagen!"
-msgstr ""
+msgstr "Det kan vem som helst säga!"
 
 #: ../../ms2/ms2_r2.c:865
 msgid "Niemand öffnet."
-msgstr ""
+msgstr "Ingen öppnar."
 
 #: ../../ms2/ms2_r2.c:870
 msgid "Welche Zahl willst du eingeben:      "
-msgstr ""
+msgstr "Vilket nummer vill du ange:      "
 
 #: ../../ms2/ms2_r2.c:882 ../../ms2/ms2_r2.c:886
 msgid "Falsche Eingabe"
-msgstr ""
+msgstr "Felaktig inmatning"
 
 #: ../../ms2/ms2_r2.c:896
 msgid "Der Aufzug bewegt sich."
-msgstr ""
+msgstr "Hissen rör sig."
 
 #: ../../ms2/ms2_r2.c:914
 msgid "Die Karte wird|nicht angenommen."
-msgstr ""
+msgstr "Kortet accepteras inte."
 
 #: ../../ms2/ms2_r2.c:927
 msgid "Da ist nichts mehr."
-msgstr ""
+msgstr "Det finns inget kvar."
 
 #: ../../ms2/ms2_r2.c:930
 msgid "Da ist ein Schlüssel unter dem Bett!"
-msgstr ""
+msgstr "Det finns en nyckel under sängen!"
 
 #: ../../ms2/ms2_r2.c:936
 msgid ""
 "Hey, da ist etwas unter dem|Bett. Nach dem Geräusch zu|urteilen, ist es aus "
 "Metall."
-msgstr ""
+msgstr "Det är nåt under sängen. Av ljudet att döma är det gjort av metall."
 
 #: ../../ms2/ms2_r2.c:939
 msgid "Mist, es gelingt dir nicht,|den Gegenstand hervorzuholen."
-msgstr ""
+msgstr "Fan, du kan inte få ut föremålet."
 
 #: ../../ms2/ms2_r2.c:945
 msgid "Die Klappe ist schon offen."
-msgstr ""
+msgstr "Klaffen är redan öppen."
 
 #: ../../ms2/ms2_r2.c:979
 msgid "Der Schlüsssel paßt nicht."
-msgstr ""
+msgstr "Nyckeln passar inte."
 
 #: ../../ms2/ms2_r2.c:983
 msgid ""
 "Du steckst den Chip in die|Anlage, aber es passiert nichts.|Die Anlage "
 "scheint kaputt zu sein."
 msgstr ""
+"Du sätter in chipet i systemet, men inget händer. Systemet verkar vara "
+"trasigt."
 
 #: ../../ms2/ms2_r2.c:987
 msgid "Es passiert nichts. Das Ding|scheint kaputt zu sein."
-msgstr ""
+msgstr "Ingenting händer. Saken verkar vara trasig."
 
 #: ../../ms2/ms2_r2.c:998
 msgid "Hochspannung ist ungesund, wie du aus|Teil 1 eigentlich wissen müßtest!"
-msgstr ""
+msgstr "Högspänning är ohälsosamt, som du borde veta från del 1!"
 
 #: ../../ms2/ms2_r2.c:1034
 msgid "Es hängt ein Kabel heraus."
-msgstr ""
+msgstr "En kabel hänger ut."
 
 #: ../../ms2/ms2_r2.c:1035
 msgid "Irgendetwas hat hier|nicht ganz funktioniert."
-msgstr ""
+msgstr "Det var något som inte riktigt fungerade här."
 
 #: ../../ms2/ms2_r2.c:1059
 msgid "Du ziehst den Raumanzug an."
-msgstr ""
+msgstr "Du tar på dig rymddräkten."
 
 #: ../../ms2/ms2_r2.c:1061
 msgid "Du ziehst den Raumanzug aus."
-msgstr ""
+msgstr "Du tar av dig rymddräkten."
 
 #: ../../ms2/ms2_r2.c:1069 ../../ms2/ms2_r2.c:1099
 msgid "Das ist schon verbunden."
-msgstr ""
+msgstr "Den är redan ansluten."
 
 #: ../../ms2/ms2_r2.c:1129
 msgid "Die Leitung ist hier|schon ganz richtig."
-msgstr ""
+msgstr "Linjen är helt korrekt här."
 
 #: ../../ms2/ms2_r2.c:1137
 msgid "Roger W.! Wie kommen Sie denn hierher?"
-msgstr ""
+msgstr "Roger W.! Hur kom du hit?"
 
 #: ../../ms2/ms2_r2.c:1140
 msgid "Ach, sieh mal einer an! Sie schon wieder!"
-msgstr ""
+msgstr "Jaha, jaha, jaha! Du igen!"
 
 #: ../../ms2/ms2_r2.c:1141
 msgid "Wo haben Sie denn|Ihr Schiff gelassen?"
-msgstr ""
+msgstr "Var lämnade du ditt skepp?"
 
 #: ../../ms2/ms2_r2.c:1144
 msgid "Schauen Sie mal hinter mich auf|den Turm! Da oben hängt es."
-msgstr ""
+msgstr "Ta en titt bakom mig på tornet! Den hänger där uppe."
 
 #: ../../ms2/ms2_r2.c:1145
 msgid ""
 "Ich hatte es scheinbar etwas zu|eilig, aber ich mußte unbedingt|zu den "
 "Dreharbeiten nach Xenon!"
 msgstr ""
+"Det verkade som om jag hade lite bråttom, men jag var absolut tvungen att "
+"åka till Xenon för inspelningen!"
 
 #: ../../ms2/ms2_r2.c:1146
 msgid "Mich wundert, daß es die Leute|hier so gelassen nehmen."
-msgstr ""
+msgstr "Jag är förvånad över att folk här tar det så lugnt."
 
 #: ../../ms2/ms2_r2.c:1147
 msgid ""
 "Die tun gerade so, als ob der Turm|schon immer so schräg gestanden hätte!"
-msgstr ""
+msgstr "De agerar som om tornet alltid hade stått i en sådan vinkel!"
 
 #: ../../ms2/ms2_r2.c:1148
 msgid "Hat er auch, schon seit|mehreren Jahrhunderten!"
-msgstr ""
+msgstr "Det har det gjort i flera århundraden!"
 
 #: ../../ms2/ms2_r2.c:1151
 msgid ""
 "Äh ... ach so. Und von wo|kommen Sie? Sie hatten's ja|wohl auch ziemlich "
 "eilig."
 msgstr ""
+"Eh... jag förstår. Och var kom ni ifrån? Du måste ha haft ganska bråttom."
 
 #: ../../ms2/ms2_r2.c:1152
 msgid "Ich komme von Axacuss."
-msgstr ""
+msgstr "Jag kommer från Axacuss."
 
 #: ../../ms2/ms2_r2.c:1156
 msgid "Hmm, was mach ich jetzt bloß?"
-msgstr ""
+msgstr "Hmm, vad ska jag göra nu?"
 
 #: ../../ms2/ms2_r2.c:1157
 msgid ""
 "Ich kenne ein gutes Cafe nicht|weit von hier, da können|wir uns erstmal "
 "erholen."
-msgstr ""
+msgstr "Jag vet ett bra café inte långt härifrån där vi kan koppla av."
 
 #: ../../ms2/ms2_r2.c:1160
 msgid "Ok, einverstanden."
-msgstr ""
+msgstr "Okej, vi är överens."
 
 #: ../../ms2/ms2_r2.c:1204
 msgid "Faszinierend!"
-msgstr ""
+msgstr "Fascinerande!"
 
 #: ../../ms2/ms2_r2.c:1205
 msgid "Taxis"
-msgstr ""
+msgstr "Taxibilar"
 
 #: ../../ms2/ms2_r2.c:1205
 msgid "Hier ist ja richtig was los!"
-msgstr ""
+msgstr "Det är mycket som händer här!"
 
 #: ../../ms2/ms2_r2.c:1206
 msgid "Axacussaner"
-msgstr ""
+msgstr "Axacussans"
 
 #: ../../ms2/ms2_r2.c:1207
 msgid "Teilnahmekarte"
-msgstr ""
+msgstr "Deltagarkort"
 
 #: ../../ms2/ms2_r2.c:1216
 msgid "Axacussanerin"
-msgstr ""
+msgstr "Axacussan"
 
 #: ../../ms2/ms2_r2.c:1223
 msgid "Darauf steht:|\"115AY2,96A\""
-msgstr ""
+msgstr "Det står:|\"115AY2,96A\""
 
 #: ../../ms2/ms2_r2.c:1224
 msgid "Darauf steht:|\"115AY2,96B\""
-msgstr ""
+msgstr "Det står:|\"115AY2,96B\""
 
 #: ../../ms2/ms2_r2.c:1233
 msgid "Darauf steht:|\"341,105A\""
-msgstr ""
+msgstr "Det står: \"341,105A\""
 
 #: ../../ms2/ms2_r2.c:1234
 msgid "Darauf steht:|\"341,105B\""
-msgstr ""
+msgstr "Det står: \"341,105B\""
 
 #: ../../ms2/ms2_r2.c:1244
 msgid "Klingel"
-msgstr ""
+msgstr "Bell"
 
 #: ../../ms2/ms2_r2.c:1245
 msgid "Anzeige"
-msgstr ""
+msgstr "Display"
 
 #: ../../ms2/ms2_r2.c:1246
 msgid "Tastenblock"
-msgstr ""
+msgstr "Knappsats"
 
 #: ../../ms2/ms2_r2.c:1246
 msgid "Es sind Tasten von 0 bis 9 darauf."
-msgstr ""
+msgstr "Det finns knappar från 0 till 9 på den."
 
 #: ../../ms2/ms2_r2.c:1255
 msgid "Chip"
-msgstr ""
+msgstr "Chip"
 
 #: ../../ms2/ms2_r2.c:1255
 msgid "Es ist ein Musikchip!"
-msgstr ""
+msgstr "Det är ett musikchip!"
 
 #: ../../ms2/ms2_r2.c:1256
 msgid "Klappe"
-msgstr ""
+msgstr "Klaff"
 
 #: ../../ms2/ms2_r2.c:1256
 msgid "Sie ist mit einem altmodischen|Schloß verschlossen."
-msgstr ""
+msgstr "Den är låst med ett gammeldags lås."
 
 #: ../../ms2/ms2_r2.c:1258
 msgid "Musikanlage"
-msgstr ""
+msgstr "Musiksystem"
 
 #: ../../ms2/ms2_r2.c:1258
 msgid "Toll, eine in die Wand|integrierte Stereoanlage."
-msgstr ""
+msgstr "Bra, en stereoanläggning som är integrerad i väggen."
 
 #: ../../ms2/ms2_r2.c:1259
 msgid "Boxen"
-msgstr ""
+msgstr "Boxning"
 
 #: ../../ms2/ms2_r2.c:1259
 msgid "Ganz normale Boxen."
-msgstr ""
+msgstr "Helt normala lådor."
 
 #: ../../ms2/ms2_r2.c:1260
 msgid "Stifte"
-msgstr ""
+msgstr "Pennor"
 
 #: ../../ms2/ms2_r2.c:1260
 msgid "Ganz normale Stifte."
-msgstr ""
+msgstr "Bara vanliga pennor."
 
 #: ../../ms2/ms2_r2.c:1261
 msgid "Metallklötzchen"
-msgstr ""
+msgstr "Metallblock"
 
 #: ../../ms2/ms2_r2.c:1261
 msgid "Es ist magnetisch."
-msgstr ""
+msgstr "Den är magnetisk."
 
 #: ../../ms2/ms2_r2.c:1262
 msgid "Bild"
-msgstr ""
+msgstr "Bild"
 
 #: ../../ms2/ms2_r2.c:1262
 msgid "Ein ungewöhnliches Bild."
-msgstr ""
+msgstr "En ovanlig bild."
 
 #: ../../ms2/ms2_r2.c:1263
 msgid "Schrank"
-msgstr ""
+msgstr "Skåp"
 
 #: ../../ms2/ms2_r2.c:1263
 msgid "Er ist verschlossen"
-msgstr ""
+msgstr "Den är låst"
 
 #: ../../ms2/ms2_r2.c:1265
 msgid "Aufzug"
-msgstr ""
+msgstr "Lyft"
 
 #: ../../ms2/ms2_r2.c:1266
 msgid "unter Bett"
-msgstr ""
+msgstr "under sängen"
 
 #: ../../ms2/ms2_r2.c:1266
 msgid ""
 "Unter dem Bett sind bestimmt wichtige|Dinge zu finden, nur kommst du nicht "
 "darunter.|Du bräuchtest einen Stock oder so etwas."
 msgstr ""
+"Jag är säker på att det finns viktiga saker under sängen, men det går inte "
+"att komma under den, man behöver en pinne eller något."
 
 #: ../../ms2/ms2_r2.c:1267
 msgid "Schlüssel"
-msgstr ""
+msgstr "Nyckel"
 
 #: ../../ms2/ms2_r2.c:1267
 msgid "Ein kleiner Metallschlüssel."
-msgstr ""
+msgstr "En liten metallnyckel."
 
 #: ../../ms2/ms2_r2.c:1274 ../../ms2/ms2_r2.c:1277
 msgid "Schalter"
-msgstr ""
+msgstr "Strömbrytare"
 
 #: ../../ms2/ms2_r2.c:1275
 msgid "Griff"
-msgstr ""
+msgstr "Handtag"
 
 #: ../../ms2/ms2_r2.c:1276
 msgid "Luke"
-msgstr ""
+msgstr "Luke"
 
 #: ../../ms2/ms2_r2.c:1278
 msgid "Raumanzug"
-msgstr ""
+msgstr "Rymddräkt"
 
 #: ../../ms2/ms2_r2.c:1278
 msgid "Ein zusammenfaltbarer Raumanzug."
-msgstr ""
+msgstr "En hopfällbar rymddräkt."
 
 #: ../../ms2/ms2_r2.c:1279 ../../ms2/ms2_r2.c:1280
 msgid "Leitung"
-msgstr ""
+msgstr "Förvaltning"
 
 #: ../../ms2/ms2_r2.c:1279
 msgid "Irgendetwas scheint hier|kaputtgegangen zu sein."
-msgstr ""
+msgstr "Någonting verkar ha gått sönder här."
 
 #: ../../ms2/ms2_r2.c:1280
 msgid "Sie hängt lose von der Decke runter."
-msgstr ""
+msgstr "Den hänger löst från taket."
 
 #: ../../ms2/ms2_s.c:85
 msgid ""
 "Zur Erinnerung:|Dir ist es gelungen, aus den|Artus-Geheimbüros zu fliehen."
-msgstr ""
+msgstr "Påminnelse:|Du lyckades fly från Artus hemliga kontor."
 
 #: ../../ms2/ms2_s.c:88
 msgid ""
 "Nun befindest du dich in|einem Passagierraumschiff,|das nach Axacuss City "
 "fliegt."
-msgstr ""
+msgstr "Nu befinner du dig i ett rymdskepp som flyger till Axacuss City."
 
 #: ../../ms2/ms2_s.c:91
 msgid ""
 "Während des Fluges schaust du dir|das axacussanische Fernsehprogramm an.|Du "
 "stößt auf etwas Interessantes ..."
 msgstr ""
+"Under flygresan tittar du på tv-programmet Axacussan och stöter på något "
+"intressant ..."
 
 #: ../../ms2/ms2_s.c:119
 msgid "Herzlich willkommen!"
-msgstr ""
+msgstr "Varmt välkomna!"
 
 #: ../../ms2/ms2_s.c:123
 msgid ""
 "Heute zu Gast ist Alga Lorch.|Sie wird Fragen an den Erdling|Horst Hummel "
 "stellen."
 msgstr ""
+"Dagens gäst är Alga Lorch, som kommer att ställa frågor till jordlingen "
+"Horst Hummel."
 
 #: ../../ms2/ms2_s.c:127
 msgid "Horst wird alle Fragen|beantworten, soweit es|ihm möglich ist."
-msgstr ""
+msgstr "Horst kommer att svara på alla frågor så långt han kan."
 
 #: ../../ms2/ms2_s.c:128
 msgid "Sie haben das Wort, Frau Lorch!"
-msgstr ""
+msgstr "Ni har ordet, Mrs Lorch!"
 
 #: ../../ms2/ms2_s.c:134
 msgid "Herr Hummel, hier ist meine erste Frage: ..."
-msgstr ""
+msgstr "Herr Hummel, här kommer min första fråga: ..."
 
 #: ../../ms2/ms2_s.c:135
 msgid ""
 "Sie sind nun ein berühmter Mann auf Axacuss.|Aber sicher vermissen Sie auch "
 "Ihren Heimatplaneten."
 msgstr ""
+"Du är nu en känd man på Axacuss, men jag är säker på att du också saknar din "
+"hemplanet."
 
 #: ../../ms2/ms2_s.c:136
 msgid ""
 "Wenn Sie wählen könnten, würden Sie lieber|ein normales Leben auf der Erde "
 "führen,|oder finden Sie das Leben hier gut?"
 msgstr ""
+"Om du fick välja, skulle du hellre leva ett normalt liv på jorden eller "
+"gillar du livet här?"
 
 #: ../../ms2/ms2_s.c:137
 msgid ""
 "Ehrlich gesagt finde ich es schön,|berühmt zu sein. Das Leben ist|"
 "aufregender als auf der Erde."
 msgstr ""
+"Ärligt talat tycker jag att det är trevligt att vara känd. Livet är mer "
+"spännande än på jorden."
 
 #: ../../ms2/ms2_s.c:138
 msgid "Außerdem sind die Leute von der|Artus GmbH hervorragende Freunde."
-msgstr ""
+msgstr "Människorna på|Artus GmbH är också utmärkta vänner."
 
 #: ../../ms2/ms2_s.c:139
 msgid ""
 "Nun ja, planen Sie denn trotzdem,|irgendwann auf die Erde zurückzukehren?"
-msgstr ""
+msgstr "Planerar du fortfarande att återvända till jorden någon gång?"
 
 #: ../../ms2/ms2_s.c:140
 msgid "Das kann ich Ihnen zum jetzigen|Zeitpunkt noch nicht genau sagen."
-msgstr ""
+msgstr "Jag kan inte säga exakt vad det är just nu."
 
 #: ../../ms2/ms2_s.c:141
 msgid "Aber ich versichere Ihnen, ich|werde noch eine Weile hierbleiben."
-msgstr ""
+msgstr "Men jag försäkrar dig att jag kommer att vara här ett tag till."
 
 #: ../../ms2/ms2_s.c:142
 msgid ""
 "Aha, mich interessiert außerdem,|ob es hier auf Axacuss etwas gibt,|das Sie "
 "besonders mögen."
 msgstr ""
+"Aha, jag är också intresserad av om det finns något här på Axacuss som du "
+"gillar särskilt mycket."
 
 #: ../../ms2/ms2_s.c:152
 msgid ""
 "Oh mir gefällt der ganze Planet,|aber das Beste hier sind die|hervorragenden "
 "Artus-Zahnbürsten!"
 msgstr ""
+"Åh, jag gillar hela planeten, men det bästa här är de utmärkta Arthur-"
+"tandborstarna!"
 
 #: ../../ms2/ms2_s.c:153
 msgid "Zahnbürsten von solcher Qualität|gab es auf der Erde nicht."
-msgstr ""
+msgstr "Tandborstar av sådan kvalitet finns inte på jorden."
 
 #: ../../ms2/ms2_s.c:154
 msgid "Äh, ach so."
-msgstr ""
+msgstr "Jag förstår."
 
 #: ../../ms2/ms2_s.c:160
 msgid "Plötzlich lenkt dich eine|Lautsprecherstimme vom Fernseher ab."
-msgstr ""
+msgstr "Plötsligt distraherar en högtalarröst dig från TV:n."
 
 #: ../../ms2/ms2_s.c:163
 msgid ""
 "\"Sehr geehrte Damen und Herren,|wir sind soeben auf dem Flughafen|von "
 "Axacuss City gelandet.\""
-msgstr ""
+msgstr "\"Mina damer och herrar, vi har just landat på Axacuss City Airport.\""
 
 #: ../../ms2/ms2_s.c:166
 msgid ""
 "\"Ich hoffe, Sie hatten einen angenehmen Flug.|Bitte verlassen Sie das "
 "Raumschiff! Auf Wiedersehen!\""
 msgstr ""
+"\"Jag hoppas att ni hade en trevlig resa. Var vänlig och lämna rymdskeppet! "
+"Adjö!\""
 
 #: ../../ms2/ms2_s.c:186
 msgid ""
 "Während die anderen Passagiere|aussteigen, versuchst du,|den Schock zu "
 "verarbeiten."
-msgstr ""
+msgstr "Medan de andra passagerarna kliver av försöker du bearbeta chocken."
 
 #: ../../ms2/ms2_s.c:189
 msgid ""
 "\"Ich muß beweisen, daß dieser|Roboter der falsche Horst|Hummel ist!\", "
 "denkst du."
 msgstr ""
+"\"Jag måste bevisa att den här roboten är fel Horst Hummel!\" tänker du."
 
 #: ../../ms2/ms2_s.c:192
 msgid ""
 "\"Diese Mistkerle von der Artus GmbH und|Commander Sumoti müssen entlarvt "
 "werden!\""
 msgstr ""
+"\"De här jävlarna från Artus GmbH och kommendör Sumoti måste avslöjas!\""
