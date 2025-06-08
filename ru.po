@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2025-06-08 03:36+0000\n"
+"PO-Revision-Date: 2025-06-08 13:06+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -10495,7 +10495,7 @@ msgstr "Возможно, невиновный - Он похож на честн
 msgid "złodziej - Biedak... Siedzi tu sam, w niewygodnej|pozycji, bez wody, z obtartymi nadgarstkami|i bosymi stopami.*+I DOBRZE MU TAK!"
 msgstr ""
 "Вор - Бедняга. Сидит здесь один, в неудобной позе,|без обуви, пить не дают, "
-"запястья онемели...*+|...ТАК ЕМУ И НАДО!"
+"запястья онемели.*+|ТАК ЕМУ И НАДО!"
 
 #: mob.lst:4013
 msgid "ogłoszenie - \"Uprasza się uprzejmie o nie rzucanie ciężkimi|lub ostrymi przedmiotami w kierunku więźnia,|tudzież o nie plucie i nie łaskotanie.\"+\"Wykorzystywanie bezsilności więźnia, na przykład|poprzez okradanie go lub nadmierne torturowanie|może ewentualnie zostać ukarane grzywną. Kiedyś.\""
@@ -10507,7 +10507,7 @@ msgstr ""
 
 #: mob.lst:4014
 msgid "alejka - Widzę dom z godłem barda nad drzwiami."
-msgstr "Дорога - Отсюда видно дом с гербом|Гильдии Бардов над дверью."
+msgstr "Дорога - Отсюда видно дом|с гербом барда над дверью."
 
 #: mob.lst:4015
 msgid "drzwi do magazynu - Zamknięte. Zresztą i tak dobrze pilnuje|ich ten gruby kupiec."
@@ -10575,8 +10575,8 @@ msgstr ""
 #: mob.lst:5003
 msgid "zakonnik - Albo miał nieszczęśliwy wypadek u golibrody,|albo zbyt mocno nachylił się nad ogniskiem."
 msgstr ""
-"Монах - Либо ему с парикмахером не повезло,|либо он над огнём неудачно "
-"наклонился."
+"Монах - Либо ему не повезло с парикмахером,|либо он неудачно наклонился над "
+"огнём."
 
 #: mob.lst:5004
 msgid "krasnolud - Całkiem spory, jak na krasnoluda.*+Ba, całkiem spory jak na człowieka."
@@ -10663,8 +10663,8 @@ msgstr "Дверь - Назад на рынок."
 #: mob.lst:6002
 msgid "alchemik - Palce pożółkłe od kwasów, oczy oślepłe|od czytania ksiąg - oto prawdziwy|fachowiec!"
 msgstr ""
-"Алхимик - Цветные от химикатов пальцы|и слепые от книг глаза.|Вот настоящий "
-"специалист!"
+"Алхимик - Пальцы, жёлтые от кислоты,|и глаза, полуслепые от книг.|Вот "
+"настоящий специалист!"
 
 #: mob.lst:6003
 msgid "księga - Zapewne zbiór alchemicznych przepisów."
@@ -10957,18 +10957,18 @@ msgstr ""
 #: mob.lst:12007
 msgid "łańcuch - Arivald oddał mi niedźwiedzią przysługę|skuwając mnie tak mocnym łańcuchem."
 msgstr ""
-"Цепь - Аривальд сделал для меня|слишком прочную цепь. Чувствую "
-"себя|униженным.|Цепь в игру не добавили."
+"Верёвка - Аривальд сделал для меня|слишком прочную верёвку. Чувствую "
+"себя|униженным.|Верёвку в игру не добавили."
 
 #: mob.lst:12008
 msgid "zerwany łańcuch - Trochę nadszarpnięty, ale coś tam|jeszcze z niego zostało."
-msgstr "Оборванная цепь - От неё еще что-то осталось."
+msgstr "Оборванная верёвка - От неё еще что-то осталось."
 
 #: mob.lst:13001
 msgid "skrzynia z ciuchami - Z daleka niespecjalnie dokładnie widać,|a póki dziewczę zajęte jest sobą,|lepiej zostanę na miejscu."
 msgstr ""
-"Сундук с одеждой - Издалека не видно. Но ближе подходить|не буду, а то "
-"девушка ещё отвлечётся."
+"Сундук с одеждой - Издалека не видно.|Но ближе подходить не буду,|а то "
+"внимание привлеку."
 
 #: mob.lst:13002
 msgid "okno - Nie chcę podchodzić, lepiej, żeby|dziewczę pozostało skupione na sobie."
@@ -11020,7 +11020,7 @@ msgstr ""
 
 #: mob.lst:13010
 msgid "skóra - U-hu. Chyba z niedźwiedzia..."
-msgstr "Шкура - Ну, конечно. Медвежья..."
+msgstr "Шкура - Ну, конечно. Медвежья, поди..."
 
 #: mob.lst:13011
 msgid "sekretera - Pfuj, same babskie rzeczy."
@@ -11072,7 +11072,7 @@ msgstr ""
 msgid "skrzynia pełna złota - O mamo...+Kupiłbym sobie za to...+O, mamo, czego ja bym sobie|za to NIE kupił?"
 msgstr ""
 "Сундук с золотом - Ох, мама родная...+Сколько же можно|за такие деньги "
-"купить...+Мама родная, да за такие деньги|я бы ЧТО УГОДНО купил!"
+"купить...+Мама родная, да за такие деньги|я бы ВООБЩЕ ВСЁ купил!"
 
 #: mob.lst:14010
 msgid "zbroja - Nie wiem, co to jest, ale zbroja|wykonana jest z ciemnoniebieskiej,|podobnej do kryształu materii."
@@ -11121,8 +11121,8 @@ msgstr ""
 #: mob.lst:15005
 msgid "posąg - Może i wygląda jak wykuty z kamienia,|ale mój tyłek ma inne zdanie."
 msgstr ""
-"Статуя - Он как будто бы вырублен из камня,|но седалище моё –|совсем другого "
-"мнения."
+"Статуя - Демон как будто бы вырублен из камня,|но седалище моё –|совсем "
+"другого мнения."
 
 #: mob.lst:15006
 msgid "łuska - Nie mam pojęcia, czyja to łuska."
@@ -11271,12 +11271,12 @@ msgstr "Камин - Там только обугленные остатки."
 
 #: mob.lst:18019
 msgid "pogrzebacz - Tu chyba nie potrzeba pogrzebacza, ale|pogrzebu..."
-msgstr "Кочерга - Лучше бы он её заранее приготовил..."
+msgstr "Кочерга - Лучше бы он потяжелее чего взял..."
 
 #: mob.lst:18020
 msgid "skrzynia - Stara lina, wyszczerbiony miecz, skrzynka|z dziurą...+Trofea?..."
 msgstr ""
-"Сундук - Старая верёвка, выщербленный меч,|сундучок какой-то "
+"Сундук - Старая верёвка, щербатый меч,|сундучок какой-то "
 "дырявый...+Трофеи?..."
 
 #: mob.lst:18021
@@ -11610,7 +11610,7 @@ msgstr "Паутина – Старичок-паучок, пусти на ого
 msgid "elegancka dama - Nigdy nie widziałem wcześniej tak wystrojonej|kobiety.+Pewnie to jakaś ważna osobistość, ciesząca się|wielkim szacunkiem."
 msgstr ""
 "Элегантная дама - Ни разу в жизни не видел,|чтобы женщины так одевались.+"
-"Она, определённо, важная персона,|и цену себе знает."
+"Определённо, она важная персона|и цену себе знает."
 
 #: mob.lst:30002
 msgid "kupiec - Wygląda na bardzo miłego człowieka."
