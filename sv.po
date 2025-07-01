@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2025-03-12 10:41+0000\n"
+"PO-Revision-Date: 2025-07-02 20:36+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://translations.scummvm.org/projects/prince/"
 "prince/sv/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #: dialog0001.txt:1
 msgid "HERO: Przeppp... raszam..."
@@ -31,83 +31,87 @@ msgstr ""
 
 #: dialog0001.txt:3
 msgid "HERO: Ale ja nic..."
-msgstr ""
+msgstr "HJÄLTE: Men jag gör inte ..."
 
 #: dialog0001.txt:4
 msgid "OTHER: Wiedziałem."
-msgstr ""
+msgstr "ANNAN: Jag visste det."
 
 #: dialog0001.txt:105
 msgid "$0: Co to za miejsce?"
-msgstr ""
+msgstr "$0: Vad är det här för ställe?"
 
 #: dialog0001.txt:106
 msgid "$4: Jak to, szaleńców?"
-msgstr ""
+msgstr "$4: Vad menar du med galningar?"
 
 #: dialog0001.txt:107
 msgid "$1: Proszę, musi mi pan pomóc wydostać się stąd!"
-msgstr ""
+msgstr "$1: Snälla, du måste hjälpa mig att komma ut härifrån!"
 
 #: dialog0001.txt:108
 msgid "$2: Tu chyba nie jest zbyt bezpiecznie, prawda?"
-msgstr ""
+msgstr "$2: Det är förmodligen inte särskilt säkert här, eller hur?"
 
 #: dialog0001.txt:109
 msgid "$3: Nie chcę przeszkadzać."
-msgstr ""
+msgstr "$3: Jag vill inte störa dig."
 
 #: dialog0001.txt:210
 msgid "$5: Kahem, ma pan zieloną skórę."
-msgstr ""
+msgstr "$5: Kahem, du har grön hud."
 
 #: dialog0001.txt:211
 msgid "$6: 99 procent ludzi tutaj nie żyje."
-msgstr ""
+msgstr "$6: 99 procent av människorna här är döda."
 
 #: dialog0001.txt:212
 msgid "$7: Tak tylko sobie pomyślałem."
-msgstr ""
+msgstr "$7: Bara en tanke."
 
 #: dialog0001.txt:100001
 msgid "OTHER: Nie twój interes. Zgiń, przepadnij,|siło nieczysta!"
-msgstr ""
+msgstr "ANNAN: Det har du inte med att göra. Förgås, förgås, orena kraft!"
 
 #: dialog0001.txt:100002
 msgid "HERO: Wygląda to chyba na cmentarz."
-msgstr ""
+msgstr "HJÄLTE: Jag tycker att det ser ut som en kyrkogård."
 
 #: dialog0001.txt:100003
 msgid "OTHER: Poważnie? Zawsze myślałem, że mieszkam|na kolorowym i radosnym placu zabaw."
 msgstr ""
+"ANNAN: Allvarligt talat? Jag har alltid tyckt att jag levt i en färgglad och "
+"glad lekplats."
 
 #: dialog0001.txt:100004
 msgid "HERO: Placu zabaw? Ach, rozumiem. Staramy|się być dowcipni."
-msgstr ""
+msgstr "HJÄLTE: En lekplats? Ah, jag förstår. Vi försöker vara kvicka."
 
 #: dialog0001.txt:100005
 msgid "OTHER: Jesteśmy dowcipni. A teraz idź już stąd.|To nie miejsce dla szaleńców.#E4#B0"
 msgstr ""
+"ANNAN: Vi är kvicka. Gå nu härifrån. Det här är ingen plats för "
+"galningar.#E4#B0"
 
 #: dialog0001.txt:100101
 msgid "OTHER: Wróć, którędy przyszedłeś."
-msgstr ""
+msgstr "ANNAN: Gå tillbaka samma väg som du kom."
 
 #: dialog0001.txt:100102
 msgid "HERO: Ale tam..."
-msgstr ""
+msgstr "HJÄLTE: Men det ..."
 
 #: dialog0001.txt:100103
 msgid "HERO: Kiedy nie mogę, naprawdę, proszę mi|wierzyć!"
-msgstr ""
+msgstr "HJÄLTE: När jag inte kan, verkligen, tro mig!"
 
 #: dialog0001.txt:100104
 msgid "OTHER: Och, zamknij się już. Spróbuję kogoś|obudzić.#X1"
-msgstr ""
+msgstr "ANNAN: Åh, håll käften redan. Jag ska försöka väcka någon.#X1"
 
 #: dialog0001.txt:100201
 msgid "OTHER: A to niby dlaczego?#B1"
-msgstr ""
+msgstr "ANNAN: Och varför är det så?#B1"
 
 #: dialog0001.txt:100301
 msgid "#E3#X0"
@@ -115,67 +119,76 @@ msgstr ""
 
 #: dialog0001.txt:100401
 msgid "OTHER: Wy, ludzie, jesteście wszyscy szaleni."
-msgstr ""
+msgstr "ANNAN: Ni människor är alla galna."
 
 #: dialog0001.txt:100402
 msgid "OTHER: Żyjecie jakieś marne dwieście czy ile tam|lat i to źle na was działa."
 msgstr ""
+"ANNAN: Du lever några ynka tvåhundra eller hur många år som helst och det "
+"påverkar dig illa."
 
 #: dialog0001.txt:100403
 msgid "OTHER: Ciągle gnacie tu i tam, spieszycie się i|nie potraficie usiedzieć nawet stu lat|w jednym miejscu."
 msgstr ""
+"ANNAN: Du rusar ständigt hit och dit, du har bråttom och du kan inte ens "
+"stanna på en plats i hundra år."
 
 #: dialog0001.txt:100404
 msgid "HERO: Stu lat?"
-msgstr ""
+msgstr "HJÄLTE: Hundra år?"
 
 #: dialog0001.txt:100405
 msgid "P#HERO: Rozumiem...|Więc pan jest jedną z tych legendarnych|długowiecznych istot!"
 msgstr ""
+"P#HJÄLTE: Jag förstår ... Så du är en av de legendariska|långlivade "
+"varelserna!"
 
 #: dialog0001.txt:100406
 msgid "HERO: Pewnie ma pan z tysiąc lat albo więcej!"
-msgstr ""
+msgstr "HJÄLTE: Du är förmodligen tusen år gammal eller mer!"
 
 #: dialog0001.txt:100407
 msgid "OTHER: Kiedy się rodziłem ludzie byli jeszcze cali|owłosieni, chodzili po drzewach, podpierali|się ogonami, a na banana mówili jup-jup!"
 msgstr ""
+"ANNAN: När jag föddes var människor fortfarande håriga, de gick i träd, "
+"stödde sig med svansen och kallade en banan för jup-jup!"
 
 #: dialog0001.txt:100408
 msgid "OTHER: Tak, to było jakiś czasu temu.#B0"
-msgstr ""
+msgstr "ANNAN: Ja, det var en tid sedan.#B0"
 
 #: dialog0001.txt:100501
 msgid "OTHER: A ty masz białą. Zupełnie jak zdechła ryba."
-msgstr ""
+msgstr "ANNAN: Och du har en vit en. Precis som en död fisk."
 
 #: dialog0001.txt:100502
 msgid "HERO: Nie ma powodu, żeby być nieuprzejmym."
-msgstr ""
+msgstr "HJÄLTE: Det finns ingen anledning att vara oförskämd."
 
 #: dialog0001.txt:100503
 msgid "OTHER: Jest. Ty.#E2#B0"
-msgstr ""
+msgstr "ANNAN: Det är det. Du.#E2#B0"
 
 #: dialog0001.txt:100601
 msgid "OTHER: Chcesz z tego zrobić sto procent?"
-msgstr ""
+msgstr "ANNAN: Vill du göra hundra procent av det?"
 
 #: dialog0001.txt:100602
 msgid "HERO: Erm, nie dziękuję.#E2#B0"
-msgstr ""
+msgstr "HJÄLTE: Nej tack.#E2#B0"
 
 #: dialog0001.txt:100701
 msgid "OTHER: Nie trudź tego malutkiego, ludzkiego|móżdżku takimi rzeczami jak myślenie."
 msgstr ""
+"ANNAN: Besvära inte denna lilla mänskliga hjärna med saker som tänkande."
 
 #: dialog0001.txt:100702
 msgid "OTHER: To się nie może udać.#B0"
-msgstr ""
+msgstr "ANNAN: Det kan inte fungera.#B0"
 
 #: dialog0002.txt:1
 msgid "OTHER: Chi-n-chi-ku-ri-n!..."
-msgstr ""
+msgstr "ANNAN: Chi-n-chi-ku-ri-n!...."
 
 #: dialog0003.txt:1
 msgid "OTHER: Hmmm..."
@@ -183,43 +196,43 @@ msgstr ""
 
 #: dialog0004.txt:1
 msgid "OTHER: Precipitevolissimebalmente!"
-msgstr ""
+msgstr "ANNAN: Nederbördvolymerna är stora!"
 
 #: dialog0005.txt:1
 msgid "OTHER: Cholerne dusze."
-msgstr ""
+msgstr "ANNAN: Jäkla själar."
 
 #: dialog0005.txt:2
 msgid "OTHER: Nigdy ich nie ma, gdy są|potrzebne."
-msgstr ""
+msgstr "ANNAN: De finns aldrig på plats när de behövs."
 
 #: dialog0005.txt:3
 msgid "OTHER: Przykro mi, człowieczku, ale nie|mogę ci pomóc."
-msgstr ""
+msgstr "ANNAN: Jag är ledsen, man, men jag kan inte hjälpa dig."
 
 #: dialog0006.txt:101
 msgid "$0: Może trzeba z nimi inaczej porozmawiać?"
-msgstr ""
+msgstr "$0: Du kanske behöver prata med dem på ett annat sätt?"
 
 #: dialog0006.txt:102
 msgid "$1: Czy one się przypadkiem pana nie boją?"
-msgstr ""
+msgstr "$1: Är de rädda för dig av någon slump?"
 
 #: dialog0006.txt:103
 msgid "$2: Błagam, proszę spróbować jeszcze raz!"
-msgstr ""
+msgstr "$2: Jag ber dig, snälla försök igen!"
 
 #: dialog0006.txt:104
 msgid "$3: Rozumiem. Więc zostanę tu na wieki..."
-msgstr ""
+msgstr "$3: Jag förstår. Så jag stannar här för alltid...."
 
 #: dialog0006.txt:205
 msgid "$4: Przecież to stek bzdur."
-msgstr ""
+msgstr "$4: När allt kommer omkring är det en massa skräp."
 
 #: dialog0006.txt:206
 msgid "$5: Nie, oczywiście nie."
-msgstr ""
+msgstr "$5: Nej, naturligtvis inte."
 
 #: dialog0006.txt:100001
 msgid "OTHER: Sztuka konwersacji to umiejętność, którą|posiadłem w niewiarygodnym stopniu."
@@ -3647,7 +3660,7 @@ msgstr ""
 
 #: dialog0086.txt:100301
 msgid "#E3#X0"
-msgstr ""
+msgstr "#E3#X0"
 
 #: dialog0086.txt:100401
 msgid "OTHER: Co się z tobą stało, książę? Nie pamiętasz|jak zasłoniłeś mnie własnym ciałem, kiedy...|Ale ...dość!"
@@ -8419,7 +8432,7 @@ msgstr ""
 
 #: dialog0310.txt:2
 msgid "OTHER: Hmmm..."
-msgstr ""
+msgstr "ANNAN: Hmmm..."
 
 #: dialog0310.txt:3
 msgid "OTHER: Kamiennego demona..."
