@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2025-06-28 13:26+0000\n"
+"PO-Revision-Date: 2025-08-13 00:36+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #: dialog0001.txt:1
 msgid "HERO: Przeppp... raszam..."
@@ -2100,7 +2100,7 @@ msgstr ""
 
 #: dialog0025.txt:100109
 msgid "OTHER: A kto pierwszy..."
-msgstr "OTHER: Ты же сам первый..."
+msgstr "OTHER: А не ты ли первый..."
 
 #: dialog0025.txt:100110
 msgid "HERO: Panowie!"
@@ -2133,8 +2133,8 @@ msgstr "OTHER: Ну и интересы у вас, принц…"
 #: dialog0025.txt:100203
 msgid "OTHER: Słyszałem plotki o podzielonym na dwie|części straszliwym zamczysku, ale na|szczęście to tylko plotki."
 msgstr ""
-"OTHER: Я как-то слышал про один замок.|Жуткий такой, в нем будто бы два "
-"корпуса.|Но вот правда ли, что есть такой замок?..."
+"OTHER: Я как-то слышал про один замок.|Жуткий такой, в нём будто бы два "
+"корпуса.|Но вот существует ли он на самом деле?.."
 
 #: dialog0025.txt:100204
 msgid "OTHER: Ale sam wiesz, panie, jak to jest z plotkami."
@@ -2345,7 +2345,7 @@ msgstr ""
 msgid "OTHER: Mam taką jedną, ponoć bezcenną, ale|w środku są głównie rysunki i jakieś|tajemnicze znaczki."
 msgstr ""
 "OTHER: Там у меня одна книга лежит. В ней|только картинки да символы "
-"какие-то.|Но, говорят, она очень ценная."
+"какие-то.|Но, говорят, она бесценная."
 
 #: dialog0027.txt:100205
 msgid "OTHER: No, ale to robi wrażenie na klientach."
@@ -2702,12 +2702,12 @@ msgstr "OTHER: Нет. Даже если бы я захотел,|сейчас н
 #: dialog0049.txt:100802
 msgid "OTHER: Ale wiń tylko siebie, bo od kiedy|wypaplałeś swojemu giermkowi, że|główny składnik to lubczyk..."
 msgstr ""
-"OTHER: И вы сами в этом виноваты.|Это же вы тогда своему шуту ляпнули:|«"
-"Нужна страсть, пыл и любисток»..."
+"OTHER: И вы сами в этом виноваты.|Оруженосцу своему ляпнули|про "
+"ягоду-манилу..."
 
 #: dialog0049.txt:100803
 msgid "OTHER: ...to okoliczni chłopi zdewastowali|w jego poszukiwaniu pół lasu."
-msgstr "OTHER: ...крестьяне этот любисток пошли|искать, да пол-леса выворотили."
+msgstr "OTHER: ...крестьяне её пошли|искать, да пол-леса выворотили."
 
 #: dialog0049.txt:100804
 msgid "OTHER: W skrócie: nie mam półfabrykatów."
@@ -2804,7 +2804,7 @@ msgstr "OTHER: Тогда я тебя пошлю|вместо себя."
 
 #: dialog0052.txt:100013
 msgid "P#HERO: Tak tylko pytałem."
-msgstr "P#HERO: Я так просто, интересуюсь..."
+msgstr "P#HERO: Я так, просто интересуюсь..."
 
 #: dialog0052.txt:100014
 msgid "OTHER: Nie ma problemu.#E4#B0"
@@ -2817,13 +2817,12 @@ msgstr "OTHER: Да не особо-то он и агрессивный."
 #: dialog0052.txt:100102
 msgid "OTHER: Biedne stworzenie, jest niezłym|wojownikiem, ale nie ma gdzie|sprawdzać swoich sił."
 msgstr ""
-"OTHER: Просто не везёт ему по жизни.|Драться он умеет – дай Боже,|и равных "
-"ему по силе тут вообще нет."
+"OTHER: Скорее сказать – несчастный.|Он тут самый сильный,|драться умеет – "
+"дай Боже."
 
 #: dialog0052.txt:100103
 msgid "OTHER: Więc uznał prowokację za sposób|na życie."
-msgstr ""
-"OTHER: Не с кем побороться,|и ему только и остаётся,|что всех провоцировать."
+msgstr "OTHER: Вот он всех на драку и провоцирует.|Соперника ищет."
 
 #: dialog0052.txt:100104
 msgid "OTHER: Ale w głębi duszy jest tylko|dużym dzieckiem."
