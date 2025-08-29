@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2025-08-13 00:36+0000\n"
+"PO-Revision-Date: 2025-08-30 22:36+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -2216,7 +2216,7 @@ msgstr "$1: Красивая у вас борода. Демоническая...
 
 #: dialog0027.txt:104
 msgid "$2: Jaka jest najciekawsza rzecz, jaką sprzedajesz?"
-msgstr "$2: А есть у вас что-то, ну, вообще интересное?"
+msgstr "$2: А что у вас есть из самого интересного?"
 
 #: dialog0027.txt:105
 msgid "$3: Porozmawiamy jeszcze później."
@@ -2284,11 +2284,11 @@ msgstr ""
 
 #: dialog0027.txt:100105
 msgid "HERO: Zatopiony w ciemności?"
-msgstr "HERO: Во тьме?"
+msgstr "HERO: Скрыт во тьме?"
 
 #: dialog0027.txt:100106
 msgid "OTHER: Podobno nigdy nad nim nie świeci słońce."
-msgstr "OTHER: Солнце как будто бы|вообще над ним не светило."
+msgstr "OTHER: Да, как будто бы солнце|вообще не могло его осветить."
 
 #: dialog0027.txt:100107
 msgid "OTHER: A co do bródki..."
@@ -2302,15 +2302,15 @@ msgstr ""
 
 #: dialog0027.txt:100109
 msgid "P#OTHER: Poważnie?..."
-msgstr "P#OTHER: Серьёзно?…"
+msgstr "P#OTHER: Вы сейчас честно?…"
 
 #: dialog0027.txt:100110
 msgid "OTHER2: Na rany, nie gadaj tyle, tylko graj."
-msgstr "OTHER2: Да хватит уже балаболить,|честный ты наш! Играй давай."
+msgstr "OTHER2: Да хватит уже!|Честно то, честно сё. Играй давай."
 
 #: dialog0027.txt:100111
 msgid "OTHER2: Starasz się wymigać?"
-msgstr "OTHER2: Или отвертеться удумал?"
+msgstr "OTHER2: Небось, проиграть боишься, а?"
 
 #: dialog0027.txt:100112
 msgid "OTHER: Nie, ale nudzą mnie gry ze słabym|przeciwnikiem."
