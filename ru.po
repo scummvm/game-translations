@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2025-08-30 22:36+0000\n"
+"PO-Revision-Date: 2025-11-05 19:36+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -9913,7 +9913,7 @@ msgstr ""
 #: dialog0406.txt:1
 msgid "OTHER: Nieszczęśliwy krasnolud, naiwnie myślący,|że w mózgu pomieszało mu się od nadmiaru piwa..."
 msgstr ""
-"OTHER: Наш несчастный гном по наивности решил,|что залил себе пивом "
+"OTHER: Наш несчастный гном по наивности подумал,|что залил себе пивом "
 "последние мозги..."
 
 #: dialog0407.txt:1
