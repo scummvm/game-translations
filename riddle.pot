@@ -133,7 +133,7 @@ msgid "Thanks. I couldn't believe that's what you said. I needed to hear it agai
 msgstr ""
 
 #: 04_01N01
-msgid "很好,Mr. Ripley. Where will you be traveling?"
+msgid "And now, Mr. Ripley. Where will you be traveling?"
 msgstr ""
 
 #: 04_01N05
@@ -161,7 +161,7 @@ msgid "I'd like to buy some yuan."
 msgstr ""
 
 #: 04_01P05
-msgid "Thanks, 千秋! Goodbye!"
+msgid "Thanks, Qian Shu! Goodbye!"
 msgstr ""
 
 #: 04_02N01
@@ -173,7 +173,7 @@ msgid "Thank you, Mr. Ripley. Please sign here."
 msgstr ""
 
 #: 04_04N01
-msgid "对不起 Mr. Ripley, your account is empty."
+msgid "I'm sorry Mr. Ripley, your account is empty."
 msgstr ""
 
 #: 04_06N01
@@ -217,7 +217,7 @@ msgid "Mr. Ripley, as I said, my records show no money in your account. Would yo
 msgstr ""
 
 #: 04_15N01
-msgid "再见!"
+msgid "Goodbye!"
 msgstr ""
 
 #: 04_15P01
@@ -225,11 +225,11 @@ msgid "Better make it cash."
 msgstr ""
 
 #: 04_16N01
-msgid "再见!"
+msgid "Goodbye!"
 msgstr ""
 
 #: 04_16P01
-msgid "I'm ready to leave now, Chenshu."
+msgid "I'm ready to leave now, Qian Shu."
 msgstr ""
 
 #: 04_17N01
@@ -1029,7 +1029,7 @@ msgid "Auf jeden Fall, Herr Ripley."
 msgstr ""
 
 #: 10_02N05
-msgid "Auf Wiedersehen, Herr Røbli!"
+msgid "Auf Wiedersehen, Herr Ripley!"
 msgstr ""
 
 #: 10_02P01
@@ -2405,11 +2405,11 @@ msgid "I'm intrigued by that old clock there."
 msgstr ""
 
 #: 16_13P04
-msgid "Where was that stellate found?"
+msgid "Where was that stele found?"
 msgstr ""
 
 #: 16_13P05
-msgid "Where did you say that Stelé was found?"
+msgid "Where did you say that stele was found?"
 msgstr ""
 
 #: 16_13P06
@@ -3193,7 +3193,7 @@ msgid "I will."
 msgstr ""
 
 #: 201M03
-msgid "谢谢签书!"
+msgid "(Chinese)"
 msgstr ""
 
 #: 201M04
@@ -3465,7 +3465,7 @@ msgid "Ah, from Mei's aunt and uncle in London. Understand Mei Chen's concern fo
 msgstr ""
 
 #: 201R61A
-msgid "Understand Meichen's concern for Mother, would be happy to assist in any way we can."
+msgid "Understand Mei Chen's concern for Mother, would be happy to assist in any way we can."
 msgstr ""
 
 #: 201R61B
@@ -3473,7 +3473,7 @@ msgid "It just might work."
 msgstr ""
 
 #: 201R61C
-msgid "Understand Meichen's concern for Mother, would be happy to assist in any way we can."
+msgid "Understand Mei Chen's concern for Mother, would be happy to assist in any way we can."
 msgstr ""
 
 #: 201R62
@@ -3481,7 +3481,7 @@ msgid "I'd better hang on to that for now."
 msgstr ""
 
 #: 201R63
-msgid "Thanks, Chenshu."
+msgid "Thanks, Qian Shu."
 msgstr ""
 
 #: 201RXX
@@ -3489,7 +3489,7 @@ msgid "Brain, brain, brain, brain."
 msgstr ""
 
 #: 201X01
-msgid "你好 Mr. Ripley, welcome back. 你好 Mei Chen, 很高兴见到你们回来。"
+msgid "Hello, Mr Ripley. Welcome back. Hello, Mei Chen. It is nice seeing you both back."
 msgstr ""
 
 #: 201X02
@@ -3633,15 +3633,15 @@ msgid "Ahem, ahem, ahem..."
 msgstr ""
 
 #: 203G01
-msgid "很多人都是那么说, 但你一定要有通行证。"
+msgid "(Chinese) Many people say that, but you must have a pass."
 msgstr ""
 
 #: 203G02
-msgid "没有通行证,你就不能进来。"
+msgid "(Chinese) You can't get in without a pass."
 msgstr ""
 
 #: 203G03
-msgid "Foreigners, I'm not that patient."
+msgid "(Chinese) Foreigners, I'm not that patient."
 msgstr ""
 
 #: 203M01
@@ -3653,11 +3653,11 @@ msgid "Emperors have Colossal Cheek Robert. I think it's a requirement for the j
 msgstr ""
 
 #: 203M03
-msgid "The sign says... thieves."
+msgid "The sign says... 'Thieves'."
 msgstr ""
 
 #: 203M04
-msgid "请问,我们要知道里面要什么?"
+msgid "(Chinese) What do we need to know inside?"
 msgstr ""
 
 #: 203M05
@@ -3669,7 +3669,7 @@ msgid "Please don't do anything foolish, Robert. Punishment is swift."
 msgstr ""
 
 #: 203O01
-msgid "我要看你的禁键。"
+msgid "(Chinese) I want to see your disabled keys."
 msgstr ""
 
 #: 203O02
@@ -4029,7 +4029,7 @@ msgid "These are more writings by Lao Tzu."
 msgstr ""
 
 #: 204M12
-msgid "These are more poems from the 社青."
+msgid "These are more poems from the Xiu Qing."
 msgstr ""
 
 #: 204M13
@@ -4041,7 +4041,7 @@ msgid "These are more of the Tao Te Ching."
 msgstr ""
 
 #: 204M15
-msgid "These are more of 舍妻, the records of the historian."
+msgid "These are more of Xiu Qing - 'The records of the historian'."
 msgstr ""
 
 #: 204M16
@@ -4297,11 +4297,11 @@ msgid "This is no time for sightseeing. Mei is in deadly danger."
 msgstr ""
 
 #: 204R63
-msgid "I'm not leaving Mei."
+msgid "I'm not leaving Mei!"
 msgstr ""
 
 #: 204Y01
-msgid "先生,我有什么可以帮你的吗? Sir, do I have anything I can help you with?"
+msgid "(Chinese) Sir, is there anything I can do for you?"
 msgstr ""
 
 #: 205K01
@@ -5333,15 +5333,15 @@ msgid "Have you studied long?"
 msgstr ""
 
 #: 27_01N01
-msgid "情溫先生,你喺邊度搵到呢啲碎鋼瓦片? 情溫先生,你喺邊度搵到呢啲碎鋼瓦片?"
+msgid "(Chinese)"
 msgstr ""
 
 #: 27_01N02
-msgid "先生,點解你有個手喺你個冷塞泵場到?"
+msgid "(Chinese)"
 msgstr ""
 
 #: 27_01N03
-msgid "We can see if you have an eye light."
+msgid "(Chinese)"
 msgstr ""
 
 #: 27_01P01
@@ -5361,7 +5361,7 @@ msgid "Perhaps I'll talk to him later."
 msgstr ""
 
 #: 27_02N01
-msgid "Oh, I only found it when I was trying to find it."
+msgid "(Chinese)"
 msgstr ""
 
 #: 27_02N02
@@ -5369,11 +5369,11 @@ msgid "It came from his root cellar."
 msgstr ""
 
 #: 27_03N01
-msgid "Hey, I only have one match left. Ha, I think this guy has it."
+msgid "(Chinese)"
 msgstr ""
 
 #: 27_04N01
-msgid "Oh, 其他幾多嘅碎片飛到周圍都係。 呢度呀?我淨係執到個幾塊咋。 大果塊呀?我都廢事執呀。 果本咁嘅牆壞毅毅附啲落嚟紮死我咁點呀?"
+msgid "(Chinese)"
 msgstr ""
 
 #: 27_04N02
@@ -5937,7 +5937,7 @@ msgid "Yes, yes!"
 msgstr ""
 
 #: 304F04
-msgid "Your file on a tomb of 沈皇帝."
+msgid "Your file on a tomb of Qin Shi Huang."
 msgstr ""
 
 #: 304F05
@@ -5945,7 +5945,7 @@ msgid "Who?"
 msgstr ""
 
 #: 304M01
-msgid "Robert, do something!"
+msgid "Robert, DO SOMETHING!"
 msgstr ""
 
 #: 304M02
@@ -5961,7 +5961,7 @@ msgid "What happened, Feng Li?"
 msgstr ""
 
 #: 304M05
-msgid "施皇帝, China's first emperor."
+msgid "Qin Shi Huang, China's first emperor."
 msgstr ""
 
 #: 304M06
@@ -6457,7 +6457,7 @@ msgid "The land of China was named after Qin Shi Huangdi, her first emperor. He 
 msgstr ""
 
 #: 305R23
-msgid "秦朔皇帝, first emperor of China, destroyed all literature and executed every historian in order that history would begin with him."
+msgid "Qin Shi Huang, first emperor of China, destroyed all literature and executed every historian in order that history would begin with him."
 msgstr ""
 
 #: 305R23A
@@ -11249,31 +11249,31 @@ msgid "The icons belong to the temple."
 msgstr ""
 
 #: 801F01
-msgid "喂? 唔係咪就係佢到做嘢啊? 吓?"
+msgid "(Chinese)"
 msgstr ""
 
 #: 801F02
-msgid "Yes, a few weeks ago, a bunch of people came up to Mount Li and made a lot of noise over there. They were spinning like crazy on top of the cart. The whole floor was shaking."
+msgid "(Chinese)"
 msgstr ""
 
 #: 801F02A
-msgid "I have no peace of mind."
+msgid "(Chinese)"
 msgstr ""
 
 #: 801F03
-msgid "Ah, we have never had a better land. We were Japanese in the old days, but now we are no longer. This year, the harvest is worse than last year."
+msgid "(Chinese)"
 msgstr ""
 
 #: 801F06
-msgid "Hey! This is really beautiful!"
+msgid "(Chinese)"
 msgstr ""
 
 #: 801M01
-msgid "您好,呢個係Robert Ripley 先生。佢對呢個最先皇帝嘅墳墓好有興趣研究。"
+msgid "(Chinese)"
 msgstr ""
 
 #: 801M02
-msgid "Fuck what?"
+msgid "(Chinese)"
 msgstr ""
 
 #: 801M03
@@ -11301,7 +11301,7 @@ msgid "But how can they be here?"
 msgstr ""
 
 #: 801M12
-msgid "我哋可唔可以買你個鐵鏟?"
+msgid "(Chinese)"
 msgstr ""
 
 #: 801M13
@@ -12629,7 +12629,7 @@ msgid "All the danger is behind us now."
 msgstr ""
 
 #: 908R01
-msgid "Just the same, Meichen."
+msgid "Just the same, Mei Chen."
 msgstr ""
 
 #: 908R01A
