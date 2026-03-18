@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2026-01-27 23:22+0000\n"
+"PO-Revision-Date: 2026-03-19 23:22+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -2821,7 +2821,7 @@ msgstr ""
 
 #: dialog0052.txt:100103
 msgid "OTHER: Więc uznał prowokację za sposób|na życie."
-msgstr "OTHER: Вот он всех на драку и провоцирует.|Соперника ищет."
+msgstr "OTHER: Вот он всех на драку и провоцирует.|Равного соперника ищет."
 
 #: dialog0052.txt:100104
 msgid "OTHER: Ale w głębi duszy jest tylko|dużym dzieckiem."
