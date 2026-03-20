@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2026-03-19 23:22+0000\n"
+"PO-Revision-Date: 2026-03-21 13:22+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -2701,12 +2701,12 @@ msgstr "OTHER: Нет. Даже если бы я захотел,|сейчас н
 #: dialog0049.txt:100802
 msgid "OTHER: Ale wiń tylko siebie, bo od kiedy|wypaplałeś swojemu giermkowi, że|główny składnik to lubczyk..."
 msgstr ""
-"OTHER: И вы сами в этом виноваты.|Оруженосцу своему ляпнули|про "
-"ягоду-манилу..."
+"OTHER: И вы сами в этом виноваты.|Это же вы оруженосцу ляпнули,|что надо в "
+"полночь косить трын-траву..."
 
 #: dialog0049.txt:100803
 msgid "OTHER: ...to okoliczni chłopi zdewastowali|w jego poszukiwaniu pół lasu."
-msgstr "OTHER: ...крестьяне её пошли|искать, да пол-леса выворотили."
+msgstr "OTHER: ...крестьяне её пошли искать,|да впотьмах пол-леса разворотили."
 
 #: dialog0049.txt:100804
 msgid "OTHER: W skrócie: nie mam półfabrykatów."
