@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2026-05-19 19:30+0000\n"
+"PO-Revision-Date: 2026-05-19 19:57+0000\n"
 "Last-Translator: Niv Baehr <bloop93@gmail.com>\n"
 "Language-Team: Hebrew <https://translations.scummvm.org/projects/prince/"
 "prince/he/>\n"
@@ -771,7 +771,7 @@ msgstr "OTHER: די טוב, בהתחשב בנסיבות."
 
 #: dialog0016.txt:100102
 msgid "OTHER: Powiem więcej, czuję się jak w niebie."
-msgstr "OTHER: יתרה מכך  - אני מרגיש אלוהי."
+msgstr "OTHER: יתרה מכך - אני מרגיש אלוהי."
 
 #: dialog0016.txt:100103
 msgid "OTHER: <głupawy chichot>#B0"
@@ -8424,7 +8424,8 @@ msgstr "HERO: אני חולה! מסתבר ששום מרפא הצטננות!"
 
 #: dialog0281.txt:2
 msgid "OTHER: Szemmit nemirtek. Ozthisem chodj faj|o torkot. Othotuk neked dźjodźsert."
-msgstr "OTHER:"
+msgstr ""
+"OTHER: צמיט נמירטק. אוזתיסם צ'ודז' פאי|או טורכוט. אותוטוק נקד דז'יודז'רט."
 
 #: dialog0282.txt:1
 msgid "HERO: Oddaje szal, dziękuję za pomoc."
@@ -9762,7 +9763,7 @@ msgstr "מטבע - התחלה טובה..."
 
 #: invtxt.txt:60
 msgid "2 monety - Początek za mną..."
-msgstr "2 מטבעות -  ההתחלה מאחוריי..."
+msgstr "2 מטבעות - ההתחלה מאחוריי..."
 
 #: invtxt.txt:61
 msgid "3 monety - Środek możliwości."
