@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2026-03-21 13:22+0000\n"
+"PO-Revision-Date: 2026-06-11 22:22+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -2610,8 +2610,8 @@ msgstr ""
 #: dialog0049.txt:100403
 msgid "OTHER: W końcu jesteś księciem, i to całkiem|niebrzydkim, jak na kogoś z tak fatalną|fryzurą.#B1"
 msgstr ""
-"OTHER: Вы, всё-таки, принц, и неплохо|выглядите, даже несмотря|на "
-"причёску.#B1"
+"OTHER: Вы, всё-таки, принц.|И даже ваша чудная причёска|не испортит вам "
+"образ.#B1"
 
 #: dialog0049.txt:100501
 msgid "OTHER: Nie chcę być niegrzeczny, ale to moja|sprawa."
@@ -2858,8 +2858,8 @@ msgstr "HERO: В смысле, не стоит?|От непогоды, что л
 #: dialog0052.txt:100206
 msgid "OTHER: Każde bóstwo żyje tak długo, jak pamięta|o nim jego ostatni wyznawca. Tak|przynajmniej mówią."
 msgstr ""
-"OTHER: Говорят, любой бог живёт|только до той поры, пока ему|поклоняется "
-"хотя бы один человек."
+"OTHER: Говорят, бог живёт только до той поры,|пока ему служит хотя бы один "
+"верующий."
 
 #: dialog0052.txt:100207
 msgid "OTHER: Potem bóstwo zaczyna słabnąć, tracić boską|moc, aż w końcu umiera."
@@ -2942,7 +2942,7 @@ msgstr "OTHER: Ты глухой иль тупой?"
 
 #: dialog0056.txt:2
 msgid "HERO: Właściwie jak śmiesz tak się odzywać do|księcia tej krainy?"
-msgstr "HERO: Да как ты смеешь так разговаривать|с принцем этого королевства?!"
+msgstr "HERO: Я – принц сего королевства!|Так что прикуси-ка язык!"
 
 #: dialog0056.txt:3
 msgid "OTHER: Książę? Jesteś księciem? Nie uwierzę, póki|nie dasz mi podarunku godnego księcia!"
@@ -2995,7 +2995,7 @@ msgstr "OTHER: Рад тебя видеть, принц!"
 
 #: dialog0060.txt:103
 msgid "$0: Duży ruch dzisiaj..."
-msgstr "$0: А у тебя сегодня клиентов много..."
+msgstr "$0: Много сегодня клиентов, а?.."
 
 #: dialog0060.txt:104
 msgid "$1: Podsłuchałeś może jakieś plotki?"
@@ -3093,11 +3093,11 @@ msgstr "OTHER: И я не один такой был. Вся корчма|рыд
 
 #: dialog0060.txt:100203
 msgid "OTHER: Ech, dobrze, że wymyśliłeś klip-klap..."
-msgstr "OTHER: Лишь одна забава осталась,|которую ты и придумал – хлопунцы..."
+msgstr "OTHER: Лишь одна забава осталась,|которую ты и придумал –|хлопунцы..."
 
 #: dialog0060.txt:100204
 msgid "HERO: Klip-klap?!..."
-msgstr "HERO: Хлопунцы?!..."
+msgstr "HERO: Хлопунцы?!.."
 
 #: dialog0060.txt:100205
 msgid "OTHER: No właśnie, może zagramy rundkę?#E6#B1"
@@ -7149,7 +7149,7 @@ msgstr "OTHER: Чую, чую – амулет ведьмака..."
 
 #: dialog0202.txt:2
 msgid "HERO: Co takiego?"
-msgstr "HERO: Что случилось?"
+msgstr "HERO: Вы чего это?"
 
 #: dialog0203.txt:1
 msgid "OTHER: Więc są jeszcze jacyś..."
