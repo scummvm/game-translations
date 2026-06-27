@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2026-06-27 00:22+0000\n"
+"PO-Revision-Date: 2026-06-28 09:22+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -2296,8 +2296,8 @@ msgstr "OTHER: А что вы там про бороду говорили?"
 #: dialog0027.txt:100108
 msgid "HERO: Diabeł często ukazywany jest jako|arystokrata z kozią bródką."
 msgstr ""
-"HERO: Просто Дьявола часто таким и изображают:|аристократ, и с бородкой "
-"козлиной."
+"HERO: Просто Дьявола часто таким и изображают –|аристократ с козлиной "
+"бородкой."
 
 #: dialog0027.txt:100109
 msgid "P#OTHER: Poważnie?..."
@@ -2750,7 +2750,7 @@ msgstr "$3: Приятного аппетита."
 
 #: dialog0052.txt:100001
 msgid "OTHER: Za trzy dni wyruszam do jednej z południowych|krain, jako misjonarz."
-msgstr "OTHER: Дня через три я уеду отсюда|в одну южную страну, проповедовать."
+msgstr "OTHER: Дня через три я уеду отсюда|на юг, проповедовать."
 
 #: dialog0052.txt:100002
 msgid "OTHER: Słyszałem, że ludzie tam jedzą tak dużo,|że każdy chudzielec wydaje im się|podejrzany."
