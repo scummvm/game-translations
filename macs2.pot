@@ -19010,3 +19010,1195 @@ msgid ""
 "rechtschaffenen Weissen."
 msgstr ""
 
+# Hotspot overlay labels (unique nouns, CP850 source in engine)
+
+msgctxt "hotspotlabel"
+msgid "Abgrund"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Angreifer"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Asche"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Aufbauten"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Ausgang"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Balken"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Bar"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Barmann"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Baum"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Berge"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Bett"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Beutel"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Bild"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Bildrahmen"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Bildrand"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Blätterdach"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Boden"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Bohlen"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Brecheisen"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Brett"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Brücke"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Busch"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Bärenfell"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Dach"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Damm"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Decke"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Deckel"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Deckung"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Dickicht"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Dynamit"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Eichenfass"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Eimer"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Eingang"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Emblem"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Fackel"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Farm"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Fass"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Felsblöcke"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Felsen"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Felswand"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Fenster"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Flasche"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Fluss"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Fracht"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Früchte"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Gang"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Gangsystem"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Gebirge"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Gefährt"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Gegenstand"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Geländer"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Geröll"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Gewölbe"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Gras"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Gussofen"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Gusspfannen"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Hackenspitze"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Hanfseil"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Haus"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Heizkessel"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Heuwagen"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Himmel"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Holz"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Holzbank"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Holzdach"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Holzeier"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Holzfass"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Holzpferd"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Holzscheite"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Holztisch"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Holztür"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Hund"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Hütte"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Insel"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Kabine"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Kachel"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Kahn"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Kajüte"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Kamin"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Kammer"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Kanone"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Kerze"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Kiselsteine"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Kiste"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Koffer"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Kohlen"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Konstruktion"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Kopf"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Ladung"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Lagerfeuer"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Lampe"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Landschaft"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Leiter"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Leuchter"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Loch"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Lore"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Luke"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Mauer"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Mine"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Mist"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Musketen"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Möglichkeit"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Ofen"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Pfad"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Pfahl"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Pferd"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Pferdekoppel"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Pfütze"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Planken"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Plateau"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Plattform"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Pumpe"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Rasen"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Raum"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Ruhig"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Schaufel"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Schienen"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Schilf"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Schlange"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Schleier"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Schleifspuren"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Schrank"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Schublade"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Schüssel"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Schädel"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Schätze"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "See"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Seekoffer"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Seil"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Speer"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Spiegel"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Spielklötze"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Stahlkugeln"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Stamm"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Steg"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Stein"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Steine"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Steinpyramide"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Steinsäule"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Steintür"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Stelle"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Stofftasche"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Stuhl"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Stück"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Stütze"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Säulen"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Tapete"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Tasse"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Teddybär"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Teppich"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Tier"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Tintenfass"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Tisch"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Tonvase"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Totempfahl"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Treppe"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Truhe"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Tür"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Ufer"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Unkraut"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Verkleidung"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Vertiefungen"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Vogelkäfig"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Vorplatz"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Wald"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Wand"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Wasser"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Wasserkrug"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Weg"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Whiskyglas"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Winde"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Windlicht"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Witterung"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Wolken"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Wände"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Wäsche"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Zelt"
+msgstr ""
+
+msgctxt "hotspotlabel"
+msgid "Zeug"
+msgstr ""
+
+# Object/NPC overlay labels (unique names, full game, CP850/latin-1 source)
+
+msgctxt "objectlabel"
+msgid "Axt"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Axtklinge"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Bandit"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Blasebalg"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Blechdose"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Blecheimer"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Bohlen"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Bootsjunge"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Bowiemesser"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Branshky"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Brecheisen"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Brennholz"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Brett"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Brief"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Brot"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Brotmesser"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Bücher"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Clownpuppe"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Cornel"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Damenhut"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Dieb"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Droll"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Dynamit"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Eimer"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Eisen"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Eisenstange"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Fackel"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Feuerhaken"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Figur"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Flaschenzug"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Griff"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Grosser Bõr"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Hackenspitze"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Haken"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Haken und Seil"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Hanfschnur"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Hanfseil"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Hanfseile"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Holzente"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Holzfass"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Holzfigur"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Holzkohle"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Holzpfahl"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Holzwürfel"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Hutschachtel"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Kacheln"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Kakerlake"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Kapitõn"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Kartoffeln"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Kartonschachtel"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Kerze"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Kerzen"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Kieselsteine"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Kleider"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Kleiner Bõr"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Knallfrösche"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Koffer"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Kohlenschaufel"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Korkenzieher"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Kuvert"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Laib Brot"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Lampe"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Lampenschirm"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Lampenschirme"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Landkarte"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Lederbeutel"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Ledergürtel"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Lore"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Matrose"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Messer"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Messingschlüssel"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Metalleimer"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Mrs. Butler"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Murmeln"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Musketen"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Mõdchen"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Nase"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Old Firehand"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Panther"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Papier"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Papierdrachen"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Passagierin"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Patterson"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Quarzsand"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Rafter"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Reservestiel"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Salpeterpulver"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Sand"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Schal"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Schaufel"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Schaufelspitze"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Schilfrohr"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Schnapsflasche"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Schraubenzieher"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Schwarzpulver"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Schwefel"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Schürhaken"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Schüssel"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Sicheln"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Socken"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Spachtel"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Spitzhacke"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Stoffbeutel"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Streichholz"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Tasse"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Teig"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Tomahawk"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Topflappen"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Tramp"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Vogelkäfig"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Wachhund"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Wachposten"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Wagenrad"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Waschbärmütze"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Whiskyglas"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Windlicht"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Winnetou"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Wirt"
+msgstr ""
+
+msgctxt "objectlabel"
+msgid "Wolle"
+msgstr ""
+
