@@ -5,16 +5,16 @@
 #
 msgid ""
 msgstr ""
-Project-Id-Version: twine
-Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org
-POT-Creation-Date: 2023-06-11 13:20:15
-PO-Revision-Date: 2023-06-11 13:20:15
-Last-Translator: Alexandre Fontoura
-Language-Team: Português <https://translations.scummvm.org/projects/twine/lba1/pt-PT/>
-Language: pt-PT
-MIME-Version: 1.0
-Content-Type: text/plain; charset=UTF-8
-X-Generator: Weblate 4.4
+"Project-Id-Version: twine\n"
+"Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
+"POT-Creation-Date: 2023-06-11 13:20:15\n"
+"PO-Revision-Date: 2023-06-11 13:20:15\n"
+"Last-Translator: Alexandre Fontoura\n"
+"Language-Team: Português <https://translations.scummvm.org/projects/twine/lba1/pt-PT/>\n"
+"Language: pt-PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Generator: Weblate 4.4\n"
 
 # 169:Options and Menus dialogs
 #: 169:0
