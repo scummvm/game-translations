@@ -19564,7 +19564,7 @@ msgid "Griff"
 msgstr ""
 
 msgctxt "objectlabel"
-msgid "Grosser Bõr"
+msgid "Grosser Bär"
 msgstr ""
 
 msgctxt "objectlabel"
@@ -19628,7 +19628,7 @@ msgid "Kakerlake"
 msgstr ""
 
 msgctxt "objectlabel"
-msgid "Kapitõn"
+msgid "Kapitän"
 msgstr ""
 
 msgctxt "objectlabel"
@@ -19656,7 +19656,7 @@ msgid "Kleider"
 msgstr ""
 
 msgctxt "objectlabel"
-msgid "Kleiner Bõr"
+msgid "Kleiner Bär"
 msgstr ""
 
 msgctxt "objectlabel"
@@ -19740,7 +19740,7 @@ msgid "Musketen"
 msgstr ""
 
 msgctxt "objectlabel"
-msgid "Mõdchen"
+msgid "Mädchen"
 msgstr ""
 
 msgctxt "objectlabel"
@@ -19913,4 +19913,49 @@ msgstr ""
 
 msgctxt "objectlabel"
 msgid "Wolle"
+msgstr ""
+
+# Action-bar / HUD UI labels (German source)
+msgctxt "uilabel"
+msgid "Gehe"
+msgstr ""
+
+msgctxt "uilabel"
+msgid "Schaue"
+msgstr ""
+
+msgctxt "uilabel"
+msgid "Benutze"
+msgstr ""
+
+msgctxt "uilabel"
+msgid "Rede"
+msgstr ""
+
+msgctxt "uilabel"
+msgid "Gehe zu %s"
+msgstr ""
+
+msgctxt "uilabel"
+msgid "Schaue an %s"
+msgstr ""
+
+msgctxt "uilabel"
+msgid "Rede mit %s"
+msgstr ""
+
+msgctxt "uilabel"
+msgid "Benutze %s"
+msgstr ""
+
+msgctxt "uilabel"
+msgid "Benutze %s mit %s"
+msgstr ""
+
+msgctxt "uilabel"
+msgid "--- Platz %d ---"
+msgstr ""
+
+msgctxt "uilabel"
+msgid "Spielstand %d"
 msgstr ""
