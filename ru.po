@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Prince\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2018-04-17 19:53+0100\n"
-"PO-Revision-Date: 2026-06-30 14:22+0000\n"
+"PO-Revision-Date: 2026-09-19 07:05+0000\n"
 "Last-Translator: Sergei Titarev <ajoura@yandex.ru>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/prince/"
 "prince/ru/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 2026.7.1\n"
 
 #: dialog0001.txt:1
 msgid "HERO: Przeppp... raszam..."
@@ -3275,11 +3275,11 @@ msgstr "HERO: По-моему, у меня дежавю..."
 
 #: dialog0065.txt:3
 msgid "P#OTHER: Kim jesteś, śmiertelniku?"
-msgstr "P#OTHER: Кой есмь ты, смъртвинъ?"
+msgstr "P#OTHER: Кий тя род сотвори, о перстенниче?"
 
 #: dialog0065.txt:104
 msgid "$0: Jestem twoim wyznawcą, panie."
-msgstr "$0: Я... то есть, азъ есмь рабъ Твой, Повелитель."
+msgstr "$0: Э-э... ну, я... аз есмь раб Твой, Повелитель."
 
 #: dialog0065.txt:105
 msgid "$1: To naprawdę b-a-r-d-z-o długa historia."
@@ -3295,23 +3295,23 @@ msgstr "$3: Так, ладно. Ближе к делу."
 
 #: dialog0065.txt:100001
 msgid "OTHER: Wiem, przecież nie wzywałbyś mego imienia|nadaremno."
-msgstr "OTHER: Вемъ. Ибо не помянулъ бы|ты ими Моего всуе."
+msgstr "OTHER: Вем. Не рекл бы имене Моего|всуе, аще не тако."
 
 #: dialog0065.txt:100002
 msgid "OTHER: Dlaczego od tak dawna nie widziałem moich|kapłanów?"
-msgstr "OTHER: Отченьже уже такое долго|не вижду Моехъ духовенниковъ?"
+msgstr "OTHER: Почто не зрю аз жрецов своих|от лет многих?"
 
 #: dialog0065.txt:100003
 msgid "OTHER: Dlaczego nie czuję słodkiego zapachu krwi|ofiarnych zwierząt?"
-msgstr "OTHER: Отченьже давна не услышу|духа крови тварей на заклание?"
+msgstr "OTHER: Почто не пролияется на заклание|сладка кровь скотов?"
 
 #: dialog0065.txt:100004
 msgid "OTHER: Dlaczego nie słyszę pieśni sławiących|moje imię?"
-msgstr "OTHER: Отченьже уже никто во псалмахъ|имя Мое прославляетъ?"
+msgstr "OTHER: Почто оскудеша псалмы|во славу имене Моего?"
 
 #: dialog0065.txt:100005
 msgid "P#OTHER: Dlaczego tu tak pusto?"
-msgstr "P#OTHER: Отченьже никого здесть нетъ,|разве тебе одному?!"
+msgstr "P#OTHER: ...и почто чертози Моя|священнии опустеша?!"
 
 #: dialog0065.txt:100006
 msgid "HERO: Ludzie odwracają się od starych bogów,|eeee... panie...."
@@ -3336,12 +3336,12 @@ msgstr ""
 #: dialog0065.txt:100101
 msgid "OTHER: Nie szkodzi, teraz, kiedy okazało się, że|moi wyznawcy jeszcze żyją, mam dużo czasu."
 msgstr ""
-"OTHER: Ништо. Доколе суть Мои|веровнии в живых,|времени имамъ и довольно."
+"OTHER: Успеется. Ибо людие Моя живи суть,|и лета земная надо Мною не властны."
 
 #: dialog0065.txt:100102
 msgid "HERO: Nie wątpię, eeee... panie.... Ale ja|nie jestem wieczny, a ta historia..."
 msgstr ""
-"HERO: Само собой, э-э-э, Повелитель, но я-то|времени довольно не имамъ...|А "
+"HERO: Само собой, э-э-э, Повелитель,|но надо мной-то они властны...|А "
 "рассказывать тут..."
 
 #: dialog0065.txt:100103
@@ -3354,44 +3354,43 @@ msgstr "HERO: Я потом расскажу.|Даю слово.#B0"
 
 #: dialog0065.txt:100201
 msgid "P#OTHER: Więc wiesz, jaki los mnie czekał..."
-msgstr "P#OTHER: Значи, ведаеши ты за урочище Мое..."
+msgstr "P#OTHER: Значи, уведал еси убо|жребий Мой горестный..."
 
 #: dialog0065.txt:100202
 msgid "P#HERO: Wiem. Dowiedziałem się od pewnego|wędrownego mnicha."
-msgstr "P#HERO: Ну да... э-э... ведаю.|Мне один проповедник рассказал."
+msgstr "P#HERO: Ну да... э-э... уведал.|Мне один проповедник рассказал."
 
 #: dialog0065.txt:100203
 msgid "P#OTHER: Mogę robić, co tylko chcę."
-msgstr "P#OTHER: Аз могу да създати всея, еже вольно."
+msgstr "P#OTHER: Могу бо сотворити вся, елика восхощу."
 
 #: dialog0065.txt:100204
 msgid "OTHER: Jestem potężniejszy od królów, magów i kapłanów.|Jednym ruchem dłoni ujarzmiałem smoki, a gniewnym|zmarszczeniem brwi rozpędzałem armie."
 msgstr ""
-"OTHER: Аз больше мужеста имамъ, анеже крали, волхвы|да духовенники. Могу "
-"драконъ утишити рукою|cконецъ, воиства же поглядомъ гневнымъ|во прахъ "
-"обращати."
+"OTHER: Аз есмь паче царей, волхвов и жрецов превознесен.|Единою рукою могу "
+"укротити змия,|и во прах низложити полцы единым оком гневливым."
 
 #: dialog0065.txt:100205
 msgid "OTHER: Potrafię zmienić gwiazdę w łabędzia,|a złoto w ogień."
-msgstr "OTHER: Могу и звезду лебедью сотворити,|а злато въ огнь претворити."
+msgstr "OTHER: Могу звезду преложити в лебедя,|а злато — в пламень."
 
 #: dialog0065.txt:100206
 msgid "OTHER: Ale moje istnienie zależy od was."
-msgstr "OTHER: Обаче, от тебе житие Мое само зависи."
+msgstr "OTHER: И се: все житие Мое токмо от тебе|единого ныне зависит."
 
 #: dialog0065.txt:100207
 msgid "OTHER: Od najbardziej kruchej i niepewnej rzeczy na|świecie - ludzkiego życia."
 msgstr ""
-"OTHER: Отъ самыя слабыя|и немощныя вещи на света –|отъ живота рода "
-"чловечьего."
+"OTHER: От вещи малейшей и ненадежнейшей|в мире сем – от дыхания рода "
+"человеча."
 
 #: dialog0065.txt:100208
 msgid "P#OTHER: Tak to już bywa: coś za coś.#B0"
-msgstr "P#OTHER: Тако си житие.|Око за око.#B0"
+msgstr "P#OTHER: Тако и страждем.|Око за око.#B0"
 
 #: dialog0065.txt:100301
 msgid "OTHER: Jak to o interesach?!"
-msgstr "OTHER: К какому делу?!"
+msgstr "OTHER: К якому делу?!"
 
 #: dialog0065.txt:100302
 msgid "HERO: Po kolei."
@@ -3438,35 +3437,35 @@ msgstr "P#HERO: Ну что, согласенъ? По рукамъ?"
 
 #: dialog0065.txt:100312
 msgid "P#P#OTHER: Ty... Ty... Ty..."
-msgstr "P#P#OTHER: Ты... Ты... Ты..."
+msgstr "P#P#OTHER: Кем... Кем... Кем..."
 
 #: dialog0065.txt:100313
 msgid "OTHER: Ty żałosny, słaby człowieczku!"
-msgstr "OTHER: Ты что же вообразилъ о себе,|жалъкий, нечестивый чловечице?!"
+msgstr "OTHER: Кем еси себя мнил, червь никчёмный!"
 
 #: dialog0065.txt:100314
 msgid "OTHER: Ośmielasz się ze mną ...TARGOWAĆ?!"
-msgstr "OTHER: Ты дерзаешь... ТОРГОВАТЬСЯ со Мною?!"
+msgstr "OTHER: ТОРГИ со Мною, с Богом, затеял?!"
 
 #: dialog0065.txt:100315
 msgid "OTHER: A może twój nędzny rozum podpowiedział ci,|iż boga można SZANTAŻOWAĆ?"
-msgstr "OTHER: Или ты до того ослаб головой,|что Бога ШАНТАЖИРОВАТЬ удумал?"
+msgstr "OTHER: Али умом еси изнемог –|Всевышнего... К НОГТЮ ГНУТЬ?!"
 
 #: dialog0065.txt:100316
 msgid "OTHER: Zaraz przekonasz się, na czym polega|gniew boski!"
-msgstr "OTHER: Ну, берегись! Ныне же узнаеши,|какъ есть он – гневъ Божій!"
+msgstr "OTHER: Виждь! Се день ярости Божия!"
 
 #: dialog0065.txt:100317
 msgid "OTHER: PRZYGOTUJ SIĘ!!!"
-msgstr "OTHER: ПРИГОТОВЬСЯ!!!"
+msgstr "OTHER: УГОТОВИСЯ!!!"
 
 #: dialog0065.txt:100318
 msgid "P#P#P#P#P#OTHER: Kurka, coś słaby dzisiaj jestem."
-msgstr "P#P#P#P#P#OTHER: Ах, мать твою...|Совсем сегодня ослабел..."
+msgstr "P#P#P#P#P#OTHER: Увы мне, скверна...|Обессилел вконец."
 
 #: dialog0065.txt:100319
 msgid "OTHER: W porządku, umowa stoi.#X1"
-msgstr "OTHER: ...Хорошо, будь по-твоему.|Я согласен.#X1"
+msgstr "OTHER: ...Буди по-твоему.|Даю руку.#X1"
 
 #: dialog0066.txt:1
 msgid "HERO: Arivaldzie, ponoć w pobliżu jest jakiś|demoniczny zamek."
