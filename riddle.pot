@@ -33,27 +33,27 @@ msgstr ""
 
 #: 01_09N01
 msgctxt "01_09N01"
-msgid "Help a poor soul."
+msgid "Help a poor soul?"
 msgstr ""
 
 #: 01_09N02
 msgctxt "01_09N02"
-msgid "Help a poor soul."
+msgid "Help a poor soul?"
 msgstr ""
 
 #: 01_09N03
 msgctxt "01_09N03"
-msgid "Help a poor soul."
+msgid "Help a poor soul?"
 msgstr ""
 
 #: 01_09N04
 msgctxt "01_09N04"
-msgid "Help a poor soul."
+msgid "Help a poor soul?"
 msgstr ""
 
 #: 01_09N05
 msgctxt "01_09N05"
-msgid "Help a poor soul."
+msgid "Help a poor soul?"
 msgstr ""
 
 #: 01_09P01
@@ -98,7 +98,7 @@ msgstr ""
 
 #: 02_02P01
 msgctxt "02_02P01"
-msgid "What a beautiful day!"
+msgid "Beautiful day."
 msgstr ""
 
 #: 02_02P02
@@ -168,12 +168,12 @@ msgstr ""
 
 #: 04_01N05
 msgctxt "04_01N05"
-msgid "Goodbye, Mr. Ripley. Goodbye, Mi-chan."
+msgid "Goodbye, Mr. Ripley. Goodbye, Mei Chen."
 msgstr ""
 
 #: 04_01N06
 msgctxt "04_01N06"
-msgid "See you again, Mr. Ripley."
+msgid "Goodbye, Mr. Ripley."
 msgstr ""
 
 #: 04_01P01
@@ -193,7 +193,7 @@ msgstr ""
 
 #: 04_01P04
 msgctxt "04_01P04"
-msgid "I'd like to buy some yuan."
+msgid "I'd like to buy some Yuan."
 msgstr ""
 
 #: 04_01P05
@@ -208,7 +208,7 @@ msgstr ""
 
 #: 04_03N01
 msgctxt "04_03N01"
-msgid "Thank you, Mr. Ripley. Please sign here."
+msgid "Of course, Mr. Ripley. Please sign here."
 msgstr ""
 
 #: 04_04N01
@@ -218,7 +218,7 @@ msgstr ""
 
 #: 04_06N01
 msgctxt "04_06N01"
-msgid "And now, Mr. Ripley, when will you be ready to leave?"
+msgid "And now, Mr. Ripley. When will you be ready to leave?"
 msgstr ""
 
 #: 04_06P01
@@ -233,7 +233,7 @@ msgstr ""
 
 #: 04_08P03
 msgctxt "04_08P03"
-msgid "SIKIM"
+msgid "Sikkim."
 msgstr ""
 
 #: 04_08P04
@@ -243,7 +243,7 @@ msgstr ""
 
 #: 04_09P01
 msgctxt "04_09P01"
-msgid "NOW!"
+msgid "Now!"
 msgstr ""
 
 #: 04_09P02
@@ -253,12 +253,12 @@ msgstr ""
 
 #: 04_11N01
 msgctxt "04_11N01"
-msgid "Huh, Mr. Ripley, I cannot find any money in your account. Could pause expects have made some error, or will you be paying in cash?"
+msgid "Huh, Mr. Ripley, I cannot find any money in your account. Could perhaps experts have made some error, or will you be paying in cash?"
 msgstr ""
 
 #: 04_11P02
 msgctxt "04_11P02"
-msgid "Of course, of course."
+msgid "Of course, of course!"
 msgstr ""
 
 #: 04_12N01
@@ -293,12 +293,12 @@ msgstr ""
 
 #: 04_17P01
 msgctxt "04_17P01"
-msgid "Change my mind!"
+msgid "Changed my mind!"
 msgstr ""
 
 #: 0507P02A
 msgctxt "0507P02A"
-msgid "Twelve Trees and I go way back."
+msgid "Twelvetrees and I go way back."
 msgstr ""
 
 #: 05_01N01
@@ -313,7 +313,7 @@ msgstr ""
 
 #: 05_02N01
 msgctxt "05_02N01"
-msgid "The first emperor sent Mastelou across the world to search for the elixir of life."
+msgid "The first Emperor sent Master Lu across the world to search for the elixir of life."
 msgstr ""
 
 #: 05_02N02
@@ -428,7 +428,7 @@ msgstr ""
 
 #: 05_07N02
 msgctxt "05_07N02"
-msgid "At that time, Master Lu's tablet was openly displayed. However, the very night this 12 trees examined it, an attempt was made to steal the tablet."
+msgid "At that time, Master Lu's tablet was openly displayed. However, the very night this Twelvetrees examined it, an attempt was made to steal the tablet."
 msgstr ""
 
 #: 05_07P01
@@ -443,12 +443,12 @@ msgstr ""
 
 #: 05_08N01
 msgctxt "05_08N01"
-msgid "The tomb of the first emperor, built by Master Lu, lies in the Xian province. Master Lu is also with his ancestors."
+msgid "The tomb of the first Emperor, built by Master Lu, lies in the Xi'an province. Master Lu is also with his ancestors."
 msgstr ""
 
 #: 05_08N02
 msgctxt "05_08N02"
-msgid "He studied many languages and system of writing. On his return, he created a stone tablet with hieroglyphics or ideograms in three different scripts."
+msgid "He studied many languages and systems of writing. On his return, he created a stone tablet with hieroglyphics or ideograms in three different scripts."
 msgstr ""
 
 #: 05_08N03
@@ -493,7 +493,7 @@ msgstr ""
 
 #: 05_10N01
 msgctxt "05_10N01"
-msgid "I am afraid not. Several weeks ago, an archaeologist named 12 Trees asked to see the tablet."
+msgid "I am afraid not. Several weeks ago, an archaeologist named Twelvetrees asked to see the tablet."
 msgstr ""
 
 #: 05_10P01
@@ -508,12 +508,12 @@ msgstr ""
 
 #: 05_11P01
 msgctxt "05_11P01"
-msgid "Twelve trees. That's the name the baron mentioned. Chap's supposed to be somewhat of an expert on Master Lu."
+msgid "Twelvetrees. That's the name the Baron mentioned. Chap's supposed to be somewhat of an expert on Master Lu."
 msgstr ""
 
 #: 05_12N01
 msgctxt "05_12N01"
-msgid "Uh, no, I did not. You do not know this 12 Trees, then?"
+msgid "Uh, no, I did not. You do not know this Twelvetrees, then?"
 msgstr ""
 
 #: 05_12P01
@@ -593,7 +593,7 @@ msgstr ""
 
 #: 05_20N01
 msgctxt "05_20N01"
-msgid "At that time Master Lu's tablet was openly displayed. However, the very night this twelve trees examined it, an attempt was made to steal the tablet."
+msgid "At that time Master Lu's tablet was openly displayed. However, the very night this Twelvetrees examined it, an attempt was made to steal the tablet."
 msgstr ""
 
 #: 05_20P01
@@ -618,7 +618,7 @@ msgstr ""
 
 #: 05_24N01
 msgctxt "05_24N01"
-msgid "The tablet is believed to hold the secret of the First Emperor's tomb. It is, as you may know, protected by deadly traps created by Master Lu. That is why, even after all these centuries, the tomb has never been opened. Unfortunately, none have been able to decipher the tablet."
+msgid "The tablet is believed to hold the secret of the first Emperor's tomb. It is, as you may know, protected by deadly traps created by Master Lu. That is why, even after all these centuries, the tomb has never been opened. Unfortunately, none have been able to decipher the tablet."
 msgstr ""
 
 #: 05_24P01
@@ -633,7 +633,7 @@ msgstr ""
 
 #: 05_25P01
 msgctxt "05_25P01"
-msgid "Why would Lou have made it so difficult? Was there no one he trusted?"
+msgid "Why would Lu have made it so difficult? Was there no one he trusted?"
 msgstr ""
 
 #: 05_26N01
@@ -648,7 +648,7 @@ msgstr ""
 
 #: 05_27N01
 msgctxt "05_27N01"
-msgid "Indeed. Lou's tablet holds scripts from each of these ancient lands."
+msgid "Indeed. Lu's tablet holds scripts from each of these ancient lands."
 msgstr ""
 
 #: 05_27P01
@@ -683,7 +683,7 @@ msgstr ""
 
 #: 05_31N01
 msgctxt "05_31N01"
-msgid "The man who holds that seal, holds Taina in the palm of his hand."
+msgid "The man who holds that seal, holds China in the palm of his hand."
 msgstr ""
 
 #: 05_31P01
@@ -758,7 +758,7 @@ msgstr ""
 
 #: 06_02N01
 msgctxt "06_02N01"
-msgid "Sure thing, Mr. Ripley. Way ahead of this time."
+msgid "Sure thing, Mr. Ripley! Where are you headed this time?"
 msgstr ""
 
 #: 06_02N02
@@ -818,17 +818,17 @@ msgstr ""
 
 #: 06_05P01
 msgctxt "06_05P01"
-msgid "Peiping George, for May 10 as well, as fast as you can get us there."
+msgid "Peiping, George, for Mei Chen as well, as fast as you can get us there."
 msgstr ""
 
 #: 06_05P02
 msgctxt "06_05P02"
-msgid "Pow-Row!"
+msgid "PERU??"
 msgstr ""
 
 #: 06_06N01
 msgctxt "06_06N01"
-msgid "I can book you on the next flight to San Francisco. You can catch the Hawaiian Clipper to Honolulu, lay over for a day, then go on to Guam, Manila, Shanghai, and from there to Peiping. All in only seven days."
+msgid "I can book you on the next flight to San Francisco. You can catch the Hawaiian clip at the Honolulu, layover for a day, then go on to Guam, Manila, Shanghai and from there to Peiping. All in only 7 days."
 msgstr ""
 
 #: 06_06N02
@@ -838,12 +838,12 @@ msgstr ""
 
 #: 06_06P02
 msgctxt "06_06P02"
-msgid "From New York to Payping in seven days. This modern age we live in. Amazing!"
+msgid "From New York to Peiping in seven days. This modern age we live in. Amazing!"
 msgstr ""
 
 #: 06_08P01
 msgctxt "06_08P01"
-msgid "NOW!"
+msgid "Now!"
 msgstr ""
 
 #: 06_08P02
@@ -878,7 +878,7 @@ msgstr ""
 
 #: 06_13P01
 msgctxt "06_13P01"
-msgid "Of course, of course."
+msgid "Of course, of course!"
 msgstr ""
 
 #: 06_14P01
@@ -898,7 +898,7 @@ msgstr ""
 
 #: 06_15P01
 msgctxt "06_15P01"
-msgid "Change my mind!"
+msgid "Changed my mind!"
 msgstr ""
 
 #: 06_15P02
@@ -1008,12 +1008,12 @@ msgstr ""
 
 #: 08_01P02
 msgctxt "08_01P02"
-msgid "May, forgive me."
+msgid "Mei, forgive me."
 msgstr ""
 
 #: 08_02N01
 msgctxt "08_02N01"
-msgid "The Guomindang and the communists struggle for power. The Japanese control Manchuria."
+msgid "The Kuomintang and the communists struggle for power. The Japanese control Manchuria."
 msgstr ""
 
 #: 08_02N02
@@ -1073,7 +1073,7 @@ msgstr ""
 
 #: 09_01N03
 msgctxt "09_01N03"
-msgid "On Newspaper Wonder 2, editor call all the time you away."
+msgid "Uh... newspaper wondered, too, editor call all the time you away."
 msgstr ""
 
 #: 09_01N04
@@ -1088,7 +1088,7 @@ msgstr ""
 
 #: 09_01N06
 msgctxt "09_01N06"
-msgid "Fingley love, little friend."
+msgid "Feng Li love, little friend."
 msgstr ""
 
 #: 09_01N07
@@ -1153,17 +1153,17 @@ msgstr ""
 
 #: 09_04N01
 msgctxt "09_04N01"
-msgid "We have nineteen hundred dollars in bank account, Mr. Ripley."
+msgid "We have $1,900 in bank account, Mr. Ripley."
 msgstr ""
 
 #: 09_05N01
 msgctxt "09_05N01"
-msgid "We have five thousand six hundred twenty one dollars in bank account, Mr. Ripley."
+msgid "We have $5,621 in bank account, Mr. Ripley."
 msgstr ""
 
 #: 09_06N01
 msgctxt "09_06N01"
-msgid "We have eleven thousand dollars in bank account, Mr. Ripley."
+msgid "We have $11,000 in bank account, Mr. Ripley."
 msgstr ""
 
 #: 09_07N01
@@ -1258,7 +1258,7 @@ msgstr ""
 
 #: 09_15P02
 msgctxt "09_15P02"
-msgid "You think it's the curse of the Romanovs?"
+msgid "Do you think it's the curse of the Romanovs?"
 msgstr ""
 
 #: 09_16N01
@@ -1273,17 +1273,17 @@ msgstr ""
 
 #: 10_02N01
 msgctxt "10_02N01"
-msgid "Auf jeden Fall, Herr Ripley. Und where will you be traveling?"
+msgid "Certainly, Mr. Ripley. And where will you be traveling?"
 msgstr ""
 
 #: 10_02N02
 msgctxt "10_02N02"
-msgid "Auf jeden Fall, Herr Ripley."
+msgid "Certainly, Mr. Ripley."
 msgstr ""
 
 #: 10_02N05
 msgctxt "10_02N05"
-msgid "Auf Wiedersehen, Herr Ripley!"
+msgid "Goodbye, Mr. Ripley."
 msgstr ""
 
 #: 10_02P01
@@ -1318,17 +1318,17 @@ msgstr ""
 
 #: 10_04N01
 msgctxt "10_04N01"
-msgid "Auf jeden Fall, Herr Ripley. Sign here, please."
+msgid "Certainly, Mr. Ripley. Sign here, please."
 msgstr ""
 
 #: 10_05N01
 msgctxt "10_05N01"
-msgid "Entschuldigen Sie, Herr Ripley, your account seems to be empty."
+msgid "Sorry, Mr. Ripley, your account seems to be empty."
 msgstr ""
 
 #: 10_06N01
 msgctxt "10_06N01"
-msgid "Very good, Mein Herr. When will you be ready to leave?"
+msgid "Very good, sir. When will you be ready to leave?"
 msgstr ""
 
 #: 10_06P01
@@ -1338,7 +1338,7 @@ msgstr ""
 
 #: 10_06P02
 msgctxt "10_06P02"
-msgid "PAY PING!"
+msgid "Peiping."
 msgstr ""
 
 #: 10_06P03
@@ -1348,12 +1348,12 @@ msgstr ""
 
 #: 10_06P04
 msgctxt "10_06P04"
-msgid "SIKIM"
+msgid "Sikkim."
 msgstr ""
 
 #: 10_07P01
 msgctxt "10_07P01"
-msgid "NOW!"
+msgid "Now."
 msgstr ""
 
 #: 10_07P02
@@ -1363,7 +1363,7 @@ msgstr ""
 
 #: 10_08N01
 msgctxt "10_08N01"
-msgid "Auf Wiedersehen!"
+msgid "Farewell."
 msgstr ""
 
 #: 10_10N01
@@ -1373,7 +1373,7 @@ msgstr ""
 
 #: 10_10N02
 msgctxt "10_10N02"
-msgid "Auf Wiedersehen!"
+msgid "Farewell."
 msgstr ""
 
 #: 10_10P02
@@ -1388,12 +1388,12 @@ msgstr ""
 
 #: 10_11N02
 msgctxt "10_11N02"
-msgid "Auf Wiedersehen!"
+msgid "Farewell."
 msgstr ""
 
 #: 10_15N01
 msgctxt "10_15N01"
-msgid "Jawohl, Herr Ripley."
+msgid "Yes, Mr. Ripley."
 msgstr ""
 
 #: 10_15P01
@@ -1408,12 +1408,12 @@ msgstr ""
 
 #: 10_16N01
 msgctxt "10_16N01"
-msgid "They are good here, Ripley."
+msgid "Very good, Mr. Ripley."
 msgstr ""
 
 #: 10_16P01
 msgctxt "10_16P01"
-msgid "Change my mind."
+msgid "Changed my mind!"
 msgstr ""
 
 #: 11_01N01
@@ -1428,7 +1428,7 @@ msgstr ""
 
 #: 11_01N04
 msgctxt "11_01N04"
-msgid "Ja, mein Herr."
+msgid "Yes, sir."
 msgstr ""
 
 #: 11_01N05
@@ -1453,7 +1453,7 @@ msgstr ""
 
 #: 11_01P02
 msgctxt "11_01P02"
-msgid "An impressive tomb the old baron rests in."
+msgid "An impressive tomb the old Baron rests in."
 msgstr ""
 
 #: 11_01P03
@@ -1473,12 +1473,12 @@ msgstr ""
 
 #: 11_01P06
 msgctxt "11_01P06"
-msgid "Did the old baron ever speak of a key to a tomb?"
+msgid "Did the old Baron ever speak of a key to a tomb?"
 msgstr ""
 
 #: 11_01P07
 msgctxt "11_01P07"
-msgid "As you wish, my hair."
+msgid "As you wish, sir."
 msgstr ""
 
 #: 11_02N01
@@ -1513,7 +1513,7 @@ msgstr ""
 
 #: 11_06N03
 msgctxt "11_06N03"
-msgid "Mind hair. I am a busy man with many duties. I have no time for worthless conversation."
+msgid "Sir, I am a busy man with many duties. I have no time for worthless conversation."
 msgstr ""
 
 #: 11_06P01
@@ -1628,7 +1628,7 @@ msgstr ""
 
 #: 11_13P02
 msgctxt "11_13P02"
-msgid "One of us will be able to at any rate."
+msgid "One of us will be able to, at any rate."
 msgstr ""
 
 #: 11_15P01
@@ -1638,7 +1638,7 @@ msgstr ""
 
 #: 11_16N01
 msgctxt "11_16N01"
-msgid "The old baron was terrified about being buried alive. The bell, it is a premature burial alarm. The undertaker built the coffin with a hole, for air, you see, and for the rope to enter. The end of the rope lies clasped tightly in the baron's cold, stiff hand. If the bell rings, I have this key to unlock the door at once."
+msgid "The old Baron was terrified about being buried alive. The bell, it is a premature burial alarm. The undertaker built the coffin with a hole, for air, you see, and for the rope to enter. The end of the rope lies clasp, tightly in the Baron's cold stiff hand. If the bell rings, I have THIS key to unlock the door at once!"
 msgstr ""
 
 #: 11_16N02
@@ -1653,17 +1653,17 @@ msgstr ""
 
 #: 12_02N01
 msgctxt "12_02N01"
-msgid "Ja, mein Herr. You may explore the grounds and you may have access to any rooms downstairs where the old baron worked. That would be the sitting room and the billiards room. If the old baron left any notes, they would be most likely in one of those."
+msgid "Ja, mein Herr. You may explore the grounds and you may have access to any rooms downstairs where the old Baron worked. That would be the sitting room and the billiards room. If the old Baron left any notes, they would be most likely in one of those."
 msgstr ""
 
 #: 12_02N02
 msgctxt "12_02N02"
-msgid "It was a high stakes poker game many years ago at the baron's club. It is said the money on the table for that single hand would rival the treasury of several small nations. The old baron drew the ace of spades to complete a royal flush and win the hand."
+msgid "It was a high stakes poker game many years ago at the Baron's club. It is said the money on the table for that single hand would rival the treasury of several small nations. The old Baron drew the Ace of Spades to complete a royal flush and win the hand."
 msgstr ""
 
 #: 12_02N03
 msgctxt "12_02N03"
-msgid "Bitte, mein Herr."
+msgid "Please, sir."
 msgstr ""
 
 #: 12_02P01
@@ -1673,7 +1673,7 @@ msgstr ""
 
 #: 12_02P02
 msgctxt "12_02P02"
-msgid "How did the old baron come to build such an unusual castle?"
+msgid "How did the old Baron come to build such an unusual castle?"
 msgstr ""
 
 #: 12_02P03
@@ -1763,7 +1763,7 @@ msgstr ""
 
 #: 13_03P03
 msgctxt "13_03P03"
-msgid "Ah, the car with that ingenious push rod in place of overhead cams. I envy you. We have a lot in common. Until I dedicated myself to seeking out the curiosities of the world, I was a sportsman myself. Played some ball, covered many sports as well."
+msgid "Oh, the car with that ingenious push rod in place of overhead cams. I envy you. We have a lot in common. Until I dedicated myself to seeking out the curiosities of the world, I was a sportsman myself. Played some ball, covered many sports as well."
 msgstr ""
 
 #: 13_03P04
@@ -1813,12 +1813,12 @@ msgstr ""
 
 #: 13_05N03
 msgctxt "13_05N03"
-msgid "The Second World War."
+msgid "Second world war!"
 msgstr ""
 
 #: 13_05P01
 msgctxt "13_05P01"
-msgid "Hmm, it must be unnerving to have Hare Hitler in his brown shirts running Germany."
+msgid "Hmm, it must be unnerving to have Herr Hitler and his Brownshirts running Germany."
 msgstr ""
 
 #: 13_05P02
@@ -1898,7 +1898,7 @@ msgstr ""
 
 #: 13_07P06
 msgctxt "13_07P06"
-msgid "Liu planned it that way. The First Emperor's Seal of Office is somewhere in the tomb. Liu had a dream that only when everybody lived in peace and harmony and shared knowledge could certain ancient hieroglyphics on his tablet be translated. Once the time was right, the tomb could be opened and the power of the First Emperor's Seal of Office could be safely wielded once more."
+msgid "Lu planned it that way. The first Emperor's seal of office is somewhere in the Tomb. Lu had a dream, that only when everybody lived in peace and harmony and share knowledge, could certain ancient hieroglyphics on his tablet be translated. Once the time was right, the tomb could be opened. And the power of the first Emperor's seal of office could be safely wielded once more."
 msgstr ""
 
 #: 13_08N01
@@ -1953,7 +1953,7 @@ msgstr ""
 
 #: 13_10N01
 msgctxt "13_10N01"
-msgid "I did, briefly, but despite all the scientists who tell us smoking improves our health, I found it reduced my wind. Not something one can afford on the tennis court or polo field. Perhaps I'm the unfortunate exception to the rule."
+msgid "I did, briefly. But despite all the scientists who tell us smoking improves our health, I found it reduced my wind; not something one can afford on the tennis court or polo field. Perhaps I'm the unfortunate exception to the rule."
 msgstr ""
 
 #: 13_10N02
@@ -1983,7 +1983,7 @@ msgstr ""
 
 #: 13_12N01
 msgctxt "13_12N01"
-msgid "Games are for children. What I love about sport is the physical endeavor, the strain of the muscles as much as the stretching of the mind, the action, if you will. The measure of physical exertion required to strike a stationary ball with a cue or to advance a backgammon pip is negligible."
+msgid "Games of the children! What I love about sport is the physical endeavor, the strain of the muscles as much as the stretching of the mind. The... Action, if you will. The measure of physical exertion required to strike a stationary ball with the cue, what advanced a backgammon pip is negligible."
 msgstr ""
 
 #: 13_12N02
@@ -2078,7 +2078,7 @@ msgstr ""
 
 #: 13_15N07
 msgctxt "13_15N07"
-msgid "Our interesting discussion has already detained me far too long. I must not miss the train to Stuttgart. Feel free to search for this key, as you call it, but also, if you can, find the Emerald too. If you do find it, I would urge you to dispose of it as rapidly as you are able, else the curse attach itself to you."
+msgid "Our interesting discussion has already detained me far too long. I must not miss the train to Stuttgart. Feel free to search for this 'key' as you call it. But also, if you can, find the emerald too. If you do find it, I would urge you to dispose of it as rapidly as you are able; else the curse attach itself to you!"
 msgstr ""
 
 #: 13_15P01
@@ -2123,7 +2123,7 @@ msgstr ""
 
 #: 14_02N02
 msgctxt "14_02N02"
-msgid "Bye."
+msgid "Why..."
 msgstr ""
 
 #: 14_02N03
@@ -2138,22 +2138,22 @@ msgstr ""
 
 #: 14_02N07
 msgctxt "14_02N07"
-msgid "Yeah?"
+msgid "Yes?"
 msgstr ""
 
 #: 14_02N08
 msgctxt "14_02N08"
-msgid "TRIZER CASTLE"
+msgid "Try the castle."
 msgstr ""
 
 #: 14_02N09
 msgctxt "14_02N09"
-msgid "As you wish, my hair."
+msgid "As you wish, sir."
 msgstr ""
 
 #: 14_02P01
 msgctxt "14_02P01"
-msgid "I'm here to see Baron von Seltzer."
+msgid "I'm here to see Baron von Seltsam."
 msgstr ""
 
 #: 14_02P02
@@ -2173,12 +2173,12 @@ msgstr ""
 
 #: 14_02P05
 msgctxt "14_02P05"
-msgid "I have a letter from the old baron."
+msgid "I have a letter from the old Baron."
 msgstr ""
 
 #: 14_02P06
 msgctxt "14_02P06"
-msgid "Where can I find the baron?"
+msgid "Where can I find the Baron?"
 msgstr ""
 
 #: 14_02P07
@@ -2198,7 +2198,7 @@ msgstr ""
 
 #: 14_03N01
 msgctxt "14_03N01"
-msgid "Yeah?"
+msgid "Yes?"
 msgstr ""
 
 #: 14_03P01
@@ -2258,7 +2258,7 @@ msgstr ""
 
 #: 14_08N02
 msgctxt "14_08N02"
-msgid "You are wrong, my dear. You are as a common tourist."
+msgid "(chuckles) You are wrong, sir. You ARE as a common tourist."
 msgstr ""
 
 #: 14_08P02
@@ -2278,7 +2278,7 @@ msgstr ""
 
 #: 14_14N01
 msgctxt "14_14N01"
-msgid "It was a high stakes poker game many years ago at the baron's club. It is said the money on the table for that single hand would rival the treasury of several smaller nations. The old baron drew the ace of spades to complete a royal flush and win the hand."
+msgid "It was a high stakes poker game many years ago at the Baron's club. It is said the money on the table for that single hand would rival the treasury of several smaller nations. The old Baron drew the Ace of Spades to complete a royal flush and win the hand."
 msgstr ""
 
 #: 14_14N02
@@ -2293,7 +2293,7 @@ msgstr ""
 
 #: 14_15N01
 msgctxt "14_15N01"
-msgid "Nein."
+msgid "No."
 msgstr ""
 
 #: 14_15N02
@@ -2313,12 +2313,12 @@ msgstr ""
 
 #: 14_16N02
 msgctxt "14_16N02"
-msgid "There is no one else to take you to the old baron."
+msgid "There is no one else to take you to the old Baron."
 msgstr ""
 
 #: 14_16P01
 msgctxt "14_16P01"
-msgid "Um... Auto, I presume."
+msgid "Ehm... Otto, I presume."
 msgstr ""
 
 #: 14_16P02
@@ -2333,7 +2333,7 @@ msgstr ""
 
 #: 14_18P01
 msgctxt "14_18P01"
-msgid "I'm ready for you to take me to the baron."
+msgid "I'm ready for you to take me to the Baron."
 msgstr ""
 
 #: 14_18P02
@@ -2343,7 +2343,7 @@ msgstr ""
 
 #: 14_19N01
 msgctxt "14_19N01"
-msgid "This is me."
+msgid "This way."
 msgstr ""
 
 #: 14_20N01
@@ -2423,12 +2423,12 @@ msgstr ""
 
 #: 15_01P01
 msgctxt "15_01P01"
-msgid "Hello there, my name is Ripley."
+msgid "Hello there, my name's Ripley."
 msgstr ""
 
 #: 15_01P02
 msgctxt "15_01P02"
-msgid "Is this the lost city of Mokomoche?"
+msgid "Is this the lost city of Mocha Moche?"
 msgstr ""
 
 #: 15_01P03
@@ -2528,7 +2528,7 @@ msgstr ""
 
 #: 15_07P01
 msgctxt "15_07P01"
-msgid "You can't be Professor Emerit Pre-Columbian Archaeology at the National University of San Marcos in Lima."
+msgid "You can't be Professor Emerit. Pre-Columbian Archaeology at the National University of San Marcos in Lima."
 msgstr ""
 
 #: 15_08N01
@@ -2593,7 +2593,7 @@ msgstr ""
 
 #: 15_12N01
 msgctxt "15_12N01"
-msgid "750 Indy"
+msgid "750 Inti."
 msgstr ""
 
 #: 15_12N02
@@ -2608,17 +2608,17 @@ msgstr ""
 
 #: 15_12P02
 msgctxt "15_12P02"
-msgid "Yes, but I'll have to buy some Indy in Lima."
+msgid "Yes, but I'll have to buy some Inti in Lima."
 msgstr ""
 
 #: 15_13N01
 msgctxt "15_13N01"
-msgid "You will be the first, senor."
+msgid "You will be the first, señor."
 msgstr ""
 
 #: 15_13N02
 msgctxt "15_13N02"
-msgid "It is up to you, senor."
+msgid "It is up to you, señor."
 msgstr ""
 
 #: 15_13P02
@@ -2628,17 +2628,17 @@ msgstr ""
 
 #: 15_14N01
 msgctxt "15_14N01"
-msgid "750 Indy"
+msgid "750 Inti."
 msgstr ""
 
 #: 15_15N02
 msgctxt "15_15N02"
-msgid "Six hundred."
+msgid "600."
 msgstr ""
 
 #: 15_15N03
 msgctxt "15_15N03"
-msgid "The Orinoco? They make these to order in the Amazon Basin. You pull out your wallet down there and three of their trader's neighbors will lose their heads that night. If there's a lot of money in your wallet, so may you. This head is old, very old."
+msgid "The Orinoco; they make these to order in the Amazon basin. You pull out your wallet down there and three of their traders' neighbors who lose their heads that night. If there's a lot of money in your wallet so may you! This head is old, very old."
 msgstr ""
 
 #: 15_15P01
@@ -2648,7 +2648,7 @@ msgstr ""
 
 #: 15_15P02
 msgctxt "15_15P02"
-msgid "Will you take three hundred?"
+msgid "Would you take 300?"
 msgstr ""
 
 #: 15_15P03
@@ -2658,7 +2658,7 @@ msgstr ""
 
 #: 15_16N01
 msgctxt "15_16N01"
-msgid "Be very careful what you suggest, senor."
+msgid "Be very careful what you suggest, señor."
 msgstr ""
 
 #: 15_16P01
@@ -2673,7 +2673,7 @@ msgstr ""
 
 #: 15_17N01
 msgctxt "15_17N01"
-msgid "400 Indy."
+msgid "400 Inti."
 msgstr ""
 
 #: 15_17N02
@@ -2688,7 +2688,7 @@ msgstr ""
 
 #: 15_17P02
 msgctxt "15_17P02"
-msgid "Four hundred."
+msgid "400."
 msgstr ""
 
 #: 15_18P02
@@ -2698,17 +2698,17 @@ msgstr ""
 
 #: 15_19N01
 msgctxt "15_19N01"
-msgid "What have it?"
+msgid "What of it?"
 msgstr ""
 
 #: 15_19N02
 msgctxt "15_19N02"
-msgid "Oh, and did you climb all the way up here for the air? My uncle and I were in the same profession, Senor. You think because they call him doctor he was any better than I?"
+msgid "Oh, and did you climb all the way up here for the air? My uncle and I were in the same profession, Señor. You think because they call him doctor he was any better than I?"
 msgstr ""
 
 #: 15_19N03
 msgctxt "15_19N03"
-msgid "Be very careful what you say, senor. Grave robber, grave digger is much the same to me."
+msgid "Be very careful what you say, señor. Grave robber, grave digger is much the same to me."
 msgstr ""
 
 #: 15_19P01
@@ -2753,22 +2753,22 @@ msgstr ""
 
 #: 16_01N01
 msgctxt "16_01N01"
-msgid "Si senor, and where will you be traveling?"
+msgid "Si señor, and where will you be traveling?"
 msgstr ""
 
 #: 16_01N02
 msgctxt "16_01N02"
-msgid "Muy bien, señor Ripley."
+msgid "Very good, Mr. Ripley."
 msgstr ""
 
 #: 16_01N03
 msgctxt "16_01N03"
-msgid "How much inti will you like, senor?"
+msgid "How much Inti will you like, señor?"
 msgstr ""
 
 #: 16_01N08
 msgctxt "16_01N08"
-msgid "Vaya con Dios, senor."
+msgid "Go with God, sir."
 msgstr ""
 
 #: 16_01P01
@@ -2788,7 +2788,7 @@ msgstr ""
 
 #: 16_01P04
 msgctxt "16_01P04"
-msgid "Sooo, we're back, we're like, I'm in the shit, this little broom again, but we're sike, it's the sii-"
+msgid "Ace of Spades castle will make a marvelous addition to my gallery of cartoons."
 msgstr ""
 
 #: 16_01P05
@@ -2813,7 +2813,7 @@ msgstr ""
 
 #: 16_02N01
 msgctxt "16_02N01"
-msgid "Muy bien, señor. When will you be leaving?"
+msgid "Very good, sir. When will you be leaving?"
 msgstr ""
 
 #: 16_02P05
@@ -2823,7 +2823,7 @@ msgstr ""
 
 #: 16_02P06
 msgctxt "16_02P06"
-msgid "Moka Moche."
+msgid "Mocha Moche."
 msgstr ""
 
 #: 16_03N01
@@ -2833,7 +2833,7 @@ msgstr ""
 
 #: 16_03N02
 msgctxt "16_03N02"
-msgid "See, senor, an expedition led by Dr. Tweltrees has just returned there after several weeks."
+msgid "Sí, señor, an expedition led by Dr. Twelvetrees has just returned there after several weeks."
 msgstr ""
 
 #: 16_03N03
@@ -2843,12 +2843,12 @@ msgstr ""
 
 #: 16_03N04
 msgctxt "16_03N04"
-msgid "Si senor, you know them?"
+msgid "Yes, sir. You know them?"
 msgstr ""
 
 #: 16_03N05
 msgctxt "16_03N05"
-msgid "When will you be leaving for Easter Island, Senor Ripley?"
+msgid "When will you be leaving for Easter Island, Señor Ripley?"
 msgstr ""
 
 #: 16_03P02
@@ -2858,7 +2858,7 @@ msgstr ""
 
 #: 16_03P03
 msgctxt "16_03P03"
-msgid "Twelve trees? Again? The doctor gets around as much as I do."
+msgid "Twelvetrees? Again? The doctor gets around as much as I do."
 msgstr ""
 
 #: 16_03P04
@@ -2873,12 +2873,12 @@ msgstr ""
 
 #: 16_04N01
 msgctxt "16_04N01"
-msgid "Moka Moche. It is very difficult to reach. Most tourists go to Machu Picchu. They are not interested in nameless civilizations no one has heard of before."
+msgid "Mocha Moche. It is very difficult to reach. Most tourists go to Machu Picchu. They are not interested in nameless civilizations no one has heard of before."
 msgstr ""
 
 #: 16_04N02
 msgctxt "16_04N02"
-msgid "That would be Luis Arruno, señor. He was part of the expedition that discovered the lost city."
+msgid "That would be Luis Aruños, señor. He was part of the expedition that discovered the lost city."
 msgstr ""
 
 #: 16_04N03
@@ -2888,12 +2888,12 @@ msgstr ""
 
 #: 16_04N04
 msgctxt "16_04N04"
-msgid "Ghosts, senor. Why else? When will you be leaving?"
+msgid "Ghosts, señor. Why else? When will you be leaving?"
 msgstr ""
 
 #: 16_04P02
 msgctxt "16_04P02"
-msgid "I'm told there is a guide who knows mocha mocha. Luis something."
+msgid "I'm told there is a guide who knows Mocha Moche. Luis something."
 msgstr ""
 
 #: 16_04P03
@@ -2913,17 +2913,17 @@ msgstr ""
 
 #: 16_06N01
 msgctxt "16_06N01"
-msgid "Pardon, senor Ripley, your account is empty."
+msgid "Sorry, Mr. Ripley. Your account is empty."
 msgstr ""
 
 #: 16_07N01
 msgctxt "16_07N01"
-msgid "Certainly, Senor Ripley. Please sign here."
+msgid "Certainly, Señor Ripley. Please sign here."
 msgstr ""
 
 #: 16_08P01
 msgctxt "16_08P01"
-msgid "NOW!"
+msgid "Now."
 msgstr ""
 
 #: 16_08P02
@@ -2933,12 +2933,12 @@ msgstr ""
 
 #: 16_09N01
 msgctxt "16_09N01"
-msgid "Very good. Have a good trip, senor."
+msgid "Very good. Have a good trip, señor."
 msgstr ""
 
 #: 16_10N01
 msgctxt "16_10N01"
-msgid "Perdonome, senor Ripley. Your account is empty. Will you be paying in cash?"
+msgid "Perdóneme, señor Ripley. Your account is empty. Will you be paying in cash?"
 msgstr ""
 
 #: 16_10N02
@@ -2948,7 +2948,7 @@ msgstr ""
 
 #: 16_11N01
 msgctxt "16_11N01"
-msgid "Very good. Have a good trip, senor."
+msgid "Very good. Have a good trip, señor."
 msgstr ""
 
 #: 16_11P01
@@ -2973,17 +2973,17 @@ msgstr ""
 
 #: 16_13N04
 msgctxt "16_13N04"
-msgid "The ancient city of the snake, senor."
+msgid "The ancient city of the snake, señor."
 msgstr ""
 
 #: 16_13N06
 msgctxt "16_13N06"
-msgid "It is my son, Senor Ripley. Before he became ill, we would travel to the sea to watch the funny little birds. Now he must stay in bed. So I bring them to him. Our house is small and there are puffins everywhere, so some I keep here for decoration."
+msgid "It is my son, Señor Ripley. Before he became ill, we would travel to the sea to watch the funny little birds. Now he must stay in bed. So I bring them to him. Our house is small and there are puffins everywhere, so some I keep here for decoration."
 msgstr ""
 
 #: 16_13N07
 msgctxt "16_13N07"
-msgid "There is some improvement, senor."
+msgid "There is some improvement, señor."
 msgstr ""
 
 #: 16_13P01
@@ -3058,7 +3058,7 @@ msgstr ""
 
 #: 16_16P03
 msgctxt "16_16P03"
-msgid "I'm sorry to hear your son sick. What did the doctors say?"
+msgid "I'm sorry to hear your son's sick. What did the doctors say?"
 msgstr ""
 
 #: 16_17N01
@@ -3073,12 +3073,12 @@ msgstr ""
 
 #: 16_18N01
 msgctxt "16_18N01"
-msgid "No, Senor Ripley. I am sorry, but it is a family heirloom."
+msgid "No, Señor Ripley. I am sorry, but it is a family heirloom."
 msgstr ""
 
 #: 16_18N02
 msgctxt "16_18N02"
-msgid "Lo siento mucho, señor, but where would I find such an unusual shape to replace it?"
+msgid "I'm very sorry, sir. But where would I find such an unusual shape to replace it?"
 msgstr ""
 
 #: 16_18P01
@@ -3088,7 +3088,7 @@ msgstr ""
 
 #: 16_18P02
 msgctxt "16_18P02"
-msgid "How about just the choral, then?"
+msgid "How about just the coral, then?"
 msgstr ""
 
 #: 16_19P01
@@ -3103,7 +3103,7 @@ msgstr ""
 
 #: 16_21N01
 msgctxt "16_21N01"
-msgid "No problem, senor. When will you be leaving?"
+msgid "No problem, señor. When will you be leaving?"
 msgstr ""
 
 #: 16_22N01
@@ -3113,7 +3113,7 @@ msgstr ""
 
 #: 16_22N02
 msgctxt "16_22N02"
-msgid "Gracias, senor. It is in God's hands."
+msgid "Thank you, sir. It is in God's hands."
 msgstr ""
 
 #: 16_22P01
@@ -3133,7 +3133,7 @@ msgstr ""
 
 #: 16_27P01
 msgctxt "16_27P01"
-msgid "Change my mind."
+msgid "Changed my mind!"
 msgstr ""
 
 #: 17_01N01
@@ -3163,12 +3163,12 @@ msgstr ""
 
 #: 17_01P01
 msgctxt "17_01P01"
-msgid "I am looking for Dr. Twelve Trees."
+msgid "I am looking for Dr. Twelvetrees."
 msgstr ""
 
 #: 17_01P02
 msgctxt "17_01P02"
-msgid "Are you part of the Twelve Trees Expedition?"
+msgid "Are you part of the Twelvetrees' Expedition?"
 msgstr ""
 
 #: 17_01P03
@@ -3203,7 +3203,7 @@ msgstr ""
 
 #: 17_04N03
 msgctxt "17_04N03"
-msgid "Swell."
+msgid "(sigh) Swell..."
 msgstr ""
 
 #: 17_04N04
@@ -3213,7 +3213,7 @@ msgstr ""
 
 #: 17_04N05
 msgctxt "17_04N05"
-msgid "You were leering at Dr. Twelve Trees a moment ago."
+msgid "You were leering at Dr. Twelvetrees a moment ago."
 msgstr ""
 
 #: 17_04N06
@@ -3268,7 +3268,7 @@ msgstr ""
 
 #: 17_05N02
 msgctxt "17_05N02"
-msgid "I was in thieves for a while. What stopped you?"
+msgid "I was in Thebes for a while. What stopped you?"
 msgstr ""
 
 #: 17_05N03
@@ -3288,7 +3288,7 @@ msgstr ""
 
 #: 17_05N06
 msgctxt "17_05N06"
-msgid "Me too."
+msgid "(giggles) Me too."
 msgstr ""
 
 #: 17_05N07
@@ -3408,7 +3408,7 @@ msgstr ""
 
 #: 17_09P01
 msgctxt "17_09P01"
-msgid "Right after you visited the Hall of Classics, an attempt was made to steal a certain tablet of Master Luz."
+msgid "Right after you visited the Hall of Classics, an attempt was made to steal a certain tablet of Master Lu's."
 msgstr ""
 
 #: 17_09P02
@@ -3443,7 +3443,7 @@ msgstr ""
 
 #: 17_12N01
 msgctxt "17_12N01"
-msgid "RongoRongo tablets."
+msgid "Rongorongo tablets."
 msgstr ""
 
 #: 17_12N02
@@ -3463,7 +3463,7 @@ msgstr ""
 
 #: 17_13N01
 msgctxt "17_13N01"
-msgid "RongoRongo tablets."
+msgid "Rongorongo tablets."
 msgstr ""
 
 #: 17_13P01
@@ -3473,12 +3473,12 @@ msgstr ""
 
 #: 17_14N01
 msgctxt "17_14N01"
-msgid "There are sacred wood tablets found on this island. They've never been deciphered. I hope Lou's tablet might provide a clue to their translation."
+msgid "There are sacred wood tablets found on this island. They've never been deciphered. I hope Lu's tablet might provide a clue to their translation."
 msgstr ""
 
 #: 17_14N02
 msgctxt "17_14N02"
-msgid "There is definitely RongoRongo script on Lou's tablet, but it's intermingled with others. A translation is almost impossible. The islanders hid or buried most of their tablets generations ago. I was hoping to find some at the foot of this altar."
+msgid "There is definitely Rongorongo script on Lu's tablet, but it's intermingled with others. A translation is almost impossible. The islanders hid or buried most of their tablets generations ago. I was hoping to find some at the foot of this altar."
 msgstr ""
 
 #: 17_14N03
@@ -3553,7 +3553,7 @@ msgstr ""
 
 #: 17_20N01
 msgctxt "17_20N01"
-msgid "I can tell."
+msgid "I could tell."
 msgstr ""
 
 #: 17_20N02
@@ -3573,7 +3573,7 @@ msgstr ""
 
 #: 17_22N01
 msgctxt "17_22N01"
-msgid "Oh."
+msgid "Oh?"
 msgstr ""
 
 #: 17_22P01
@@ -3648,7 +3648,7 @@ msgstr ""
 
 #: 17_27P01
 msgctxt "17_27P01"
-msgid "Somebody, possibly the Japanese or the Nazis or the Chinese communists, it could even be Russians or mobsters for all I know, but somebody is after the first emperor's seal of office. I intend to beat them to it."
+msgid "Somebody, possibly the Japanese or the Nazis or the Chinese communists, it could even be Russians or mobsters for all I know, but somebody is after the first Emperor's seal of office. I intend to beat them to it."
 msgstr ""
 
 #: 17_27P02
@@ -3658,7 +3658,7 @@ msgstr ""
 
 #: 17_27P03
 msgctxt "17_27P03"
-msgid "Crazy stories of my stock and trade. Can you help me?"
+msgid "Crazy stories are my stock and trade. Can you help me?"
 msgstr ""
 
 #: 17_27P04
@@ -3728,7 +3728,7 @@ msgstr ""
 
 #: 18_03P04
 msgctxt "18_03P04"
-msgid "Uh, what, Paul?"
+msgid "Ah... What pole?"
 msgstr ""
 
 #: 18_03P05
@@ -3753,7 +3753,7 @@ msgstr ""
 
 #: 18_05P01
 msgctxt "18_05P01"
-msgid "Hello!"
+msgid "Hello."
 msgstr ""
 
 #: 18_05P02
@@ -3768,7 +3768,7 @@ msgstr ""
 
 #: 18_07P01
 msgctxt "18_07P01"
-msgid "Dr. Twelve Trees."
+msgid "Dr. Twelvetrees."
 msgstr ""
 
 #: 18_09N01
@@ -3863,7 +3863,7 @@ msgstr ""
 
 #: 18_15P02
 msgctxt "18_15P02"
-msgid "Uh, gee, uh, no."
+msgid "Ahh... Gee, eh... No."
 msgstr ""
 
 #: 19_02N01
@@ -3993,7 +3993,7 @@ msgstr ""
 
 #: 201M04
 msgctxt "201M04"
-msgid "Yes, we'll need travel permits to get to Xian province. I'll work on it."
+msgid "Yes, we'll need travel permits to get to Xi'an province. I'll work on it."
 msgstr ""
 
 #: 201M06
@@ -4013,7 +4013,7 @@ msgstr ""
 
 #: 201M09
 msgctxt "201M09"
-msgid "Yes, I have them. Here is the translation of the script you found in the temple. The Chinese was literal. I suppose so specific characters could be matched up next to their"
+msgid "Yes, I have them. Here is the translation of the script you found in the temple. The Chinese was literal. I suppose so specific characters could be matched up next to their Sikkimese equivalents."
 msgstr ""
 
 #: 201R01
@@ -4028,7 +4028,7 @@ msgstr ""
 
 #: 201R03
 msgctxt "201R03"
-msgid "Hello, Chien-Chu."
+msgid "Hello, Qian Shu."
 msgstr ""
 
 #: 201R04
@@ -4038,12 +4038,12 @@ msgstr ""
 
 #: 201R05
 msgctxt "201R05"
-msgid "Hmm... I sent a radiogram to Baron von Seltzim in New York that I was going after the Emerald Seal."
+msgid "Hmm... I sent a radiogram to Baron von Seltsam in New York that I was going after the Emerald Seal."
 msgstr ""
 
 #: 201R06
 msgctxt "201R06"
-msgid "Hmm... I sent a radiogram to Baron von Seltzamp that I was going after the Emerald Seal."
+msgid "Hmm... I sent a radiogram to Baron von Seltsam that I was going after the Emerald Seal."
 msgstr ""
 
 #: 201R07
@@ -4058,12 +4058,12 @@ msgstr ""
 
 #: 201R09
 msgctxt "201R09"
-msgid "The Forbidden City, home to the Imperial Family. Peiping Opera, the Great Wall of China built by Xue Huangdi in only fifteen years. Jiananmen Square. Jiananmen means heavenly peace. May it always remain a haven of heavenly peace in the dark days to come."
+msgid "The Forbidden City; home to the Imperial family. Peiping opera; the Great Wall of China, built by Shi Huangdi in only 15 years. Tiananmen Square; Tiananmen means Heavenly Peace; may it always remain a Haven of Heavenly Peace in the dark days to come."
 msgstr ""
 
 #: 201R10
 msgctxt "201R10"
-msgid "From Auckland to Zanzibar, there's always a posh express office when you need it."
+msgid "From Auckland to Zanzibar, there's always a Posh Express office when you need it."
 msgstr ""
 
 #: 201R11
@@ -4078,12 +4078,12 @@ msgstr ""
 
 #: 201R13
 msgctxt "201R13"
-msgid "Jiang Shu knows Peiping and its environs better than any other man in China."
+msgid "Qian Shu knows Peiping and its environs better than any other man in China."
 msgstr ""
 
 #: 201R14
 msgctxt "201R14"
-msgid "That rug may look authentic, but Jian Xu tells me it was made by some guy named Sam Glass in Manchester, England."
+msgid "That rug may look authentic, but Qian Shu tells me it was made by some guy named Sam Glass in Manchester, England."
 msgstr ""
 
 #: 201R15
@@ -4113,7 +4113,7 @@ msgstr ""
 
 #: 201R20
 msgctxt "201R20"
-msgid "I don't really need four-year-old copies of posh traveling."
+msgid "I don't really need four-year-old copies of Posh Traveler."
 msgstr ""
 
 #: 201R21
@@ -4243,12 +4243,12 @@ msgstr ""
 
 #: 201R45
 msgctxt "201R45"
-msgid "Call me old fashioned, but I like to do all my business in person."
+msgid "Call me old-fashioned, but I like to do all my business in person."
 msgstr ""
 
 #: 201R46
 msgctxt "201R46"
-msgid "Ripley, keep your hands off."
+msgid "Ripley, keep your hands off!"
 msgstr ""
 
 #: 201R47
@@ -4313,7 +4313,7 @@ msgstr ""
 
 #: 201R59
 msgctxt "201R59"
-msgid "That will work."
+msgid "That won't work."
 msgstr ""
 
 #: 201R60
@@ -4328,7 +4328,7 @@ msgstr ""
 
 #: 201R61A
 msgctxt "201R61A"
-msgid "Understand Mei Chen's concern for Mother, would be happy to assist in any way we can."
+msgid "Understand Mei Chen's concern for mother, would be happy to assist in any way we can."
 msgstr ""
 
 #: 201R61B
@@ -4338,7 +4338,7 @@ msgstr ""
 
 #: 201R61C
 msgctxt "201R61C"
-msgid "Understand Mei Chen's concern for Mother, would be happy to assist in any way we can."
+msgid "Understand Mei Chen's concern for mother, would be happy to assist in any way we can."
 msgstr ""
 
 #: 201R62
@@ -4353,12 +4353,12 @@ msgstr ""
 
 #: 201RXX
 msgctxt "201RXX"
-msgid "Brain, brain, brain, brain."
+msgid ""
 msgstr ""
 
 #: 201X01
 msgctxt "201X01"
-msgid "Hello, Mr Ripley. Welcome back. Hello, Mei Chen. It is nice seeing you both back."
+msgid "Hello, Mr. Ripley. Welcome back. Hello, Mei Chen. It is nice seeing you both back."
 msgstr ""
 
 #: 201X02
@@ -4368,7 +4368,7 @@ msgstr ""
 
 #: 201X03
 msgctxt "201X03"
-msgid "Ni hao, Mr. Ripley."
+msgid "Hello, Mr. Ripley."
 msgstr ""
 
 #: 201X04
@@ -4383,7 +4383,7 @@ msgstr ""
 
 #: 201X06
 msgctxt "201X06"
-msgid "Do you miss the Ripley? No."
+msgid "Sorry, Mr. Ripley. No..."
 msgstr ""
 
 #: 201X07
@@ -4398,7 +4398,7 @@ msgstr ""
 
 #: 201X09
 msgctxt "201X09"
-msgid "Hello, Mr. Ripley."
+msgid "Very good, Mr. Ripley."
 msgstr ""
 
 #: 202R01
@@ -4488,7 +4488,7 @@ msgstr ""
 
 #: 202R19
 msgctxt "202R19"
-msgid "That will work."
+msgid "That won't work."
 msgstr ""
 
 #: 202R20
@@ -4513,7 +4513,7 @@ msgstr ""
 
 #: 202R24
 msgctxt "202R24"
-msgid "It says, back in fifteen minutes."
+msgid "It says: 'back in 15 minutes'."
 msgstr ""
 
 #: 202R25
@@ -4533,22 +4533,22 @@ msgstr ""
 
 #: 203CLRT1
 msgctxt "203CLRT1"
-msgid "Ahem, ahem, ahem..."
+msgid "(Ahem)"
 msgstr ""
 
 #: 203G01
 msgctxt "203G01"
-msgid "(Chinese) Many people say that, but you must have a pass."
+msgid ""
 msgstr ""
 
 #: 203G02
 msgctxt "203G02"
-msgid "(Chinese) You can't get in without a pass."
+msgid ""
 msgstr ""
 
 #: 203G03
 msgctxt "203G03"
-msgid "(Chinese) Foreigners, I'm not that patient."
+msgid ""
 msgstr ""
 
 #: 203M01
@@ -4558,7 +4558,7 @@ msgstr ""
 
 #: 203M02
 msgctxt "203M02"
-msgid "Emperors have Colossal Cheek Robert. I think it's a requirement for the job."
+msgid "Emperors have colossal cheek Robert. I think it's a requirement for the job."
 msgstr ""
 
 #: 203M03
@@ -4568,7 +4568,7 @@ msgstr ""
 
 #: 203M04
 msgctxt "203M04"
-msgid "(Chinese) What do we need to know inside?"
+msgid "Excuse me. We need to know what is inside."
 msgstr ""
 
 #: 203M05
@@ -4583,7 +4583,7 @@ msgstr ""
 
 #: 203O01
 msgctxt "203O01"
-msgid "(Chinese) I want to see your disabled keys."
+msgid "I need to see your pass."
 msgstr ""
 
 #: 203O02
@@ -4603,7 +4603,7 @@ msgstr ""
 
 #: 203R01
 msgctxt "203R01"
-msgid "What colossal cheat called Xiaohuang Di declaring that China's history must start with him?"
+msgid "What colossal cheek, old Shi Huangdi declaring that China's history must start with him?"
 msgstr ""
 
 #: 203R02
@@ -4683,7 +4683,7 @@ msgstr ""
 
 #: 203R15
 msgctxt "203R15"
-msgid "I wonder what's so important through there, it requires a guard."
+msgid "I wonder what's so important through there it requires a guard."
 msgstr ""
 
 #: 203R16
@@ -4813,22 +4813,22 @@ msgstr ""
 
 #: 203R40
 msgctxt "203R40"
-msgid "What's the matter with the fellow? He's never seen American dollars before. I should have gotten some wine from the Posh Express office."
+msgid "What's the matter with the fellow? He's never seen American dollars before! I should have gotten some Yuan from the Posh Express office."
 msgstr ""
 
 #: 203R40A
 msgctxt "203R40A"
-msgid "He's never seen American dollars before. I should have gotten some wine from the Posh Express office."
+msgid "He's never seen American dollars before! I should have gotten some Yuan from the Posh Express office."
 msgstr ""
 
 #: 203R40B
 msgctxt "203R40B"
-msgid "He's never seen American dollars before."
+msgid "He's never seen American dollars before! I should have gotten someone Yuan from the Posh Express office."
 msgstr ""
 
 #: 203R40C
 msgctxt "203R40C"
-msgid "What's the matter with the fellow? He's never seen American dollars before."
+msgid "What's the matter with the fellow? He's never seen American dollars before!"
 msgstr ""
 
 #: 203R41
@@ -4853,7 +4853,7 @@ msgstr ""
 
 #: 203R45
 msgctxt "203R45"
-msgid "That will work."
+msgid "That won't work."
 msgstr ""
 
 #: 203R46
@@ -4893,7 +4893,7 @@ msgstr ""
 
 #: 203R53
 msgctxt "203R53"
-msgid "China, named after its first emperor, Jinxue Huangdi."
+msgid "China, named after its first Emperor, Qin Shi Huangdi."
 msgstr ""
 
 #: 203R54
@@ -4903,7 +4903,7 @@ msgstr ""
 
 #: 203R55
 msgctxt "203R55"
-msgid "Mei-Chen said the sign reads thieves."
+msgid "Mei Chen said the sign reads 'Thieves'."
 msgstr ""
 
 #: 203R56
@@ -4973,12 +4973,12 @@ msgstr ""
 
 #: 204M02
 msgctxt "204M02"
-msgid "Yes?"
+msgid "Yes..."
 msgstr ""
 
 #: 204M02A
 msgctxt "204M02A"
-msgid "Whoops!"
+msgid "Oops."
 msgstr ""
 
 #: 204M02B
@@ -5083,7 +5083,7 @@ msgstr ""
 
 #: 204M23
 msgctxt "204M23"
-msgid "If Baron von Saltsam has a key to the tablet, you might not have to go to all those places."
+msgid "If Baron von Seltsam has a key to the tablet, you might not have to go to all those places."
 msgstr ""
 
 #: 204M24
@@ -5098,7 +5098,7 @@ msgstr ""
 
 #: 204M26
 msgctxt "204M26"
-msgid "Whoops!"
+msgid "Oops."
 msgstr ""
 
 #: 204M27
@@ -5163,7 +5163,7 @@ msgstr ""
 
 #: 204R09
 msgctxt "204R09"
-msgid "That urn is centuries old, possibly from the time of the first emperor himself."
+msgid "That urn is centuries old, possibly from the time of the first Emperor himself."
 msgstr ""
 
 #: 204R10
@@ -5273,7 +5273,7 @@ msgstr ""
 
 #: 204R33
 msgctxt "204R33"
-msgid "That will work."
+msgid "That won't work."
 msgstr ""
 
 #: 204R34
@@ -5283,7 +5283,7 @@ msgstr ""
 
 #: 204R35
 msgctxt "204R35"
-msgid "Keep trying. We must get to Xian province and have a look at the first emperor's tomb."
+msgid "Keep trying. We must get to Xi'an province and have a look at the first Emperor's tomb."
 msgstr ""
 
 #: 204R36
@@ -5293,12 +5293,12 @@ msgstr ""
 
 #: 204R37
 msgctxt "204R37"
-msgid "So, Lu traveled to Peru, Easter Island, and Sikkim, and the written script from these lands were used to create his tablet. And that tablet obviously holds some sort of secret to entering the first emperor's tomb."
+msgid "So, Lu traveled to Peru, Easter Island, and Sikkim, and the written script from these lands were used to create his tablet. And that tablet obviously holds some sort of secret to entering the first Emperor's tomb."
 msgstr ""
 
 #: 204R38
 msgctxt "204R38"
-msgid "You're right! Ripley, it looks like you're going to have to be traveling in the master's footsteps, retracing Lou's journey around the world, hoping to find a Rosetta stone for each language."
+msgid "You're right! Ripley, it looks like you're going to have to be traveling in the master's footsteps, retracing Lu's journey around the world, hoping to find a Rosetta stone for each language."
 msgstr ""
 
 #: 204R39
@@ -5328,7 +5328,7 @@ msgstr ""
 
 #: 204R47
 msgctxt "204R47"
-msgid "I don't like the looks of this. The acolyte who guarded Lou's tablet is gone as well."
+msgid "I don't like the looks of this. The acolyte who guarded Lu's tablet is gone as well."
 msgstr ""
 
 #: 204R48
@@ -5378,12 +5378,12 @@ msgstr ""
 
 #: 205K01
 msgctxt "205K01"
-msgid "I'm delighted to hear that, Mr. Ripley. My name is Quang. We've never been formally introduced."
+msgid "I'm delighted to hear that, Mr. Ripley. My name is Kuang. We've never been formally introduced."
 msgstr ""
 
 #: 205K02
 msgctxt "205K02"
-msgid "Oops!"
+msgid "Oops."
 msgstr ""
 
 #: 205K03
@@ -5408,7 +5408,7 @@ msgstr ""
 
 #: 205K07
 msgctxt "205K07"
-msgid "Now."
+msgid "Now..."
 msgstr ""
 
 #: 205M01
@@ -5438,7 +5438,7 @@ msgstr ""
 
 #: 205M06
 msgctxt "205M06"
-msgid "Robert, you're a genius. But Quang has a head start, and we still don't know a way into the tomb."
+msgid "Robert, you're a genius. But Kuang has a head start, and we still don't know a way into the tomb."
 msgstr ""
 
 #: 205R01
@@ -5448,7 +5448,7 @@ msgstr ""
 
 #: 205R02
 msgctxt "205R02"
-msgid "There they are, Mei. Script from Easter Island, Mokamoche and Sikkim."
+msgid "There they are, Mei. Script from Easter Island, Mocha Moche and Sikkim."
 msgstr ""
 
 #: 205R04
@@ -5563,12 +5563,12 @@ msgstr ""
 
 #: 205R22
 msgctxt "205R22"
-msgid "The key to lose tablet. Useless rubble now."
+msgid "The key to Lu's tablet. Useless rubble now."
 msgstr ""
 
 #: 205R23
 msgctxt "205R23"
-msgid "Quang tore out all my notes."
+msgid "Kuang tore out all my notes."
 msgstr ""
 
 #: 205R24
@@ -5578,7 +5578,7 @@ msgstr ""
 
 #: 205R25
 msgctxt "205R25"
-msgid "Oh, that was too close for comfort."
+msgid "(gasps) That was too close for comfort!"
 msgstr ""
 
 #: 205R26
@@ -5653,7 +5653,7 @@ msgstr ""
 
 #: 205R40
 msgctxt "205R40"
-msgid "That will work."
+msgid "That won't work."
 msgstr ""
 
 #: 205R41
@@ -5748,7 +5748,7 @@ msgstr ""
 
 #: 205R59
 msgctxt "205R59"
-msgid "There is only one place to go now. The first emperor's tomb. But unless I know the answer to lose Riddle, I doubt I'll meet with much success there."
+msgid "There is only one place to go now. The first Emperor's tomb. But unless I know the answer to Lu's Riddle, I doubt I'll meet with much success there."
 msgstr ""
 
 #: 205R60
@@ -5773,12 +5773,12 @@ msgstr ""
 
 #: 205S01
 msgctxt "205S01"
-msgid "Now."
+msgid "Now..."
 msgstr ""
 
 #: 205S02
 msgctxt "205S02"
-msgid "You?"
+msgid "You..."
 msgstr ""
 
 #: 207P01
@@ -5823,7 +5823,7 @@ msgstr ""
 
 #: 207R04A
 msgctxt "207R04A"
-msgid "This is a Chinese Rebus Amulet."
+msgid "A Chinese Rebus Amulet!"
 msgstr ""
 
 #: 207R05
@@ -5898,7 +5898,7 @@ msgstr ""
 
 #: 207R18
 msgctxt "207R18"
-msgid "Advice."
+msgid "A vise."
 msgstr ""
 
 #: 207R19
@@ -6013,7 +6013,7 @@ msgstr ""
 
 #: 207R39
 msgctxt "207R39"
-msgid "That will work."
+msgid "That won't work."
 msgstr ""
 
 #: 207R40
@@ -6093,7 +6093,7 @@ msgstr ""
 
 #: 20_05N01
 msgctxt "20_05N01"
-msgid "As a child, I had a vision, as my mother before me, and her mother before her, that one would come from over the sea, even as my people came in times long forgotten. That one would make the watching god see again."
+msgid "As a child I had a vision, as my mother before me and her mother before her, that one would come from over the sea, even as my people came in times long forgotten. That one would make the Watching God see again."
 msgstr ""
 
 #: 20_05N02
@@ -6123,7 +6123,7 @@ msgstr ""
 
 #: 21_02N03
 msgctxt "21_02N03"
-msgid "You know of Lou?"
+msgid "You know of Lu?"
 msgstr ""
 
 #: 21_02N04
@@ -6188,7 +6188,7 @@ msgstr ""
 
 #: 21_06N01
 msgctxt "21_06N01"
-msgid "Study, study, study!"
+msgid "Study... Study... STUDY!"
 msgstr ""
 
 #: 21_06N02
@@ -6228,7 +6228,7 @@ msgstr ""
 
 #: 21_08P01
 msgctxt "21_08P01"
-msgid "Did Lou find the elixir of life?"
+msgid "Did Lu find the elixir of life?"
 msgstr ""
 
 #: 21_08P02
@@ -6238,7 +6238,7 @@ msgstr ""
 
 #: 21_09P01
 msgctxt "21_09P01"
-msgid "Hmm, good point."
+msgid "Mm... Good point."
 msgstr ""
 
 #: 21_10N01
@@ -6323,7 +6323,7 @@ msgstr ""
 
 #: 21_16N04
 msgctxt "21_16N04"
-msgid "Yes."
+msgid "Yes!"
 msgstr ""
 
 #: 21_16P02
@@ -6388,7 +6388,7 @@ msgstr ""
 
 #: 22_01N02
 msgctxt "22_01N02"
-msgid "Certainly sahib."
+msgid "Certainly, sir."
 msgstr ""
 
 #: 22_01N05
@@ -6448,7 +6448,7 @@ msgstr ""
 
 #: 22_05P02
 msgctxt "22_05P02"
-msgid "PAY PING!"
+msgid "Peiping."
 msgstr ""
 
 #: 22_05P03
@@ -6463,7 +6463,7 @@ msgstr ""
 
 #: 22_06P01
 msgctxt "22_06P01"
-msgid "NOW!"
+msgid "Now."
 msgstr ""
 
 #: 22_06P02
@@ -6508,7 +6508,7 @@ msgstr ""
 
 #: 22_11P02
 msgctxt "22_11P02"
-msgid "Hmm, better make it..."
+msgid "Mm... Better make it cash."
 msgstr ""
 
 #: 22_12N01
@@ -6518,7 +6518,7 @@ msgstr ""
 
 #: 22_12P01
 msgctxt "22_12P01"
-msgid "Change my mind."
+msgid "Changed my mind!"
 msgstr ""
 
 #: 23_01N01
@@ -6678,7 +6678,7 @@ msgstr ""
 
 #: 27_01P01
 msgctxt "27_01P01"
-msgid "May, ask him about the broken pottery."
+msgid "Mei, ask him about the broken pottery."
 msgstr ""
 
 #: 27_01P02
@@ -6733,7 +6733,7 @@ msgstr ""
 
 #: 28_01N01
 msgctxt "28_01N01"
-msgid "I-I can't hold it!"
+msgid "(strains) I CAN'T HOLD IT!"
 msgstr ""
 
 #: 28_01N02
@@ -6743,12 +6743,12 @@ msgstr ""
 
 #: 28_01P01
 msgctxt "28_01P01"
-msgid "May, hold this crank while I try to slip past the stone block."
+msgid "Mei, hold this crank while I try to slip past the stone block."
 msgstr ""
 
 #: 28_01P02
 msgctxt "28_01P02"
-msgid "May, I'll hold the crank while you slip past the stone block."
+msgid "Mei, I'll hold the crank while you slip past the stone block."
 msgstr ""
 
 #: 28_01P03
@@ -6773,12 +6773,12 @@ msgstr ""
 
 #: 29_01P01
 msgctxt "29_01P01"
-msgid "May, stand on this end of the bridge."
+msgid "Mei, stand on this end of the bridge."
 msgstr ""
 
 #: 29_01P02
 msgctxt "29_01P02"
-msgid "May, I'll stand on this end of the bridge."
+msgid "Mei, I'll stand on this end of the bridge."
 msgstr ""
 
 #: 29_02N01
@@ -6848,7 +6848,7 @@ msgstr ""
 
 #: 301R01A
 msgctxt "301R01A"
-msgid "Nothing from a Baron von Celtsam in Danzig?"
+msgid "Nothing from a Baron von Seltsam in Danzig?"
 msgstr ""
 
 #: 301R02
@@ -6863,7 +6863,7 @@ msgstr ""
 
 #: 301R04
 msgctxt "301R04"
-msgid "From Auckland to Zanzibar, there's always a posh express office when you need it."
+msgid "From Auckland to Zanzibar, there's always a Posh Express office when you need it."
 msgstr ""
 
 #: 301R05
@@ -6948,7 +6948,7 @@ msgstr ""
 
 #: 301R21
 msgctxt "301R21"
-msgid "Mr. Ripley, sir. Non-stop chair-sitter take walk. Marshals put padlock on door. Warrant out for your arrest. Don't return to New York until you send oddities first and Feng Li can reopen and pay bills. Sincerely, Feng Li."
+msgid "Mr. Ripley, sir. Non-stop chair-sitters take walk! Marshall's put padlock on door! Warrant out for your arrest! Don't return to New York until you send Oddities first and Feng Li can reopen and pay bills! Sincerely, Feng Li."
 msgstr ""
 
 #: 301R22
@@ -7023,7 +7023,7 @@ msgstr ""
 
 #: 301R36
 msgctxt "301R36"
-msgid "That will work."
+msgid "That won't work."
 msgstr ""
 
 #: 301R37
@@ -7033,7 +7033,7 @@ msgstr ""
 
 #: 301R38
 msgctxt "301R38"
-msgid "It's a copy of that radiogram Feng Li sent before. Mr. Ripley, sir. Non-stop chair-sitter take walk. Marshals put padlock on door. Warrant out for your arrest. Don't return to New York until you send oddities first and Feng Li can reopen and pay bills. Sincerely, Feng Li."
+msgid "It's a copy of that radiogram Feng Li sent before: 'Mr. Ripley, sir. Non-stop chair-sitters take walk! Marshall's put padlock on door! Warrant out for your arrest! Don't return to New York until you send Oddities first and Feng Li can reopen and pay bills! Sincerely, Feng Li.'"
 msgstr ""
 
 #: 301R39
@@ -7113,7 +7113,7 @@ msgstr ""
 
 #: 303F13
 msgctxt "303F13"
-msgid "Big puffball getting a bit dusty. I clean."
+msgid "Big Papo getting a bit dusty; I-- I CLEAN!"
 msgstr ""
 
 #: 303F14
@@ -7138,7 +7138,7 @@ msgstr ""
 
 #: 303M03
 msgctxt "303M03"
-msgid "Robert, wait!"
+msgid "Robert! Wait..."
 msgstr ""
 
 #: 303M04
@@ -7198,7 +7198,7 @@ msgstr ""
 
 #: 303R08
 msgctxt "303R08"
-msgid "Posh Express office. From there, Pei Ping. Beautiful in the springtime."
+msgid "Posh Express office. From there, Peiping. Beautiful in the springtime."
 msgstr ""
 
 #: 303R09
@@ -7208,7 +7208,7 @@ msgstr ""
 
 #: 303R10
 msgctxt "303R10"
-msgid "Schloss Pickas, Free City of Danzig, January 19, 1935. Dear Mr. Ripley, in the province of Xian in China is a little-known monument that ranks among the wonders of the world. You may be interested in it as a subject for your amusing newspaper feature, which appears even here in our little city-state, perched between Germany and Poland. I speak of the tomb of Qin Xie Huangdi, the man who united China for the first time and reigned as emperor some 2300 years ago. For his eternal resting place, he had a great chamber excavated and covered with a copper dome, representing the heavens. Inside he built a veritable miniature China, complete with temples, palaces and buildings of all sorts, overlooking rivers and even a sea of mercury. Row upon row of terracotta soldiers guard the way to unimaginable treasures, including the emperor's emerald seal, a powerful talisman. The chief architect of the place was a certain sage known as Master Lu. At the emperor's command, Liu had traveled across the seas, searching for an elixir of immortality. And though he failed in his quest, he did bring home much arcane knowledge. Liu devised many cunning traps to ensure that the emperor's tomb would never be plundered. Indeed, to this day, no one has so much as penetrated the great mound of earth, now called Mount Li, that covers the dome. I have devoted many years of study to this remarkable monument, compared with which the great pyramids of Egypt are but clumsy heaps of stone. And lately my efforts have been rewarded. Something has come into my hands that I believe provides the key to the tomb. Alas, my health is failing. I am unable to visit the Liu materials in the Hall of Classics at the Imperial School in Peiping, or mount the necessary expeditions to uncover the few remaining clues to Master Lu's secret. One of the leading authorities on this period in China, a Doctor Twelve Trees, is rumored to be in thieves, but so far I've had no success verifying the rumor. I am writing to you, Mr. Ripley, to ask if you would be willing to undertake a joint venture with me. I will carry the banner of science, and you that of the fantastic. I am certain that nowhere in the works of man will you find anything more worthy of inclusion in your believe-it-or-not feature than the tomb of Xue Huangdi. Respectfully yours, Otto Sixth Baron von Seltzen."
+msgid "Schloss Pik-As, free city of Danzig, January 19th, 1935. Dear Mr. Ripley. In the province of Xi'an in China is a little-known monument that ranks among the wonders of the world. You may be interested in it as a subject for your amusing newspaper feature; which appears even here in our little city-state, perched between Germany and Poland. I speak of the tomb of Qin Shi Huangdi, the man who united China for the first time, and reigned as Emperor some 2300 years ago. For his eternal resting place, he had a great chamber excavated and covered with a copper dome; representing the heavens. Inside, he built a veritable miniature China, complete with temples, palaces and buildings of all sorts; overlooking rivers and even a sea of Mercury. Roll upon row of Terracotta soldiers guard the way to unimaginable treasures, including the Emperor's Emerald seal, a powerful Talisman. The Chief architect of the place was a certain sage known as Master Lu. At the Emperor's command, Lu had traveled across the seas, searching for an elixir of immortality. And though he failed in his quest, he did bring home much arcane knowledge. Lu devised many cunning traps to ensure that the Emperor's tomb would never be plundered; indeed, to this day, no one has so much as penetrated the great mount of Earth, now called Mount-Li, that covers the Dome. I have devoted many years of study to this remarkable monument, compared with which the Great Pyramids of Egypt are but clumsy heaps of stone. And lately my efforts have been rewarded, something has come into my hands that I believe provides the key to the tomb; alas, my health is failing. I am unable to visit the Lu materials in the Hall of Classics at the Imperial School in Peiping, or mount the necessary expeditions to uncover the few remaining clues to Master Lu's secret. One of the leading authorities on this period in China, a doctor Twelvetrees, is rumored to be in Thebes. But so far I've had no success verifying the rumor. I am writing to you Mr. Ripley to ask if you would be willing to undertake a joint venture with me; I will carry the banner of Science, and you that of the Fantastic! I am certain that nowhere in the works of man will you find anything more worthy of inclusion in your 'Believe It or Not' feature, than the tomb of Shi Huangdi! Respectfully yours, Otto VI Baron von Seltsam."
 msgstr ""
 
 #: 303R11
@@ -7218,32 +7218,32 @@ msgstr ""
 
 #: 303R12
 msgctxt "303R12"
-msgid "In the province of Xian in China is a little-known monument that ranks among the wonders of the world. You may be interested in it as a subject for your amusing newspaper feature, which appears even here in our little city-state perched between Germany and Poland."
+msgid "In the province of Xi'an in China is a little-known monument that ranks among the wonders of the world. You may be interested in it as a subject for your amusing newspaper feature; which appears even here in our little city state, perched between Germany and Poland."
 msgstr ""
 
 #: 303R13
 msgctxt "303R13"
-msgid "I speak of the tomb of Qin Xie Huangdi, the man who united China for the first time and reigned as emperor some 2300 years ago. For his eternal resting place, he had a great chamber excavated and covered with a copper dome, representing the heavens."
+msgid "I speak of the tomb of Qin Shi Huangdi; the man who united China for the first time, and reigned as Emperor some 2300 years ago. For his eternal resting place, he had a great chamber excavated and covered with a copper dome; representing the heavens."
 msgstr ""
 
 #: 303R14
 msgctxt "303R14"
-msgid "Inside he built a veritable miniature China, complete with temples, palaces, and buildings of all sorts, overlooking rivers and even a sea of mercury. Row upon row of terracotta soldiers guard the way to unimaginable treasures, including the emperor's great jade seal, a powerful talisman."
+msgid "Inside, he built a veritable miniature China, complete with temples, palaces and buildings of all sorts; overlooking rivers and even a sea of Mercury. Roll upon row of Terracotta soldiers guard the way to unimaginable treasures, including the Emperor's great Jade seal, a powerful Talisman."
 msgstr ""
 
 #: 303R15
 msgctxt "303R15"
-msgid "The chief architect of the place was a certain sage known as Master Lu. At the emperor's command, Liu had traveled across the seas searching for an elixir of immortality. And though he failed in his quest, he did bring home much arcane knowledge."
+msgid "The chief architect of the place was a certain sage known as Master Lu. At the Emperor's command, Liu had traveled across the seas searching for an elixir of immortality. And though he failed in his quest, he did bring home much arcane knowledge."
 msgstr ""
 
 #: 303R16
 msgctxt "303R16"
-msgid "Liu devised many cunning traps to ensure that the Emperor's tomb would never be plundered. Indeed, to this day, no one has so much as penetrated the great mound of earth, now called Mount Li, that covers the dome."
+msgid "Lu devised many cunning traps to ensure that the Emperor's tomb would never be plundered; indeed, to this day, no one has so much as penetrated the great mount of Earth, now called Mount-Li, that covers the Dome."
 msgstr ""
 
 #: 303R17
 msgctxt "303R17"
-msgid "I have devoted many years of study to this remarkable monument, compared with which the great pyramids of Egypt are but clumsy heaps of stone. And lately my efforts have been rewarded. Something has come into my hands that I believe provides the key to the tomb."
+msgid "I have devoted many years of study to this remarkable monument, compared with which the Great Pyramids of Egypt are but clumsy heaps of stone. And lately my efforts have been rewarded, something has come into my hands that I believe provides the key to the tomb."
 msgstr ""
 
 #: 303R18
@@ -7253,7 +7253,7 @@ msgstr ""
 
 #: 303R19
 msgctxt "303R19"
-msgid "One of the leading authorities on this period in China, a Dr. Twelve Trees, is rumored to be in Thebes, but so far I've had no success verifying the rumor."
+msgid "One of the leading authorities on this period in China, a Dr. Twelvetrees, is rumored to be in Thebes, but so far I've had no success verifying the rumor."
 msgstr ""
 
 #: 303R20
@@ -7263,12 +7263,12 @@ msgstr ""
 
 #: 303R21
 msgctxt "303R21"
-msgid "I am certain that nowhere in the works of man will you find anything more worthy of inclusion in your, believe it or not, feature than the tomb of Xue Huangdi."
+msgid "I am certain that nowhere in the works of man will you find anything more worthy of inclusion in your, believe it or not, feature than the tomb of Shi Huangdi."
 msgstr ""
 
 #: 303R22
 msgctxt "303R22"
-msgid "Respectfully Yours, Otto 6th Baron von Seltzen."
+msgid "Respectfully yours, Otto, 6th Baron von Seltsam."
 msgstr ""
 
 #: 303R23
@@ -7288,7 +7288,7 @@ msgstr ""
 
 #: 303R26
 msgctxt "303R26"
-msgid "Twenty-eight pounds of fungus. Amazing!"
+msgid "28 pounds of fungus, Amazing!"
 msgstr ""
 
 #: 303R27
@@ -7348,7 +7348,7 @@ msgstr ""
 
 #: 303R37
 msgctxt "303R37"
-msgid "Twenty-eight pounds of fungus... and it's all mine."
+msgid "28 pounds of fungus, and it's all mine..."
 msgstr ""
 
 #: 303R38
@@ -7393,7 +7393,7 @@ msgstr ""
 
 #: 303R47
 msgctxt "303R47"
-msgid "That will work."
+msgid "That won't work."
 msgstr ""
 
 #: 303R48
@@ -7418,7 +7418,7 @@ msgstr ""
 
 #: 304F04
 msgctxt "304F04"
-msgid "Your file on a tomb of Qin Shi Huang."
+msgid "Your file on the tomb of Shi Huangdi."
 msgstr ""
 
 #: 304F05
@@ -7448,7 +7448,7 @@ msgstr ""
 
 #: 304M05
 msgctxt "304M05"
-msgid "Qin Shi Huang, China's first emperor."
+msgid "Qin Shi Huangdi, China's first Emperor."
 msgstr ""
 
 #: 304M06
@@ -7713,7 +7713,7 @@ msgstr ""
 
 #: 304R51
 msgctxt "304R51"
-msgid "I've been researching the first emperor's tomb. This took me to Thebes seeking an archaeologist named Twelve Trees, but he was nowhere to be found."
+msgid "I've been researching the first Emperor's tomb. This took me to Thebes seeking an archaeologist named Twelvetrees, but he was nowhere to be found."
 msgstr ""
 
 #: 304R51A
@@ -7728,12 +7728,12 @@ msgstr ""
 
 #: 304R53
 msgctxt "304R53"
-msgid "Mei-Chen, you were planning to visit the Pei-Ping, weren't you?"
+msgid "Mei Chen, you were planning to visit the Peiping, weren't you?"
 msgstr ""
 
 #: 304R54
 msgctxt "304R54"
-msgid "October? Pei Ping in the spring! You don't want to miss it!"
+msgid "October? Peiping in the spring! You don't want to miss it!"
 msgstr ""
 
 #: 304R55
@@ -7868,7 +7868,7 @@ msgstr ""
 
 #: 304R81
 msgctxt "304R81"
-msgid "That will work."
+msgid "That won't work."
 msgstr ""
 
 #: 304R82
@@ -7933,7 +7933,7 @@ msgstr ""
 
 #: 305F08A
 msgctxt "305F08A"
-msgid "Thingly not want..."
+msgid "Feng Li not want."
 msgstr ""
 
 #: 305R01
@@ -7948,7 +7948,7 @@ msgstr ""
 
 #: 305R03
 msgctxt "305R03"
-msgid "A tree growing out of a chimney in Aberdeley, Wales."
+msgid "A tree growing out of a chimney in Aberdulais, Wales."
 msgstr ""
 
 #: 305R04
@@ -8023,7 +8023,7 @@ msgstr ""
 
 #: 305R16B
 msgctxt "305R16B"
-msgid "Fang Li's pet turtle."
+msgid "Feng Li's pet turtle."
 msgstr ""
 
 #: 305R16C
@@ -8063,12 +8063,12 @@ msgstr ""
 
 #: 305R22
 msgctxt "305R22"
-msgid "The land of China was named after Qin Shi Huangdi, her first emperor. He built the Great Wall in China."
+msgid "The land of China was named after Qin Shi Huangdi, her first Emperor. He built the Great Wall in China."
 msgstr ""
 
 #: 305R23
 msgctxt "305R23"
-msgid "Qin Shi Huang, first emperor of China, destroyed all literature and executed every historian in order that history would begin with him."
+msgid "Qin Shi Huangdi, first Emperor of China, destroyed all literature and executed every historian in order that history would begin with him."
 msgstr ""
 
 #: 305R23A
@@ -8093,7 +8093,7 @@ msgstr ""
 
 #: 305R27
 msgctxt "305R27"
-msgid "The lost city of Mokomoche, high in the Andes Mountains."
+msgid "The lost city of Mocha Moche, high in the Andes Mountains."
 msgstr ""
 
 #: 305R28
@@ -8193,7 +8193,7 @@ msgstr ""
 
 #: 305R45
 msgctxt "305R45"
-msgid "That will work."
+msgid "That won't work."
 msgstr ""
 
 #: 305R46
@@ -8203,7 +8203,7 @@ msgstr ""
 
 #: 305R47
 msgctxt "305R47"
-msgid "That horn from Easter Island was carved from a single piece of whalebone and was instrumental in saving the life of the famed archaeologist, Dr. Samantha Twelve Treats."
+msgid "That horn from Easter Island was carved from a single piece of whalebone and was instrumental in saving the life of the famed archaeologist, Dr. Samantha Twelvetrees."
 msgstr ""
 
 #: 305R47A
@@ -8213,7 +8213,7 @@ msgstr ""
 
 #: 305R48
 msgctxt "305R48"
-msgid "Made only of native materials like sticks and shells, intricate navigational charts like this were constructed by the islanders of the South Pacific. This particular map, several hundred years old, pointed the way to glyphs which may one day provide the key to translating Easter Island's forgotten time."
+msgid "Made only a native materials like sticks and shells, intricate navigational charts like this were constructed by the Islanders of the South Pacific. This particular map, several hundred years old, pointed the way to glyphs, which may one day provide the key to translating Easter Islands forgotten time."
 msgstr ""
 
 #: 305R49
@@ -8228,12 +8228,12 @@ msgstr ""
 
 #: 305R51
 msgctxt "305R51"
-msgid "A fabulous crystal skull from the Andes Mountains, fashioned by a now-forgotten race that predated the Inca. This skull acted like a prism to separate all the colors of the spectrum for some religious ceremony. The exact purpose of the rite remains a mystery, but for the people who fashioned the skull, death and human sacrifice were a central part of their lives."
+msgid "A fabulous crystal skull from the Andes Mountains. Fashioned by a now forgotten race that predated the Inca. This skull acted like a prism to separate all the colors of the spectrum for some religious ceremony. The exact purpose of the rite remains a mystery. But for the people who fashioned the skull, death and human sacrifice were a central part of their lives."
 msgstr ""
 
 #: 305R52
 msgctxt "305R52"
-msgid "This is the cheapest stamp in the world, worth only four thousandths of a cent."
+msgid "This is the cheapest stamp in the world, worth only $4000 of a cent!"
 msgstr ""
 
 #: 305R53
@@ -8303,7 +8303,7 @@ msgstr ""
 
 #: 401R01
 msgctxt "401R01"
-msgid "Guten Tag, Horst!"
+msgid "Hello, Horst."
 msgstr ""
 
 #: 401R02
@@ -8333,7 +8333,7 @@ msgstr ""
 
 #: 401R08
 msgctxt "401R08"
-msgid "The medieval city of Danzig with its narrow winding streets. The Church of St. Mary. Langarten, spacious public gardens that rival the Tuileries of Paris. A beautiful city underappreciated by the common tourist."
+msgid "The medieval city of Danzig with its narrow winding streets; the Church of Saint Mary, Lang Garden, spacious public gardens that rival the touristic Paris, A beautiful city underappreciated by the common tourists."
 msgstr ""
 
 #: 401R10
@@ -8383,7 +8383,7 @@ msgstr ""
 
 #: 401R31
 msgctxt "401R31"
-msgid "The baron's son hounded me about this as well. I can state, without hesitation, that the old baron died of pneumonia. The only curse on the old baron was a tendency to sleep with the windows open. Pleased to keep out of police affairs. Signed Krut, Chief of Police, Free City of Danzig."
+msgid "the Baron's son hounded me about this as well. I can state without hesitation that the Old Baron died of pneumonia; the only curse on the Old Baron was a tendency to sleep with the windows open. Please to keep out of police affairs. Signed, Krute, Chief of police, free city of Danzig."
 msgstr ""
 
 #: 401R31A
@@ -8393,7 +8393,7 @@ msgstr ""
 
 #: 401R32
 msgctxt "401R32"
-msgid "Horst, I want to send a radiogram to Lima, Peru, to a professor Menendez at the university."
+msgid "Horst, I want to send a radiogram to Lima, Peru, to a Professor Menendez at the university."
 msgstr ""
 
 #: 401R33
@@ -8418,12 +8418,12 @@ msgstr ""
 
 #: 401R37
 msgctxt "401R37"
-msgid "Mr. Ripley, sir. Emerald, look nice, but act bad. Remind Feng Li of first wife. Feng Li thinks it must be cursed. After it on display only two hours, shark fall on one customer. Another customer have allergic reaction to puffball. Each day only get worse. I send back Emerald to you, sincerely, Feng Li."
+msgid "Mr. Ripley, sir. Emerald look nice but act bad; remind Feng Li a first wife. Feng Li thinks it must be cursed. (chuckles) After it on display only 2 hours, shark fall on one customer. Another customer have allergic reaction to puffball(?) Each day only get worse! I send back Emerald to you. Sincerely, Feng Li."
 msgstr ""
 
 #: 401R37A
 msgctxt "401R37A"
-msgid "After it on display only two hours, cow turntable motor break down. Shark fall on one customer. Another customer have allergic reaction to puffball. Each day only get worse. I send back Emerald to you sincerely, Feng Li."
+msgid "(chuckles) After it on display only 2 hours, cow turn table motor break down. Shark fall on one customer. Another customer have allergic reaction to puffball(?) Each day only get worse! I send back Emerald to you. Sincerely, Feng Li."
 msgstr ""
 
 #: 401R38
@@ -8473,7 +8473,7 @@ msgstr ""
 
 #: 401X06
 msgctxt "401X06"
-msgid "I'm sorry, Hare Ripley, but no, he belonged to my uncle, France. He drained every drop on the first night of Oktoberfest, twelve years ago."
+msgid "I'm sorry, Herr Ripley, but no, he belonged to my uncle, Franz. He drained every drop on the first night of Oktoberfest, twelve years ago."
 msgstr ""
 
 #: 401X07
@@ -8498,7 +8498,7 @@ msgstr ""
 
 #: 401X11
 msgctxt "401X11"
-msgid "They're good here, Ripley."
+msgid "Very good, Mr. Ripley."
 msgstr ""
 
 #: 401X12
@@ -8508,7 +8508,7 @@ msgstr ""
 
 #: 401X13
 msgctxt "401X13"
-msgid "Auf jeden Fall, Herr Ripley."
+msgid "Certainly, Mr. Ripley."
 msgstr ""
 
 #: 402R01
@@ -8523,7 +8523,7 @@ msgstr ""
 
 #: 402R03
 msgctxt "402R03"
-msgid "I'm no common tourist."
+msgid "(chuckles) I'm not common tourist."
 msgstr ""
 
 #: 402R04
@@ -8543,7 +8543,7 @@ msgstr ""
 
 #: 402R07
 msgctxt "402R07"
-msgid "Sorry."
+msgid "Sorry..."
 msgstr ""
 
 #: 402R08
@@ -8578,7 +8578,7 @@ msgstr ""
 
 #: 402R14
 msgctxt "402R14"
-msgid "The ironwork of the gate is shaped like the ace of spades."
+msgid "The ironwork of the gate is shaped like the Ace of Spades."
 msgstr ""
 
 #: 402R15
@@ -8623,7 +8623,7 @@ msgstr ""
 
 #: 402R32
 msgctxt "402R32"
-msgid "NOPE!"
+msgid "No."
 msgstr ""
 
 #: 402W01
@@ -8668,7 +8668,7 @@ msgstr ""
 
 #: 402W09
 msgctxt "402W09"
-msgid "Yeah?"
+msgid "Yes?"
 msgstr ""
 
 #: 402W10
@@ -8678,12 +8678,12 @@ msgstr ""
 
 #: 402W11
 msgctxt "402W11"
-msgid "God in Himmel! The old baron!"
+msgid "GOD IN HEAVEN, THE OLD BARON!"
 msgstr ""
 
 #: 403R01
 msgctxt "403R01"
-msgid "The old baron is dead?"
+msgid "The old Baron is dead?"
 msgstr ""
 
 #: 403R02
@@ -8893,7 +8893,7 @@ msgstr ""
 
 #: 403R47
 msgctxt "403R47"
-msgid "Sorry."
+msgid "Sorry..."
 msgstr ""
 
 #: 403R48
@@ -8938,7 +8938,7 @@ msgstr ""
 
 #: 403W01
 msgctxt "403W01"
-msgid "Otto, the sixth Baron von Celtsam, mein Herr."
+msgid "Otto. The 6th Baron von Seltsam, sir."
 msgstr ""
 
 #: 403W02
@@ -8973,7 +8973,7 @@ msgstr ""
 
 #: 403W08
 msgctxt "403W08"
-msgid "Please do not touch my hair."
+msgid "PLEASE DO NOT TOUCH, SIR!"
 msgstr ""
 
 #: 403W09
@@ -9038,7 +9038,7 @@ msgstr ""
 
 #: 404R04
 msgctxt "404R04"
-msgid "No, it's signed AUTO."
+msgid "No, it signed 'Otto'."
 msgstr ""
 
 #: 404R05
@@ -9058,27 +9058,27 @@ msgstr ""
 
 #: 404R08
 msgctxt "404R08"
-msgid "The section of wall the door is set into is an ace of spades."
+msgid "The section of wall the door is set into is an Ace of Spades."
 msgstr ""
 
 #: 404R08A
 msgctxt "404R08A"
-msgid "The section of wall the door to the billiards room is set into is an ace of spades."
+msgid "The section of wall the door to the billiards room is set into is an Ace of Spades."
 msgstr ""
 
 #: 404R09
 msgctxt "404R09"
-msgid "The section of wall the door to the sitting room is set into is an ace of spades."
+msgid "The section of wall the door to the sitting room is set into is an Ace of Spades."
 msgstr ""
 
 #: 404R10
 msgctxt "404R10"
-msgid "The section of wall the door is set into is not an ace of spades, but there are spades carved into it."
+msgid "The section of wall the door is set into is not an Ace of Spades, but there are spades carved into it."
 msgstr ""
 
 #: 404R11
 msgctxt "404R11"
-msgid "The section of wall that massive door is set into is an ace of spades."
+msgid "The section of wall that massive door is set into is an Ace of Spades."
 msgstr ""
 
 #: 404R12
@@ -9118,7 +9118,7 @@ msgstr ""
 
 #: 404R19
 msgctxt "404R19"
-msgid "Anything else about the old baron I should know?"
+msgid "Anything else about the old Baron I should know?"
 msgstr ""
 
 #: 404R20
@@ -9133,7 +9133,7 @@ msgstr ""
 
 #: 404R22
 msgctxt "404R22"
-msgid "Um... right."
+msgid "Erm... Right."
 msgstr ""
 
 #: 404R23
@@ -9153,7 +9153,7 @@ msgstr ""
 
 #: 404U01
 msgctxt "404U01"
-msgid "From Mr. Albert, mein Herr?"
+msgid "From Mr Albert, sir?"
 msgstr ""
 
 #: 404U02
@@ -9163,7 +9163,7 @@ msgstr ""
 
 #: 404U03
 msgctxt "404U03"
-msgid "As are we all, my dear. The old baron was well loved, as is his son."
+msgid "As are we all, my dear. The old Baron was well loved, as is his son."
 msgstr ""
 
 #: 404U04
@@ -9178,7 +9178,7 @@ msgstr ""
 
 #: 404U06
 msgctxt "404U06"
-msgid "Nein."
+msgid "No."
 msgstr ""
 
 #: 404U07
@@ -9198,7 +9198,7 @@ msgstr ""
 
 #: 404U10
 msgctxt "404U10"
-msgid "The gardener is gone, mein Herr. A bell rang from within the old baron's tomb. It was a false alarm, of course. The old fool didn't realize it and ran off somewhere. And now I'm having difficulty replacing him. The villagers are so superstitious, you know."
+msgid "The gardener is gone, sir. A bell rang from within the Old Baron's tomb. It was a false alarm, of course. The old fool didn't realize it and I ran off somewhere. And now I'm having difficulty replacing him; the villagers are so superstitious, you know."
 msgstr ""
 
 #: 404U11
@@ -9213,7 +9213,7 @@ msgstr ""
 
 #: 404U13
 msgctxt "404U13"
-msgid "Hey Ripley, I cannot allow you to leave with Sir Barron's property. Please to put the ball back."
+msgid "Hey Ripley, I cannot allow you to leave with Sir Baron's property. Please to put the ball back."
 msgstr ""
 
 #: 405B01
@@ -9243,7 +9243,7 @@ msgstr ""
 
 #: 405B05
 msgctxt "405B05"
-msgid "The first emperor of China, Master Lu."
+msgid "The first Emperor of China, Master Lu."
 msgstr ""
 
 #: 405B05A
@@ -9278,7 +9278,7 @@ msgstr ""
 
 #: 405R06
 msgctxt "405R06"
-msgid "If there wasn't an ace of spades in the windows, I would have been disappointed."
+msgid "If there wasn't an Ace of Spades in the windows, I would have been disappointed."
 msgstr ""
 
 #: 405R07
@@ -9318,7 +9318,7 @@ msgstr ""
 
 #: 405R14
 msgctxt "405R14"
-msgid "A library table. There's a journal here written by the young baron."
+msgid "A library table. There's a journal here written by the young Baron."
 msgstr ""
 
 #: 405R14A
@@ -9358,7 +9358,7 @@ msgstr ""
 
 #: 405R21
 msgctxt "405R21"
-msgid "I'd love to spend time browsing through the baron's library. Maybe when I have more time, I'll ask him if I might."
+msgid "I'd love to spend time browsing through the Baron's library. Maybe when I have more time, I'll ask him if I might."
 msgstr ""
 
 #: 405R22
@@ -9383,7 +9383,7 @@ msgstr ""
 
 #: 405R31
 msgctxt "405R31"
-msgid "If the baron wants the door closed, I'm sure he'll have his butler do it."
+msgid "If the Baron wants the door closed, I'm sure he'll have his butler do it."
 msgstr ""
 
 #: 406R01
@@ -9433,17 +9433,17 @@ msgstr ""
 
 #: 406R09
 msgctxt "406R09"
-msgid "The old baron's writing desk. Some books, and a piece of paper. None of any use, I'm afraid."
+msgid "The old Baron's writing desk. Some books, and a piece of paper. None of any use, I'm afraid."
 msgstr ""
 
 #: 406R09A
 msgctxt "406R09A"
-msgid "The old baron's writing desk."
+msgid "The old Baron's writing desk."
 msgstr ""
 
 #: 406R10
 msgctxt "406R10"
-msgid "A red billiard ball. Luckily for anyone wanting to play, it is not shaped like the ace of spades."
+msgid "A red billiard ball. Luckily for anyone wanting to play, it is not shaped like the Ace of Spades."
 msgstr ""
 
 #: 406R11
@@ -9483,7 +9483,7 @@ msgstr ""
 
 #: 406R18
 msgctxt "406R18"
-msgid "Mr. Ripley, this interesting item came into my possession quite by accident last year while I was in China. I thought it might amuse you. To the best of my knowledge, it is the cheapest stamp ever struck, worth but four thousandths of one of your American pennies. Please accept it with my compliments. I look forward to meeting you in person soon to plan our great adventure tackling the mysteries of the First Emperor's tomb. Signed Otto, 6 Baron von Seltzer."
+msgid "Mr. Ripley, this interesting item came into my possession quite by accident last year while I was in China. I thought it might amuse you. To the best of my knowledge, it is the cheapest stamp ever struck, worth but four thousandths of one of your American pennies. Please accept it with my compliments. I look forward to meeting you in person soon to plan our great adventure tackling the mysteries of the First Emperor's tomb. Signed, Otto, 6th Baron von Seltsam."
 msgstr ""
 
 #: 406R18A
@@ -9493,12 +9493,12 @@ msgstr ""
 
 #: 406R18B
 msgctxt "406R18B"
-msgid "I look forward to meeting you in person soon to plan our great adventure tackling the mysteries of the First Emperor's tomb. Signed Otto, 6th Baron von Celtsam."
+msgid "I look forward to meeting you in person soon to plan our great adventure tackling the mysteries of the First Emperor's tomb. Signed, Otto, 6th Baron von Seltsam."
 msgstr ""
 
 #: 406R18C
 msgctxt "406R18C"
-msgid "Mr. Ripley, this interesting item came into my possession quite by accident last year while I was in China. I thought it might amuse you. To the best of my knowledge, it is the cheapest stamp ever struck, worth but four thousandths of one of your American pennies. Please accept it with my compliments. I look forward to meeting you in person soon to plan our great adventure tackling the mysteries of the First Emperor's tomb. Signed Otto, 6th Baron von Seltsam. I would have enjoyed seeing this thing through with you, Baron. I'm sorry it wasn't meant to be."
+msgid "Mr. Ripley, this interesting item came into my possession quite by accident last year while I was in China. I thought it might amuse you. To the best of my knowledge it is the cheapest stamp ever struck, worth but four thousandths of one of your American pennies. Please accept it with my compliments. I look forward to meeting you in person soon to plan our great adventure tackling the mysteries of the first Emperor's tomb. Signed, Otto, 6th Baron von Seltsam. (chuckles) I would have enjoyed seeing this thing through with you, Baron. I'm sorry it wasn't meant to be."
 msgstr ""
 
 #: 406R19
@@ -9538,7 +9538,7 @@ msgstr ""
 
 #: 406R25A
 msgctxt "406R25A"
-msgid "It's rather fun. I wonder if it will catch on."
+msgid "(chuckles) It's rather fun, I wonder if it'll catch on."
 msgstr ""
 
 #: 406R26
@@ -9583,7 +9583,7 @@ msgstr ""
 
 #: 406R43
 msgctxt "406R43"
-msgid "Seven years, bad luck!"
+msgid "7 years bad luck."
 msgstr ""
 
 #: 406R44
@@ -9843,7 +9843,7 @@ msgstr ""
 
 #: 407R38
 msgctxt "407R38"
-msgid "That letter must be important if the old baron went to all this trouble to protect it."
+msgid "That letter must be important if the old Baron went to all this trouble to protect it."
 msgstr ""
 
 #: 407R39
@@ -9853,27 +9853,27 @@ msgstr ""
 
 #: 407R40
 msgctxt "407R40"
-msgid "Otto Baron von Seltzem, Schloss Piekas, Free City of Danzig, February 26, 1936. My Dear Baron"
+msgid "Otto Baron von Seltsam, Schloss Pik-As, Free City of Danzig, February 26, 1936. My Dear Baron"
 msgstr ""
 
 #: 407R41
 msgctxt "407R41"
-msgid "Otto Baron von Seltzem, Schloss Pikass, Free City of Danzig, February 26, 1936. My dear Baron, as you are aware, I have been conducting a series of excavations at what I had presumed to be a Stone Age pre-Inca settlement outside of Lima. However, I have recently located a stelae carved into what appears to be a city wall. Of course, I was simply amazed when I realized that I had stumbled across an organized civilization that predates the Inca in Tawantinsuyu by at least 1200 years, if not more. I am delighted to report that I was able to decipher several sequences from this stelae. I will allow you to read the exact details when I publish my findings in the literature. But since you have requested that I immediately forward any information that could be related to I can share a few points now. If I am correct, the stelae describes the existence of at least three other settlements within Tawantinsuyu, each dedicated to an animal deity. The stelae tells that one site was dedicated to the condor, another to the snake, another to the spider, and the last to the monkey. I am almost certain that my current excavation site is dedicated to the condor. Further, it seems that these people were also adept astronomers. And like the Inca after them, they constructed ritual observatories where they would worship at intervals based on the movement of the stars and sun. These ritual observatories were locked to all but the high priests, and to ensure security, the combination to each door was inscribed on a stelae in a completely different settlement. The stelae that I have found appears to have the key for the observatory in the snake settlement inscribed upon it. I have sketched the pertinent glyphs for your perusal. Unfortunately, none of my research offers clues to the location of the snake or any other settlement. Now I have recently come into contact with an Andean guide named Luis Arrugnos. He claims to have come across the remains of a similar settlement, Mocamoche, and he described numerous decorations featuring iconic spiders. Also, he had in his possession several shards of terracotta pottery and slivers of obsidian that closely match the artifacts that I have uncovered in my dig. However, I noticed that one of the shards of pottery was different from every other sample of Peruvian pottery that has been found. The shard was white, and upon closer inspection I determined the fragment to be composed of kale and clay glazed with feldspath, which, as you know, was only produced in China during the time of Qin Shi Huangdi. I have included a tiny sample of this fragment, and if you could inspect it, Baron, I'm sure you'll agree that it is, in fact, a piece of pottery from the time of the first emperor. This adds credence to your theory that Chinese travelers visited South America during the time of Master Lu. Incidentally, it may only be a coincidence, but shortly after my discovery, I noticed a man trailing me throughout Lima. I attempted to approach him on at least two occasions, but each time he disappeared before I was able to get a look at him. Please let me know if you think that this is related to your investigation into Master Lu. In any case, Louise has agreed to guide me to the spider settlement, and we are to depart as soon as I have sent a preliminary draft of my paper to the International Archaeology Society. It is my sincere hope that you will be well enough to join me soon, as I feel I am on the verge of a monumental discovery that will put me in company with the likes of Carter and Schliemann. Humbly yours, Dr. Jorge Menendez, Professor Emerit, Pre-Columbian Archaeology, National University of San Marcos, Lima. Feldspath, Eureka, Liu must have been in Peru, the lost city of Mocha Moche. Must do wire Menendez immediately, wire Ripley, sequester key important, sink it, put it to bed, the lone couch of his everlasting sleep."
+msgid "Otto Baron von Seltsam, Schloss Pik-As, Free City of Danzig, February 26, 1936. My Dear Baron, As you are aware I have been conducting a series of excavations at what I had presumed to be a stone age pre-Inca settlement outside of Lima. However, I have recently located a stele carved into what appears to be a city wall. Of course, I was simply amazed when I realized that I had stumbled across an organized civilization that predates the Inca in Tawantinsuyu, by at least 1200 years, if not more. I'm delighted to report that I was able to decipher several sequences from the stele; I'll allow you to read the exact details when I publish my findings in the literature. But since you have requested that I immediately forward any information that could be related to Master Lu, I can share a few points now. If I'm correct, the stele describes the existence of at least three other settlements within Tawantinsuyu; each dedicated to an animal deity. The stele tells that one side was dedicated to the Condor, another to the Snake, another to the Spider, and the last to the Monkey. I am almost certain that my current excavation site is dedicated to the Condor. Further, it seems that these people were also adept astronomers. And like the Inca after them, they constructed ritual observatories where they would worship at intervals, based on the movement of the stars and sun. These ritual observatories were locked to all but the high priests. And to ensure security, the combination to each door was inscribed on a stele in a completely different settlement. The stele that I have found appears to have the key for the observatory in the Snake settlemented described upon. I have sketched the pertinent glyphs for your perusal. Unfortunately, none of my research offers clues to the location of the Snake or any other settlement. Now, I have recently come into contact with an Andean guy named Luis Aruños. He claims to have come across the remains of a similar settlement, Mocha Moche, and he described numerous decorations featuring iconic Spiders. Also he had in his possession, several shards of Terracotta pottery, and slivers of obsidian that closely matched the artifacts that I have uncovered in my dig. However, I noticed that one of the shards of pottery was different from every other sample of Peruvian pottery that has been found; the shard was white, and upon closer inspection I determined the fragment to be composed of kaolin clay glazed with feldspath; which as you know was only produced in China during the time of Qin Shi Huangdi. I have included a tiny sample of this fragment. And if you could inspect it Baron, I'm sure you'll agree that it is in fact a piece of pottery from the time of the first Emperor. This adds credence to your theory that Chinese travelers visited South America during the time of Master Lu. Incidentally, it may only be a coincidence, but shortly after my discovery, I noticed a man trailing me throughout Lima. I attempted to approach him on at least two occasions, but each time he disappeared before I was able to get a look at him. Please let me know if you think that this is related to your investigation into Master Lu. In any case, Luis has agreed to guide me to the Spider settlement, and we are to depart as soon as I have sent a preliminary draft of my paper to the International Archaeology Society. It is my sincere hope that you will be well enough to join me soon, as I feel I am on the verge of a monumental discovery, that will put me in company with the likes of Carter and Shima. Humbly yours, Dr. Jorge Menendez. Professor Emerit. Pre-Columbian Archaeology, National University of San Marcos, Lima. Feldspath... Eureka: Lu must have been in Peru, the lost city of Mocha Moche. Must do: wire Menendez immediately. Wire Ripley. Sequester key (IMPORTANT): sink it, put it to bed; the lone couch of his everlasting sleep?"
 msgstr ""
 
 #: 407R41A
 msgctxt "407R41A"
-msgid "I am delighted to report that I was able to decipher several sequences from this stelae. I'll allow you to read the exact details when I publish my findings in the literature. But since you have requested that I immediately forward any information that could be related to Master Lu, I can share a few points now."
+msgid "I'm delighted to report that I was able to decipher several sequences from the stele; I'll allow you to read the exact details when I publish my findings in the literature. But since you have requested that I immediately forward any information that could be related to Master Lu, I can share a few points now."
 msgstr ""
 
 #: 407R41B
 msgctxt "407R41B"
-msgid "If I am correct, the Stele describes the existence of at least three other settlements within Tawantinsuyu, each dedicated to an animal deity. The Stele tells that one site was dedicated to the condor, another to the snake, another to the spider, and the last to the monkey. I am almost certain that my current excavation site is dedicated to the condor."
+msgid "If I am correct, the stele describes the existence of at least three other settlements within Tawantinsuyu, each dedicated to an animal deity. The stele tells that one site was dedicated to the condor, another to the snake, another to the spider, and the last to the monkey. I am almost certain that my current excavation site is dedicated to the condor."
 msgstr ""
 
 #: 407R41C
 msgctxt "407R41C"
-msgid "Further, it seems that these people were also adept astronomers, and like the Inca after them, they constructed ritual observatories where they would worship at intervals based on the movement of the stars and sun. These ritual observatories were locked to all but the high priests, and to ensure security, the combination to each door was inscribed on a stele in a completely different settlement."
+msgid "Further, it seems that these people were also adept astronomers. And like the Inca after them, they constructed ritual observatories where they would worship at intervals, based on the movement of the stars and sun. These ritual observatories were locked to all but the high priests. And to ensure security, the combination to each door was inscribed on a stele in a completely different settlement."
 msgstr ""
 
 #: 407R41D
@@ -9883,17 +9883,17 @@ msgstr ""
 
 #: 407R41E
 msgctxt "407R41E"
-msgid "Now I have recently come into contact with an Andean guide named Luis Arunyos. He claims to have come across the remains of a similar settlement, and he described numerous decorations featuring iconic spiders. Also, he had in his possession several shards of terracotta pottery and slivers of obsidian that closely match the artifacts that I have uncovered in my day."
+msgid "Now I have recently come into contact with an Andean guy named Luis Aruños. He claims to have come across the remains of a similar settlement, Mocha Moche, and he described numerous decorations featuring iconic Spiders. Also he had in his possession, several shards of Terracotta pottery, and slivers of obsidian that closely matched the artifacts that I have uncovered in my dig."
 msgstr ""
 
 #: 407R41F
 msgctxt "407R41F"
-msgid "However, I noticed that one of the shards of pottery was different from every other sample of Peruvian pottery that has been found. The shard was white, and upon closer inspection I determined the fragment to be composed of kaolin clay glazed with feldspath, which as you know, was only produced in China during the time of Qin Shi Huangdi."
+msgid "However, I noticed that one of the shards of pottery was different from every other sample of Peruvian pottery that has been found; the shard was white, and upon closer inspection I determined the fragment to be composed of kaolin clay glazed with feldspath; which as you know was only produced in China during the time of Qin Shi Huangdi."
 msgstr ""
 
 #: 407R41G
 msgctxt "407R41G"
-msgid "I have included a tiny sample of this fragment. And if you could inspect it, Baron, I'm sure you'll agree that it is in fact a piece of pottery from the time of the first emperor. This adds credence to your theory that Chinese travelers visited South America during the time of Master Lu."
+msgid "I have included a tiny sample of this fragment. And if you could inspect it, Baron, I'm sure you'll agree that it is in fact a piece of pottery from the time of the first Emperor. This adds credence to your theory that Chinese travelers visited South America during the time of Master Lu."
 msgstr ""
 
 #: 407R41H
@@ -9903,17 +9903,17 @@ msgstr ""
 
 #: 407R41I
 msgctxt "407R41I"
-msgid "In any case, Louise has agreed to guide me to the Spider Settlement and we are to depart as soon as I have sent a preliminary draft of my paper to the International Archaeology Society. It is my sincere hope that you will be well enough to join me soon, as I feel I am on the verge of a monumental discovery that will put me in company with the likes of Carter and Schliemann."
+msgid "In any case, Luis has agreed to guide me to the Spider settlement, and we are to depart as soon as I have sent a preliminary draft of my paper to the International Archaeology Society. It is my sincere hope that you will be well enough to join me soon, as I feel I am on the verge of a monumental discovery, that will put me in company with the likes of Carter and Shima."
 msgstr ""
 
 #: 407R41J
 msgctxt "407R41J"
-msgid "Humbly Yours, Dr. Jorge Menendez, Professor Emerit, Pre-Columbian Archaeology, National University of San Marcos, Lima."
+msgid "Humbly Yours, Dr. Jorge Menendez, Professor Emerit. Pre-Columbian Archaeology, National University of San Marcos, Lima."
 msgstr ""
 
 #: 407R41K
 msgctxt "407R41K"
-msgid "Feldspath, Eureka, Lou must have been in Peru, must do wire Menendez immediately, wire Ripley, sequester key, important, sink it, put it to bed, the lone couch of his everlasting sleep."
+msgid "Feldspath, Eureka, Lu must have been in Peru,must do... wire Menendez immediately. Wire Ripley. Sequester key (IMPORTANT): sink it, put it to bed; the lone couch of his everlasting sleep?"
 msgstr ""
 
 #: 407R42
@@ -9933,12 +9933,12 @@ msgstr ""
 
 #: 407R45
 msgctxt "407R45"
-msgid "Oh, no!"
+msgid "Oh no..."
 msgstr ""
 
 #: 407R46
 msgctxt "407R46"
-msgid "It's pitch dark in here! Ripley, if you locked yourself in a safe or the old baron's private dungeon, they may never find your body. Is the Romanov curse at work on me already?"
+msgid "It's pitch dark in here! Ripley, if you locked yourself in a safe or the old Baron's private dungeon, they may never find your body. Is the Romanov curse at work on me already?"
 msgstr ""
 
 #: 407R47
@@ -10183,7 +10183,7 @@ msgstr ""
 
 #: 407R99F
 msgctxt "407R99F"
-msgid "Uh-oh."
+msgid "Uh oh..."
 msgstr ""
 
 #: 407R99G
@@ -10258,7 +10258,7 @@ msgstr ""
 
 #: 408R03
 msgctxt "408R03"
-msgid "The windows are shaped like the ace of spades. Imagine that!"
+msgid "The windows are shaped like the Ace of Spades. Imagine that!"
 msgstr ""
 
 #: 408R04
@@ -10333,7 +10333,7 @@ msgstr ""
 
 #: 408R27
 msgctxt "408R27"
-msgid "It's happened again. Utopiary out front is a mess."
+msgid "It's happened again. Your topiary out front is a mess."
 msgstr ""
 
 #: 408R28
@@ -10353,12 +10353,12 @@ msgstr ""
 
 #: 408R31
 msgctxt "408R31"
-msgid "Eh... eh... Phew..."
+msgid "(strains and gasps)"
 msgstr ""
 
 #: 408R32
 msgctxt "408R32"
-msgid "The old baron sure had a few cards up his sleeve."
+msgid "The old Baron sure had a few cards up his sleeve."
 msgstr ""
 
 #: 408R34
@@ -10418,12 +10418,12 @@ msgstr ""
 
 #: 409R01B
 msgctxt "409R01B"
-msgid "It's the kind of dream every man flirts with when the road shortens and the end is near. But that's all it is. A dream. And a waste of time. Better to face our mortality, I think. To live the years we're granted as fully as we can."
+msgid "'It's the kind of dream every man flirts with when the road shortens and the end is near. But that's all it is; a dream, and a waste of time. Better to face our mortality, I think; To live the years we're granted as fully as we can."
 msgstr ""
 
 #: 409R01C
 msgctxt "409R01C"
-msgid "The Chinese symbol for long life on every wall. I think I finally understand the old baron's interest in Liu. Even with all his safeguards, how could the baron prevent his being buried alive? How could he outwit death? With Liu's elixir of life."
+msgid "The Chinese symbol for long life on every wall. I think I finally understand the old Baron's interest in Liu. Even with all his safeguards, how could the Baron prevent his being buried alive? How could he outwit death? With Liu's elixir of life."
 msgstr ""
 
 #: 409R02A
@@ -10433,7 +10433,7 @@ msgstr ""
 
 #: 409R02B
 msgctxt "409R02B"
-msgid "If you do acquire the Emerald Seal, I beg of you, don't turn its power to world domination. Find it in your heart to use the seal only in the name of good. Then I can sleep my long sleep in peace. Signed, Otto VI Baron von Seltsam."
+msgid "If you do acquire the emerald seal, I beg of you, don't turn its power to world domination! Find it in your heart to use the seal only in the name of good. Then I can sleep my long sleep in peace. Sign, Otto. 6th Baron von Seltsam."
 msgstr ""
 
 #: 409R02C
@@ -10493,17 +10493,17 @@ msgstr ""
 
 #: 410R05
 msgctxt "410R05"
-msgid "Ace of Spades Castle, home to generations of barons von Seltsam."
+msgid "Ace of Spades Castle, home to generations of Barons von Seltsam."
 msgstr ""
 
 #: 410T01
 msgctxt "410T01"
-msgid "That is SlashBegas."
+msgid "That is Schloss Pik-As."
 msgstr ""
 
 #: 410T02
 msgctxt "410T02"
-msgid "Castle of the Apes of Spades, my dear."
+msgid "Castle of the Ace of Spades, sir."
 msgstr ""
 
 #: 413R01
@@ -10518,7 +10518,7 @@ msgstr ""
 
 #: 456R01
 msgctxt "456R01"
-msgid "Neptune on, you guessed it, a large ace of spades playing card."
+msgid "Neptune on, you guessed it, a large Ace of Spades playing card."
 msgstr ""
 
 #: 456R02
@@ -10533,12 +10533,12 @@ msgstr ""
 
 #: 456R04
 msgctxt "456R04"
-msgid "A box of fine Cubano cigars, judging by the ace of spades on the box, I'd bet they're the old baron's special blend."
+msgid "A box of fine Cubano cigars, judging by the Ace of Spades on the box, I'd bet they're the old Baron's special blend."
 msgstr ""
 
 #: 456R04A
 msgctxt "456R04A"
-msgid "Judging by the ace of spades on the box, I bet they're the old baron's special blend."
+msgid "Judging by the Ace of Spades on the box, I bet they're the old Baron's special blend."
 msgstr ""
 
 #: 456R04B
@@ -10598,7 +10598,7 @@ msgstr ""
 
 #: 456R15
 msgctxt "456R15"
-msgid "The Barron Special Cigar Box is a permanent part of the smoking hatch."
+msgid "The Baron Special Cigar Box is a permanent part of the smoking hatch."
 msgstr ""
 
 #: 456R16
@@ -10608,7 +10608,7 @@ msgstr ""
 
 #: 456R17
 msgctxt "456R17"
-msgid "The old baron's private smoking hatch. The old gent certainly was a secretive fellow."
+msgid "The old Baron's private smoking hatch. The old gent certainly was a secretive fellow."
 msgstr ""
 
 #: 456R26
@@ -10628,32 +10628,32 @@ msgstr ""
 
 #: 501R01
 msgctxt "501R01"
-msgid "Buenos dias, Mateo."
+msgid "Good morning, Mateo."
 msgstr ""
 
 #: 501R02
 msgctxt "501R02"
-msgid "Dear Mr. Ripley, I regret to inform you that Professor Jorge Menendez was killed two weeks ago in an attempted robbery. Most of his papers are missing or destroyed. The perpetrator remains at large. We are all shocked, to say the least, and it will take us months to reconstruct the professor's work. But if I can be of assistance, please do not hesitate to contact me. Signed, Rafael Campos, Assistant Professor of Archaeology, National University of San Marcos, Lima."
+msgid "Dear Mr. Ripley. I regret to inform you that Professor Jorge Menendez was killed two weeks ago in an attempted robbery; most of his papers are missing or destroyed. The perpetrator remains at large. We're all shocked to say the least and it will take us months to reconstruct the Professor's work. But if I can be of assistance, please do not hesitate to contact me. Signed, Rafael Campos. Assistant Professor of Archaeology, National University of San Marcos, Lima."
 msgstr ""
 
 #: 501R02A
 msgctxt "501R02A"
-msgid "We're all shocked to say the least and it will take us months to reconstruct the professor's work. But if I can be of assistance, please do not hesitate to contact me. Signed, Rafael Campos, Assistant Professor of Archaeology, National University of San Marcos, Lima."
+msgid "We're all shocked to say the least and it will take us months to reconstruct the Professor's work. But if I can be of assistance, please do not hesitate to contact me. Signed, Rafael Campos, Assistant Professor of Archaeology, National University of San Marcos, Lima."
 msgstr ""
 
 #: 501R02B
 msgctxt "501R02B"
-msgid "Dear Mr. Ripley, I regret to inform you that Professor Jorge Menendez was killed two weeks ago in an attempted robbery. Most of his papers are missing or destroyed. The perpetrator remains at large. We are all shocked to say the least and it will take us months to reconstruct the professor's work. But if I can be of assistance, please do not hesitate to contact me. Signed, Rafael Campos, Assistant Professor of Archaeology, National University of San Marcos, Lima. Months? I don't have months. The man Menendez mentioned in his letter, the one who was following him, I wonder who he was."
+msgid "Dear Mr. Ripley. I regret to inform you that Professor Jorge Menendez was killed two weeks ago in an attempted robbery; most of his papers are missing or destroyed. The perpetrator remains at large. We're all shocked to say the least and it will take us months to reconstruct the Professor's work. But if I can be of assistance, please do not hesitate to contact me. Signed, Rafael Campos. Assistant Professor of Archaeology, National University of San Marcos, Lima. MONTHS!? I DON'T HAVE MONTHS! The man Menendez mentioned in his letter, the one who was following him, I wonder who he was..."
 msgstr ""
 
 #: 501R03
 msgctxt "501R03"
-msgid "Dear Mr. Ripley, I wanted to let you know that the identity of Professor Menendez's killer has been uncovered. Evidence of the scene points to a ne'er-do-well nephew of the professor named Emilio Menendez, a criminal with a history of looting historical sites. The motive was greed. The nephew had apparently broken into the professor's home in an attempt to steal papers that would lead him to archaeological treasures. Unfortunately, the man seems to have vanished, but police all over Latin America are on the lookout for him. I can only hope that Emilio Menendez will be brought to justice for his despicable crime. Signed, Rafael Campos, Assistant Professor of Archaeology, National University of San Marcos, Lima."
+msgid "Dear Mr. Ripley, I wanted to let you know that the identity of Professor Menendez's killer has been uncovered. Evidence of the scene points to a ne'er-do-well nephew of the Professor, named Emilio Menendez; a criminal with a history of looting historical sites. The motive was greed. The nephew had apparently broken into the Professor's home in an attempt to steal papers that would lead him to archaeological treasures. Unfortunately, the man seems to have vanished. But police all over Latin America are on the lookout for him. I can only hope that Emilio Menendez will be brought to justice for his despicable crime! Signed, Rafael Campos, Assistant Professor of Archaeology, National University of San Marcos, Lima."
 msgstr ""
 
 #: 501R03A
 msgctxt "501R03A"
-msgid "The motive was greed. The nephew had apparently broken into the professor's home in an attempt to steal papers that would lead him to archaeological treasures. Unfortunately, the man seems to have vanished, but police all over Latin America are on the lookout for him."
+msgid "The motive was greed. The nephew had apparently broken into the Professor's home in an attempt to steal papers that would lead him to archaeological treasures. Unfortunately, the man seems to have vanished, but police all over Latin America are on the lookout for him."
 msgstr ""
 
 #: 501R03B
@@ -10663,7 +10663,7 @@ msgstr ""
 
 #: 501R03C
 msgctxt "501R03C"
-msgid "Dear Mr. Ripley, I wanted to let you know that the identity of Professor Menendez's killer has been uncovered. Evidence of the scene points to a ne'er-do-well nephew of the professor named Emilio Menendez, a criminal with a history of looting historical sites. The motive was greed. The nephew had apparently broken into the professor's home in an attempt to steal papers that would lead him to archaeological treasures. Unfortunately, the man seems to have vanished, but police all over Latin America are on the lookout for him. I can only hope that Emilio Menendez will be brought to justice for his despicable crime. Signed, Rafael Campos, Assistant Professor of Archaeology, National University of San Marcos, Lima. Justice has been served, Professor Campos. Greed was literally the downfall of Emilio Menendez."
+msgid "Dear Mr. Ripley, I wanted to let you know that the identity of Professor Menendez's killer has been uncovered. Evidence of the scene points to a ne'er-do-well nephew of the Professor, named Emilio Menendez; a criminal with a history of looting historical sites. The motive was greed. The nephew had apparently broken into the Professor's home in an attempt to steal papers that would lead him to archaeological treasures. Unfortunately, the man seems to have vanished. But police all over Latin America are on the lookout for him. I can only hope that Emilio Menendez will be brought to justice for his despicable crime! Signed, Rafael Campos, Assistant Professor of Archaeology, National University of San Marcos, Lima. -Justice has been served, Professor Campos; greed was literally the downfall of Emilio Menendez."
 msgstr ""
 
 #: 501R05
@@ -10693,7 +10693,7 @@ msgstr ""
 
 #: 501R08
 msgctxt "501R08"
-msgid "A magnificent stelae. One pictograph looks like a giant condor."
+msgid "A magnificent stele. One pictograph looks like a giant condor."
 msgstr ""
 
 #: 501R08A
@@ -10738,7 +10738,7 @@ msgstr ""
 
 #: 501R35
 msgctxt "501R35"
-msgid "Other than the stelae, there is nothing else of interest to sketch in here."
+msgid "Other than the stele, there is nothing else of interest to sketch in here."
 msgstr ""
 
 #: 501R36
@@ -10768,7 +10768,7 @@ msgstr ""
 
 #: 501X01
 msgctxt "501X01"
-msgid "Buenas dias señor Ripley. Welcome back to Lima."
+msgid "Good morning, Mr. Ripley. Welcome back to Lima."
 msgstr ""
 
 #: 501X02
@@ -10793,7 +10793,7 @@ msgstr ""
 
 #: 501X07
 msgctxt "501X07"
-msgid "With the greatest of pleasure, Senor Ripley. Muchísimas gracias. My son will be so excited."
+msgid "With the greatest of pleasure, Mr. Ripley. Thanks a lot! My son will be so excited."
 msgstr ""
 
 #: 501X08
@@ -10808,7 +10808,7 @@ msgstr ""
 
 #: 504R02
 msgctxt "504R02"
-msgid "The lost city of Moka Moche."
+msgid "The lost city of Mocha Moche."
 msgstr ""
 
 #: 504R02A
@@ -10903,17 +10903,17 @@ msgstr ""
 
 #: 504R17
 msgctxt "504R17"
-msgid "Cursed luck... Wait! The emerald!"
+msgid "Cursed luck...!? WAIT-- THE EMERALD!!!"
 msgstr ""
 
 #: 504R18
 msgctxt "504R18"
-msgid "Don't try crossing the AAAAAAAAAAAA-"
+msgid "DON'T TRY CROSSING THE... -AHHHHHHHHHHHHHHHHHHHH!!!!!"
 msgstr ""
 
 #: 504R18A
 msgctxt "504R18A"
-msgid "Chasm."
+msgid "...Chasm."
 msgstr ""
 
 #: 504R19
@@ -10923,17 +10923,17 @@ msgstr ""
 
 #: 504R20
 msgctxt "504R20"
-msgid "A pre-Columbian wheeled toy. This is remarkable. We know the Inca hadn't discovered any practical application for the wheel, yet here it is used as locomotion for a toy. And a little child shall lead them."
+msgid "A Pre-Columbian wheeled toy... This is remarkable! We know the Inca hadn't discovered any practical application for the wheel, yet here it is used as locomotion for a toy! And a little child shall lead them."
 msgstr ""
 
 #: 504R21
 msgctxt "504R21"
-msgid "There's nothing in the hole except for a couple of Menendez Toads."
+msgid "There's nothing in the hole except for a couple of Menendez's toes."
 msgstr ""
 
 #: 504R22
 msgctxt "504R22"
-msgid "This stelae must refer to the city that worshiped the monkey god that Professor Menendez mentioned in his letter. Some of the blocks are missing."
+msgid "This stele must refer to the city that worshiped the monkey god that Professor Menendez mentioned in his letter. Some of the blocks are missing."
 msgstr ""
 
 #: 504R23
@@ -10943,7 +10943,7 @@ msgstr ""
 
 #: 504R24
 msgctxt "504R24"
-msgid "The Stella is far too heavy."
+msgid "The stele is far too heavy."
 msgstr ""
 
 #: 504R25
@@ -10958,7 +10958,7 @@ msgstr ""
 
 #: 504R33A
 msgctxt "504R33A"
-msgid "I wonder if Menenda's toes are still down there."
+msgid "I wonder if Menendez's toes are still down there."
 msgstr ""
 
 #: 504R34
@@ -11053,7 +11053,7 @@ msgstr ""
 
 #: 504Z01
 msgctxt "504Z01"
-msgid "No, senor."
+msgid "No sir."
 msgstr ""
 
 #: 504Z02
@@ -11098,12 +11098,12 @@ msgstr ""
 
 #: 504Z10
 msgctxt "504Z10"
-msgid "Are you crazy, senor?"
+msgid "Are you crazy, señor?"
 msgstr ""
 
 #: 504Z11
 msgctxt "504Z11"
-msgid "No, gracias."
+msgid "No, thank you."
 msgstr ""
 
 #: 504Z12
@@ -11128,7 +11128,7 @@ msgstr ""
 
 #: 504Z16
 msgctxt "504Z16"
-msgid "Oh, what cursed luck!"
+msgid "URGHH!!! WHAT CURSED LUCK!"
 msgstr ""
 
 #: 504Z17
@@ -11143,7 +11143,7 @@ msgstr ""
 
 #: 506R01
 msgctxt "506R01"
-msgid "The lost city of Moka Moche."
+msgid "The lost city of Mocha Moche."
 msgstr ""
 
 #: 506R01A
@@ -11198,7 +11198,7 @@ msgstr ""
 
 #: 507R01
 msgctxt "507R01"
-msgid "A door of solid copper, yet it lacks a handle or a doorknob. And those symbols inset into the frame, they're similar to the ones on the stelae I've sketched. It's some sort of mechanism requiring a combination."
+msgid "A door of solid copper, yet it lacks a handle or a doorknob. And those symbols inset into the frame, they're similar to the ones on the stele I've sketched. It's some sort of mechanism requiring a combination."
 msgstr ""
 
 #: 507R02
@@ -11218,7 +11218,7 @@ msgstr ""
 
 #: 507R05
 msgctxt "507R05"
-msgid "According to the Menendez letter, somewhere in another lost city is the stelae that holds the combination to this door."
+msgid "According to the Menendez letter, somewhere in another lost city is the stele that holds the combination to this door."
 msgstr ""
 
 #: 507R07
@@ -11318,7 +11318,7 @@ msgstr ""
 
 #: 508R14
 msgctxt "508R14"
-msgid "Got it! I hope it helps!"
+msgid "(sigh) Got it! I hope it helped."
 msgstr ""
 
 #: 508R15
@@ -11458,7 +11458,7 @@ msgstr ""
 
 #: 603R01A
 msgctxt "603R01A"
-msgid "Dr. Twelve Trees Archaeological Dig."
+msgid "Dr. Twelvetrees' Archaeological Dig."
 msgstr ""
 
 #: 603R02
@@ -11513,7 +11513,7 @@ msgstr ""
 
 #: 603R11
 msgctxt "603R11"
-msgid "This must be a portion of the Twelve Trees Dig."
+msgid "This must be a portion of the Twelvetrees' dig."
 msgstr ""
 
 #: 603R12
@@ -11553,7 +11553,7 @@ msgstr ""
 
 #: 603R25
 msgctxt "603R25"
-msgid "Dr. Twelve Trees is not about to let me trample all over her dick."
+msgid "Dr. Twelvetrees is not about to let me trample all over her dig."
 msgstr ""
 
 #: 603R26
@@ -11563,12 +11563,12 @@ msgstr ""
 
 #: 603R27
 msgctxt "603R27"
-msgid "Dr. Twelve Trees is excavating the base of that ancient altar."
+msgid "Dr. Twelvetrees is excavating the base of that ancient altar."
 msgstr ""
 
 #: 603R28
 msgctxt "603R28"
-msgid "Mr. Ripley, gone to the settlement for supplies. Be back shortly. Twelve trees."
+msgid "Mr. Ripley, gone to the settlement for supplies. Be back shortly. Twelvetrees."
 msgstr ""
 
 #: 603R29
@@ -11578,7 +11578,7 @@ msgstr ""
 
 #: 603R30
 msgctxt "603R30"
-msgid "Dr. Twelve Trees apparently tried to map the quarry."
+msgid "Dr. Twelvetrees apparently tried to map the quarry."
 msgstr ""
 
 #: 603R31
@@ -11593,12 +11593,12 @@ msgstr ""
 
 #: 603R34
 msgctxt "603R34"
-msgid "I'd better not disturb Dr. TwelveTreesDig."
+msgid "I'd better not disturb Dr. Twelvetrees' Dig."
 msgstr ""
 
 #: 603R35
 msgctxt "603R35"
-msgid "Doctor Twelve Trees Living Quarters"
+msgid "Dr. Twelvetrees Living Quarters"
 msgstr ""
 
 #: 603R36
@@ -11643,7 +11643,7 @@ msgstr ""
 
 #: 603R44
 msgctxt "603R44"
-msgid "Gone to Mackenzie Institute in Ireland to match Rongo-Rongo tablets there with recent discovery. Be back in two to three months. Please do not disturb the dig site. Signed, Dr. Samantha Twelve Trees."
+msgid "Gone to Mackenzie Institute in Ireland to match Rongo-Rongo tablets there with recent discovery. Be back in two to three months. Please do not disturb the dig site. Signed, Dr. Samantha Twelvetrees."
 msgstr ""
 
 #: 603R45
@@ -11658,7 +11658,7 @@ msgstr ""
 
 #: 603R47
 msgctxt "603R47"
-msgid "I'd better leave the digging to Dr. 12trees. She's a professional."
+msgid "I'd better leave the digging to Dr. Twelvetrees. She's a professional."
 msgstr ""
 
 #: 603T01
@@ -11723,12 +11723,12 @@ msgstr ""
 
 #: 604R01
 msgctxt "604R01"
-msgid "Dr. Twelve Trees uses that wire to hook the door open."
+msgid "Dr. Twelvetrees uses that wire to hook the door open."
 msgstr ""
 
 #: 604R02
 msgctxt "604R02"
-msgid "The latest in portable generators. It obviously provides power to Dr. Twelve Trees Hut."
+msgid "The latest in portable generators. It obviously provides power to Dr. Twelvetrees' Hut."
 msgstr ""
 
 #: 604R03
@@ -11783,7 +11783,7 @@ msgstr ""
 
 #: 604R13
 msgctxt "604R13"
-msgid "Should I disconnect Dr. Twelve Tree's power? No, probably not a very good idea."
+msgid "Should I disconnect Dr. Twelvetrees' power? No, probably not a very good idea."
 msgstr ""
 
 #: 604R14
@@ -11793,12 +11793,12 @@ msgstr ""
 
 #: 604R15
 msgctxt "604R15"
-msgid "If Dr. Twelve Trees had wanted the door open, she would have hooked the wire up herself."
+msgid "If Dr. Twelvetrees had wanted the door open, she would have hooked the wire up herself."
 msgstr ""
 
 #: 604R24
 msgctxt "604R24"
-msgid "I have to do something to help Dr. Twelve Trees."
+msgid "I have to do something to help Dr. Twelvetrees."
 msgstr ""
 
 #: 604R25
@@ -11853,7 +11853,7 @@ msgstr ""
 
 #: 604R33
 msgctxt "604R33"
-msgid "Ripley, for heaven's sake! Getting yourself killed won't help Dr. Twelve Trees!"
+msgid "Ripley, for heaven's sake! Getting yourself killed won't help Dr. Twelvetrees!"
 msgstr ""
 
 #: 604R34
@@ -11873,7 +11873,7 @@ msgstr ""
 
 #: 604R37
 msgctxt "604R37"
-msgid "We are back. And we are back. And we are back."
+msgid "Ace of Spades Castle will make a marvelous addition to my gallery of cartoons."
 msgstr ""
 
 #: 604R38
@@ -11888,7 +11888,7 @@ msgstr ""
 
 #: 604R40
 msgctxt "604R40"
-msgid "I don't know what I'm saying."
+msgid "Ace of Spades Castle will make a marvelous addition to my gallery of cartoons."
 msgstr ""
 
 #: 604R41
@@ -11898,12 +11898,12 @@ msgstr ""
 
 #: 604R41A
 msgctxt "604R41A"
-msgid "If I can just think this through, I may be able to help Dr. Twelve Trees."
+msgid "If I can just think this through, I may be able to help Dr. Twelvetrees."
 msgstr ""
 
 #: 604R42
 msgctxt "604R42"
-msgid "A little pause... and we are back."
+msgid "Ace of Spades Castle will make a marvelous addition to my gallery of cartoons."
 msgstr ""
 
 #: 604R43
@@ -11918,7 +11918,7 @@ msgstr ""
 
 #: 604R45
 msgctxt "604R45"
-msgid "I don't know what to say."
+msgid "Ace of Spades Castle will make a marvelous addition to my gallery of cartoons."
 msgstr ""
 
 #: 604R46
@@ -11983,7 +11983,7 @@ msgstr ""
 
 #: 605R09
 msgctxt "605R09"
-msgid "That statue appears to be looking at Dr. Twelftree's. I don't blame it."
+msgid "That statue appears to be looking at Dr. Twelvetrees. I don't blame it."
 msgstr ""
 
 #: 605R10
@@ -12063,7 +12063,7 @@ msgstr ""
 
 #: 605R33
 msgctxt "605R33"
-msgid "Dr. Twelve Trees warned me obsidian can get mighty warm in the sun."
+msgid "Dr. Twelvetrees warned me obsidian can get mighty warm in the sun."
 msgstr ""
 
 #: 605R34
@@ -12283,7 +12283,7 @@ msgstr ""
 
 #: 608O17
 msgctxt "608O17"
-msgid "You again."
+msgid "(sigh) You again?"
 msgstr ""
 
 #: 608O18
@@ -12293,7 +12293,7 @@ msgstr ""
 
 #: 608O19
 msgctxt "608O19"
-msgid "Huuh!"
+msgid "(gasps)"
 msgstr ""
 
 #: 608R01
@@ -12488,7 +12488,7 @@ msgstr ""
 
 #: 608R42
 msgctxt "608R42"
-msgid "I'm afraid Dr. Twelve Trees won't be getting her pull back."
+msgid "I'm afraid Dr. Twelvetrees won't be getting her pull back."
 msgstr ""
 
 #: 608R43
@@ -12513,7 +12513,7 @@ msgstr ""
 
 #: 608R47
 msgctxt "608R47"
-msgid "Ah, some sort of arcane ritual. Dr. Twelve-Tree should see this."
+msgid "Ah, some sort of arcane ritual. Dr. Twelvetrees should see this."
 msgstr ""
 
 #: 608R48
@@ -12568,12 +12568,12 @@ msgstr ""
 
 #: 608R56
 msgctxt "608R56"
-msgid "Uh, sorry!"
+msgid "Ah-- Eh, sorry."
 msgstr ""
 
 #: 608R57
 msgctxt "608R57"
-msgid "Well, not usually, doctor. Uh, uh, no."
+msgid "Well (chuckles). Not usually Doctor, no."
 msgstr ""
 
 #: 608R58
@@ -12623,7 +12623,7 @@ msgstr ""
 
 #: 608R66
 msgctxt "608R66"
-msgid "Doctor, twelve trees lighter. She dropped it during our unfortunate tumble."
+msgid "Dr. Twelvetrees' lighter. She dropped it during our unfortunate tumble."
 msgstr ""
 
 #: 608R67
@@ -12648,7 +12648,7 @@ msgstr ""
 
 #: 608R71
 msgctxt "608R71"
-msgid "Yes!"
+msgid "Yes."
 msgstr ""
 
 #: 608R72
@@ -12808,7 +12808,7 @@ msgstr ""
 
 #: 610K11
 msgctxt "610K11"
-msgid "Did you find anything that might help decipher Lou's tablet?"
+msgid "Did you find anything that might help decipher Lu's tablet?"
 msgstr ""
 
 #: 610K12
@@ -12843,7 +12843,7 @@ msgstr ""
 
 #: 610R04
 msgctxt "610R04"
-msgid "Dr. Twelve Trees Hut"
+msgid "Dr. Twelvetrees' Hut"
 msgstr ""
 
 #: 610R05
@@ -12893,7 +12893,7 @@ msgstr ""
 
 #: 610R14
 msgctxt "610R14"
-msgid "Doctor Twelve Trees, may I be of any assistance?"
+msgid "Dr. Twelvetrees, may I be of any assistance?"
 msgstr ""
 
 #: 610R15
@@ -12903,7 +12903,7 @@ msgstr ""
 
 #: 610R16
 msgctxt "610R16"
-msgid "Ripley, for heaven's sakes, getting yourself killed won't help Dr. Twelve Trees."
+msgid "Ripley, for heaven's sakes, getting yourself killed won't help Dr. Twelvetrees."
 msgstr ""
 
 #: 610R17
@@ -12938,7 +12938,7 @@ msgstr ""
 
 #: 615R02
 msgctxt "615R02"
-msgid "Oh, uh, fine, uh..."
+msgid "Oh! Fine. Ah--"
 msgstr ""
 
 #: 615R02A
@@ -13058,7 +13058,7 @@ msgstr ""
 
 #: 615T09
 msgctxt "615T09"
-msgid "On Master Lu's tablet."
+msgid "Oh, on Master Lu's tablet?"
 msgstr ""
 
 #: 615T10
@@ -13153,12 +13153,12 @@ msgstr ""
 
 #: 701R07
 msgctxt "701R07"
-msgid "Many thanks, uh..."
+msgid "Many thanks, eh--"
 msgstr ""
 
 #: 701R08
 msgctxt "701R08"
-msgid "Thanks, Terenjit."
+msgid "Thanks, Taranjeet."
 msgstr ""
 
 #: 701R10
@@ -13248,7 +13248,7 @@ msgstr ""
 
 #: 701R39A
 msgctxt "701R39A"
-msgid "It's good I'm staying with my grandmother. I can look after her, while I try to secure our travel permits. But Peiping is becoming a very frightening place, little resembling the fine city I remember as a child. If I don't see you when you return to Peiping, it's only because I'm spending almost every waking hour in government offices, trying to get our permits. I miss you with all my heart, May."
+msgid "It's good I'm staying with my grandmother; I can look after her, while I try to secure our travel permits. But Peiping is becoming a very frightening place. Little resembling the fine city I remember as a child. If I don't see you when you return to Peiping, it's only because I'm spending almost every waking hour in government offices, trying to get our permits. I miss you with all my heart, Mei."
 msgstr ""
 
 #: 701R40
@@ -13263,12 +13263,12 @@ msgstr ""
 
 #: 701R42
 msgctxt "701R42"
-msgid "May will be able to find someone to translate the ancient Chinese characters from the temple."
+msgid "Mei will be able to find someone to translate the ancient Chinese characters from the temple."
 msgstr ""
 
 #: 701X01
 msgctxt "701X01"
-msgid "Sat Sri Akal, Sahib. How may I assist you?"
+msgid "Good day, sir. How may I assist you?"
 msgstr ""
 
 #: 701X02
@@ -13293,7 +13293,7 @@ msgstr ""
 
 #: 701X04
 msgctxt "701X04"
-msgid "Does this gentleman reside in Sakim, sahib?"
+msgid "Does this gentleman reside in Sikkim, sahib?"
 msgstr ""
 
 #: 701X05
@@ -13318,12 +13318,12 @@ msgstr ""
 
 #: 701X08
 msgctxt "701X08"
-msgid "Terenjit sahib."
+msgid "Taranjeet, sir."
 msgstr ""
 
 #: 701X09
 msgctxt "701X09"
-msgid "Yeti sahib."
+msgid "Yei, sir."
 msgstr ""
 
 #: 701X10
@@ -13333,7 +13333,7 @@ msgstr ""
 
 #: 701X11
 msgctxt "701X11"
-msgid "Sat Sri Akal, Mr. Ripley."
+msgid "Goodbye, Mr. Ripley."
 msgstr ""
 
 #: 702G01
@@ -13428,7 +13428,7 @@ msgstr ""
 
 #: 702G19
 msgctxt "702G19"
-msgid "We welcome questers from all lands."
+msgid "We welcome questions from our lands."
 msgstr ""
 
 #: 702G20
@@ -13493,7 +13493,7 @@ msgstr ""
 
 #: 702R09
 msgctxt "702R09"
-msgid "Uh... yes, I am."
+msgid "Ah-- Yes. I am."
 msgstr ""
 
 #: 702R10
@@ -13518,7 +13518,7 @@ msgstr ""
 
 #: 702R14
 msgctxt "702R14"
-msgid "I've returned!"
+msgid "I returned."
 msgstr ""
 
 #: 702R15
@@ -13678,7 +13678,7 @@ msgstr ""
 
 #: 704R01
 msgctxt "704R01"
-msgid "The Temple of the Hidden Way was crafted with stone and a hunger for knowledge."
+msgid ""
 msgstr ""
 
 #: 704R04
@@ -13948,7 +13948,7 @@ msgstr ""
 
 #: 710R03
 msgctxt "710R03"
-msgid "What does it remind me of? Oh, no! The old baron's laboratory! I don't think I can go through something like that again."
+msgid "What does it remind me of? Oh, no! The old Baron's laboratory! I don't think I can go through something like that again."
 msgstr ""
 
 #: 710R04
@@ -14058,37 +14058,37 @@ msgstr ""
 
 #: 801F01
 msgctxt "801F01"
-msgid "(Chinese)"
+msgid ""
 msgstr ""
 
 #: 801F02
 msgctxt "801F02"
-msgid "(Chinese)"
+msgid ""
 msgstr ""
 
 #: 801F02A
 msgctxt "801F02A"
-msgid "(Chinese)"
+msgid ""
 msgstr ""
 
 #: 801F03
 msgctxt "801F03"
-msgid "(Chinese)"
+msgid ""
 msgstr ""
 
 #: 801F06
 msgctxt "801F06"
-msgid "(Chinese)"
+msgid ""
 msgstr ""
 
 #: 801M01
 msgctxt "801M01"
-msgid "(Chinese)"
+msgid ""
 msgstr ""
 
 #: 801M02
 msgctxt "801M02"
-msgid "(Chinese)"
+msgid ""
 msgstr ""
 
 #: 801M03
@@ -14103,7 +14103,7 @@ msgstr ""
 
 #: 801M05
 msgctxt "801M05"
-msgid "Getting past Quang's men won't be easy."
+msgid "Getting past Kuang's men won't be easy."
 msgstr ""
 
 #: 801M06
@@ -14123,7 +14123,7 @@ msgstr ""
 
 #: 801M12
 msgctxt "801M12"
-msgid "(Chinese)"
+msgid ""
 msgstr ""
 
 #: 801M13
@@ -14138,17 +14138,17 @@ msgstr ""
 
 #: 801R02
 msgctxt "801R02"
-msgid "What is he saying, May?"
+msgid "What is he saying, Mei?"
 msgstr ""
 
 #: 801R03
 msgctxt "801R03"
-msgid "They may have dug down to the tomb, but if they'd found a way in, Quang would not have stolen my notes."
+msgid "They may have dug down to the tomb, but if they'd found a way in, Kuang would not have stolen my notes."
 msgstr ""
 
 #: 801R04
 msgctxt "801R04"
-msgid "No!"
+msgid "No..."
 msgstr ""
 
 #: 801R05
@@ -14183,12 +14183,12 @@ msgstr ""
 
 #: 801R13
 msgctxt "801R13"
-msgid "Mount Li, an artificial mountain, and underneath in the first emperor's tomb, the emerald seal. The key to China, perhaps all of Asia."
+msgid "Mount Li, an artificial mountain, and underneath in the first Emperor's tomb, the emerald seal. The key to China, perhaps all of Asia."
 msgstr ""
 
 #: 801R13A
 msgctxt "801R13A"
-msgid "Mount Li, an artificial mountain covering the first emperor's tomb."
+msgid "Mount Li, an artificial mountain covering the first Emperor's tomb."
 msgstr ""
 
 #: 801R14
@@ -14228,12 +14228,12 @@ msgstr ""
 
 #: 801R20
 msgctxt "801R20"
-msgid "May, these are bits of terracotta sculptures. Here's part of a hand."
+msgid "Mei, these are bits of terracotta sculptures. Here's part of a hand."
 msgstr ""
 
 #: 801R21
 msgctxt "801R21"
-msgid "The old baron's letter mentioned row upon row of Terracotta soldiers, guarding the first emperor's treasures."
+msgid "The old Baron's letter mentioned row upon row of Terracotta soldiers, guarding the first Emperor's treasures."
 msgstr ""
 
 #: 801R22
@@ -14263,7 +14263,7 @@ msgstr ""
 
 #: 801R27
 msgctxt "801R27"
-msgid "I don't have time to discover this fellow will only part with that shovel if I present him with a rare vegetable from Tibet or something. May, tell the fellow I'd like to buy a shovel. Then he can buy a new one."
+msgid "I don't have time to discover this fellow will only part with that shovel if I present him with a rare vegetable from Tibet or something. Mei, tell the fellow I'd like to buy a shovel. Then he can buy a new one."
 msgstr ""
 
 #: 801R28
@@ -14278,17 +14278,17 @@ msgstr ""
 
 #: 801R30
 msgctxt "801R30"
-msgid "May, come look at this!"
+msgid "Mei, come look at this!"
 msgstr ""
 
 #: 801R31
 msgctxt "801R31"
-msgid "What's the matter with the fellow? He's never seen American dollars before."
+msgid "What's the matter with the fellow? He's never seen American dollars before!"
 msgstr ""
 
 #: 801R32
 msgctxt "801R32"
-msgid "He's never seen American dollars before."
+msgid "He's never seen American dollars before!"
 msgstr ""
 
 #: 801R42
@@ -14298,12 +14298,12 @@ msgstr ""
 
 #: 801R43B
 msgctxt "801R43B"
-msgid "Placeholder. He's never seen American dollars before. And even if he had, how could he possibly tell the denominations without them being different colors?"
+msgid ""
 msgstr ""
 
 #: 801R43C
 msgctxt "801R43C"
-msgid "Placeholder, what's the matter with the fellow? He's never seen American dollars before."
+msgid ""
 msgstr ""
 
 #: 801R44
@@ -14413,7 +14413,7 @@ msgstr ""
 
 #: 803R02
 msgctxt "803R02"
-msgid "Yeah, elementary."
+msgid "(chuckles) Yeah, elementary."
 msgstr ""
 
 #: 803R03
@@ -14523,7 +14523,7 @@ msgstr ""
 
 #: 805M01
 msgctxt "805M01"
-msgid "Then Quang made it this far."
+msgid "Then Kuang made it this far."
 msgstr ""
 
 #: 805R01
@@ -14548,7 +14548,7 @@ msgstr ""
 
 #: 805R05
 msgctxt "805R05"
-msgid "Maybe..."
+msgid "May be."
 msgstr ""
 
 #: 805R05A
@@ -14558,12 +14558,12 @@ msgstr ""
 
 #: 805R06
 msgctxt "805R06"
-msgid "I suspect that hole is how Quang planned to enter the tomb. I wonder if he is here now."
+msgid "I suspect that hole is how Kuang planned to enter the tomb. I wonder if he is here now."
 msgstr ""
 
 #: 805R06A
 msgctxt "805R06A"
-msgid "Obviously the hole through which Quang entered the tomb."
+msgid "Obviously the hole through which Kuang entered the tomb."
 msgstr ""
 
 #: 805R07
@@ -14643,7 +14643,7 @@ msgstr ""
 
 #: 806M01
 msgctxt "806M01"
-msgid "It's quiet. What happened to him?"
+msgid "It's Kuang! What happened to him?"
 msgstr ""
 
 #: 806M02
@@ -14663,7 +14663,7 @@ msgstr ""
 
 #: 806R01
 msgctxt "806R01"
-msgid "Looks like Quang found out first-hand that a little knowledge can be a dangerous thing."
+msgid "Looks like Kuang found out first-hand that a little knowledge can be a dangerous thing."
 msgstr ""
 
 #: 806R02
@@ -14678,7 +14678,7 @@ msgstr ""
 
 #: 806R04
 msgctxt "806R04"
-msgid "This corridor appears to serve no particular purpose, but Quang's body suggests that appearances can be deceiving."
+msgid "This corridor appears to serve no particular purpose, but Kuang's body suggests that appearances can be deceiving."
 msgstr ""
 
 #: 806R05
@@ -14693,12 +14693,12 @@ msgstr ""
 
 #: 806R07
 msgctxt "806R07"
-msgid "Kwan wasn't shot from behind, or farther along the corridor. He was shot from the side. No, both sides."
+msgid "Kuang wasn't shot from behind, or farther along the corridor. He was shot from the side. No, both sides."
 msgstr ""
 
 #: 806R08
 msgctxt "806R08"
-msgid "Notice the stone slabs, May? Quang lies on the first. I suspect each slab triggers a mechanism of some sort."
+msgid "Notice the stone slabs, Mei? Kuang lies on the first. I suspect each slab triggers a mechanism of some sort."
 msgstr ""
 
 #: 806R08A
@@ -14708,7 +14708,7 @@ msgstr ""
 
 #: 806R09
 msgctxt "806R09"
-msgid "That can only be the second century B.C. Chinese equivalent of a doorknob. It must be how Quang closed the jade door after him."
+msgid "That can only be the second century B.C. Chinese equivalent of a doorknob. It must be how Kuang closed the jade door after him."
 msgstr ""
 
 #: 806R10
@@ -14723,7 +14723,7 @@ msgstr ""
 
 #: 806R14
 msgctxt "806R14"
-msgid "May's holding up wonderfully. She's quite a gal."
+msgid "Mei's holding up wonderfully. She's quite a gal."
 msgstr ""
 
 #: 806R15
@@ -14733,12 +14733,12 @@ msgstr ""
 
 #: 806R16
 msgctxt "806R16"
-msgid "With the barbs on the head of that bolt, it would be a long and unpleasant task removing it from Quang's body."
+msgid "With the barbs on the head of that bolt, it would be a long and unpleasant task removing it from Kuang's body."
 msgstr ""
 
 #: 806R17
 msgctxt "806R17"
-msgid "However, Quang got the Jade door closed, it's jammed now."
+msgid "However, Kuang got the Jade door closed, it's jammed now."
 msgstr ""
 
 #: 806R18
@@ -14753,12 +14753,12 @@ msgstr ""
 
 #: 806R20
 msgctxt "806R20"
-msgid "Better move to one side, May. I have an idea."
+msgid "Better move to one side, Mei. I have an idea."
 msgstr ""
 
 #: 806R21
 msgctxt "806R21"
-msgid "May has little use for the crank right now."
+msgid "Mei has little use for the crank right now."
 msgstr ""
 
 #: 806R23
@@ -14773,12 +14773,12 @@ msgstr ""
 
 #: 806R25
 msgctxt "806R25"
-msgid "I saw Quang's flashlight flicker and die when we entered. It's of no use now."
+msgid "I saw Kuang's flashlight flicker and die when we entered. It's of no use now."
 msgstr ""
 
 #: 806R25A
 msgctxt "806R25A"
-msgid "Quang's flashlight is dead."
+msgid "Kuang's flashlight is dead."
 msgstr ""
 
 #: 806R26
@@ -14788,12 +14788,12 @@ msgstr ""
 
 #: 806R27
 msgctxt "806R27"
-msgid "Quang's hat has been skewered to the corridor wall."
+msgid "Kuang's hat has been skewered to the corridor wall."
 msgstr ""
 
 #: 806R28
 msgctxt "806R28"
-msgid "Quang's punctured hat won't be of much use to anyone anymore."
+msgid "Kuang's punctured hat won't be of much use to anyone anymore."
 msgstr ""
 
 #: 807M01
@@ -14863,7 +14863,7 @@ msgstr ""
 
 #: 807R13
 msgctxt "807R13"
-msgid "May's holding up wonderfully. She's quite a gal."
+msgid "Mei's holding up wonderfully. She's quite a gal."
 msgstr ""
 
 #: 807R14
@@ -14888,7 +14888,7 @@ msgstr ""
 
 #: 807R24
 msgctxt "807R24"
-msgid "May has little use for the crank right now."
+msgid "Mei has little use for the crank right now."
 msgstr ""
 
 #: 807R25
@@ -15008,22 +15008,22 @@ msgstr ""
 
 #: 808R18
 msgctxt "808R18"
-msgid "May's holding up wonderfully. She's quite a gal."
+msgid "Mei's holding up wonderfully. She's quite a gal."
 msgstr ""
 
 #: 808R19
 msgctxt "808R19"
-msgid "Must be the first emperor's doorbell."
+msgid "Must be the first Emperor's doorbell."
 msgstr ""
 
 #: 808R23
 msgctxt "808R23"
-msgid "I don't know what to say."
+msgid ""
 msgstr ""
 
 #: 808R26
 msgctxt "808R26"
-msgid "May, put the crank in the slot and turn it."
+msgid "Mei, put the crank in the slot and turn it."
 msgstr ""
 
 #: 808R27
@@ -15043,7 +15043,7 @@ msgstr ""
 
 #: 808R30
 msgctxt "808R30"
-msgid "Sorry, May. I'm not thinking. You can't cross yet."
+msgid "Sorry, Mei. I'm not thinking. You can't cross yet."
 msgstr ""
 
 #: 808R31
@@ -15078,7 +15078,7 @@ msgstr ""
 
 #: 808R42
 msgctxt "808R42"
-msgid "The first emperor has reclaimed it, thanks to Master Lu."
+msgid "The first Emperor has reclaimed it, thanks to Master Lu."
 msgstr ""
 
 #: 809M01
@@ -15108,7 +15108,7 @@ msgstr ""
 
 #: 809R01
 msgctxt "809R01"
-msgid "The old baron was right. This tomb deserves to be the eighth wonder of the world."
+msgid "The old Baron was right. This tomb deserves to be the eighth wonder of the world."
 msgstr ""
 
 #: 809R01A
@@ -15128,7 +15128,7 @@ msgstr ""
 
 #: 809R04
 msgctxt "809R04"
-msgid "Qin She Huangdi's mausoleum. Even in death he was an emperor of all he surveyed."
+msgid "Qin Shi Huangdi's mausoleum. Even in death he was an Emperor of all he surveyed."
 msgstr ""
 
 #: 809R05
@@ -15168,7 +15168,7 @@ msgstr ""
 
 #: 809R11
 msgctxt "809R11"
-msgid "May's holding up wonderfully. She's quite a gal."
+msgid "Mei's holding up wonderfully. She's quite a gal."
 msgstr ""
 
 #: 809R12
@@ -15233,7 +15233,7 @@ msgstr ""
 
 #: 810R02
 msgctxt "810R02"
-msgid "The final resting place of the first emperor of China, Jinxia Huangdi."
+msgid "The final resting place of the first Emperor of China, Qin Shi Huangdi."
 msgstr ""
 
 #: 810R03
@@ -15258,7 +15258,7 @@ msgstr ""
 
 #: 810R06
 msgctxt "810R06"
-msgid "Leave without the seal? After all this? Frippley, are you nuts?"
+msgid "Leave without the seal? After all this? Ripley, are you nuts?"
 msgstr ""
 
 #: 810R07
@@ -15268,7 +15268,7 @@ msgstr ""
 
 #: 810R07A
 msgctxt "810R07A"
-msgid "Master Lu, I understand you wanted the world to be united in peace and harmony before the first Emperor's seal was found. I'm sorry that hasn't happened. Our world is just as troubled as it was in your day. But if I leave the seal here, it will be used in the name of power and conquest and destruction. And I know that you didn't want that."
+msgid "Master Lu, I understand you wanted the world to be united in peace and harmony before the 1st Emperor's seal was found. I'm sorry that hasn't happened. Our world is just as troubled as it was in your day. But if I leave the seal here, it will be used in the name of power and conquest and destruction, and I know that you didn't want that."
 msgstr ""
 
 #: 810R08
@@ -15313,7 +15313,7 @@ msgstr ""
 
 #: 811B05
 msgctxt "811B05"
-msgid "Hardly. I'm very sincere in my desire to rid the world of death, Fuhrer."
+msgid "Hardly. I'm very sincere in my desire to rid the world of Der Führer."
 msgstr ""
 
 #: 811B05A
@@ -15368,7 +15368,7 @@ msgstr ""
 
 #: 811R01
 msgctxt "811R01"
-msgid "Baron Von Seltzer."
+msgid "Baron von Seltsam!"
 msgstr ""
 
 #: 811R02
@@ -15628,7 +15628,7 @@ msgstr ""
 
 #: 852R01
 msgctxt "852R01"
-msgid "The dirt wall was very thin here between the root cellar and some sort of large cave. May, come look at this!"
+msgid "The dirt wall was very thin here between the root cellar and some sort of large cave. Mei, come look at this!"
 msgstr ""
 
 #: 852R02
@@ -15648,22 +15648,22 @@ msgstr ""
 
 #: 860M02
 msgctxt "860M02"
-msgid "But how?"
+msgid "But how--"
 msgstr ""
 
 #: 860R01
 msgctxt "860R01"
-msgid "One last secret of Old Master Luz. One we didn't uncover. Probably a last line of defense in case the world wasn't the serene place he envisioned when someone came for the seal."
+msgid "One last secret of Old Master Lu's. One we didn't uncover. Probably a last line of defense in case the world wasn't the serene place he envisioned when someone came for the seal."
 msgstr ""
 
 #: 860R02
 msgctxt "860R02"
-msgid "May! Talk later! Run now!"
+msgid "Mei, talk later. Run now!"
 msgstr ""
 
 #: 861R03
 msgctxt "861R03"
-msgid "Run, mate!"
+msgid "Run, Mei!"
 msgstr ""
 
 #: 906R01
@@ -15723,7 +15723,7 @@ msgstr ""
 
 #: 908M05
 msgctxt "908M05"
-msgid "Yes."
+msgid "Yes!"
 msgstr ""
 
 #: 908M05A
@@ -15803,7 +15803,7 @@ msgstr ""
 
 #: 908R03
 msgctxt "908R03"
-msgid "We both take pleasure where we find it, May."
+msgid "We both take pleasure where we find it, Mei."
 msgstr ""
 
 #: 908R03A
@@ -15813,7 +15813,7 @@ msgstr ""
 
 #: 908R04
 msgctxt "908R04"
-msgid "I couldn't have done it without you, May."
+msgid "I couldn't have done it without you, Mei."
 msgstr ""
 
 #: 908R05
@@ -15838,12 +15838,12 @@ msgstr ""
 
 #: 908R07A
 msgctxt "908R07A"
-msgid "What?"
+msgid "Well..."
 msgstr ""
 
 #: 908R07B
 msgctxt "908R07B"
-msgid "Gosh."
+msgid "Gosh..."
 msgstr ""
 
 #: 908R07C
@@ -15888,17 +15888,17 @@ msgstr ""
 
 #: 950_T10
 msgctxt "950_T10"
-msgid "Give me your spleen!"
+msgid ""
 msgstr ""
 
 #: 950_T11
 msgctxt "950_T11"
-msgid "BOOM!"
+msgid ""
 msgstr ""
 
 #: 950_T12
 msgctxt "950_T12"
-msgid "Cough, cough, cough, cough, cough, cough."
+msgid ""
 msgstr ""
 
 #: COM001
@@ -15908,7 +15908,7 @@ msgstr ""
 
 #: COM002
 msgctxt "COM002"
-msgid "From Auckland to Zanzibar, there's always a posh express office when you need it."
+msgid "From Auckland to Zanzibar, there's always a Posh Express office when you need it."
 msgstr ""
 
 #: COM003
@@ -15953,7 +15953,7 @@ msgstr ""
 
 #: COM011
 msgctxt "COM011"
-msgid "That will work."
+msgid "That won't work."
 msgstr ""
 
 #: COM012
@@ -16033,17 +16033,17 @@ msgstr ""
 
 #: COM027
 msgctxt "COM027"
-msgid "Redblade, keep your hands off!"
+msgid "Ripley, keep your hands off!"
 msgstr ""
 
 #: COM028
 msgctxt "COM028"
-msgid "The lost city of Moka Moche. This will make a marvelous addition to my gallery of cartoons."
+msgid "The lost city of Mocha Moche. This will make a marvelous addition to my gallery of cartoons."
 msgstr ""
 
 #: COM029
 msgctxt "COM029"
-msgid "I already have a sketch of Mokomoji."
+msgid "I already have a sketch of Mocha Moche."
 msgstr ""
 
 #: COM030
@@ -16108,7 +16108,7 @@ msgstr ""
 
 #: COM041
 msgctxt "COM041"
-msgid "Don't give up now!"
+msgid "Don't give us now."
 msgstr ""
 
 #: COM042
@@ -16173,12 +16173,12 @@ msgstr ""
 
 #: COM054
 msgctxt "COM054"
-msgid "What was that?"
+msgid "(gasps) What was that??"
 msgstr ""
 
 #: COM055
 msgctxt "COM055"
-msgid "I don't know."
+msgid "I don't know!"
 msgstr ""
 
 #: COM056
@@ -16343,7 +16343,7 @@ msgstr ""
 
 #: COM089
 msgctxt "COM089"
-msgid "I don't know."
+msgid "I don't know..."
 msgstr ""
 
 #: COM090A
@@ -16358,12 +16358,12 @@ msgstr ""
 
 #: COM092
 msgctxt "COM092"
-msgid "PAY PING!"
+msgid "Peiping."
 msgstr ""
 
 #: COM093
 msgctxt "COM093"
-msgid "SIKIM"
+msgid "Sikkim."
 msgstr ""
 
 #: COM094
@@ -16513,7 +16513,7 @@ msgstr ""
 
 #: COM122
 msgctxt "COM122"
-msgid "May has little use for the crank right now."
+msgid "Mei has little use for the crank right now."
 msgstr ""
 
 #: COM123
@@ -16528,7 +16528,7 @@ msgstr ""
 
 #: COM125
 msgctxt "COM125"
-msgid "Sigh..."
+msgid "(gasps)"
 msgstr ""
 
 #: COM126
@@ -16558,7 +16558,7 @@ msgstr ""
 
 #: COM131
 msgctxt "COM131"
-msgid "Oops."
+msgid "Oops..."
 msgstr ""
 
 #: COM132
@@ -16588,12 +16588,12 @@ msgstr ""
 
 #: COM137
 msgctxt "COM137"
-msgid "May, wait here for a moment. I'll be right back."
+msgid "Mei, wait here for a moment. I'll be right back."
 msgstr ""
 
 #: COM138
 msgctxt "COM138"
-msgid "It's remarkable."
+msgid "Remarkable."
 msgstr ""
 
 #: COM139
@@ -16603,7 +16603,7 @@ msgstr ""
 
 #: COM140
 msgctxt "COM140"
-msgid "I think Dr. Twelfthreeze already suspects I borrowed her pole. If she thinks I stole her lighter as well, she could have me kicked off the island. I'd better hang on to it for now."
+msgid "I think Dr. Twelvetrees already suspects I borrowed her pole. If she thinks I stole her lighter as well, she could have me kicked off the island. I'd better hang on to it for now."
 msgstr ""
 
 #: COM141
