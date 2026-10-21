@@ -4,20 +4,26 @@ Translations of games supported by ScummVM.
 
 ## MACS2 – Schatz im Silbersee
 
-English translation for *MACS2 – Schatz im Silbersee*
+English and Swedish translations for *Der Schatz im Silbersee* (ScummVM engine: MACS2, game ID: `sis`).
 
-- `en.po` - full-game English translation
+- `en.po` - English translation shared by the full DOS game and DOS demo
+- `sv.po` - Swedish translation shared by the full DOS game and DOS demo
 - `macs2.pot` - translation template extracted from the game data
 
-### Building `macs2_translation.dat`
+### Building translation packages
 
-ScummVM loads a binary translation file named `macs2_translation.dat` from the game directory. Build it from `en.po` with the `create_macs2_translation` tool from [scummvm-tools](https://github.com/scummvm/scummvm-tools):
+ScummVM loads optional `sis-translation-<lang>.dat` packages from the game directory. Use the language code from the PO filename, such as `en` for English or `sv` for Swedish. Build each package with the `create_macs2_translation` tool from [scummvm-tools](https://github.com/scummvm/scummvm-tools):
 
 ```bash
-./create_macs2_translation pack en.po macs2_translation.dat
+./create_macs2_translation pack en.po sis-translation-en.dat
+./create_macs2_translation pack sv.po sis-translation-sv.dat
 ```
 
-Copy the resulting file into your game folder (alongside `RESOURCE.MCS`).
+Copy both files into the full DOS game or DOS demo folder alongside `RESOURCE.MCS`. The same packages work with both releases. Multiple languages can be installed together. In ScummVM, select the game, open **Game Options**, and choose **English** or **Swedish** under **Translation** on the **Game** tab. Choose **Original** to play in German. The choice is saved per game target.
+
+Translations do not create separate detected game variants: the original German DOS game is detected as `sis-de` and the DOS demo as `sis-demo-de`, regardless of which packages are installed. Translation packages are installed separately and are not embedded in or bundled with ScummVM. The old `macs2_translation.dat` filename is no longer loaded.
+
+The engine maps the DOS demo's different object IDs and scene string indices to the full-game PO entries. The demo-only chapter-end message retains its German text because it has no full-game translation entry. The Amiga demo is not supported by these packages.
 
 ### Extracting a new template
 
@@ -44,5 +50,6 @@ msgstr ""
 - `scene:N:I` - scene dialogue and descriptions
 - `object:N:I` - object interaction text
 - `hotspotlabel` / `objectlabel` - on-screen overlay names
+- `uilabel` - action-bar and HUD text; preserve `%s` / `%d` placeholders
 
-Keep the same number of lines and `\n` breaks as the German `msgid`; the engine displays each line separately with a fixed width.
+Keep the same number of lines and `\n` breaks as the German `msgid`; the engine displays each line separately with a fixed width. Soft hyphens used to pad unused translated lines are hidden while preserving blank lines. An empty DAT entry still falls back to the German original.
